@@ -2,6 +2,7 @@ msgid ""
 msgstr ""
 "Application: Oxygen Not Included"
 "POT Version: 2.0"
+"Language: ua\n"
 
 #. STRINGS.BUILDING.DETAILS.USE_COUNT
 msgctxt "STRINGS.BUILDING.DETAILS.USE_COUNT"
