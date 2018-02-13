@@ -7,92 +7,92 @@ msgstr ""
 #. STRINGS.BUILDING.DETAILS.USE_COUNT
 msgctxt "STRINGS.BUILDING.DETAILS.USE_COUNT"
 msgid "Uses: {0}"
-msgstr ""
+msgstr "Використовує: {0}"
 
 #. STRINGS.BUILDING.DETAILS.USE_COUNT_TOOLTIP
 msgctxt "STRINGS.BUILDING.DETAILS.USE_COUNT_TOOLTIP"
 msgid "This building has been used {0} times"
-msgstr ""
+msgstr "Ця будівля була використана {0} разів"
 
 #. STRINGS.BUILDING.STATUSITEMS.ACCESS_CONTROL.ACTIVE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ACCESS_CONTROL.ACTIVE.NAME"
 msgid "Access Restrictions"
-msgstr ""
+msgstr "Обмеження доступу"
 
 #. STRINGS.BUILDING.STATUSITEMS.ACCESS_CONTROL.ACTIVE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ACCESS_CONTROL.ACTIVE.TOOLTIP"
 msgid "Some Duplicants are prohibited from passing through this door by the current access settings"
-msgstr ""
+msgstr "Деяким Дублікантам заборонено прохід крізь ці двері з поточними налаштуваннями доступу"
 
 #. STRINGS.BUILDING.STATUSITEMS.ACCESS_CONTROL.OFFLINE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ACCESS_CONTROL.OFFLINE.NAME"
 msgid "Access Control Offline"
-msgstr ""
+msgstr "Контроль доступу офлайн"
 
 #. STRINGS.BUILDING.STATUSITEMS.ACCESS_CONTROL.OFFLINE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ACCESS_CONTROL.OFFLINE.TOOLTIP"
 msgid "This door has granted Emergency Access Permissions\n------------------\nAll Duplicants are permitted to pass through it until power is restored"
-msgstr ""
+msgstr "Цим дверям надано аварійний доступ\n------------------\nВсім Дублікантам дозволено проходити через них, доки не буде відновлене живлення"
 
 #. STRINGS.BUILDING.STATUSITEMS.ANGERDAMAGE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ANGERDAMAGE.NAME"
 msgid "Damage: Tantrum"
-msgstr ""
+msgstr "Пошкодження: вибух роздратування"
 
 #. STRINGS.BUILDING.STATUSITEMS.ANGERDAMAGE.NOTIFICATION
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ANGERDAMAGE.NOTIFICATION"
 msgid "Building Damage: Tantrum"
-msgstr ""
+msgstr "Споруда пошкоджена: вибух роздратування"
 
 #. STRINGS.BUILDING.STATUSITEMS.ANGERDAMAGE.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ANGERDAMAGE.NOTIFICATION_TOOLTIP"
 msgid "Stressed Duplicants are damaging these buildings:\n\n{0}"
-msgstr ""
+msgstr "Напружені дубліканти пошкоджують ці будівлі:\n\n{0}"
 
 #. STRINGS.BUILDING.STATUSITEMS.ANGERDAMAGE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ANGERDAMAGE.TOOLTIP"
 msgid "A stressed Duplicant is damaging this building"
-msgstr ""
+msgstr "Напружений Дублікант руйнує цю споруду"
 
 #. STRINGS.BUILDING.STATUSITEMS.ASSIGNEDPUBLIC.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ASSIGNEDPUBLIC.NAME"
 msgid "Assigned to: Public"
-msgstr ""
+msgstr "Назначений: Публічний"
 
 #. STRINGS.BUILDING.STATUSITEMS.ASSIGNEDPUBLIC.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ASSIGNEDPUBLIC.TOOLTIP"
 msgid "Any Duplicant can use this amenity"
-msgstr ""
+msgstr "Будь-який Дублікант може використовувати цю зручність"
 
 #. STRINGS.BUILDING.STATUSITEMS.ASSIGNEDTO.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ASSIGNEDTO.NAME"
 msgid "Assigned to: {Assignee}"
-msgstr ""
+msgstr "Назначений: {Assignee}"
 
 #. STRINGS.BUILDING.STATUSITEMS.ASSIGNEDTO.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ASSIGNEDTO.TOOLTIP"
 msgid "Only {Assignee} can use this amenity"
-msgstr ""
+msgstr "Лише {Assignee} може користуватися цими зрусностями"
 
 #. STRINGS.BUILDING.STATUSITEMS.ASSIGNEDTOROOM.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ASSIGNEDTOROOM.NAME"
 msgid "Assigned to: {0}"
-msgstr ""
+msgstr "Призначений: {0}"
 
 #. STRINGS.BUILDING.STATUSITEMS.ASSIGNEDTOROOM.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ASSIGNEDTOROOM.TOOLTIP"
 msgid "Any Duplicant assigned to this room can use this amenity"
-msgstr ""
+msgstr "Будь-який Дублікант призначений для цієї кімнати може користуватися цими зрусностями"
 
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGARTING.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGARTING.NAME"
 msgid "Incomplete Artwork"
-msgstr ""
+msgstr "Незавершене мистецтво"
 
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGARTING.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGARTING.TOOLTIP"
 msgid "This building requires a Duplicant's artistic touch"
-msgstr ""
+msgstr "Ця споруда потребує художнього Дубліканта"
 
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGBAITDELIVERY.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGBAITDELIVERY.NAME"
@@ -107,47 +107,47 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGCOMPOSTFLIP.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGCOMPOSTFLIP.NAME"
 msgid "Requires Flipping"
-msgstr ""
+msgstr "Потрібно перевернути"
 
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGCOMPOSTFLIP.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGCOMPOSTFLIP.TOOLTIP"
 msgid "Compost must be flipped periodically to produce fertilizer"
-msgstr ""
+msgstr "Компост повинен періодично перевертатися, щоб вироблялося добриво"
 
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGFUEL.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGFUEL.NAME"
 msgid "Awaiting Fuel: {0}"
-msgstr ""
+msgstr "Чекає Паливо: {0}"
 
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGFUEL.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGFUEL.TOOLTIP"
 msgid "This building requires {1} of {0} to operate"
-msgstr ""
+msgstr "Ця споруда запитує {1} of {0} для роботи"
 
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGSEEDDELIVERY.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGSEEDDELIVERY.NAME"
 msgid "Awaiting Delivery"
-msgstr ""
+msgstr "Очікує постачання"
 
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGSEEDDELIVERY.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGSEEDDELIVERY.TOOLTIP"
 msgid "Awaiting delivery of selected seed"
-msgstr ""
+msgstr "Очікує постачання вибраного насіння"
 
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGWASTE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGWASTE.NAME"
 msgid "Awaiting Compostables"
-msgstr ""
+msgstr "Очікування Відходів"
 
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGWASTE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGWASTE.TOOLTIP"
 msgid "More waste material is required to begin the composting process"
-msgstr ""
+msgstr "Щоб почати процес компостування, потрібні додаткові відходи"
 
 #. STRINGS.BUILDING.STATUSITEMS.BATTERIESSUFFICIENTLYFULL.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.BATTERIESSUFFICIENTLYFULL.NAME"
 msgid "Batteries Sufficiently Full"
-msgstr ""
+msgstr "Батареї повністю заряджені"
 
 #. STRINGS.BUILDING.STATUSITEMS.BATTERIESSUFFICIENTLYFULL.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.BATTERIESSUFFICIENTLYFULL.TOOLTIP"
