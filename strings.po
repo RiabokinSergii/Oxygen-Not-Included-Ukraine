@@ -157,42 +157,42 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.BOTTLE_EMPTIER.ALLOWED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.BOTTLE_EMPTIER.ALLOWED.NAME"
 msgid "Autobottling: On"
-msgstr ""
+msgstr "Авторозлив: Вкл"
 
 #. STRINGS.BUILDING.STATUSITEMS.BOTTLE_EMPTIER.ALLOWED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.BOTTLE_EMPTIER.ALLOWED.TOOLTIP"
 msgid "Duplicants may specifically fetch liquid from Pitcher Pumps to bring to this location"
-msgstr ""
+msgstr "Дубліканти можуть брати рідину з Ручних Насосів та приносити сюди"
 
 #. STRINGS.BUILDING.STATUSITEMS.BOTTLE_EMPTIER.DENIED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.BOTTLE_EMPTIER.DENIED.NAME"
 msgid "Autobottling: Off"
-msgstr ""
+msgstr "Авторозлив: Викл"
 
 #. STRINGS.BUILDING.STATUSITEMS.BOTTLE_EMPTIER.DENIED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.BOTTLE_EMPTIER.DENIED.TOOLTIP"
 msgid "Duplicants may not specifically fetch liquid from Pitcher Pumps to bring to this location"
-msgstr ""
+msgstr "Дубліканти не можуть брати рідину з Ручних Насосів та приносити сюди"
 
 #. STRINGS.BUILDING.STATUSITEMS.BROKEN.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.BROKEN.NAME"
 msgid "Broken"
-msgstr ""
+msgstr "Зламано"
 
 #. STRINGS.BUILDING.STATUSITEMS.BROKEN.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.BROKEN.TOOLTIP"
 msgid "\n------------------\nThis building received damage from {DamageInfo}"
-msgstr ""
+msgstr "\n------------------\nЦя споруда отримала  ушкодження від {DamageInfo}"
 
 #. STRINGS.BUILDING.STATUSITEMS.BUILDINGDISABLED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.BUILDINGDISABLED.NAME"
 msgid "Building Disabled"
-msgstr ""
+msgstr "Будівля Відключена"
 
 #. STRINGS.BUILDING.STATUSITEMS.BUILDINGDISABLED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.BUILDINGDISABLED.TOOLTIP"
 msgid "Press <color=#F44A47>[ENTER]</color> to resume use"
-msgstr ""
+msgstr "Натисніть <color=#F44A47>[ENTER]</color> продовжити використання"
 
 #. STRINGS.BUILDING.STATUSITEMS.BURNER.BURNING_FUEL.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.BURNER.BURNING_FUEL.NAME"
@@ -202,7 +202,7 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.BURNER.BURNING_FUEL.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.BURNER.BURNING_FUEL.TOOLTIP"
 msgid "{0} fuel remaining"
-msgstr ""
+msgstr "{0} палива залишилося"
 
 #. STRINGS.BUILDING.STATUSITEMS.BURNER.HAS_FUEL.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.BURNER.HAS_FUEL.NAME"
@@ -212,12 +212,12 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.BURNER.HAS_FUEL.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.BURNER.HAS_FUEL.TOOLTIP"
 msgid "{0} fuel remaining"
-msgstr ""
+msgstr "{0} палива залишилося"
 
 #. STRINGS.BUILDING.STATUSITEMS.CANNOTCOOLFURTHER.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CANNOTCOOLFURTHER.NAME"
 msgid "Minimum Temperature Reached"
-msgstr ""
+msgstr "Мін. Температура Досягла"
 
 #. STRINGS.BUILDING.STATUSITEMS.CANNOTCOOLFURTHER.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CANNOTCOOLFURTHER.TOOLTIP"
