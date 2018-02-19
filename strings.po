@@ -97,12 +97,12 @@ msgstr "Ця споруда потребує художнього Дубліка
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGBAITDELIVERY.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGBAITDELIVERY.NAME"
 msgid "Awaiting Bait"
-msgstr ""
+msgstr "Очікування приманки"
 
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGBAITDELIVERY.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGBAITDELIVERY.TOOLTIP"
 msgid "Awaiting delivery of selected bait"
-msgstr ""
+msgstr "В очікуванні доставки обраної приманки"
 
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGCOMPOSTFLIP.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGCOMPOSTFLIP.NAME"
@@ -197,7 +197,7 @@ msgstr "Натисніть <color=#F44A47>[ENTER]</color> продовжити �
 #. STRINGS.BUILDING.STATUSITEMS.BURNER.BURNING_FUEL.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.BURNER.BURNING_FUEL.NAME"
 msgid "Consuming Fuel: {0}"
-msgstr ""
+msgstr "Спожите Паливо: {0}"
 
 #. STRINGS.BUILDING.STATUSITEMS.BURNER.BURNING_FUEL.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.BURNER.BURNING_FUEL.TOOLTIP"
@@ -207,7 +207,7 @@ msgstr "{0} палива залишилося"
 #. STRINGS.BUILDING.STATUSITEMS.BURNER.HAS_FUEL.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.BURNER.HAS_FUEL.NAME"
 msgid "Fueled: {0}"
-msgstr ""
+msgstr "Заправлений: {0}"
 
 #. STRINGS.BUILDING.STATUSITEMS.BURNER.HAS_FUEL.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.BURNER.HAS_FUEL.TOOLTIP"
@@ -222,47 +222,47 @@ msgstr "Мін. Температура Досягла"
 #. STRINGS.BUILDING.STATUSITEMS.CANNOTCOOLFURTHER.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CANNOTCOOLFURTHER.TOOLTIP"
 msgid "This building cannot cool the surrounding environment below {0}"
-msgstr ""
+msgstr "Це приміщення не може охолонути навколишнє середовище нижче {0}"
 
 #. STRINGS.BUILDING.STATUSITEMS.CHANGEDOORCONTROLSTATE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CHANGEDOORCONTROLSTATE.NAME"
 msgid "Pending Door State Change: {ControlState}"
-msgstr ""
+msgstr "Очікує на зміну стану дверей: {ControlState}"
 
 #. STRINGS.BUILDING.STATUSITEMS.CHANGEDOORCONTROLSTATE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CHANGEDOORCONTROLSTATE.TOOLTIP"
 msgid "Waiting for a Duplicant to change control state"
-msgstr ""
+msgstr "Очікує на Дублікантів для змінити стану контролю"
 
 #. STRINGS.BUILDING.STATUSITEMS.CHECKPOINT.LOGIC_CONTROLLED_CLOSED
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CHECKPOINT.LOGIC_CONTROLLED_CLOSED"
 msgid "Clearance: Not Permitted"
-msgstr ""
+msgstr "Прохід: Не дозволено"
 
 #. STRINGS.BUILDING.STATUSITEMS.CHECKPOINT.LOGIC_CONTROLLED_DISCONNECTED
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CHECKPOINT.LOGIC_CONTROLLED_DISCONNECTED"
 msgid "No Automation"
-msgstr ""
+msgstr "Не Автоматизовано"
 
 #. STRINGS.BUILDING.STATUSITEMS.CHECKPOINT.LOGIC_CONTROLLED_OPEN
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CHECKPOINT.LOGIC_CONTROLLED_OPEN"
 msgid "Clearance: Permitted"
-msgstr ""
+msgstr "Прохід: Дозволено"
 
 #. STRINGS.BUILDING.STATUSITEMS.CHECKPOINT.TOOLTIPS.LOGIC_CONTROLLED_CLOSED
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CHECKPOINT.TOOLTIPS.LOGIC_CONTROLLED_CLOSED"
 msgid "Automated Checkpoint is Active, allowing Duplicants to pass"
-msgstr ""
+msgstr "Автоматична Контрольна Точка активна, що дозволяє проходити Дублікантам"
 
 #. STRINGS.BUILDING.STATUSITEMS.CHECKPOINT.TOOLTIPS.LOGIC_CONTROLLED_DISCONNECTED
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CHECKPOINT.TOOLTIPS.LOGIC_CONTROLLED_DISCONNECTED"
 msgid "This Checkpoint has not been connected to an automation grid"
-msgstr ""
+msgstr "Ця Контрольна Точка не підключена до мережі автоматизації"
 
 #. STRINGS.BUILDING.STATUSITEMS.CHECKPOINT.TOOLTIPS.LOGIC_CONTROLLED_OPEN
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CHECKPOINT.TOOLTIPS.LOGIC_CONTROLLED_OPEN"
 msgid "Automated Checkpoint is on Standby, preventing Duplicants from passing"
-msgstr ""
+msgstr "Автоматична Контрольна Точка в очікуванні, перешкоджає проходженню Дублікантам"
 
 #. STRINGS.BUILDING.STATUSITEMS.CLINICOUTSIDEHOSPITAL.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CLINICOUTSIDEHOSPITAL.NAME"
@@ -1302,17 +1302,17 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.NOLIQUIDELEMENTTOPUMP.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOLIQUIDELEMENTTOPUMP.TOOLTIP"
 msgid "This pump must be submerged in liquid to work"
-msgstr ""
+msgstr "Цей насос повинен бути зануреним у рідину для роботи"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOLOGICWIRECONNECTED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOLOGICWIRECONNECTED.NAME"
 msgid "No Automation Wire Connected"
-msgstr ""
+msgstr "Немає підключення дроту автоматизації"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOLOGICWIRECONNECTED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOLOGICWIRECONNECTED.TOOLTIP"
 msgid "This building has not been connected to an automation grid"
-msgstr ""
+msgstr "Ця будівля не була підключена до мережі автоматизації"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOLUREELEMENTSELECTED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOLUREELEMENTSELECTED.NAME"
