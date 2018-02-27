@@ -1087,112 +1087,112 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.MOPUNREACHABLE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MOPUNREACHABLE.NAME"
 msgid "Unreachable Mop"
-msgstr ""
+msgstr "Недосяжне Миття"
 
 #. STRINGS.BUILDING.STATUSITEMS.MOPUNREACHABLE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MOPUNREACHABLE.TOOLTIP"
 msgid "Duplicants cannot reach this area"
-msgstr ""
+msgstr "Дубліканти не можуть досягти цієї області"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDBORINGMACHINE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDBORINGMACHINE.NAME"
 msgid "Multitool Required"
-msgstr ""
+msgstr "Необхідний Мульти-інструмент"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDBORINGMACHINE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDBORINGMACHINE.TOOLTIP"
 msgid "A multitool is required to mine this material\n------------------\nMultitools can be made at Crafting Stations in the <color=#833A5FFF>Stations Tab</color> <color=#F44A47>[0]</color> of the Build Menu"
-msgstr ""
+msgstr "Для видобутку цього матеріалу потрібен мульти-інструмент\n------------------\n"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDGASIN.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDGASIN.NAME"
 msgid "No Gas Intake"
-msgstr ""
+msgstr "Газ Не Поглинається"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDGASIN.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDGASIN.TOOLTIP"
 msgid "This building has nowhere to receive gas from"
-msgstr ""
+msgstr "Ця будівля ніде не приймає газ"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDGASOUT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDGASOUT.NAME"
 msgid "No Gas Output"
-msgstr ""
+msgstr "Немає Виходу Газу"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDGASOUT.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDGASOUT.TOOLTIP"
 msgid "This building has nowhere to send gas"
-msgstr ""
+msgstr "Цій будівлі нікуди відправляти газ"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDLIQUIDIN.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDLIQUIDIN.NAME"
 msgid "No Liquid Intake"
-msgstr ""
+msgstr "Немає Вводу Рідини"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDLIQUIDIN.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDLIQUIDIN.TOOLTIP"
 msgid "This building has nowhere to receive liquid from"
-msgstr ""
+msgstr "Ця будівля ніде не приймає рідину"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDLIQUIDOUT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDLIQUIDOUT.NAME"
 msgid "No Liquid Output"
-msgstr ""
+msgstr "Немає Виходу Рідини"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDLIQUIDOUT.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDLIQUIDOUT.TOOLTIP"
 msgid "This building has nowhere to send liquid"
-msgstr ""
+msgstr "Цій будівлі нікуди відправляти рідину"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDPLANT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDPLANT.NAME"
 msgid "No Seeds"
-msgstr ""
+msgstr "Немає Насіння"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDPLANT.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDPLANT.TOOLTIP"
 msgid "Uproot wild plants to obtain seeds"
-msgstr ""
+msgstr "Викорчуйте дикі рослини для отримання насіння"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDPOWER.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDPOWER.NAME"
 msgid "No Power"
-msgstr ""
+msgstr "Немає Енергії"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDPOWER.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDPOWER.TOOLTIP"
 msgid "All connected power sources have lost charge"
-msgstr ""
+msgstr "Всі підключені джерела живлення втратили заряд"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDRESOURCE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDRESOURCE.NAME"
 msgid "Resource Required"
-msgstr ""
+msgstr "Необхідні Ресурси"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDRESOURCE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDRESOURCE.TOOLTIP"
 msgid "This building is missing required materials"
-msgstr ""
+msgstr "Цій будівлі не вистачає необхідних матеріалів"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDSEED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDSEED.NAME"
 msgid "No Seed Selected"
-msgstr ""
+msgstr "Не Обране Насіння"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDSEED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDSEED.TOOLTIP"
 msgid "Uproot wild plants to obtain seeds"
-msgstr ""
+msgstr "Викорчуйте дикі рослини для отримання насіння"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDSOLIDIN.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDSOLIDIN.NAME"
 msgid "No Conveyor Loader"
-msgstr ""
+msgstr "Немає Конвеєрного Навантажувача"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDSOLIDIN.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDSOLIDIN.TOOLTIP"
 msgid "Material cannot be fed onto this Conveyor Rail system for transport\n------------------\nEnter the Shipping Tab <color=#F44A47>[7]</color> of the Build Menu to build and connect a Conveyor Loader"
-msgstr ""
+msgstr "Матеріал не можна подавати на цю Конвеєрну Рейкову систему для транспортування\n------------------\nНатисніть Вкладку Доставки<color=#F44A47>[7]</color> в Меню Будова, щоб побудувати та підключити Конвеєрний Навантажувач"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDSOLIDOUT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDSOLIDOUT.NAME"
@@ -1207,27 +1207,27 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.NEUTRONIUMUNMINABLE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEUTRONIUMUNMINABLE.NAME"
 msgid "Cannot Mine"
-msgstr ""
+msgstr "Не Можу Видобувати"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEUTRONIUMUNMINABLE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEUTRONIUMUNMINABLE.TOOLTIP"
 msgid "This resource cannot be mined by Duplicant tools"
-msgstr ""
+msgstr "Цей ресурс не можна видобути за допомогою інструмента Дубліканта"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEWDUPLICANTSAVAILABLE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEWDUPLICANTSAVAILABLE.NAME"
 msgid "New Duplicants Available"
-msgstr ""
+msgstr "Доступні Нові Дублікати"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEWDUPLICANTSAVAILABLE.NOTIFICATION_NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEWDUPLICANTSAVAILABLE.NOTIFICATION_NAME"
 msgid "New Duplicants are available"
-msgstr ""
+msgstr "Є доступні нові Дубліканти"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEWDUPLICANTSAVAILABLE.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEWDUPLICANTSAVAILABLE.NOTIFICATION_TOOLTIP"
 msgid "The Printing Pod <color=#F44A47>[H]</color> is ready to print a new Duplicant.\nPlease select a DNA blueprint:"
-msgstr ""
+msgstr "Друкарська Підставка <color=#F44A47>[H]</color> готовий надрукувати нового Дубліканта.\nБудь ласка, оберіть схему ДНК:"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEWDUPLICANTSAVAILABLE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEWDUPLICANTSAVAILABLE.TOOLTIP"
