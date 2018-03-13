@@ -782,7 +782,7 @@ msgstr "Труба була заблокована і запобігає над�
 #. STRINGS.BUILDING.STATUSITEMS.GASVENTOVERPRESSURE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.GASVENTOVERPRESSURE.NAME"
 msgid "Gas Vent Overpressure"
-msgstr "Газовий вентиль надмірний тиск"
+msgstr "Газовий Вентиль надмірний тиск"
 
 #. STRINGS.BUILDING.STATUSITEMS.GASVENTOVERPRESSURE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.GASVENTOVERPRESSURE.TOOLTIP"
@@ -1082,12 +1082,12 @@ msgstr "Відсутній Фундамент"
 #. STRINGS.BUILDING.STATUSITEMS.MISSINGFOUNDATION.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MISSINGFOUNDATION.TOOLTIP"
 msgid "Build Tiles beneath this building\n------------------\nTiles can be found in the <color=#833A5FFF>Base Tab</color> <color=#F44A47>[1]</color> of the Build Menu"
-msgstr ""
+msgstr "Побудуйте Кахель під цією будівлею\n------------------\nКахель можна знайти в <color=#833A5FFF>Вкладка Базовий</color> <color=#F44A47>[1]</color> в Меню Будівництва"
 
 #. STRINGS.BUILDING.STATUSITEMS.MOPUNREACHABLE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MOPUNREACHABLE.NAME"
 msgid "Unreachable Mop"
-msgstr "Недосяжне Миття"
+msgstr "Миття Недосяжне"
 
 #. STRINGS.BUILDING.STATUSITEMS.MOPUNREACHABLE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MOPUNREACHABLE.TOOLTIP"
@@ -1102,7 +1102,7 @@ msgstr "Необхідний Мульти-інструмент"
 #. STRINGS.BUILDING.STATUSITEMS.NEEDBORINGMACHINE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDBORINGMACHINE.TOOLTIP"
 msgid "A multitool is required to mine this material\n------------------\nMultitools can be made at Crafting Stations in the <color=#833A5FFF>Stations Tab</color> <color=#F44A47>[0]</color> of the Build Menu"
-msgstr "Для видобутку цього матеріалу потрібен мульти-інструмент\n------------------\n"
+msgstr "Для видобутку цього матеріалу потрібен мульти-інструмент\n------------------\nМульти-інструмент може бути зроблений на крафта станції в <color=#833A5FFF>Stations Tab</color> <color=#F44A47>[0]</color> в Меню Будівництва"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDGASIN.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDGASIN.NAME"
@@ -1192,17 +1192,17 @@ msgstr "Немає Конвеєрного Навантажувача"
 #. STRINGS.BUILDING.STATUSITEMS.NEEDSOLIDIN.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDSOLIDIN.TOOLTIP"
 msgid "Material cannot be fed onto this Conveyor Rail system for transport\n------------------\nEnter the Shipping Tab <color=#F44A47>[7]</color> of the Build Menu to build and connect a Conveyor Loader"
-msgstr "Матеріал не можна подавати на цю Конвеєрну Рейкову систему для транспортування\n------------------\nНатисніть Вкладку Доставки<color=#F44A47>[7]</color> в Меню Будова, щоб побудувати та підключити Конвеєрний Навантажувач"
+msgstr "Матеріал не можна подавати на Конвеєрну Рейку для транспортування\n------------------\nНатисніть Вкладку Доставки<color=#F44A47>[7]</color> в Меню Будівництва, щоб побудувати та підключити Конвеєрний Навантажувач"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDSOLIDOUT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDSOLIDOUT.NAME"
 msgid "No Conveyor Receptacle"
-msgstr ""
+msgstr "Немає Конвеєрного Вивантажувача"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDSOLIDOUT.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDSOLIDOUT.TOOLTIP"
 msgid "Material cannot be offloaded from this Conveyor system and will backup the rails\n------------------\nEnter the Shipping Tab <color=#F44A47>[7]</color> of the Build Menu to build and connect a Conveyor Receptacle"
-msgstr ""
+msgstr "Матеріал не може бути вивантажений з конвеєрної системи і буде резервуватися рейками\n------------------\nНатисніть Вкладку Доставки <color=#F44A47>[7]</color>  в Меню Будівництва, щоб побудувати та підключити Конвеєрний Вивантажувач"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEUTRONIUMUNMINABLE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEUTRONIUMUNMINABLE.NAME"
@@ -1362,7 +1362,7 @@ msgstr "Нормальний"
 #. STRINGS.BUILDING.STATUSITEMS.NORMAL.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NORMAL.TOOLTIP"
 msgid "Nothing out of the ordinary here"
-msgstr ""
+msgstr "Нічого незвичайного тут"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOSTORAGEFILTERSET.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOSTORAGEFILTERSET.NAME"
@@ -1382,72 +1382,72 @@ msgstr "Немає Орієнтира"
 #. STRINGS.BUILDING.STATUSITEMS.NOSUITMARKER.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOSUITMARKER.TOOLTIP"
 msgid "Docks must be placed beside an Exosuit Checkpoint, opposite the side its checkpoint faces"
-msgstr ""
+msgstr "Доки повинні бути розміщені поряд з Контрольною Точкою Екзо Костюмів, навпроти сторони, з якої стоїть контрольна точка"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOTENOUGHPOWER.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOTENOUGHPOWER.NAME"
 msgid "Insufficient Power"
-msgstr ""
+msgstr "Недостатньо Енергії"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOTENOUGHPOWER.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOTENOUGHPOWER.TOOLTIP"
 msgid "This building does not have enough stored charge to run"
-msgstr ""
+msgstr "Ця будівля не має достатньо накопиченого заряду для старту"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOTINRECOMMENDEDROOM.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOTINRECOMMENDEDROOM.NAME"
 msgid "Outside of {0}"
-msgstr ""
+msgstr "За межами {0}"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOTINRECOMMENDEDROOM.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOTINRECOMMENDEDROOM.TOOLTIP"
 msgid "It is recommended to place this building inside a {0}\n\nOpen the Room Overlay <color=#F44A47>[F11]</color> to view full room status"
-msgstr ""
+msgstr "Рекомендується розмістити цю будівлю в {0}\n\nВідкрити Кімнатний Оверлей <color=#F44A47>[F11]</color> для перегляду повної інформації кімнат"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOTINREQUIREDROOM.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOTINREQUIREDROOM.NAME"
 msgid "Outside of {0}"
-msgstr ""
+msgstr "За межами {0}"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOTINREQUIREDROOM.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOTINREQUIREDROOM.TOOLTIP"
 msgid "This building must be built inside a {0} for full functionality\n\nOpen the Room Overlay <color=#F44A47>[F11]</color> to view full room status"
-msgstr ""
+msgstr "Ця будівля повинна бути побудована всередині {0} для повної функціональності\n\n Відкрити Кімнатний Оверлей <color=#F44A47>[F11]</color> для перегляду повної інформації кімнат"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOTUBECONNECTED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOTUBECONNECTED.NAME"
 msgid "No Tube Connected"
-msgstr ""
+msgstr "Немає З'єднання З Трубою"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOTUBECONNECTED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOTUBECONNECTED.TOOLTIP"
 msgid "The first section of tube extending from an Access must connect directly upward"
-msgstr ""
+msgstr "Перша секція труби, що йде від Доступу, повинна з'єднуватися вертикально"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOTUBEEXITS.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOTUBEEXITS.NAME"
 msgid "No Landing Available"
-msgstr ""
+msgstr "Немає Місця Приземлення"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOTUBEEXITS.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOTUBEEXITS.TOOLTIP"
 msgid "Duplicants can only exit a tube when there is somewhere for them to land within two tiles"
-msgstr ""
+msgstr "Дубліканти можуть вийти з труби лише тоді, коли десь для них є приземлення в межах двох плиток"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOWIRECONNECTED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOWIRECONNECTED.NAME"
 msgid "No Wire Connected"
-msgstr ""
+msgstr "Немає Підключеного Дроту"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOWIRECONNECTED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOWIRECONNECTED.TOOLTIP"
 msgid "This building has not been connected to a power grid"
-msgstr ""
+msgstr "Ця будівля не була підключена до електромережі"
 
 #. STRINGS.BUILDING.STATUSITEMS.OPERATINGENERGY.EXHAUSTING
 msgctxt "STRINGS.BUILDING.STATUSITEMS.OPERATINGENERGY.EXHAUSTING"
 msgid "Excess produced"
-msgstr ""
+msgstr "Надлишок Виробництва"
 
 #. STRINGS.BUILDING.STATUSITEMS.OPERATINGENERGY.LINEITEM
 msgctxt "STRINGS.BUILDING.STATUSITEMS.OPERATINGENERGY.LINEITEM"
@@ -1457,142 +1457,142 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.OPERATINGENERGY.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.OPERATINGENERGY.NAME"
 msgid "Heat Production: {0}"
-msgstr ""
+msgstr "Виробництво Тепла: {0}"
 
 #. STRINGS.BUILDING.STATUSITEMS.OPERATINGENERGY.OPERATING
 msgctxt "STRINGS.BUILDING.STATUSITEMS.OPERATINGENERGY.OPERATING"
 msgid "Normal operation"
-msgstr ""
+msgstr "Нормальна робота"
 
 #. STRINGS.BUILDING.STATUSITEMS.OPERATINGENERGY.PIPECONTENTS_TRANSFER
 msgctxt "STRINGS.BUILDING.STATUSITEMS.OPERATINGENERGY.PIPECONTENTS_TRANSFER"
 msgid "Transferred from pipes"
-msgstr ""
+msgstr "Передається з труб"
 
 #. STRINGS.BUILDING.STATUSITEMS.OPERATINGENERGY.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.OPERATINGENERGY.TOOLTIP"
 msgid "This building is producing {0} of energy\n\nSources:\n{1}"
-msgstr ""
+msgstr "Ця будівля виробляє {0} енергії\n\nДжерела:\n{1}"
 
 #. STRINGS.BUILDING.STATUSITEMS.OVERHEATED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.OVERHEATED.NAME"
 msgid "Damage: Overheating"
-msgstr ""
+msgstr "Пошкодження: Перегрів"
 
 #. STRINGS.BUILDING.STATUSITEMS.OVERHEATED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.OVERHEATED.TOOLTIP"
 msgid "This building is taking damage and will meltdown if not cooled"
-msgstr ""
+msgstr "Ця будівля отримує пошкодження і буде розплавлена, якщо не охолоне"
 
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGDECONSTRUCTION.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGDECONSTRUCTION.NAME"
 msgid "Deconstruction Errand Assigned"
-msgstr ""
+msgstr "Назначене Завдання Демонтажу"
 
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGDECONSTRUCTION.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGDECONSTRUCTION.TOOLTIP"
 msgid "Waiting for a Duplicant to deconstruct this building"
-msgstr ""
+msgstr "Чикає доки Дубліканти демонтують цю будівлю"
 
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGFISH.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGFISH.NAME"
 msgid "Fishing Errand Assigned"
-msgstr ""
+msgstr "Назначене Завдання Риболовлі"
 
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGFISH.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGFISH.TOOLTIP"
 msgid "Waiting for a Duplicant to fish"
-msgstr ""
+msgstr "Очікує Дубліканта для риболовлі"
 
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGHARVEST.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGHARVEST.NAME"
 msgid "Harvest Errand Assigned"
-msgstr ""
+msgstr "Назначене Завдання Збирати Урожай"
 
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGHARVEST.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGHARVEST.TOOLTIP"
 msgid "Waiting for a Duplicant to harvest"
-msgstr ""
+msgstr "Очікує Дубліканта для збирання урожаю"
 
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGREPAIR.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGREPAIR.NAME"
 msgid "Repair Errand Assigned"
-msgstr ""
+msgstr "Назначене Завдання Ремонту"
 
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGREPAIR.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGREPAIR.TOOLTIP"
 msgid "Waiting for a Duplicant to repair\nReceived damage from {DamageInfo}"
-msgstr ""
+msgstr "Очікує Дубліканта для ремонту\nОтримано пошкодження від {DamageInfo}"
 
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGSWITCHTOGGLE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGSWITCHTOGGLE.NAME"
 msgid "Change Setting Errand Assigned"
-msgstr ""
+msgstr "Назначене Завдання Зміни Налаштування"
 
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGSWITCHTOGGLE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGSWITCHTOGGLE.TOOLTIP"
 msgid "Waiting for a Duplicant to change setting"
-msgstr ""
+msgstr "Очікує Дубліканта для зміни налаштувань"
 
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGUPROOT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGUPROOT.NAME"
 msgid "Uproot Errand Assigned"
-msgstr ""
+msgstr "Назначене Завдання Корчування"
 
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGUPROOT.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGUPROOT.TOOLTIP"
 msgid "Waiting for a Duplicant to uproot"
-msgstr ""
+msgstr "Очікує Дубліканта для корчування"
 
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGWORK.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGWORK.NAME"
 msgid "Errand Assigned"
-msgstr ""
+msgstr "Назначене Завдання"
 
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGWORK.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGWORK.TOOLTIP"
 msgid "Waiting for a Duplicant to operate this building"
-msgstr ""
+msgstr "Очікує Дубліканта для курування будівлею"
 
 #. STRINGS.BUILDING.STATUSITEMS.PIPE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PIPE.NAME"
 msgid "Contents: {Contents}"
-msgstr ""
+msgstr "Вміст: {Contents}"
 
 #. STRINGS.BUILDING.STATUSITEMS.PIPE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PIPE.TOOLTIP"
 msgid "This pipe is delivering {Contents}"
-msgstr ""
+msgstr "Ця труба постачає {Contents}"
 
 #. STRINGS.BUILDING.STATUSITEMS.PIPECONTENTS.CONTENTS
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PIPECONTENTS.CONTENTS"
 msgid "{0} of {1} at {2}"
-msgstr ""
+msgstr "{0} {1} {2}"
 
 #. STRINGS.BUILDING.STATUSITEMS.PIPECONTENTS.CONTENTS_WITH_DISEASE
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PIPECONTENTS.CONTENTS_WITH_DISEASE"
 msgid "\n  {0}"
-msgstr ""
+msgstr "\n  {0}"
 
 #. STRINGS.BUILDING.STATUSITEMS.PIPECONTENTS.EMPTY
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PIPECONTENTS.EMPTY"
 msgid "Empty"
-msgstr ""
+msgstr "Порожній"
 
 #. STRINGS.BUILDING.STATUSITEMS.POWERBUTTONOFF.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.POWERBUTTONOFF.NAME"
 msgid "Function Suspended"
-msgstr ""
+msgstr "Діяльність Призупинена"
 
 #. STRINGS.BUILDING.STATUSITEMS.POWERBUTTONOFF.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.POWERBUTTONOFF.TOOLTIP"
 msgid "This building has been toggled off\nPress Enable Building to resume its use"
-msgstr ""
+msgstr "Ця будівля була вимкнена\nНатисніть Увімкнути Будівлю, щоб продовжити використання"
 
 #. STRINGS.BUILDING.STATUSITEMS.PRESSUREOK.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PRESSUREOK.NAME"
 msgid "Max Gas Pressure"
-msgstr ""
+msgstr "Макс Тиск Газу"
 
 #. STRINGS.BUILDING.STATUSITEMS.PRESSUREOK.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PRESSUREOK.TOOLTIP"
