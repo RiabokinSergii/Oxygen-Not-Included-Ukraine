@@ -5192,7 +5192,7 @@ msgstr ""
 #. STRINGS.CREATURES.SPECIES.SEEDS.BASICFABRICMATERIALPLANT.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.BASICFABRICMATERIALPLANT.NAME"
 msgid "Thimble Reed Seed"
-msgstr ""
+msgstr "Насіння Очерету"
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.BASICSINGLEHARVESTPLANT.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.BASICSINGLEHARVESTPLANT.DESC"
@@ -5202,7 +5202,7 @@ msgstr ""
 #. STRINGS.CREATURES.SPECIES.SEEDS.BASICSINGLEHARVESTPLANT.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.BASICSINGLEHARVESTPLANT.NAME"
 msgid "Mealwood Seed"
-msgstr ""
+msgstr "Насіння Деревоїда"
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.COLDBREATHER.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.COLDBREATHER.DESC"
@@ -5242,7 +5242,7 @@ msgstr ""
 #. STRINGS.CREATURES.SPECIES.SEEDS.MUSHROOMPLANT.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.MUSHROOMPLANT.NAME"
 msgid "Fungal Spore"
-msgstr ""
+msgstr "Грибні Спори"
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.OILEATER.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.OILEATER.DESC"
@@ -5262,7 +5262,7 @@ msgstr ""
 #. STRINGS.CREATURES.SPECIES.SEEDS.PRICKLEFLOWER.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.PRICKLEFLOWER.NAME"
 msgid "Blossom Seed"
-msgstr ""
+msgstr "Насіння Цвіту"
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.PRICKLEGRASS.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.PRICKLEGRASS.DESC"
@@ -5272,7 +5272,7 @@ msgstr ""
 #. STRINGS.CREATURES.SPECIES.SEEDS.PRICKLEGRASS.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.PRICKLEGRASS.NAME"
 msgid "Briar Seed"
-msgstr ""
+msgstr "Насіння Шипшини"
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.SPICE_VINE.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.SPICE_VINE.DESC"
@@ -5282,7 +5282,7 @@ msgstr ""
 #. STRINGS.CREATURES.SPECIES.SEEDS.SPICE_VINE.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.SPICE_VINE.NAME"
 msgid "Pincha Pepper Seed"
-msgstr ""
+msgstr "Насіння Гострого Горіха"
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.SWAMPLILY.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.SWAMPLILY.DESC"
@@ -5292,7 +5292,7 @@ msgstr ""
 #. STRINGS.CREATURES.SPECIES.SEEDS.SWAMPLILY.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.SWAMPLILY.NAME"
 msgid "Balm Lily Seed"
-msgstr ""
+msgstr "Насіння Бальзамної Лілії"
 
 #. STRINGS.CREATURES.SPECIES.SHOCKWORM.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SHOCKWORM.DESC"
@@ -8412,7 +8412,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.AIRBORNE
 msgctxt "STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.AIRBORNE"
 msgid "Contracted via air inhalation\n------------------"
-msgstr ""
+msgstr "Зумовлений через вдихання повітря\n------------------"
 
 #. STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.AIRBORNE_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.AIRBORNE_TOOLTIP"
@@ -8482,7 +8482,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.FOODBORNE
 msgctxt "STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.FOODBORNE"
 msgid "Contracted via food ingestion\n------------------"
-msgstr ""
+msgstr "Зумовлений через вживання їжі\n------------------"
 
 #. STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.FOODBORNE_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.FOODBORNE_TOOLTIP"
@@ -8572,7 +8572,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.DISEASES.FOODPOISONING.DESCRIPTIVE_SYMPTOMS
 msgctxt "STRINGS.DUPLICANTS.DISEASES.FOODPOISONING.DESCRIPTIVE_SYMPTOMS"
 msgid "Nonlethal. A Duplicant's body \"purges\" from both ends, causing extreme fatigue."
-msgstr ""
+msgstr "Несмертелно. Шкіра Дубліканта \"покрита\" з обох кінців, викликаючи крайню втома."
 
 #. STRINGS.DUPLICANTS.DISEASES.FOODPOISONING.DISEASE_SOURCE_DESCRIPTOR
 msgctxt "STRINGS.DUPLICANTS.DISEASES.FOODPOISONING.DISEASE_SOURCE_DESCRIPTOR"
@@ -8587,12 +8587,12 @@ msgstr ""
 #. STRINGS.DUPLICANTS.DISEASES.FOODPOISONING.LEGEND_HOVERTEXT
 msgctxt "STRINGS.DUPLICANTS.DISEASES.FOODPOISONING.LEGEND_HOVERTEXT"
 msgid "<style=\"header\">Food Poisoning Germs Present</style>\n"
-msgstr ""
+msgstr "<style=\"header\">Харчове Отруєння Бактеріями Наявне</style>\n"
 
 #. STRINGS.DUPLICANTS.DISEASES.FOODPOISONING.NAME
 msgctxt "STRINGS.DUPLICANTS.DISEASES.FOODPOISONING.NAME"
 msgid "Food Poisoning"
-msgstr ""
+msgstr "Харчове Отруєння"
 
 #. STRINGS.DUPLICANTS.DISEASES.FOODPOISONING.VOMIT_SYMPTOM
 msgctxt "STRINGS.DUPLICANTS.DISEASES.FOODPOISONING.VOMIT_SYMPTOM"
@@ -8682,7 +8682,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.DISEASES.LEGEND_POSTAMBLE
 msgctxt "STRINGS.DUPLICANTS.DISEASES.LEGEND_POSTAMBLE"
 msgid "* Select an infected object for more details"
-msgstr ""
+msgstr "* Виберіть заражений об'єкт для більших подробиць"
 
 #. STRINGS.DUPLICANTS.DISEASES.MEDICINE.BOOSTER
 msgctxt "STRINGS.DUPLICANTS.DISEASES.MEDICINE.BOOSTER"
@@ -8787,7 +8787,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.DISEASES.SLIMELUNG.DESCRIPTIVE_SYMPTOMS
 msgctxt "STRINGS.DUPLICANTS.DISEASES.SLIMELUNG.DESCRIPTIVE_SYMPTOMS"
 msgid "Lethal without medical care. Duplicants experience coughing and shortness of breath."
-msgstr ""
+msgstr "Смертельне без медичної допомоги. Дубліканти відчувають кашель та задишку."
 
 #. STRINGS.DUPLICANTS.DISEASES.SLIMELUNG.DISEASE_SOURCE_DESCRIPTOR
 msgctxt "STRINGS.DUPLICANTS.DISEASES.SLIMELUNG.DISEASE_SOURCE_DESCRIPTOR"
@@ -8802,12 +8802,12 @@ msgstr ""
 #. STRINGS.DUPLICANTS.DISEASES.SLIMELUNG.LEGEND_HOVERTEXT
 msgctxt "STRINGS.DUPLICANTS.DISEASES.SLIMELUNG.LEGEND_HOVERTEXT"
 msgid "<style=\"header\">Slimelung Germs Present</style>\n"
-msgstr ""
+msgstr "<style=\"header\">Легенево Слизні Бактерії Наявні</style>\n"
 
 #. STRINGS.DUPLICANTS.DISEASES.SLIMELUNG.NAME
 msgctxt "STRINGS.DUPLICANTS.DISEASES.SLIMELUNG.NAME"
 msgid "Slimelung"
-msgstr ""
+msgstr "Легеневий Слиз"
 
 #. STRINGS.DUPLICANTS.DISEASES.SPORES.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.DISEASES.SPORES.DESCRIPTION"
@@ -9092,7 +9092,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.MODIFIERS.CLOTHING.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.CLOTHING.NAME"
 msgid "Clothing"
-msgstr ""
+msgstr "Одяг"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.COLD.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.COLD.NAME"
@@ -13117,7 +13117,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.BLEACHSTONE.NAME
 msgctxt "STRINGS.ELEMENTS.BLEACHSTONE.NAME"
 msgid "Bleach Stone"
-msgstr ""
+msgstr "Хлорний Камінь"
 
 #. STRINGS.ELEMENTS.BOTTLEDWATER.DESC
 msgctxt "STRINGS.ELEMENTS.BOTTLEDWATER.DESC"
@@ -13547,7 +13547,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.GRANITE.NAME
 msgctxt "STRINGS.ELEMENTS.GRANITE.NAME"
 msgid "Granite"
-msgstr ""
+msgstr "Граніт"
 
 #. STRINGS.ELEMENTS.HARDNESS.FIRM
 msgctxt "STRINGS.ELEMENTS.HARDNESS.FIRM"
@@ -13627,7 +13627,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.IGNEOUSROCK.NAME
 msgctxt "STRINGS.ELEMENTS.IGNEOUSROCK.NAME"
 msgid "Igneous Rock"
-msgstr ""
+msgstr "Вулканічний Камінь"
 
 #. STRINGS.ELEMENTS.IRON.BUILD_DESC
 msgctxt "STRINGS.ELEMENTS.IRON.BUILD_DESC"
@@ -13697,7 +13697,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.KATAIRITE.NAME
 msgctxt "STRINGS.ELEMENTS.KATAIRITE.NAME"
 msgid "Abyssalite"
-msgstr ""
+msgstr "Абіссаліт"
 
 #. STRINGS.ELEMENTS.LIQUIDCARBONDIOXIDE.DESC
 msgctxt "STRINGS.ELEMENTS.LIQUIDCARBONDIOXIDE.DESC"
@@ -13987,7 +13987,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.OBSIDIAN.NAME
 msgctxt "STRINGS.ELEMENTS.OBSIDIAN.NAME"
 msgid "Obsidian"
-msgstr ""
+msgstr "Обсидіан"
 
 #. STRINGS.ELEMENTS.OXYGEN.DESC
 msgctxt "STRINGS.ELEMENTS.OXYGEN.DESC"
@@ -14187,7 +14187,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.SEDIMENTARYROCK.NAME
 msgctxt "STRINGS.ELEMENTS.SEDIMENTARYROCK.NAME"
 msgid "Sedimentary Rock"
-msgstr ""
+msgstr "Осадовий Камінь"
 
 #. STRINGS.ELEMENTS.SLABS.BUILD_DESC
 msgctxt "STRINGS.ELEMENTS.SLABS.BUILD_DESC"
@@ -14582,12 +14582,12 @@ msgstr ""
 #. STRINGS.EQUIPMENT.PREFABS.COOL_VEST.GENERICNAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.COOL_VEST.GENERICNAME"
 msgid "Clothing"
-msgstr ""
+msgstr "Одяг"
 
 #. STRINGS.EQUIPMENT.PREFABS.COOL_VEST.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.COOL_VEST.NAME"
 msgid "Cool Vest"
-msgstr ""
+msgstr "Прохолодний Жилет"
 
 #. STRINGS.EQUIPMENT.PREFABS.COOL_VEST.RECIPE_DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.COOL_VEST.RECIPE_DESC"
@@ -14607,12 +14607,12 @@ msgstr ""
 #. STRINGS.EQUIPMENT.PREFABS.FUNKY_VEST.GENERICNAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.FUNKY_VEST.GENERICNAME"
 msgid "Clothing"
-msgstr ""
+msgstr "Одяг"
 
 #. STRINGS.EQUIPMENT.PREFABS.FUNKY_VEST.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.FUNKY_VEST.NAME"
 msgid "Snazzy Suit"
-msgstr ""
+msgstr "Приємний Костюм"
 
 #. STRINGS.EQUIPMENT.PREFABS.FUNKY_VEST.RECIPE_DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.FUNKY_VEST.RECIPE_DESC"
@@ -14722,12 +14722,12 @@ msgstr ""
 #. STRINGS.EQUIPMENT.PREFABS.WARM_VEST.GENERICNAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.WARM_VEST.GENERICNAME"
 msgid "Clothing"
-msgstr ""
+msgstr "Одяг"
 
 #. STRINGS.EQUIPMENT.PREFABS.WARM_VEST.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.WARM_VEST.NAME"
 msgid "Warm Sweater"
-msgstr ""
+msgstr "Теплий Светр"
 
 #. STRINGS.EQUIPMENT.PREFABS.WARM_VEST.RECIPE_DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.WARM_VEST.RECIPE_DESC"
@@ -15412,7 +15412,7 @@ msgstr ""
 #. STRINGS.ITEMS.FOOD.BASICPLANTFOOD.NAME
 msgctxt "STRINGS.ITEMS.FOOD.BASICPLANTFOOD.NAME"
 msgid "Meal Lice"
-msgstr ""
+msgstr "Вошаїд"
 
 #. STRINGS.ITEMS.FOOD.COLDWHEATBREAD.DESC
 msgctxt "STRINGS.ITEMS.FOOD.COLDWHEATBREAD.DESC"
@@ -15637,7 +15637,7 @@ msgstr ""
 #. STRINGS.ITEMS.FOOD.SPICENUT.NAME
 msgctxt "STRINGS.ITEMS.FOOD.SPICENUT.NAME"
 msgid "Pincha Peppernut"
-msgstr "Щипок Гострого Горіха"
+msgstr "Гострий Горіх"
 
 #. STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.BASIC_FABRIC.DESC
 msgctxt "STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.BASIC_FABRIC.DESC"
@@ -15647,7 +15647,7 @@ msgstr ""
 #. STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.BASIC_FABRIC.NAME
 msgctxt "STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.BASIC_FABRIC.NAME"
 msgid "Reed Fiber"
-msgstr ""
+msgstr "Волокна Очерету"
 
 #. STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.FARM_STATION_TOOLS.DESC
 msgctxt "STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.FARM_STATION_TOOLS.DESC"
@@ -17332,7 +17332,7 @@ msgstr ""
 #. STRINGS.MISC.TAGS.BLEACHSTONE
 msgctxt "STRINGS.MISC.TAGS.BLEACHSTONE"
 msgid "Bleach Stone"
-msgstr ""
+msgstr "Хлорний Камінь"
 
 #. STRINGS.MISC.TAGS.BREATHABLE
 msgctxt "STRINGS.MISC.TAGS.BREATHABLE"
@@ -17352,7 +17352,7 @@ msgstr ""
 #. STRINGS.MISC.TAGS.BUILDABLERAW
 msgctxt "STRINGS.MISC.TAGS.BUILDABLERAW"
 msgid "Raw Mineral"
-msgstr ""
+msgstr "Сирі Мінерали"
 
 #. STRINGS.MISC.TAGS.BUILDING
 msgctxt "STRINGS.MISC.TAGS.BUILDING"
@@ -17372,7 +17372,7 @@ msgstr ""
 #. STRINGS.MISC.TAGS.CLOTHES
 msgctxt "STRINGS.MISC.TAGS.CLOTHES"
 msgid "Clothing"
-msgstr ""
+msgstr "Одяг"
 
 #. STRINGS.MISC.TAGS.COAL
 msgctxt "STRINGS.MISC.TAGS.COAL"
@@ -17397,7 +17397,7 @@ msgstr ""
 #. STRINGS.MISC.TAGS.CONSUMABLEORE
 msgctxt "STRINGS.MISC.TAGS.CONSUMABLEORE"
 msgid "Consumable Ore"
-msgstr ""
+msgstr "Споживчі Руди"
 
 #. STRINGS.MISC.TAGS.CONVEYOR
 msgctxt "STRINGS.MISC.TAGS.CONVEYOR"
@@ -17487,7 +17487,7 @@ msgstr ""
 #. STRINGS.MISC.TAGS.INDUSTRIALINGREDIENT
 msgctxt "STRINGS.MISC.TAGS.INDUSTRIALINGREDIENT"
 msgid "Industrial Ingredient"
-msgstr ""
+msgstr "Промислові Елементи"
 
 #. STRINGS.MISC.TAGS.INDUSTRIALPRODUCT
 msgctxt "STRINGS.MISC.TAGS.INDUSTRIALPRODUCT"
@@ -19502,7 +19502,7 @@ msgstr ""
 #. STRINGS.RESEARCH.TECHS.CLOTHING.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.CLOTHING.NAME"
 msgid "Clothing"
-msgstr ""
+msgstr "Одяг"
 
 #. STRINGS.RESEARCH.TECHS.COMBUSTION.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.COMBUSTION.DESC"
@@ -20452,12 +20452,12 @@ msgstr ""
 #. STRINGS.UI.ASTEROIDCLOCK.CYCLES_OLD
 msgctxt "STRINGS.UI.ASTEROIDCLOCK.CYCLES_OLD"
 msgid "This Colony is {0} Cycle(s) Old"
-msgstr ""
+msgstr "Ця Колонія {0} Цикл(ів) Минуло"
 
 #. STRINGS.UI.ASTEROIDCLOCK.TIME_PLAYED
 msgctxt "STRINGS.UI.ASTEROIDCLOCK.TIME_PLAYED"
 msgid "Time Played: {0} hours"
-msgstr ""
+msgstr "Час Гри: {0} год."
 
 #. STRINGS.UI.ATTRIBUTELEVEL
 msgctxt "STRINGS.UI.ATTRIBUTELEVEL"
@@ -20477,7 +20477,7 @@ msgstr ""
 #. STRINGS.UI.BUILDCATEGORIES.AUTOMATION.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.AUTOMATION.NAME"
 msgid "Automation"
-msgstr "Автоматика"
+msgstr "Авто"
 
 #. STRINGS.UI.BUILDCATEGORIES.AUTOMATION.TOOLTIP
 msgctxt "STRINGS.UI.BUILDCATEGORIES.AUTOMATION.TOOLTIP"
@@ -21387,7 +21387,7 @@ msgstr ""
 #. STRINGS.UI.CONSUMABLES
 msgctxt "STRINGS.UI.CONSUMABLES"
 msgid "CONSUMABLES"
-msgstr ""
+msgstr "СПОЖИВЧІ"
 
 #. STRINGS.UI.CONSUMABLESSCREEN.EXPECTATIONS_ABOVE
 msgctxt "STRINGS.UI.CONSUMABLESSCREEN.EXPECTATIONS_ABOVE"
@@ -21472,7 +21472,7 @@ msgstr ""
 #. STRINGS.UI.CONSUMABLESSCREEN.TITLE
 msgctxt "STRINGS.UI.CONSUMABLESSCREEN.TITLE"
 msgid "CONSUMABLES"
-msgstr ""
+msgstr "СПОЖИВЧІ"
 
 #. STRINGS.UI.CONSUMABLESSCREEN.TOOLTIP_TOGGLE_ALL
 msgctxt "STRINGS.UI.CONSUMABLESSCREEN.TOOLTIP_TOGGLE_ALL"
@@ -22407,7 +22407,7 @@ msgstr ""
 #. STRINGS.UI.DETAILTABS.SIMPLEINFO.GROUPNAME_RESEARCH
 msgctxt "STRINGS.UI.DETAILTABS.SIMPLEINFO.GROUPNAME_RESEARCH"
 msgid "RESEARCH"
-msgstr ""
+msgstr "ДОСЛІДЖЕННЯ"
 
 #. STRINGS.UI.DETAILTABS.SIMPLEINFO.GROUPNAME_STATUS
 msgctxt "STRINGS.UI.DETAILTABS.SIMPLEINFO.GROUPNAME_STATUS"
@@ -22517,32 +22517,32 @@ msgstr ""
 #. STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.MESSAGES.ANIMATION_HEADER
 msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.MESSAGES.ANIMATION_HEADER"
 msgid "WATCH THE ANIMATED SHORT!"
-msgstr ""
+msgstr "ДИВІТЬСЯ КОРОТКІ МУЛЬТИПЛІКАЦІЇ!"
 
 #. STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.MESSAGES.BODY
 msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.MESSAGES.BODY"
 msgid "Stay up to date by joining our mailing list, or head on over to the forums and join the discussion."
-msgstr ""
+msgstr "Будьте в курсі, приєднавшись до нашого списку розсилки або перейдіть на форуми та приєднайтеся до дискусії."
 
 #. STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.MESSAGES.FORUMBUTTON
 msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.MESSAGES.FORUMBUTTON"
 msgid "FORUMS"
-msgstr ""
+msgstr "ФОРУМИ"
 
 #. STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.MESSAGES.HEADER
 msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.MESSAGES.HEADER"
 msgid "DEVELOPMENT BUILD"
-msgstr ""
+msgstr "БІЛД РОЗРОБКИ"
 
 #. STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.MESSAGES.MAILINGLIST
 msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.MESSAGES.MAILINGLIST"
 msgid "NOTIFY ME!"
-msgstr ""
+msgstr "ПОВІДОМЛЯТИ МЕНЕ!"
 
 #. STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.MESSAGES.PATCHNOTES
 msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.MESSAGES.PATCHNOTES"
 msgid "PATCH NOTES"
-msgstr ""
+msgstr "ПАТЧ ПРИМІТКИ"
 
 #. STRINGS.UI.DEVELOPMENTBUILDS.FULL_PATCH_NOTES
 msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.FULL_PATCH_NOTES"
@@ -22557,32 +22557,32 @@ msgstr ""
 #. STRINGS.UI.DEVELOPMENTBUILDS.UPDATES.BIGGER_TIMES
 msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.UPDATES.BIGGER_TIMES"
 msgid "{1} weeks {0} days"
-msgstr ""
+msgstr "{1} тиждень {0} день"
 
 #. STRINGS.UI.DEVELOPMENTBUILDS.UPDATES.FINAL_WEEK
 msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.UPDATES.FINAL_WEEK"
 msgid "{0} days"
-msgstr ""
+msgstr "{0} днів"
 
 #. STRINGS.UI.DEVELOPMENTBUILDS.UPDATES.NOW
 msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.UPDATES.NOW"
 msgid "Less than a day"
-msgstr ""
+msgstr "Менше дня"
 
 #. STRINGS.UI.DEVELOPMENTBUILDS.UPDATES.TWENTY_FOUR_HOURS
 msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.UPDATES.TWENTY_FOUR_HOURS"
 msgid "Less than a day"
-msgstr ""
+msgstr "Менше дня"
 
 #. STRINGS.UI.DEVELOPMENTBUILDS.UPDATES.UPDATES_HEADER
 msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.UPDATES.UPDATES_HEADER"
 msgid "NEXT UPGRADE LIVE IN"
-msgstr ""
+msgstr "НАСТУПНЕ ОНОВЛЕННЯ"
 
 #. STRINGS.UI.DEVELOPMENTBUILDS.WATERMARK
 msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.WATERMARK"
 msgid "DEVELOPMENT BUILD: {0}"
-msgstr ""
+msgstr "БІЛД РОЗРОБКИ: {0}"
 
 #. STRINGS.UI.DUPLICANTPRINTING
 msgctxt "STRINGS.UI.DUPLICANTPRINTING"
@@ -22817,17 +22817,17 @@ msgstr ""
 #. STRINGS.UI.ENDOFDAYREPORT.DAY_TITLE
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.DAY_TITLE"
 msgid "Cycle {0}"
-msgstr ""
+msgstr "Цикл {0}"
 
 #. STRINGS.UI.ENDOFDAYREPORT.DAY_TITLE_TODAY
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.DAY_TITLE_TODAY"
 msgid "Cycle {0} - Today"
-msgstr ""
+msgstr "Цикл {0} - Сьогодні"
 
 #. STRINGS.UI.ENDOFDAYREPORT.DAY_TITLE_YESTERDAY
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.DAY_TITLE_YESTERDAY"
 msgid "Cycle {0} - Yesterday"
-msgstr ""
+msgstr "Цикл {0} - Вчора"
 
 #. STRINGS.UI.ENDOFDAYREPORT.DISEASE_ADDED.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.DISEASE_ADDED.NAME"
@@ -23457,7 +23457,7 @@ msgstr ""
 #. STRINGS.UI.FRONTEND.LOADING
 msgctxt "STRINGS.UI.FRONTEND.LOADING"
 msgid "Loading..."
-msgstr ""
+msgstr "Завантаження..."
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.AUTOSAVEWARNING
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.AUTOSAVEWARNING"
@@ -23707,12 +23707,12 @@ msgstr ""
 #. STRINGS.UI.FRONTEND.PAUSE_SCREEN.DESKTOPQUIT
 msgctxt "STRINGS.UI.FRONTEND.PAUSE_SCREEN.DESKTOPQUIT"
 msgid "Quit to Desktop"
-msgstr ""
+msgstr "Вийти на Робочий стіл"
 
 #. STRINGS.UI.FRONTEND.PAUSE_SCREEN.LOAD
 msgctxt "STRINGS.UI.FRONTEND.PAUSE_SCREEN.LOAD"
 msgid "Load"
-msgstr ""
+msgstr "Завантажити"
 
 #. STRINGS.UI.FRONTEND.PAUSE_SCREEN.LOGBOOK
 msgctxt "STRINGS.UI.FRONTEND.PAUSE_SCREEN.LOGBOOK"
@@ -23722,37 +23722,37 @@ msgstr ""
 #. STRINGS.UI.FRONTEND.PAUSE_SCREEN.OPTIONS
 msgctxt "STRINGS.UI.FRONTEND.PAUSE_SCREEN.OPTIONS"
 msgid "Options"
-msgstr "НАЛАШТУВАННЯ"
+msgstr "Налаштування"
 
 #. STRINGS.UI.FRONTEND.PAUSE_SCREEN.QUIT
 msgctxt "STRINGS.UI.FRONTEND.PAUSE_SCREEN.QUIT"
 msgid "Main Menu"
-msgstr ""
+msgstr "Головне меню"
 
 #. STRINGS.UI.FRONTEND.PAUSE_SCREEN.RESUME
 msgctxt "STRINGS.UI.FRONTEND.PAUSE_SCREEN.RESUME"
 msgid "Resume"
-msgstr ""
+msgstr "Продовжити"
 
 #. STRINGS.UI.FRONTEND.PAUSE_SCREEN.SAVE
 msgctxt "STRINGS.UI.FRONTEND.PAUSE_SCREEN.SAVE"
 msgid "Save"
-msgstr ""
+msgstr "Зберегти"
 
 #. STRINGS.UI.FRONTEND.PAUSE_SCREEN.SAVEAS
 msgctxt "STRINGS.UI.FRONTEND.PAUSE_SCREEN.SAVEAS"
 msgid "Save As"
-msgstr ""
+msgstr "Зберегти Як"
 
 #. STRINGS.UI.FRONTEND.PAUSE_SCREEN.TITLE
 msgctxt "STRINGS.UI.FRONTEND.PAUSE_SCREEN.TITLE"
 msgid "PAUSED"
-msgstr ""
+msgstr "ПРИЗУПИНЕНО"
 
 #. STRINGS.UI.FRONTEND.PAUSE_SCREEN.WORLD_SEED
 msgctxt "STRINGS.UI.FRONTEND.PAUSE_SCREEN.WORLD_SEED"
 msgid "World Seed: {0}"
-msgstr ""
+msgstr "Зерно Світу: {0}"
 
 #. STRINGS.UI.FRONTEND.SAVESCREEN.CANCELNAME
 msgctxt "STRINGS.UI.FRONTEND.SAVESCREEN.CANCELNAME"
@@ -23872,7 +23872,7 @@ msgstr ""
 #. STRINGS.UI.FRONTEND.TRANSLATIONS_SCREEN.TITLE
 msgctxt "STRINGS.UI.FRONTEND.TRANSLATIONS_SCREEN.TITLE"
 msgid "TRANSLATIONS"
-msgstr ""
+msgstr "ПЕРЕКЛАДИ"
 
 #. STRINGS.UI.FRONTEND.TRANSLATIONS_SCREEN.UGC_HEADER
 msgctxt "STRINGS.UI.FRONTEND.TRANSLATIONS_SCREEN.UGC_HEADER"
@@ -24792,7 +24792,7 @@ msgstr ""
 #. STRINGS.UI.OVERLAYS.DISEASE.BUTTON
 msgctxt "STRINGS.UI.OVERLAYS.DISEASE.BUTTON"
 msgid "Germ Overlay"
-msgstr ""
+msgstr "Оверлей Бактерій"
 
 #. STRINGS.UI.OVERLAYS.DISEASE.CONTAINER_FORMAT
 msgctxt "STRINGS.UI.OVERLAYS.DISEASE.CONTAINER_FORMAT"
@@ -24822,17 +24822,17 @@ msgstr ""
 #. STRINGS.UI.OVERLAYS.DISEASE.DISINFECT_THRESHOLD_DIAGRAM.THRESHOLD_PREFIX
 msgctxt "STRINGS.UI.OVERLAYS.DISEASE.DISINFECT_THRESHOLD_DIAGRAM.THRESHOLD_PREFIX"
 msgid "Disinfect At:"
-msgstr ""
+msgstr "Дезінфікувати До:"
 
 #. STRINGS.UI.OVERLAYS.DISEASE.DISINFECT_THRESHOLD_DIAGRAM.TOOLTIP
 msgctxt "STRINGS.UI.OVERLAYS.DISEASE.DISINFECT_THRESHOLD_DIAGRAM.TOOLTIP"
 msgid "Automatically disinfect any building with more than {NumberOfGerms} germs."
-msgstr ""
+msgstr "Автоматично дезінфікувати будь-яку будівлю з більш ніж {NumberOfGerms} бактерій."
 
 #. STRINGS.UI.OVERLAYS.DISEASE.DISINFECT_THRESHOLD_DIAGRAM.TOOLTIP_DISABLED
 msgctxt "STRINGS.UI.OVERLAYS.DISEASE.DISINFECT_THRESHOLD_DIAGRAM.TOOLTIP_DISABLED"
 msgid "Automatic building disinfection disabled."
-msgstr ""
+msgstr "Автоматичну дезінфекцію будинків відключено."
 
 #. STRINGS.UI.OVERLAYS.DISEASE.DISINFECT_THRESHOLD_DIAGRAM.UNITS
 msgctxt "STRINGS.UI.OVERLAYS.DISEASE.DISINFECT_THRESHOLD_DIAGRAM.UNITS"
@@ -24852,27 +24852,27 @@ msgstr ""
 #. STRINGS.UI.OVERLAYS.DISEASE.INFECTION_SOURCE
 msgctxt "STRINGS.UI.OVERLAYS.DISEASE.INFECTION_SOURCE"
 msgid "Germ Source"
-msgstr ""
+msgstr "Джерело Бактерій"
 
 #. STRINGS.UI.OVERLAYS.DISEASE.INFECTION_SOURCE_TOOLTIP
 msgctxt "STRINGS.UI.OVERLAYS.DISEASE.INFECTION_SOURCE_TOOLTIP"
 msgid "<b>Germ Source</b>\nAreas where germs are produced\n* Placing Wash Basins or Hand Sanitizers near these areas may prevent disease spread"
-msgstr ""
+msgstr "<b>Джерело Бактерій</b>\nЗона де виробляються бактерії\n* Розміщення Умивальників або Дезінфекторів Рук поблизу може запобігти поширенню хвороб"
 
 #. STRINGS.UI.OVERLAYS.DISEASE.INTERNAL_GERMS
 msgctxt "STRINGS.UI.OVERLAYS.DISEASE.INTERNAL_GERMS"
 msgid "Germ Host"
-msgstr ""
+msgstr "Господар Бактерій"
 
 #. STRINGS.UI.OVERLAYS.DISEASE.INTERNAL_GERMS_TOOLTIP
 msgctxt "STRINGS.UI.OVERLAYS.DISEASE.INTERNAL_GERMS_TOOLTIP"
 msgid "<b>Germ Host</b>\nGerm hosts may be asymptomatic and show no signs of disease\n------------------\nDuplicants become hosts when germs enter their body through inhalation or ingestion\n* Unlike surface germs, internal germs cannot be washed off"
-msgstr ""
+msgstr "<b>Господар Бактерій</b>\nГосподарі Бактерій можуть бути безсимптомними і не проявляти ознак хвороби\n------------------\nДубліканти стають господарями, коли бактерії проникають до їхнього організму через вдихання або всмоктування\n* На відміну від поверхневих бактерій, внутрішні бактерії не можна змити"
 
 #. STRINGS.UI.OVERLAYS.DISEASE.NAME
 msgctxt "STRINGS.UI.OVERLAYS.DISEASE.NAME"
 msgid "GERM OVERLAY"
-msgstr ""
+msgstr "ОВЕРЛЕЙ БАКТЕРІЙ"
 
 #. STRINGS.UI.OVERLAYS.DISEASE.NO_DISEASE
 msgctxt "STRINGS.UI.OVERLAYS.DISEASE.NO_DISEASE"
@@ -25737,7 +25737,7 @@ msgstr ""
 #. STRINGS.UI.OVERLAYSTITLE
 msgctxt "STRINGS.UI.OVERLAYSTITLE"
 msgid "OVERLAYS"
-msgstr ""
+msgstr "ОВЕРЛЕЇ"
 
 #. STRINGS.UI.PICKEDUP
 msgctxt "STRINGS.UI.PICKEDUP"
@@ -25757,7 +25757,7 @@ msgstr ""
 #. STRINGS.UI.PRIORITYSCREEN.BASIC
 msgctxt "STRINGS.UI.PRIORITYSCREEN.BASIC"
 msgid "Set the priority level for the selected building or errand\n------------------\n1: Least Urgent\n9: Most Urgent"
-msgstr ""
+msgstr "Задайте рівень пріоритету для вибраної будівлі чи завдання\n------------------\n1: Найменш Необхідний\n9: Найбільш Необхідний"
 
 #. STRINGS.UI.PRIORITYSCREEN.EMERGENCY
 msgctxt "STRINGS.UI.PRIORITYSCREEN.EMERGENCY"
@@ -25827,12 +25827,12 @@ msgstr ""
 #. STRINGS.UI.REPORT
 msgctxt "STRINGS.UI.REPORT"
 msgid "REPORTS"
-msgstr ""
+msgstr "ЗВІТИ"
 
 #. STRINGS.UI.RESEARCH
 msgctxt "STRINGS.UI.RESEARCH"
 msgid "RESEARCH"
-msgstr ""
+msgstr "ДОСЛІДЖЕННЯ"
 
 #. STRINGS.UI.RESEARCHPOINTS
 msgctxt "STRINGS.UI.RESEARCHPOINTS"
@@ -25847,7 +25847,7 @@ msgstr ""
 #. STRINGS.UI.RESOURCESCREEN.AVAILABLE_TOOLTIP
 msgctxt "STRINGS.UI.RESOURCESCREEN.AVAILABLE_TOOLTIP"
 msgid "Available: {0}\n({1} of {2} allocated to pending errands)"
-msgstr ""
+msgstr " Доступно: {0}\n ({1} з {2} призначених в очікуванні завдань)"
 
 #. STRINGS.UI.RESOURCESCREEN.CATEGORY_TOOLTIP
 msgctxt "STRINGS.UI.RESOURCESCREEN.CATEGORY_TOOLTIP"
@@ -26142,7 +26142,7 @@ msgstr ""
 #. STRINGS.UI.ROLES_SCREEN.MANAGEMENT_BUTTON
 msgctxt "STRINGS.UI.ROLES_SCREEN.MANAGEMENT_BUTTON"
 msgid "JOBS"
-msgstr ""
+msgstr "ПРАЦЯ"
 
 #. STRINGS.UI.ROLES_SCREEN.NO_JOB_STATION_WARNING
 msgctxt "STRINGS.UI.ROLES_SCREEN.NO_JOB_STATION_WARNING"
@@ -26657,7 +26657,7 @@ msgstr ""
 #. STRINGS.UI.TOOLS.DECONSTRUCT.NAME
 msgctxt "STRINGS.UI.TOOLS.DECONSTRUCT.NAME"
 msgid "Deconstruct"
-msgstr "Руйнувати"
+msgstr "Знести"
 
 #. STRINGS.UI.TOOLS.DECONSTRUCT.TOOLACTION
 msgctxt "STRINGS.UI.TOOLS.DECONSTRUCT.TOOLACTION"
@@ -26687,7 +26687,7 @@ msgstr ""
 #. STRINGS.UI.TOOLS.DISINFECT.NAME
 msgctxt "STRINGS.UI.TOOLS.DISINFECT.NAME"
 msgid "Disinfect"
-msgstr "Дезінфікувати"
+msgstr "Дезінфекція"
 
 #. STRINGS.UI.TOOLS.DISINFECT.TOOLACTION
 msgctxt "STRINGS.UI.TOOLS.DISINFECT.TOOLACTION"
@@ -26702,7 +26702,7 @@ msgstr ""
 #. STRINGS.UI.TOOLS.FILTERLAYERS.ALL
 msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.ALL"
 msgid "All"
-msgstr ""
+msgstr "Все"
 
 #. STRINGS.UI.TOOLS.FILTERLAYERS.ATTACK
 msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.ATTACK"
@@ -26712,52 +26712,52 @@ msgstr "Атака"
 #. STRINGS.UI.TOOLS.FILTERLAYERS.BACKWALL
 msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.BACKWALL"
 msgid "Background Buildings"
-msgstr ""
+msgstr "Фонові Будівлі"
 
 #. STRINGS.UI.TOOLS.FILTERLAYERS.BUILDINGS
 msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.BUILDINGS"
 msgid "Buildings"
-msgstr ""
+msgstr "Будівлі"
 
 #. STRINGS.UI.TOOLS.FILTERLAYERS.CLEANANDCLEAR
 msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.CLEANANDCLEAR"
 msgid "Sweep & Mop Orders"
-msgstr ""
+msgstr "Перенесення та миття"
 
 #. STRINGS.UI.TOOLS.FILTERLAYERS.DIGPLACER
 msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.DIGPLACER"
 msgid "Dig Orders"
-msgstr ""
+msgstr "Накази Копання"
 
 #. STRINGS.UI.TOOLS.FILTERLAYERS.DO_NOT_HARVEST
 msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.DO_NOT_HARVEST"
 msgid "Disable Harvest"
-msgstr ""
+msgstr "Вимкнути Жнива"
 
 #. STRINGS.UI.TOOLS.FILTERLAYERS.GASPIPES
 msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.GASPIPES"
 msgid "Gas Pipes"
-msgstr ""
+msgstr "Газові Труби"
 
 #. STRINGS.UI.TOOLS.FILTERLAYERS.HARVEST_WHEN_READY
 msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.HARVEST_WHEN_READY"
 msgid "Enable Harvest"
-msgstr ""
+msgstr "Увімкнути Жнива"
 
 #. STRINGS.UI.TOOLS.FILTERLAYERS.LIQUIDPIPES
 msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.LIQUIDPIPES"
 msgid "Liquid Pipes"
-msgstr ""
+msgstr "Рідинні Труби"
 
 #. STRINGS.UI.TOOLS.FILTERLAYERS.LOGIC
 msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.LOGIC"
 msgid "Automation"
-msgstr ""
+msgstr "Автоматика"
 
 #. STRINGS.UI.TOOLS.FILTERLAYERS.SOLIDCONDUITS
 msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.SOLIDCONDUITS"
 msgid "Conveyor Rails"
-msgstr ""
+msgstr "Конвеєрні Рейки"
 
 #. STRINGS.UI.TOOLS.FILTERLAYERS.TILES
 msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.TILES"
@@ -26767,12 +26767,12 @@ msgstr ""
 #. STRINGS.UI.TOOLS.FILTERLAYERS.WIRES
 msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.WIRES"
 msgid "Power Wires"
-msgstr ""
+msgstr "Електричні Дроти"
 
 #. STRINGS.UI.TOOLS.FILTERSCREEN.OPTIONS
 msgctxt "STRINGS.UI.TOOLS.FILTERSCREEN.OPTIONS"
 msgid "Tool Filter"
-msgstr ""
+msgstr "Фільтр Знаряддя"
 
 #. STRINGS.UI.TOOLS.GENERIC.BACK
 msgctxt "STRINGS.UI.TOOLS.GENERIC.BACK"
@@ -26957,7 +26957,7 @@ msgstr ""
 #. STRINGS.UI.TOOLTIPS.DISINFECTBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.DISINFECTBUTTON"
 msgid "Drag to disinfect germy buildings"
-msgstr "Потягніть для Дезинфікування будівель в бактеріях"
+msgstr "Потягніть для Дезінфекції будівель від бактерій"
 
 #. STRINGS.UI.TOOLTIPS.DISMISSMESSAGE
 msgctxt "STRINGS.UI.TOOLTIPS.DISMISSMESSAGE"
@@ -27117,12 +27117,12 @@ msgstr ""
 #. STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_CONSUMABLES
 msgctxt "STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_CONSUMABLES"
 msgid "Manage Duplicants' diets"
-msgstr ""
+msgstr "Керування дієтами Дублікантів"
 
 #. STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_DAILYREPORT
 msgctxt "STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_DAILYREPORT"
 msgid "View daily Colony Reports"
-msgstr ""
+msgstr "Перегляд щоденних Звітів Колонії"
 
 #. STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_JOBS
 msgctxt "STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_JOBS"
@@ -27142,12 +27142,12 @@ msgstr ""
 #. STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_RESEARCH
 msgctxt "STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_RESEARCH"
 msgid "View the Research Tree"
-msgstr ""
+msgstr "Перегляд Дерева Досліджень"
 
 #. STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_ROLES
 msgctxt "STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_ROLES"
 msgid "Manage Duplicants' job assignments"
-msgstr ""
+msgstr "Керування робочими посамами Дублікантів"
 
 #. STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_SCHEDULE
 msgctxt "STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_SCHEDULE"
@@ -27157,7 +27157,7 @@ msgstr ""
 #. STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_VITALS
 msgctxt "STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_VITALS"
 msgid "View Duplicants' vitals"
-msgstr ""
+msgstr "Перегляд показників Дублікантів"
 
 #. STRINGS.UI.TOOLTIPS.MATIERIAL_MOD
 msgctxt "STRINGS.UI.TOOLTIPS.MATIERIAL_MOD"
@@ -27172,27 +27172,27 @@ msgstr ""
 #. STRINGS.UI.TOOLTIPS.METERSCREEN_AVGSTRESS
 msgctxt "STRINGS.UI.TOOLTIPS.METERSCREEN_AVGSTRESS"
 msgid "Highest Stress: {0}"
-msgstr ""
+msgstr "Найвищий Стрес: {0}"
 
 #. STRINGS.UI.TOOLTIPS.METERSCREEN_IMMUNITY_LEVELS
 msgctxt "STRINGS.UI.TOOLTIPS.METERSCREEN_IMMUNITY_LEVELS"
 msgid "Immune Systems: {0}"
-msgstr ""
+msgstr "Імунні Системи: {0}"
 
 #. STRINGS.UI.TOOLTIPS.METERSCREEN_MEALHISTORY
 msgctxt "STRINGS.UI.TOOLTIPS.METERSCREEN_MEALHISTORY"
 msgid "Calories Available: {0}"
-msgstr ""
+msgstr "Наявні Калорії: {0}"
 
 #. STRINGS.UI.TOOLTIPS.METERSCREEN_POPULATION
 msgctxt "STRINGS.UI.TOOLTIPS.METERSCREEN_POPULATION"
 msgid "Population: {0}"
-msgstr ""
+msgstr "Населення: {0}"
 
 #. STRINGS.UI.TOOLTIPS.MOPBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.MOPBUTTON"
 msgid "Drag to swab up unwanted liquids"
-msgstr "Потягніть для Витирати скрізь небажані рідини"
+msgstr "Потягніть для витирання скрізь небажані рідини"
 
 #. STRINGS.UI.TOOLTIPS.NEXTMESSAGESTOOLTIP
 msgctxt "STRINGS.UI.TOOLTIPS.NEXTMESSAGESTOOLTIP"
@@ -27217,7 +27217,7 @@ msgstr ""
 #. STRINGS.UI.TOOLTIPS.PAUSE
 msgctxt "STRINGS.UI.TOOLTIPS.PAUSE"
 msgid "Pause"
-msgstr ""
+msgstr "Пауза"
 
 #. STRINGS.UI.TOOLTIPS.PAUSEBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.PAUSEBUTTON"
@@ -27282,12 +27282,12 @@ msgstr ""
 #. STRINGS.UI.TOOLTIPS.RED_ALERT_CONTENT
 msgctxt "STRINGS.UI.TOOLTIPS.RED_ALERT_CONTENT"
 msgid "Colonywide emergency state\nDuplicants ignore basic needs to work"
-msgstr ""
+msgstr "Оголосити аварійний стан\nДубліканти ігноруватимуть основні робочі обов'язки"
 
 #. STRINGS.UI.TOOLTIPS.RED_ALERT_TITLE
 msgctxt "STRINGS.UI.TOOLTIPS.RED_ALERT_TITLE"
 msgid "Toggle Red Alert"
-msgstr ""
+msgstr "Включити Червону Тревогу"
 
 #. STRINGS.UI.TOOLTIPS.ROOMSOVERLAYSTRING
 msgctxt "STRINGS.UI.TOOLTIPS.ROOMSOVERLAYSTRING"
@@ -27307,17 +27307,17 @@ msgstr ""
 #. STRINGS.UI.TOOLTIPS.SPEEDBUTTON_FAST
 msgctxt "STRINGS.UI.TOOLTIPS.SPEEDBUTTON_FAST"
 msgid "Fast speed {0}"
-msgstr ""
+msgstr "Висока швидкість {0}"
 
 #. STRINGS.UI.TOOLTIPS.SPEEDBUTTON_MEDIUM
 msgctxt "STRINGS.UI.TOOLTIPS.SPEEDBUTTON_MEDIUM"
 msgid "Medium speed {0}"
-msgstr ""
+msgstr "Середня швидкість {0}"
 
 #. STRINGS.UI.TOOLTIPS.SPEEDBUTTON_SLOW
 msgctxt "STRINGS.UI.TOOLTIPS.SPEEDBUTTON_SLOW"
 msgid "Slow speed {0}"
-msgstr ""
+msgstr "Повільна швидкість {0}"
 
 #. STRINGS.UI.TOOLTIPS.STATSPANEL
 msgctxt "STRINGS.UI.TOOLTIPS.STATSPANEL"
@@ -27347,7 +27347,7 @@ msgstr ""
 #. STRINGS.UI.TOOLTIPS.UNPAUSE
 msgctxt "STRINGS.UI.TOOLTIPS.UNPAUSE"
 msgid "Unpause"
-msgstr ""
+msgstr "З Паузи"
 
 #. STRINGS.UI.TOOLTIPS.VITALS_CHECKBOX_ATMOSPHERE
 msgctxt "STRINGS.UI.TOOLTIPS.VITALS_CHECKBOX_ATMOSPHERE"
@@ -28122,7 +28122,7 @@ msgstr ""
 #. STRINGS.UI.UISIDESCREENS.RESEARCHSIDESCREEN.OPENRESEARCHBUTTON
 msgctxt "STRINGS.UI.UISIDESCREENS.RESEARCHSIDESCREEN.OPENRESEARCHBUTTON"
 msgid "RESEARCH"
-msgstr ""
+msgstr "ДОСЛІДЖЕННЯ"
 
 #. STRINGS.UI.UISIDESCREENS.RESEARCHSIDESCREEN.TITLE
 msgctxt "STRINGS.UI.UISIDESCREENS.RESEARCHSIDESCREEN.TITLE"
@@ -28132,7 +28132,7 @@ msgstr ""
 #. STRINGS.UI.UISIDESCREENS.ROLESTATION.OPENROLESBUTTON
 msgctxt "STRINGS.UI.UISIDESCREENS.ROLESTATION.OPENROLESBUTTON"
 msgid "JOBS"
-msgstr ""
+msgstr "ПРАЦЯ"
 
 #. STRINGS.UI.UISIDESCREENS.ROLESTATION.TITLE
 msgctxt "STRINGS.UI.UISIDESCREENS.ROLESTATION.TITLE"
@@ -28462,7 +28462,7 @@ msgstr ""
 #. STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.ALLBUTTON
 msgctxt "STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.ALLBUTTON"
 msgid "All"
-msgstr ""
+msgstr "Все"
 
 #. STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.ALLBUTTONTOOLTIP
 msgctxt "STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.ALLBUTTONTOOLTIP"
@@ -29192,7 +29192,7 @@ msgstr ""
 #. STRINGS.UI.VITALS
 msgctxt "STRINGS.UI.VITALS"
 msgid "VITALS"
-msgstr ""
+msgstr "ПОКАЗНИКИ"
 
 #. STRINGS.UI.VITALSSCREEN.ATMOSPHERE_CONDITION
 msgctxt "STRINGS.UI.VITALSSCREEN.ATMOSPHERE_CONDITION"
