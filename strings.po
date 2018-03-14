@@ -2247,7 +2247,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.DISINFECTABLE.ENABLE_DISINFECT.NAME
 msgctxt "STRINGS.BUILDINGS.DISINFECTABLE.ENABLE_DISINFECT.NAME"
 msgid "Disinfect"
-msgstr ""
+msgstr "Дезінфікувати"
 
 #. STRINGS.BUILDINGS.DISINFECTABLE.ENABLE_DISINFECT.TOOLTIP
 msgctxt "STRINGS.BUILDINGS.DISINFECTABLE.ENABLE_DISINFECT.TOOLTIP"
@@ -6792,7 +6792,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.CHOREGROUPS.DIG.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.DIG.NAME"
 msgid "Dig"
-msgstr ""
+msgstr "Копати"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.FARMING.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.FARMING.DESC"
@@ -6882,7 +6882,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.CHORES.ATTACK.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.ATTACK.NAME"
 msgid "Attack"
-msgstr ""
+msgstr "Атака"
 
 #. STRINGS.DUPLICANTS.CHORES.ATTACK.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.ATTACK.STATUS"
@@ -7087,7 +7087,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.CHORES.DECONSTRUCT.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.DECONSTRUCT.NAME"
 msgid "Deconstruct"
-msgstr ""
+msgstr "Руйнувати"
 
 #. STRINGS.DUPLICANTS.CHORES.DECONSTRUCT.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.DECONSTRUCT.STATUS"
@@ -7147,7 +7147,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.CHORES.DIG.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.DIG.NAME"
 msgid "Dig"
-msgstr ""
+msgstr "Копати"
 
 #. STRINGS.DUPLICANTS.CHORES.DIG.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.DIG.STATUS"
@@ -7162,7 +7162,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.CHORES.DISINFECT.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.DISINFECT.NAME"
 msgid "Disinfect"
-msgstr ""
+msgstr "Дезінфікувати"
 
 #. STRINGS.DUPLICANTS.CHORES.DISINFECT.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.DISINFECT.STATUS"
@@ -7392,7 +7392,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.CHORES.HARVEST.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.HARVEST.NAME"
 msgid "Harvest"
-msgstr ""
+msgstr "Жнива"
 
 #. STRINGS.DUPLICANTS.CHORES.HARVEST.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.HARVEST.STATUS"
@@ -7452,7 +7452,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.CHORES.MOP.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.MOP.NAME"
 msgid "Mop"
-msgstr ""
+msgstr "Мити"
 
 #. STRINGS.DUPLICANTS.CHORES.MOP.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.MOP.STATUS"
@@ -8077,7 +8077,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.CHORES.TRANSPORT.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.TRANSPORT.NAME"
 msgid "Sweep"
-msgstr ""
+msgstr "Нести"
 
 #. STRINGS.DUPLICANTS.CHORES.TRANSPORT.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.TRANSPORT.STATUS"
@@ -15127,7 +15127,7 @@ msgstr ""
 #. STRINGS.INPUT_BINDINGS.ROOT.ATTACK
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.ATTACK"
 msgid "Attack"
-msgstr ""
+msgstr "Атака"
 
 #. STRINGS.INPUT_BINDINGS.ROOT.BUILDINGCANCEL
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.BUILDINGCANCEL"
@@ -15157,22 +15157,22 @@ msgstr ""
 #. STRINGS.INPUT_BINDINGS.ROOT.DIG
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.DIG"
 msgid "Dig"
-msgstr ""
+msgstr "Копати"
 
 #. STRINGS.INPUT_BINDINGS.ROOT.DISINFECT
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.DISINFECT"
 msgid "Disinfect"
-msgstr ""
+msgstr "Дезінфікувати"
 
 #. STRINGS.INPUT_BINDINGS.ROOT.HARVEST
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.HARVEST"
 msgid "Harvest"
-msgstr ""
+msgstr "Жнива"
 
 #. STRINGS.INPUT_BINDINGS.ROOT.MOP
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.MOP"
 msgid "Mop"
-msgstr ""
+msgstr "Мити"
 
 #. STRINGS.INPUT_BINDINGS.ROOT.NAME
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.NAME"
@@ -15332,7 +15332,7 @@ msgstr ""
 #. STRINGS.INPUT_BINDINGS.ROOT.PRIORITIZE
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.PRIORITIZE"
 msgid "Prioritize"
-msgstr ""
+msgstr "Пріоритет"
 
 #. STRINGS.INPUT_BINDINGS.ROOT.SLOWDOWN
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.SLOWDOWN"
@@ -16827,12 +16827,12 @@ msgstr ""
 #. STRINGS.MISC.PLACERS.DIGPLACER.NAME
 msgctxt "STRINGS.MISC.PLACERS.DIGPLACER.NAME"
 msgid "Dig"
-msgstr ""
+msgstr "Копати"
 
 #. STRINGS.MISC.PLACERS.MOPPLACER.NAME
 msgctxt "STRINGS.MISC.PLACERS.MOPPLACER.NAME"
 msgid "Mop"
-msgstr ""
+msgstr "Мити"
 
 #. STRINGS.MISC.POPFX.RESOURCE_EATEN
 msgctxt "STRINGS.MISC.POPFX.RESOURCE_EATEN"
@@ -19572,7 +19572,7 @@ msgstr ""
 #. STRINGS.RESEARCH.TECHS.GASPIPING.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.GASPIPING.NAME"
 msgid "Ventilation"
-msgstr ""
+msgstr "Вентиляція"
 
 #. STRINGS.RESEARCH.TECHS.GENERICSENSORS.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.GENERICSENSORS.DESC"
@@ -19662,7 +19662,7 @@ msgstr ""
 #. STRINGS.RESEARCH.TECHS.LIQUIDPIPING.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.LIQUIDPIPING.NAME"
 msgid "Plumbing"
-msgstr ""
+msgstr "Слюсарно-Водопровідна Справа"
 
 #. STRINGS.RESEARCH.TECHS.LIQUIDTEMPERATURE.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.LIQUIDTEMPERATURE.DESC"
@@ -20477,82 +20477,82 @@ msgstr ""
 #. STRINGS.UI.BUILDCATEGORIES.AUTOMATION.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.AUTOMATION.NAME"
 msgid "Automation"
-msgstr ""
+msgstr "Автоматика"
 
 #. STRINGS.UI.BUILDCATEGORIES.AUTOMATION.TOOLTIP
 msgctxt "STRINGS.UI.BUILDCATEGORIES.AUTOMATION.TOOLTIP"
 msgid "Automate your base with logic circuits and sensors."
-msgstr ""
+msgstr "Автоматизуйте вашу базу з логічними схемами та датчиками."
 
 #. STRINGS.UI.BUILDCATEGORIES.BASE.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.BASE.NAME"
 msgid "Base"
-msgstr ""
+msgstr "Основа"
 
 #. STRINGS.UI.BUILDCATEGORIES.BASE.TOOLTIP
 msgctxt "STRINGS.UI.BUILDCATEGORIES.BASE.TOOLTIP"
 msgid "Maintain your colony's infrastructure with these homebase basics."
-msgstr ""
+msgstr "Підтримуйте інфраструктуру своєї колонії з цими основними базовими принципами."
 
 #. STRINGS.UI.BUILDCATEGORIES.CONVEYANCE.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.CONVEYANCE.NAME"
 msgid "Shipping"
-msgstr ""
+msgstr "Доставка"
 
 #. STRINGS.UI.BUILDCATEGORIES.CONVEYANCE.TOOLTIP
 msgctxt "STRINGS.UI.BUILDCATEGORIES.CONVEYANCE.TOOLTIP"
 msgid "Effortlessly transport ore and solid materials around your base."
-msgstr ""
+msgstr "З легкістю транспортуйте руду та тверді матеріали навколо вашої бази."
 
 #. STRINGS.UI.BUILDCATEGORIES.EQUIPMENT.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.EQUIPMENT.NAME"
 msgid "Stations"
-msgstr ""
+msgstr "Станції"
 
 #. STRINGS.UI.BUILDCATEGORIES.EQUIPMENT.TOOLTIP
 msgctxt "STRINGS.UI.BUILDCATEGORIES.EQUIPMENT.TOOLTIP"
 msgid "Unlock new technologies through the power of science!"
-msgstr ""
+msgstr "Розблокуйте пові технології, завдяки силі науки!"
 
 #. STRINGS.UI.BUILDCATEGORIES.FOOD.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.FOOD.NAME"
 msgid "Food"
-msgstr ""
+msgstr "Їжа"
 
 #. STRINGS.UI.BUILDCATEGORIES.FOOD.TOOLTIP
 msgctxt "STRINGS.UI.BUILDCATEGORIES.FOOD.TOOLTIP"
 msgid "Keep your Duplicants' spirits high and their bellies full."
-msgstr ""
+msgstr "Тримайте вашим Дублікантам настрій високим, а животи повними."
 
 #. STRINGS.UI.BUILDCATEGORIES.FURNITURE.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.FURNITURE.NAME"
 msgid "Furniture"
-msgstr ""
+msgstr "Меблі"
 
 #. STRINGS.UI.BUILDCATEGORIES.FURNITURE.TOOLTIP
 msgctxt "STRINGS.UI.BUILDCATEGORIES.FURNITURE.TOOLTIP"
 msgid "Amenities to keep your Duplicants happy, comfy and efficient."
-msgstr ""
+msgstr "Принади вашим Дублікантам, щоб бути ефективними, щастивими в комфорті"
 
 #. STRINGS.UI.BUILDCATEGORIES.HVAC.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.HVAC.NAME"
 msgid "Ventilation"
-msgstr ""
+msgstr "Гази"
 
 #. STRINGS.UI.BUILDCATEGORIES.HVAC.TOOLTIP
 msgctxt "STRINGS.UI.BUILDCATEGORIES.HVAC.TOOLTIP"
 msgid "Control the flow of gas in your base."
-msgstr ""
+msgstr "Контролюйте потік газів у вашій базі."
 
 #. STRINGS.UI.BUILDCATEGORIES.MEDICAL.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.MEDICAL.NAME"
 msgid "Medicine"
-msgstr ""
+msgstr "Терапія"
 
 #. STRINGS.UI.BUILDCATEGORIES.MEDICAL.TOOLTIP
 msgctxt "STRINGS.UI.BUILDCATEGORIES.MEDICAL.TOOLTIP"
 msgid "A cure for everything but the common cold."
-msgstr ""
+msgstr "Лікування всього, крім застуди."
 
 #. STRINGS.UI.BUILDCATEGORIES.MISC.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.MISC.NAME"
@@ -20567,52 +20567,52 @@ msgstr ""
 #. STRINGS.UI.BUILDCATEGORIES.OXYGEN.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.OXYGEN.NAME"
 msgid "Oxygen"
-msgstr ""
+msgstr "Кисень"
 
 #. STRINGS.UI.BUILDCATEGORIES.OXYGEN.TOOLTIP
 msgctxt "STRINGS.UI.BUILDCATEGORIES.OXYGEN.TOOLTIP"
 msgid "Everything you need to keep your colony breathing."
-msgstr ""
+msgstr "Все, що вам потрібно, щоб ваша колонія дихала."
 
 #. STRINGS.UI.BUILDCATEGORIES.PLUMBING.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.PLUMBING.NAME"
 msgid "Plumbing"
-msgstr ""
+msgstr "Вода"
 
 #. STRINGS.UI.BUILDCATEGORIES.PLUMBING.TOOLTIP
 msgctxt "STRINGS.UI.BUILDCATEGORIES.PLUMBING.TOOLTIP"
 msgid "Get your water running and the sewage flowing."
-msgstr ""
+msgstr "Тримайте вашу воду в русі та стічні води плинні"
 
 #. STRINGS.UI.BUILDCATEGORIES.POWER.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.POWER.NAME"
 msgid "Power"
-msgstr ""
+msgstr "Енергія"
 
 #. STRINGS.UI.BUILDCATEGORIES.POWER.TOOLTIP
 msgctxt "STRINGS.UI.BUILDCATEGORIES.POWER.TOOLTIP"
 msgid "Need to power your colony? Here's how you do it!"
-msgstr ""
+msgstr "Потрібна енергія вашій колонії? Ось як ти це робити!"
 
 #. STRINGS.UI.BUILDCATEGORIES.REFINING.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.REFINING.NAME"
 msgid "Refinement"
-msgstr ""
+msgstr "Переробка"
 
 #. STRINGS.UI.BUILDCATEGORIES.REFINING.TOOLTIP
 msgctxt "STRINGS.UI.BUILDCATEGORIES.REFINING.TOOLTIP"
 msgid "Use the resources you want, filter the ones you don't."
-msgstr ""
+msgstr "Використовуйте потрібні ресурси, відфільтровуйте ті, що не потрібні"
 
 #. STRINGS.UI.BUILDCATEGORIES.UTILITIES.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.UTILITIES.NAME"
 msgid "Utilities"
-msgstr ""
+msgstr "Утиліти"
 
 #. STRINGS.UI.BUILDCATEGORIES.UTILITIES.TOOLTIP
 msgctxt "STRINGS.UI.BUILDCATEGORIES.UTILITIES.TOOLTIP"
 msgid "Heat up and cool down."
-msgstr ""
+msgstr "Нагрівайте та охолоджуйте."
 
 #. STRINGS.UI.BUILDINGEFFECTS.ADDED_EFFECT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.ADDED_EFFECT"
@@ -21287,12 +21287,12 @@ msgstr ""
 #. STRINGS.UI.CANCELPLACEINRECEPTACLE
 msgctxt "STRINGS.UI.CANCELPLACEINRECEPTACLE"
 msgid "Cancel"
-msgstr ""
+msgstr "Скасувати"
 
 #. STRINGS.UI.CANCELREMOVALFROMRECEPTACLE
 msgctxt "STRINGS.UI.CANCELREMOVALFROMRECEPTACLE"
 msgid "Cancel"
-msgstr ""
+msgstr "Скасувати"
 
 #. STRINGS.UI.CHANGEPERCYCLE
 msgctxt "STRINGS.UI.CHANGEPERCYCLE"
@@ -21372,7 +21372,7 @@ msgstr ""
 #. STRINGS.UI.CONFIRMDIALOG.CANCEL
 msgctxt "STRINGS.UI.CONFIRMDIALOG.CANCEL"
 msgid "CANCEL"
-msgstr ""
+msgstr "СКАСУВАТИ"
 
 #. STRINGS.UI.CONFIRMDIALOG.DIALOG_HEADER
 msgctxt "STRINGS.UI.CONFIRMDIALOG.DIALOG_HEADER"
@@ -21652,7 +21652,7 @@ msgstr ""
 #. STRINGS.UI.DEBUG_TOOLS.SAVE_BASE_TEMPLATE.DECONSTRUCT_BUTTON
 msgctxt "STRINGS.UI.DEBUG_TOOLS.SAVE_BASE_TEMPLATE.DECONSTRUCT_BUTTON"
 msgid "Deconstruct"
-msgstr ""
+msgstr "Руйнувати"
 
 #. STRINGS.UI.DEBUG_TOOLS.SAVE_BASE_TEMPLATE.DEFAULT_SAVE_NAME
 msgctxt "STRINGS.UI.DEBUG_TOOLS.SAVE_BASE_TEMPLATE.DEFAULT_SAVE_NAME"
@@ -26582,7 +26582,7 @@ msgstr ""
 #. STRINGS.UI.TOOLS.ATTACK.NAME
 msgctxt "STRINGS.UI.TOOLS.ATTACK.NAME"
 msgid "Attack"
-msgstr ""
+msgstr "Атака"
 
 #. STRINGS.UI.TOOLS.ATTACK.TOOLACTION
 msgctxt "STRINGS.UI.TOOLS.ATTACK.TOOLACTION"
@@ -26657,7 +26657,7 @@ msgstr ""
 #. STRINGS.UI.TOOLS.DECONSTRUCT.NAME
 msgctxt "STRINGS.UI.TOOLS.DECONSTRUCT.NAME"
 msgid "Deconstruct"
-msgstr ""
+msgstr "Руйнувати"
 
 #. STRINGS.UI.TOOLS.DECONSTRUCT.TOOLACTION
 msgctxt "STRINGS.UI.TOOLS.DECONSTRUCT.TOOLACTION"
@@ -26672,7 +26672,7 @@ msgstr ""
 #. STRINGS.UI.TOOLS.DIG.NAME
 msgctxt "STRINGS.UI.TOOLS.DIG.NAME"
 msgid "Dig"
-msgstr ""
+msgstr "Копати"
 
 #. STRINGS.UI.TOOLS.DIG.TOOLACTION
 msgctxt "STRINGS.UI.TOOLS.DIG.TOOLACTION"
@@ -26687,7 +26687,7 @@ msgstr ""
 #. STRINGS.UI.TOOLS.DISINFECT.NAME
 msgctxt "STRINGS.UI.TOOLS.DISINFECT.NAME"
 msgid "Disinfect"
-msgstr ""
+msgstr "Дезінфікувати"
 
 #. STRINGS.UI.TOOLS.DISINFECT.TOOLACTION
 msgctxt "STRINGS.UI.TOOLS.DISINFECT.TOOLACTION"
@@ -26707,7 +26707,7 @@ msgstr ""
 #. STRINGS.UI.TOOLS.FILTERLAYERS.ATTACK
 msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.ATTACK"
 msgid "Attack"
-msgstr ""
+msgstr "Атака"
 
 #. STRINGS.UI.TOOLS.FILTERLAYERS.BACKWALL
 msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.BACKWALL"
@@ -26787,7 +26787,7 @@ msgstr ""
 #. STRINGS.UI.TOOLS.HARVEST.NAME
 msgctxt "STRINGS.UI.TOOLS.HARVEST.NAME"
 msgid "Harvest"
-msgstr ""
+msgstr "Жнива"
 
 #. STRINGS.UI.TOOLS.HARVEST.TOOLACTION
 msgctxt "STRINGS.UI.TOOLS.HARVEST.TOOLACTION"
@@ -26802,7 +26802,7 @@ msgstr ""
 #. STRINGS.UI.TOOLS.MARKFORSTORAGE.NAME
 msgctxt "STRINGS.UI.TOOLS.MARKFORSTORAGE.NAME"
 msgid "Sweep"
-msgstr ""
+msgstr "Нести"
 
 #. STRINGS.UI.TOOLS.MARKFORSTORAGE.TOOLACTION
 msgctxt "STRINGS.UI.TOOLS.MARKFORSTORAGE.TOOLACTION"
@@ -26817,7 +26817,7 @@ msgstr ""
 #. STRINGS.UI.TOOLS.MOP.NAME
 msgctxt "STRINGS.UI.TOOLS.MOP.NAME"
 msgid "Mop"
-msgstr ""
+msgstr "Мити"
 
 #. STRINGS.UI.TOOLS.MOP.NOT_ON_FLOOR
 msgctxt "STRINGS.UI.TOOLS.MOP.NOT_ON_FLOOR"
@@ -26862,12 +26862,12 @@ msgstr ""
 #. STRINGS.UI.TOOLS.PRIORITIESCATEGORY.NAME
 msgctxt "STRINGS.UI.TOOLS.PRIORITIESCATEGORY.NAME"
 msgid "Prioritize"
-msgstr ""
+msgstr "Пріоритет"
 
 #. STRINGS.UI.TOOLS.PRIORITIZE.NAME
 msgctxt "STRINGS.UI.TOOLS.PRIORITIZE.NAME"
 msgid "Prioritize"
-msgstr ""
+msgstr "Пріоритет"
 
 #. STRINGS.UI.TOOLS.PRIORITIZE.SPECIFIC_PRIORITY
 msgctxt "STRINGS.UI.TOOLS.PRIORITIZE.SPECIFIC_PRIORITY"
@@ -26892,7 +26892,7 @@ msgstr ""
 #. STRINGS.UI.TOOLTIPS.ATTACKBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.ATTACKBUTTON"
 msgid "Drag to attack witless creatures"
-msgstr ""
+msgstr "Потягніть для Атаки безмізкових істот"
 
 #. STRINGS.UI.TOOLTIPS.BASE_VALUE
 msgctxt "STRINGS.UI.TOOLTIPS.BASE_VALUE"
@@ -26902,7 +26902,7 @@ msgstr ""
 #. STRINGS.UI.TOOLTIPS.CANCELBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.CANCELBUTTON"
 msgid "Drag to cancel errands"
-msgstr ""
+msgstr "Потягніть для Скасування завдань"
 
 #. STRINGS.UI.TOOLTIPS.CANCELDECONSTRUCTIONBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.CANCELDECONSTRUCTIONBUTTON"
@@ -26917,7 +26917,7 @@ msgstr ""
 #. STRINGS.UI.TOOLTIPS.CLEARBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.CLEARBUTTON"
 msgid "Drag to move ore debris into storage"
-msgstr ""
+msgstr "Потягніть для Переміщення будівельного сміття в сховище"
 
 #. STRINGS.UI.TOOLTIPS.CLOSETOOLTIP
 msgctxt "STRINGS.UI.TOOLTIPS.CLOSETOOLTIP"
@@ -26937,7 +26937,7 @@ msgstr ""
 #. STRINGS.UI.TOOLTIPS.DECONSTRUCTBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.DECONSTRUCTBUTTON"
 msgid "Drag to demolish buildings"
-msgstr ""
+msgstr "Потягніть для Знесення будівель"
 
 #. STRINGS.UI.TOOLTIPS.DECOROVERLAYSTRING
 msgctxt "STRINGS.UI.TOOLTIPS.DECOROVERLAYSTRING"
@@ -26947,7 +26947,7 @@ msgstr ""
 #. STRINGS.UI.TOOLTIPS.DIGBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.DIGBUTTON"
 msgid "Drag to set dig errands"
-msgstr ""
+msgstr "Потягніть, щоб назначити завдання Копати"
 
 #. STRINGS.UI.TOOLTIPS.DISEASEOVERLAYSTRING
 msgctxt "STRINGS.UI.TOOLTIPS.DISEASEOVERLAYSTRING"
@@ -26957,7 +26957,7 @@ msgstr ""
 #. STRINGS.UI.TOOLTIPS.DISINFECTBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.DISINFECTBUTTON"
 msgid "Drag to disinfect germy buildings"
-msgstr ""
+msgstr "Потягніть для Дезинфікування будівель в бактеріях"
 
 #. STRINGS.UI.TOOLTIPS.DISMISSMESSAGE
 msgctxt "STRINGS.UI.TOOLTIPS.DISMISSMESSAGE"
@@ -26987,7 +26987,7 @@ msgstr ""
 #. STRINGS.UI.TOOLTIPS.HARVESTBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.HARVESTBUTTON"
 msgid "Drag to harvest plants"
-msgstr ""
+msgstr "Потягніть для Жнивів рослин"
 
 #. STRINGS.UI.TOOLTIPS.HEATFLOWOVERLAYSTRING
 msgctxt "STRINGS.UI.TOOLTIPS.HEATFLOWOVERLAYSTRING"
@@ -27192,7 +27192,7 @@ msgstr ""
 #. STRINGS.UI.TOOLTIPS.MOPBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.MOPBUTTON"
 msgid "Drag to swab up unwanted liquids"
-msgstr ""
+msgstr "Потягніть для Витирати скрізь небажані рідини"
 
 #. STRINGS.UI.TOOLTIPS.NEXTMESSAGESTOOLTIP
 msgctxt "STRINGS.UI.TOOLTIPS.NEXTMESSAGESTOOLTIP"
@@ -27242,7 +27242,7 @@ msgstr ""
 #. STRINGS.UI.TOOLTIPS.PRIORITIZEBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.PRIORITIZEBUTTON"
 msgid "Drag to reprioritize errands"
-msgstr ""
+msgstr "Потягніть для визначення Пріоритетності завдань"
 
 #. STRINGS.UI.TOOLTIPS.PRIORITIZEMAINBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.PRIORITIZEMAINBUTTON"
@@ -28632,7 +28632,7 @@ msgstr ""
 #. STRINGS.UI.USERMENUACTIONS.ATTACK.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.ATTACK.NAME"
 msgid "Attack"
-msgstr ""
+msgstr "Атака"
 
 #. STRINGS.UI.USERMENUACTIONS.ATTACK.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.ATTACK.TOOLTIP"
@@ -28762,7 +28762,7 @@ msgstr ""
 #. STRINGS.UI.USERMENUACTIONS.CLEAR.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.CLEAR.NAME"
 msgid "Sweep"
-msgstr ""
+msgstr "Нести"
 
 #. STRINGS.UI.USERMENUACTIONS.CLEAR.NAME_OFF
 msgctxt "STRINGS.UI.USERMENUACTIONS.CLEAR.NAME_OFF"
@@ -28812,7 +28812,7 @@ msgstr ""
 #. STRINGS.UI.USERMENUACTIONS.DEMOLISH.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.DEMOLISH.NAME"
 msgid "Deconstruct"
-msgstr ""
+msgstr "Руйнувати"
 
 #. STRINGS.UI.USERMENUACTIONS.DEMOLISH.NAME_OFF
 msgctxt "STRINGS.UI.USERMENUACTIONS.DEMOLISH.NAME_OFF"
@@ -28832,7 +28832,7 @@ msgstr ""
 #. STRINGS.UI.USERMENUACTIONS.DIG.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.DIG.NAME"
 msgid "Dig"
-msgstr ""
+msgstr "Копати"
 
 #. STRINGS.UI.USERMENUACTIONS.DIG.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.DIG.TOOLTIP"
@@ -28937,7 +28937,7 @@ msgstr ""
 #. STRINGS.UI.USERMENUACTIONS.HARVEST.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.HARVEST.NAME"
 msgid "Harvest"
-msgstr ""
+msgstr "Жнива"
 
 #. STRINGS.UI.USERMENUACTIONS.HARVEST.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.HARVEST.TOOLTIP"
