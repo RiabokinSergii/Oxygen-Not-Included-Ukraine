@@ -9347,7 +9347,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.MODIFIERS.LOWOXYGEN.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.LOWOXYGEN.NAME"
 msgid "Low Oxygen"
-msgstr ""
+msgstr "Недостатній Кисень"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.LOWOXYGEN.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.LOWOXYGEN.TOOLTIP"
@@ -9522,7 +9522,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.MODIFIERS.NOOXYGEN.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.NOOXYGEN.NAME"
 msgid "No Oxygen"
-msgstr ""
+msgstr "Немає Кисню"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.NOOXYGEN.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.NOOXYGEN.TOOLTIP"
@@ -13172,7 +13172,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.CARBONDIOXIDE.NAME
 msgctxt "STRINGS.ELEMENTS.CARBONDIOXIDE.NAME"
 msgid "Carbon Dioxide"
-msgstr ""
+msgstr "Двоокис Вуглецю"
 
 #. STRINGS.ELEMENTS.CARBONFIBRE.BUILD_DESC
 msgctxt "STRINGS.ELEMENTS.CARBONFIBRE.BUILD_DESC"
@@ -13197,7 +13197,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.CARBONGAS.NAME
 msgctxt "STRINGS.ELEMENTS.CARBONGAS.NAME"
 msgid "Carbon"
-msgstr ""
+msgstr "Вуглець"
 
 #. STRINGS.ELEMENTS.CEMENT.BUILD_DESC
 msgctxt "STRINGS.ELEMENTS.CEMENT.BUILD_DESC"
@@ -13237,7 +13237,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.CHLORINE.NAME
 msgctxt "STRINGS.ELEMENTS.CHLORINE.NAME"
 msgid "Chlorine"
-msgstr ""
+msgstr "Хлор"
 
 #. STRINGS.ELEMENTS.CHLORINEGAS.DESC
 msgctxt "STRINGS.ELEMENTS.CHLORINEGAS.DESC"
@@ -13247,7 +13247,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.CHLORINEGAS.NAME
 msgctxt "STRINGS.ELEMENTS.CHLORINEGAS.NAME"
 msgid "Chlorine"
-msgstr ""
+msgstr "Хлор"
 
 #. STRINGS.ELEMENTS.CLAY.BUILD_DESC
 msgctxt "STRINGS.ELEMENTS.CLAY.BUILD_DESC"
@@ -13272,7 +13272,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.CONTAMINATEDOXYGEN.NAME
 msgctxt "STRINGS.ELEMENTS.CONTAMINATEDOXYGEN.NAME"
 msgid "Polluted Oxygen"
-msgstr ""
+msgstr "Забруднений Кисень"
 
 #. STRINGS.ELEMENTS.COPPER.BUILD_DESC
 msgctxt "STRINGS.ELEMENTS.COPPER.BUILD_DESC"
@@ -13592,7 +13592,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.HELIUM.NAME
 msgctxt "STRINGS.ELEMENTS.HELIUM.NAME"
 msgid "Helium"
-msgstr ""
+msgstr "Гелій"
 
 #. STRINGS.ELEMENTS.HYDROGEN.DESC
 msgctxt "STRINGS.ELEMENTS.HYDROGEN.DESC"
@@ -13602,7 +13602,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.HYDROGEN.NAME
 msgctxt "STRINGS.ELEMENTS.HYDROGEN.NAME"
 msgid "Hydrogen"
-msgstr ""
+msgstr "Водень"
 
 #. STRINGS.ELEMENTS.ICE.DESC
 msgctxt "STRINGS.ELEMENTS.ICE.DESC"
@@ -13707,7 +13707,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.LIQUIDCARBONDIOXIDE.NAME
 msgctxt "STRINGS.ELEMENTS.LIQUIDCARBONDIOXIDE.NAME"
 msgid "Carbon Dioxide"
-msgstr ""
+msgstr "Двоокис Вуглецю"
 
 #. STRINGS.ELEMENTS.LIQUIDHELIUM.DESC
 msgctxt "STRINGS.ELEMENTS.LIQUIDHELIUM.DESC"
@@ -13717,7 +13717,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.LIQUIDHELIUM.NAME
 msgctxt "STRINGS.ELEMENTS.LIQUIDHELIUM.NAME"
 msgid "Helium"
-msgstr ""
+msgstr "Гелій"
 
 #. STRINGS.ELEMENTS.LIQUIDHYDROGEN.DESC
 msgctxt "STRINGS.ELEMENTS.LIQUIDHYDROGEN.DESC"
@@ -13727,7 +13727,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.LIQUIDHYDROGEN.NAME
 msgctxt "STRINGS.ELEMENTS.LIQUIDHYDROGEN.NAME"
 msgid "Hydrogen"
-msgstr ""
+msgstr "Водень"
 
 #. STRINGS.ELEMENTS.LIQUIDMETHANE.DESC
 msgctxt "STRINGS.ELEMENTS.LIQUIDMETHANE.DESC"
@@ -13747,7 +13747,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.LIQUIDOXYGEN.NAME
 msgctxt "STRINGS.ELEMENTS.LIQUIDOXYGEN.NAME"
 msgid "Oxygen"
-msgstr ""
+msgstr "Кисень"
 
 #. STRINGS.ELEMENTS.LIQUIDPHOSPHORUS.DESC
 msgctxt "STRINGS.ELEMENTS.LIQUIDPHOSPHORUS.DESC"
@@ -13757,7 +13757,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.LIQUIDPHOSPHORUS.NAME
 msgctxt "STRINGS.ELEMENTS.LIQUIDPHOSPHORUS.NAME"
 msgid "Phosphorus"
-msgstr ""
+msgstr "Фосфор"
 
 #. STRINGS.ELEMENTS.LIQUIDPROPANE.DESC
 msgctxt "STRINGS.ELEMENTS.LIQUIDPROPANE.DESC"
@@ -13767,7 +13767,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.LIQUIDPROPANE.NAME
 msgctxt "STRINGS.ELEMENTS.LIQUIDPROPANE.NAME"
 msgid "Propane"
-msgstr ""
+msgstr "Пропан"
 
 #. STRINGS.ELEMENTS.MAGMA.DESC
 msgctxt "STRINGS.ELEMENTS.MAGMA.DESC"
@@ -13777,7 +13777,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.MAGMA.NAME
 msgctxt "STRINGS.ELEMENTS.MAGMA.NAME"
 msgid "Magma"
-msgstr ""
+msgstr "Магма"
 
 #. STRINGS.ELEMENTS.MATERIAL_MODIFIERS.DECOR
 msgctxt "STRINGS.ELEMENTS.MATERIAL_MODIFIERS.DECOR"
@@ -13882,7 +13882,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.METHANE.NAME
 msgctxt "STRINGS.ELEMENTS.METHANE.NAME"
 msgid "Natural Gas"
-msgstr ""
+msgstr "Природний Газ"
 
 #. STRINGS.ELEMENTS.MOLTENCARBON.DESC
 msgctxt "STRINGS.ELEMENTS.MOLTENCARBON.DESC"
@@ -13892,7 +13892,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.MOLTENCARBON.NAME
 msgctxt "STRINGS.ELEMENTS.MOLTENCARBON.NAME"
 msgid "Carbon"
-msgstr ""
+msgstr "Вуглець"
 
 #. STRINGS.ELEMENTS.MOLTENCOPPER.DESC
 msgctxt "STRINGS.ELEMENTS.MOLTENCOPPER.DESC"
@@ -13997,7 +13997,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.OXYGEN.NAME
 msgctxt "STRINGS.ELEMENTS.OXYGEN.NAME"
 msgid "Oxygen"
-msgstr ""
+msgstr "Кисень"
 
 #. STRINGS.ELEMENTS.OXYROCK.DESC
 msgctxt "STRINGS.ELEMENTS.OXYROCK.DESC"
@@ -14062,7 +14062,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.PHOSPHORUS.NAME
 msgctxt "STRINGS.ELEMENTS.PHOSPHORUS.NAME"
 msgid "Phosphorus"
-msgstr ""
+msgstr "Фосфор"
 
 #. STRINGS.ELEMENTS.PHOSPHORUSGAS.DESC
 msgctxt "STRINGS.ELEMENTS.PHOSPHORUSGAS.DESC"
@@ -14072,7 +14072,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.PHOSPHORUSGAS.NAME
 msgctxt "STRINGS.ELEMENTS.PHOSPHORUSGAS.NAME"
 msgid "Phosphorus"
-msgstr ""
+msgstr "Фосфор"
 
 #. STRINGS.ELEMENTS.POLYPROPYLENE.BUILD_DESC
 msgctxt "STRINGS.ELEMENTS.POLYPROPYLENE.BUILD_DESC"
@@ -14107,7 +14107,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.PROPANE.NAME
 msgctxt "STRINGS.ELEMENTS.PROPANE.NAME"
 msgid "Propane"
-msgstr ""
+msgstr "Пропан"
 
 #. STRINGS.ELEMENTS.RADIUM.DESC
 msgctxt "STRINGS.ELEMENTS.RADIUM.DESC"
@@ -14127,7 +14127,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.ROCKGAS.NAME
 msgctxt "STRINGS.ELEMENTS.ROCKGAS.NAME"
 msgid "Rock Gas"
-msgstr ""
+msgstr "Кам'яний газ'"
 
 #. STRINGS.ELEMENTS.SAND.BUILD_DESC
 msgctxt "STRINGS.ELEMENTS.SAND.BUILD_DESC"
@@ -14237,7 +14237,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.SOLIDCARBONDIOXIDE.NAME
 msgctxt "STRINGS.ELEMENTS.SOLIDCARBONDIOXIDE.NAME"
 msgid "Carbon Dioxide"
-msgstr ""
+msgstr "Двоокис Вуглецю"
 
 #. STRINGS.ELEMENTS.SOLIDCHLORINE.DESC
 msgctxt "STRINGS.ELEMENTS.SOLIDCHLORINE.DESC"
@@ -14247,7 +14247,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.SOLIDCHLORINE.NAME
 msgctxt "STRINGS.ELEMENTS.SOLIDCHLORINE.NAME"
 msgid "Chlorine"
-msgstr ""
+msgstr "Хлор"
 
 #. STRINGS.ELEMENTS.SOLIDCRUDEOIL.DESC
 msgctxt "STRINGS.ELEMENTS.SOLIDCRUDEOIL.DESC"
@@ -14267,7 +14267,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.SOLIDHYDROGEN.NAME
 msgctxt "STRINGS.ELEMENTS.SOLIDHYDROGEN.NAME"
 msgid "Hydrogen"
-msgstr ""
+msgstr "Водень"
 
 #. STRINGS.ELEMENTS.SOLIDMERCURY.BUILD_DESC
 msgctxt "STRINGS.ELEMENTS.SOLIDMERCURY.BUILD_DESC"
@@ -14312,7 +14312,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.SOLIDOXYGEN.NAME
 msgctxt "STRINGS.ELEMENTS.SOLIDOXYGEN.NAME"
 msgid "Oxygen"
-msgstr ""
+msgstr "Кисень"
 
 #. STRINGS.ELEMENTS.SOLIDPETROLEUM.DESC
 msgctxt "STRINGS.ELEMENTS.SOLIDPETROLEUM.DESC"
@@ -14337,7 +14337,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.SOLIDPROPANE.NAME
 msgctxt "STRINGS.ELEMENTS.SOLIDPROPANE.NAME"
 msgid "Propane"
-msgstr ""
+msgstr "Пропан"
 
 #. STRINGS.ELEMENTS.STATE.GAS
 msgctxt "STRINGS.ELEMENTS.STATE.GAS"
@@ -14367,7 +14367,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.STEAM.NAME
 msgctxt "STRINGS.ELEMENTS.STEAM.NAME"
 msgid "Steam"
-msgstr ""
+msgstr "Пар"
 
 #. STRINGS.ELEMENTS.STEEL.BUILD_DESC
 msgctxt "STRINGS.ELEMENTS.STEEL.BUILD_DESC"
@@ -14457,7 +14457,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.UNOBTANIUM.NAME
 msgctxt "STRINGS.ELEMENTS.UNOBTANIUM.NAME"
 msgid "Neutronium"
-msgstr ""
+msgstr "Нейтроніум"
 
 #. STRINGS.ELEMENTS.VACUUM.DESC
 msgctxt "STRINGS.ELEMENTS.VACUUM.DESC"
@@ -14467,7 +14467,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.VACUUM.NAME
 msgctxt "STRINGS.ELEMENTS.VACUUM.NAME"
 msgid "Vacuum"
-msgstr ""
+msgstr "Вакуум"
 
 #. STRINGS.ELEMENTS.VOID.DESC
 msgctxt "STRINGS.ELEMENTS.VOID.DESC"
@@ -17337,7 +17337,7 @@ msgstr "Хлорний Камінь"
 #. STRINGS.MISC.TAGS.BREATHABLE
 msgctxt "STRINGS.MISC.TAGS.BREATHABLE"
 msgid "Breathable Gas"
-msgstr ""
+msgstr "Придатний для дихання Газ"
 
 #. STRINGS.MISC.TAGS.BUILDABLEANY
 msgctxt "STRINGS.MISC.TAGS.BUILDABLEANY"
@@ -17572,7 +17572,7 @@ msgstr "Різне"
 #. STRINGS.MISC.TAGS.PHOSPHORUS
 msgctxt "STRINGS.MISC.TAGS.PHOSPHORUS"
 msgid "Phosphorus"
-msgstr ""
+msgstr "Фосфор"
 
 #. STRINGS.MISC.TAGS.PICKLED
 msgctxt "STRINGS.MISC.TAGS.PICKLED"
@@ -17662,7 +17662,7 @@ msgstr ""
 #. STRINGS.MISC.TAGS.UNBREATHABLE
 msgctxt "STRINGS.MISC.TAGS.UNBREATHABLE"
 msgid "Unbreathable"
-msgstr ""
+msgstr "Непридатний для дихання"
 
 #. STRINGS.MISC.TAGS.UNSTABLE
 msgctxt "STRINGS.MISC.TAGS.UNSTABLE"
@@ -20447,7 +20447,7 @@ msgstr ""
 #. STRINGS.UI.ASTEROIDCLOCK.CYCLE
 msgctxt "STRINGS.UI.ASTEROIDCLOCK.CYCLE"
 msgid "Cycle"
-msgstr ""
+msgstr "Цикли"
 
 #. STRINGS.UI.ASTEROIDCLOCK.CYCLES_OLD
 msgctxt "STRINGS.UI.ASTEROIDCLOCK.CYCLES_OLD"
@@ -22662,7 +22662,7 @@ msgstr ""
 #. STRINGS.UI.ELEMENTAL.PRIMARYELEMENT.NAME
 msgctxt "STRINGS.UI.ELEMENTAL.PRIMARYELEMENT.NAME"
 msgid "Primary Element: {0}"
-msgstr "Основний Елемен: {0}т"
+msgstr "Основний Елемент: {0}"
 
 #. STRINGS.UI.ELEMENTAL.PRIMARYELEMENT.TOOLTIP
 msgctxt "STRINGS.UI.ELEMENTAL.PRIMARYELEMENT.TOOLTIP"
@@ -22752,12 +22752,12 @@ msgstr ""
 #. STRINGS.UI.ENDOFDAYREPORT.ADDED
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.ADDED"
 msgid "Added"
-msgstr ""
+msgstr "Надано"
 
 #. STRINGS.UI.ENDOFDAYREPORT.CALORIES_CREATED.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.CALORIES_CREATED.NAME"
 msgid "Calorie Generation:"
-msgstr ""
+msgstr "Згенеровано Калорій:"
 
 #. STRINGS.UI.ENDOFDAYREPORT.CALORIES_CREATED.NEGATIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.CALORIES_CREATED.NEGATIVE_TOOLTIP"
@@ -22767,7 +22767,7 @@ msgstr ""
 #. STRINGS.UI.ENDOFDAYREPORT.CALORIES_CREATED.POSITIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.CALORIES_CREATED.POSITIVE_TOOLTIP"
 msgid "Your colony produced {0} of <style=\"food\">Food</style> over the course of the day"
-msgstr ""
+msgstr "Ваша колонія виробила {0} of <style=\"food\">Їжі</style> на протязі всього дня"
 
 #. STRINGS.UI.ENDOFDAYREPORT.CONTAMINATED_OXYGEN_FLATULENCE.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.CONTAMINATED_OXYGEN_FLATULENCE.NAME"
@@ -22837,32 +22837,32 @@ msgstr ""
 #. STRINGS.UI.ENDOFDAYREPORT.DISEASE_ADDED.NEGATIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.DISEASE_ADDED.NEGATIVE_TOOLTIP"
 msgid "{0} Duplicant(s) were cured of a <style=\"disease\">Disease</style>"
-msgstr ""
+msgstr "{0} Дублікант(и) були вилікувані від <style=\"disease\">Хвороби</style>"
 
 #. STRINGS.UI.ENDOFDAYREPORT.DISEASE_ADDED.POSITIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.DISEASE_ADDED.POSITIVE_TOOLTIP"
 msgid "{0} Duplicant(s) contracted a <style=\"disease\">Disease</style>"
-msgstr ""
+msgstr "{0} Дублікант(и) контактували з <style=\"disease\">Хворобою</style>"
 
 #. STRINGS.UI.ENDOFDAYREPORT.DISEASE_STATUS.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.DISEASE_STATUS.NAME"
 msgid "Disease Status:"
-msgstr ""
+msgstr "Статус Хвороб:"
 
 #. STRINGS.UI.ENDOFDAYREPORT.DISEASE_STATUS.TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.DISEASE_STATUS.TOOLTIP"
 msgid "Your Duplicants are covered in {0}"
-msgstr ""
+msgstr "Ваші Дубліканти вкриті на {0}"
 
 #. STRINGS.UI.ENDOFDAYREPORT.ENERGY_USAGE.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.ENERGY_USAGE.NAME"
 msgid "<style=\"power\">Power</style> Usage:"
-msgstr ""
+msgstr "<style=\"power\">Енергія</style> Спожита:"
 
 #. STRINGS.UI.ENDOFDAYREPORT.ENERGY_USAGE.NEGATIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.ENERGY_USAGE.NEGATIVE_TOOLTIP"
 msgid "Your colony consumed {0} of <style=\"power\">Power</style> over the course of the day"
-msgstr ""
+msgstr "Ваша колонія спожила {0} of <style=\"power\">Енергії</style> на протязі всього дня"
 
 #. STRINGS.UI.ENDOFDAYREPORT.ENERGY_USAGE.POSITIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.ENERGY_USAGE.POSITIVE_TOOLTIP"
@@ -22872,12 +22872,12 @@ msgstr ""
 #. STRINGS.UI.ENDOFDAYREPORT.ENERGY_WASTED.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.ENERGY_WASTED.NAME"
 msgid "<style=\"power\">Power</style> Wasted:"
-msgstr ""
+msgstr "<style=\"power\">Енергія</style> Витрачається:"
 
 #. STRINGS.UI.ENDOFDAYREPORT.ENERGY_WASTED.NEGATIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.ENERGY_WASTED.NEGATIVE_TOOLTIP"
 msgid "Your colony lost {0} of <style=\"power\">Power</style> today due to overproduction and battery loss"
-msgstr ""
+msgstr "Ваша колонія втратила {0} of <style=\"power\">Енергії</style> сьогодні від перевиробництва та втрату батареями"
 
 #. STRINGS.UI.ENDOFDAYREPORT.ENERGY_WASTED.POSITIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.ENERGY_WASTED.POSITIVE_TOOLTIP"
@@ -22887,12 +22887,12 @@ msgstr ""
 #. STRINGS.UI.ENDOFDAYREPORT.IDLE_TIME.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.IDLE_TIME.NAME"
 msgid "Idle Time:"
-msgstr ""
+msgstr "Час Байдикування:"
 
 #. STRINGS.UI.ENDOFDAYREPORT.IDLE_TIME.POSITIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.IDLE_TIME.POSITIVE_TOOLTIP"
 msgid "Your Duplicants spent a total of {0} idling over the course of the day"
-msgstr ""
+msgstr "Ваші Дубліканти витратили загалом {0} байдиків на протязі всього дня"
 
 #. STRINGS.UI.ENDOFDAYREPORT.LEVEL_UP.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.LEVEL_UP.NAME"
@@ -22902,17 +22902,17 @@ msgstr ""
 #. STRINGS.UI.ENDOFDAYREPORT.LEVEL_UP.TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.LEVEL_UP.TOOLTIP"
 msgid "Your Duplicants gained a total of {0} skill levels today"
-msgstr ""
+msgstr "Ваші Дубліканти досягли в загальному {0} досвіду навичок сьогодні"
 
 #. STRINGS.UI.ENDOFDAYREPORT.NET
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.NET"
 msgid "Net"
-msgstr ""
+msgstr "Мережа"
 
 #. STRINGS.UI.ENDOFDAYREPORT.NEXT
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.NEXT"
 msgid "Next"
-msgstr ""
+msgstr "Наст."
 
 #. STRINGS.UI.ENDOFDAYREPORT.NOTES.BUTCHERED
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.NOTES.BUTCHERED"
@@ -22947,7 +22947,7 @@ msgstr ""
 #. STRINGS.UI.ENDOFDAYREPORT.NOTES.GERMS
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.NOTES.GERMS"
 msgid "On {0}"
-msgstr ""
+msgstr "На {0}"
 
 #. STRINGS.UI.ENDOFDAYREPORT.NOTES.HARVESTED
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.NOTES.HARVESTED"
@@ -22992,7 +22992,7 @@ msgstr ""
 #. STRINGS.UI.ENDOFDAYREPORT.OXYGEN_CREATED.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.OXYGEN_CREATED.NAME"
 msgid "<style=\"oxygen\">Oxygen</style> Generation:"
-msgstr ""
+msgstr "<style=\"oxygen\">Кисню</style> Згенеровано:"
 
 #. STRINGS.UI.ENDOFDAYREPORT.OXYGEN_CREATED.NEGATIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.OXYGEN_CREATED.NEGATIVE_TOOLTIP"
@@ -23002,47 +23002,47 @@ msgstr ""
 #. STRINGS.UI.ENDOFDAYREPORT.OXYGEN_CREATED.POSITIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.OXYGEN_CREATED.POSITIVE_TOOLTIP"
 msgid "Your colony generated {0} of <style=\"oxygen\">Oxygen</style> over the course of the day"
-msgstr ""
+msgstr "Ваша колонія виробила {0} of <style=\"oxygen\">Кисню</style> на протязі всього дня"
 
 #. STRINGS.UI.ENDOFDAYREPORT.PREV
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.PREV"
 msgid "Prev"
-msgstr ""
+msgstr "Попер."
 
 #. STRINGS.UI.ENDOFDAYREPORT.REMOVED
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.REMOVED"
 msgid "Removed"
-msgstr ""
+msgstr "Спожито"
 
 #. STRINGS.UI.ENDOFDAYREPORT.REPORT_TITLE
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.REPORT_TITLE"
 msgid "DAILY REPORTS"
-msgstr ""
+msgstr "ЩОДЕННІ ЗВІТИ"
 
 #. STRINGS.UI.ENDOFDAYREPORT.STRESS_DELTA.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.STRESS_DELTA.NAME"
 msgid "<style=\"stress\">Stress</style> Change:"
-msgstr ""
+msgstr "Зміна <style=\"stress\">Стресу</style>:"
 
 #. STRINGS.UI.ENDOFDAYREPORT.STRESS_DELTA.NEGATIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.STRESS_DELTA.NEGATIVE_TOOLTIP"
 msgid "Your colony's total <style=\"stress\">Stress</style> has decreased by {0}"
-msgstr ""
+msgstr "Сукупний <style=\"stress\">Стрес</style> ваших колоністів зменшився на {0}"
 
 #. STRINGS.UI.ENDOFDAYREPORT.STRESS_DELTA.POSITIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.STRESS_DELTA.POSITIVE_TOOLTIP"
 msgid "Your colony's total <style=\"stress\">Stress</style> has increased by {0}"
-msgstr ""
+msgstr "Сукупний <style=\"stress\">Стрес</style> ваших колоністів збільшився на {0}"
 
 #. STRINGS.UI.ENDOFDAYREPORT.TIME_SPENT.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.TIME_SPENT.NAME"
 msgid "Time Breakdown:"
-msgstr ""
+msgstr "Час Розкладу:"
 
 #. STRINGS.UI.ENDOFDAYREPORT.TIME_SPENT.POSITIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.TIME_SPENT.POSITIVE_TOOLTIP"
 msgid "Your Duplicants spent a total of {0} doing errands over the course of the day"
-msgstr ""
+msgstr "Ваші Дубліканти витратили загалом {0} на завдання протягом всього дня"
 
 #. STRINGS.UI.ENDOFDAYREPORT.TOILET_INCIDENT.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.TOILET_INCIDENT.NAME"
@@ -23052,17 +23052,17 @@ msgstr ""
 #. STRINGS.UI.ENDOFDAYREPORT.TOILET_INCIDENT.TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.TOILET_INCIDENT.TOOLTIP"
 msgid "{0} Duplicants didn't quite reach the toilet in time today"
-msgstr ""
+msgstr "{0} Дубліканти не знайшли час відвідати вбиральну сьогодні"
 
 #. STRINGS.UI.ENDOFDAYREPORT.TRAVEL_TIME.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.TRAVEL_TIME.NAME"
 msgid "Travel Time:"
-msgstr ""
+msgstr "Час Руху:"
 
 #. STRINGS.UI.ENDOFDAYREPORT.TRAVEL_TIME.POSITIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.TRAVEL_TIME.POSITIVE_TOOLTIP"
 msgid "Your Duplicants spent a total of {0} traveling over the course of the day"
-msgstr ""
+msgstr "Ваші Дубліканти витратили загалом {0} подорожуючи на протязі всього дня"
 
 #. STRINGS.UI.EQUIPMENTTAB_HELD
 msgctxt "STRINGS.UI.EQUIPMENTTAB_HELD"
@@ -23547,7 +23547,7 @@ msgstr ""
 #. STRINGS.UI.FRONTEND.MAINMENU.RESUMEBUTTON_BASENAME
 msgctxt "STRINGS.UI.FRONTEND.MAINMENU.RESUMEBUTTON_BASENAME"
 msgid "{0}: Cycle {1}"
-msgstr ""
+msgstr "{0}: Цикли {1}"
 
 #. STRINGS.UI.FRONTEND.MAINMENU.RESUMEGAME
 msgctxt "STRINGS.UI.FRONTEND.MAINMENU.RESUMEGAME"
@@ -23572,7 +23572,7 @@ msgstr "Готово"
 #. STRINGS.UI.FRONTEND.METRICS_OPTIONS_SCREEN.ENABLE_BUTTON
 msgctxt "STRINGS.UI.FRONTEND.METRICS_OPTIONS_SCREEN.ENABLE_BUTTON"
 msgid "Send Metrics Data: "
-msgstr ""
+msgstr "Надіслати Дані Метрики:"
 
 #. STRINGS.UI.FRONTEND.METRICS_OPTIONS_SCREEN.TITLE
 msgctxt "STRINGS.UI.FRONTEND.METRICS_OPTIONS_SCREEN.TITLE"
@@ -24582,7 +24582,7 @@ msgstr ""
 #. STRINGS.UI.METERS.BREATH.TOOLTIP
 msgctxt "STRINGS.UI.METERS.BREATH.TOOLTIP"
 msgid "Oxygen"
-msgstr ""
+msgstr "Кисень"
 
 #. STRINGS.UI.METERS.HEALTH.TOOLTIP
 msgctxt "STRINGS.UI.METERS.HEALTH.TOOLTIP"
@@ -24837,7 +24837,7 @@ msgstr "Автоматичну дезінфекцію будинків відк�
 #. STRINGS.UI.OVERLAYS.DISEASE.DISINFECT_THRESHOLD_DIAGRAM.UNITS
 msgctxt "STRINGS.UI.OVERLAYS.DISEASE.DISINFECT_THRESHOLD_DIAGRAM.UNITS"
 msgid "Germs"
-msgstr ""
+msgstr "Бактерій"
 
 #. STRINGS.UI.OVERLAYS.DISEASE.HOVERTITLE
 msgctxt "STRINGS.UI.OVERLAYS.DISEASE.HOVERTITLE"
@@ -25467,12 +25467,12 @@ msgstr "Непридатний для дихання"
 #. STRINGS.UI.OVERLAYS.OXYGEN.LEGEND5
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.LEGEND5"
 msgid "Slightly Toxic"
-msgstr ""
+msgstr "Ледве токсичний"
 
 #. STRINGS.UI.OVERLAYS.OXYGEN.LEGEND6
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.LEGEND6"
 msgid "Very Toxic"
-msgstr ""
+msgstr "Дуже токсичний"
 
 #. STRINGS.UI.OVERLAYS.OXYGEN.NAME
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.NAME"
