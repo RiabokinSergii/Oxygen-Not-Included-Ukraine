@@ -6792,7 +6792,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.CHOREGROUPS.DIG.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.DIG.NAME"
 msgid "Dig"
-msgstr "Копати"
+msgstr "Копач"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.FARMING.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.FARMING.DESC"
@@ -7147,7 +7147,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.CHORES.DIG.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.DIG.NAME"
 msgid "Dig"
-msgstr "Копати"
+msgstr "Копач"
 
 #. STRINGS.DUPLICANTS.CHORES.DIG.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.DIG.STATUS"
@@ -21767,12 +21767,12 @@ msgstr ""
 #. STRINGS.UI.DETAILTABS.DETAILS.GROUPNAME_CONTENTS
 msgctxt "STRINGS.UI.DETAILTABS.DETAILS.GROUPNAME_CONTENTS"
 msgid "CONTENTS"
-msgstr ""
+msgstr "ВМІСТ"
 
 #. STRINGS.UI.DETAILTABS.DETAILS.GROUPNAME_DETAILS
 msgctxt "STRINGS.UI.DETAILTABS.DETAILS.GROUPNAME_DETAILS"
 msgid "DETAILS"
-msgstr ""
+msgstr "ДЕТАЛІ"
 
 #. STRINGS.UI.DETAILTABS.DETAILS.GROUPNAME_MINION_CONTENTS
 msgctxt "STRINGS.UI.DETAILTABS.DETAILS.GROUPNAME_MINION_CONTENTS"
@@ -21787,12 +21787,12 @@ msgstr ""
 #. STRINGS.UI.DETAILTABS.DETAILS.MINION_TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.DETAILS.MINION_TOOLTIP"
 msgid "More information"
-msgstr ""
+msgstr "Більше Інформації"
 
 #. STRINGS.UI.DETAILTABS.DETAILS.NAME
 msgctxt "STRINGS.UI.DETAILTABS.DETAILS.NAME"
 msgid "Details"
-msgstr ""
+msgstr "Деталі"
 
 #. STRINGS.UI.DETAILTABS.DETAILS.NET_STRESS
 msgctxt "STRINGS.UI.DETAILTABS.DETAILS.NET_STRESS"
@@ -21807,12 +21807,12 @@ msgstr ""
 #. STRINGS.UI.DETAILTABS.DETAILS.TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.DETAILS.TOOLTIP"
 msgid "More information"
-msgstr ""
+msgstr "Більше Інформації"
 
 #. STRINGS.UI.DETAILTABS.DISEASE.CURRENT_GERMS
 msgctxt "STRINGS.UI.DETAILTABS.DISEASE.CURRENT_GERMS"
 msgid "SURFACE GERMS"
-msgstr ""
+msgstr "ПОВЕРХНЕВІ БАКТЕРІЇ"
 
 #. STRINGS.UI.DETAILTABS.DISEASE.DETAILS.DEATH_FORMAT
 msgctxt "STRINGS.UI.DETAILTABS.DISEASE.DETAILS.DEATH_FORMAT"
@@ -22002,7 +22002,7 @@ msgstr ""
 #. STRINGS.UI.DETAILTABS.DISEASE.DETAILS.NODISEASE
 msgctxt "STRINGS.UI.DETAILTABS.DISEASE.DETAILS.NODISEASE"
 msgid "No surface germs"
-msgstr ""
+msgstr "Немає поверхневих бактерій"
 
 #. STRINGS.UI.DETAILTABS.DISEASE.DETAILS.NODISEASE_TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.DISEASE.DETAILS.NODISEASE_TOOLTIP"
@@ -22147,17 +22147,17 @@ msgstr ""
 #. STRINGS.UI.DETAILTABS.DISEASE.NAME
 msgctxt "STRINGS.UI.DETAILTABS.DISEASE.NAME"
 msgid "Germs"
-msgstr ""
+msgstr "Бактерії"
 
 #. STRINGS.UI.DETAILTABS.DISEASE.NO_CURRENT_GERMS
 msgctxt "STRINGS.UI.DETAILTABS.DISEASE.NO_CURRENT_GERMS"
 msgid "SURFACE GERMS"
-msgstr ""
+msgstr "ПОВЕРХНЕВІ БАКТЕРІЇ"
 
 #. STRINGS.UI.DETAILTABS.DISEASE.TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.DISEASE.TOOLTIP"
 msgid "View the disease risk presented by the selected object"
-msgstr ""
+msgstr "Перегляньте ризик захворювання, виявлений в обраному об'єкті"
 
 #. STRINGS.UI.DETAILTABS.ENERGYCONSUMER.NAME
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYCONSUMER.NAME"
@@ -22392,7 +22392,7 @@ msgstr ""
 #. STRINGS.UI.DETAILTABS.SIMPLEINFO.GROUPNAME_DESCRIPTION
 msgctxt "STRINGS.UI.DETAILTABS.SIMPLEINFO.GROUPNAME_DESCRIPTION"
 msgid "INFORMATION"
-msgstr ""
+msgstr "ІНФОРМАЦІЯ"
 
 #. STRINGS.UI.DETAILTABS.SIMPLEINFO.GROUPNAME_LORE
 msgctxt "STRINGS.UI.DETAILTABS.SIMPLEINFO.GROUPNAME_LORE"
@@ -22412,17 +22412,17 @@ msgstr "ДОСЛІДЖЕННЯ"
 #. STRINGS.UI.DETAILTABS.SIMPLEINFO.GROUPNAME_STATUS
 msgctxt "STRINGS.UI.DETAILTABS.SIMPLEINFO.GROUPNAME_STATUS"
 msgid "STATUS"
-msgstr ""
+msgstr "СТАТУС"
 
 #. STRINGS.UI.DETAILTABS.SIMPLEINFO.NAME
 msgctxt "STRINGS.UI.DETAILTABS.SIMPLEINFO.NAME"
 msgid "Info"
-msgstr ""
+msgstr "Дані"
 
 #. STRINGS.UI.DETAILTABS.SIMPLEINFO.TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.SIMPLEINFO.TOOLTIP"
 msgid "View the status of the selected object"
-msgstr ""
+msgstr "Переглянути статус обраного об'єкта"
 
 #. STRINGS.UI.DETAILTABS.STATS.GROUPNAME_APTITUDES
 msgctxt "STRINGS.UI.DETAILTABS.STATS.GROUPNAME_APTITUDES"
@@ -22612,12 +22612,12 @@ msgstr ""
 #. STRINGS.UI.ELEMENTAL.DISEASE.NAME
 msgctxt "STRINGS.UI.ELEMENTAL.DISEASE.NAME"
 msgid "Disease: {0}"
-msgstr ""
+msgstr "Хвороба: {0}"
 
 #. STRINGS.UI.ELEMENTAL.DISEASE.TOOLTIP
 msgctxt "STRINGS.UI.ELEMENTAL.DISEASE.TOOLTIP"
 msgid "There are {0} on the selected object"
-msgstr ""
+msgstr "У виділеному об'єкті є {0}"
 
 #. STRINGS.UI.ELEMENTAL.FREEZEPOINT.NAME
 msgctxt "STRINGS.UI.ELEMENTAL.FREEZEPOINT.NAME"
@@ -22632,22 +22632,22 @@ msgstr ""
 #. STRINGS.UI.ELEMENTAL.MASS.NAME
 msgctxt "STRINGS.UI.ELEMENTAL.MASS.NAME"
 msgid "Mass: {0}"
-msgstr ""
+msgstr "Маса: {0}"
 
 #. STRINGS.UI.ELEMENTAL.MASS.TOOLTIP
 msgctxt "STRINGS.UI.ELEMENTAL.MASS.TOOLTIP"
 msgid "The selected object has a mass of {0}"
-msgstr ""
+msgstr "Обраний об'єкт має масу {0}"
 
 #. STRINGS.UI.ELEMENTAL.MELTINGPOINT.NAME
 msgctxt "STRINGS.UI.ELEMENTAL.MELTINGPOINT.NAME"
 msgid "Melting Point: {0}"
-msgstr ""
+msgstr "Точка Плавки: {0}"
 
 #. STRINGS.UI.ELEMENTAL.MELTINGPOINT.TOOLTIP
 msgctxt "STRINGS.UI.ELEMENTAL.MELTINGPOINT.TOOLTIP"
 msgid "The selected object will melt into a liquid at {0}"
-msgstr ""
+msgstr "Вибраний об'єкт буде розплавлений в рідину при {0}"
 
 #. STRINGS.UI.ELEMENTAL.OVERHEATPOINT.NAME
 msgctxt "STRINGS.UI.ELEMENTAL.OVERHEATPOINT.NAME"
@@ -22662,32 +22662,32 @@ msgstr ""
 #. STRINGS.UI.ELEMENTAL.PRIMARYELEMENT.NAME
 msgctxt "STRINGS.UI.ELEMENTAL.PRIMARYELEMENT.NAME"
 msgid "Primary Element: {0}"
-msgstr ""
+msgstr "Основний Елемен: {0}т"
 
 #. STRINGS.UI.ELEMENTAL.PRIMARYELEMENT.TOOLTIP
 msgctxt "STRINGS.UI.ELEMENTAL.PRIMARYELEMENT.TOOLTIP"
 msgid "The selected object is primarily composed of {0}"
-msgstr ""
+msgstr "Обраний об'єкт в основному складається з {0}"
 
 #. STRINGS.UI.ELEMENTAL.SHC.NAME
 msgctxt "STRINGS.UI.ELEMENTAL.SHC.NAME"
 msgid "Specific Heat Capacity: {0}"
-msgstr ""
+msgstr "Питома теплоємність: {0}"
 
 #. STRINGS.UI.ELEMENTAL.SHC.TOOLTIP
 msgctxt "STRINGS.UI.ELEMENTAL.SHC.TOOLTIP"
 msgid "{0} J is required to heat 1 g of the selected object by 1 K"
-msgstr ""
+msgstr "Необхідно {0} J тепла для 1 g обраного об'єкта на 1 K"
 
 #. STRINGS.UI.ELEMENTAL.TEMPERATURE.NAME
 msgctxt "STRINGS.UI.ELEMENTAL.TEMPERATURE.NAME"
 msgid "Temperature: {0}"
-msgstr ""
+msgstr "Температура: {0}"
 
 #. STRINGS.UI.ELEMENTAL.TEMPERATURE.TOOLTIP
 msgctxt "STRINGS.UI.ELEMENTAL.TEMPERATURE.TOOLTIP"
 msgid "The selected object's current temperature is {0}"
-msgstr ""
+msgstr "Дана температура обраного об'єкта {0}"
 
 #. STRINGS.UI.ELEMENTAL.THERMALCONDUCTIVITY.ADJECTIVES.HIGH_CONDUCTIVITY
 msgctxt "STRINGS.UI.ELEMENTAL.THERMALCONDUCTIVITY.ADJECTIVES.HIGH_CONDUCTIVITY"
@@ -22722,12 +22722,12 @@ msgstr ""
 #. STRINGS.UI.ELEMENTAL.THERMALCONDUCTIVITY.NAME
 msgctxt "STRINGS.UI.ELEMENTAL.THERMALCONDUCTIVITY.NAME"
 msgid "Thermal Conductivity: {0}"
-msgstr ""
+msgstr "Теплопровідність: {0}"
 
 #. STRINGS.UI.ELEMENTAL.THERMALCONDUCTIVITY.TOOLTIP
 msgctxt "STRINGS.UI.ELEMENTAL.THERMALCONDUCTIVITY.TOOLTIP"
 msgid "This object can conduct heat to other materials at a rate of {0} W for each K degree difference\n\nBetween two objects, the rate of heat transfer will be determined by the object with the lowest Thermal Conductivity"
-msgstr ""
+msgstr "Цей об'єкт може проводити тепло в інших матеріалах зі швидкістю {0} W для кожної K різниці ступенів \n\nМіж двома об'єктами швидкість передачі тепла визначатиметься об'єктом з найнижчою Теплопровідністю"
 
 #. STRINGS.UI.ELEMENTAL.UNITS.NAME
 msgctxt "STRINGS.UI.ELEMENTAL.UNITS.NAME"
@@ -25442,27 +25442,27 @@ msgstr ""
 #. STRINGS.UI.OVERLAYS.OXYGEN.BUTTON
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.BUTTON"
 msgid "Oxygen Overlay"
-msgstr ""
+msgstr "Оверлей Кисню"
 
 #. STRINGS.UI.OVERLAYS.OXYGEN.LEGEND1
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.LEGEND1"
 msgid "Very Breathable"
-msgstr ""
+msgstr "Дихається вільно"
 
 #. STRINGS.UI.OVERLAYS.OXYGEN.LEGEND2
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.LEGEND2"
 msgid "Breathable"
-msgstr ""
+msgstr "Придатний для дихання"
 
 #. STRINGS.UI.OVERLAYS.OXYGEN.LEGEND3
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.LEGEND3"
 msgid "Barely Breathable"
-msgstr ""
+msgstr "Ледве дихається"
 
 #. STRINGS.UI.OVERLAYS.OXYGEN.LEGEND4
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.LEGEND4"
 msgid "Unbreathable"
-msgstr ""
+msgstr "Непридатний для дихання"
 
 #. STRINGS.UI.OVERLAYS.OXYGEN.LEGEND5
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.LEGEND5"
@@ -25477,7 +25477,7 @@ msgstr ""
 #. STRINGS.UI.OVERLAYS.OXYGEN.NAME
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.NAME"
 msgid "OXYGEN OVERLAY"
-msgstr ""
+msgstr "ОВЕРЛЕЙ КИСНЮ"
 
 #. STRINGS.UI.OVERLAYS.OXYGEN.TOOLTIPS.LEGEND1
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.TOOLTIPS.LEGEND1"
@@ -27212,7 +27212,7 @@ msgstr ""
 #. STRINGS.UI.TOOLTIPS.OXYGENOVERLAYSTRING
 msgctxt "STRINGS.UI.TOOLTIPS.OXYGENOVERLAYSTRING"
 msgid "Displays ambient oxygen density"
-msgstr ""
+msgstr "Відображає щільність кисневого середовища"
 
 #. STRINGS.UI.TOOLTIPS.PAUSE
 msgctxt "STRINGS.UI.TOOLTIPS.PAUSE"
@@ -28832,7 +28832,7 @@ msgstr ""
 #. STRINGS.UI.USERMENUACTIONS.DIG.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.DIG.NAME"
 msgid "Dig"
-msgstr "Копати"
+msgstr "Копач"
 
 #. STRINGS.UI.USERMENUACTIONS.DIG.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.DIG.TOOLTIP"
