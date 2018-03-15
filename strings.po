@@ -8362,7 +8362,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.DISEASES.ADDED_POPFX
 msgctxt "STRINGS.DUPLICANTS.DISEASES.ADDED_POPFX"
 msgid "{0}: {1} Germs"
-msgstr ""
+msgstr "{0}: {1} Бактерії"
 
 #. STRINGS.DUPLICANTS.DISEASES.ALLDISEASES.NAME
 msgctxt "STRINGS.DUPLICANTS.DISEASES.ALLDISEASES.NAME"
@@ -8607,7 +8607,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.DISEASES.GERMS
 msgctxt "STRINGS.DUPLICANTS.DISEASES.GERMS"
 msgid "Germs"
-msgstr ""
+msgstr "Бактерії"
 
 #. STRINGS.DUPLICANTS.DISEASES.GERMS_CONSUMED_DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.DISEASES.GERMS_CONSUMED_DESCRIPTION"
@@ -9417,7 +9417,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.MODIFIERS.MEDICINE_GENERICPILL.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.MEDICINE_GENERICPILL.NAME"
 msgid "Placebo"
-msgstr ""
+msgstr "Плацебо"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.MEDICINE_GENERICPILL.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.MEDICINE_GENERICPILL.TOOLTIP"
@@ -15792,7 +15792,7 @@ msgstr ""
 #. STRINGS.ITEMS.PILLS.PLACEBO.NAME
 msgctxt "STRINGS.ITEMS.PILLS.PLACEBO.NAME"
 msgid "Placebo"
-msgstr ""
+msgstr "Плацебо"
 
 #. STRINGS.ITEMS.PILLS.PLACEBO.RECIPEDESC
 msgctxt "STRINGS.ITEMS.PILLS.PLACEBO.RECIPEDESC"
@@ -15822,7 +15822,7 @@ msgstr ""
 #. STRINGS.ITEMS.PILLS.VITAMINSUPPLEMENT.NAME
 msgctxt "STRINGS.ITEMS.PILLS.VITAMINSUPPLEMENT.NAME"
 msgid "Vitamin Chews"
-msgstr ""
+msgstr "Жувальна Вітамінка"
 
 #. STRINGS.ITEMS.PILLS.VITAMINSUPPLEMENT.RECIPEDESC
 msgctxt "STRINGS.ITEMS.PILLS.VITAMINSUPPLEMENT.RECIPEDESC"
@@ -17337,7 +17337,7 @@ msgstr "Хлорний Камінь"
 #. STRINGS.MISC.TAGS.BREATHABLE
 msgctxt "STRINGS.MISC.TAGS.BREATHABLE"
 msgid "Breathable Gas"
-msgstr "Придатний для дихання Газ"
+msgstr "Придатний для дихання газ"
 
 #. STRINGS.MISC.TAGS.BUILDABLEANY
 msgctxt "STRINGS.MISC.TAGS.BUILDABLEANY"
@@ -21402,7 +21402,7 @@ msgstr ""
 #. STRINGS.UI.CONSUMABLESSCREEN.FOOD_AVAILABLE
 msgctxt "STRINGS.UI.CONSUMABLESSCREEN.FOOD_AVAILABLE"
 msgid "Available: {0}"
-msgstr ""
+msgstr "Доступно: {0}"
 
 #. STRINGS.UI.CONSUMABLESSCREEN.FOOD_CANT_CONSUME
 msgctxt "STRINGS.UI.CONSUMABLESSCREEN.FOOD_CANT_CONSUME"
@@ -21412,32 +21412,32 @@ msgstr ""
 #. STRINGS.UI.CONSUMABLESSCREEN.FOOD_EXPECTATIONS
 msgctxt "STRINGS.UI.CONSUMABLESSCREEN.FOOD_EXPECTATIONS"
 msgid "Expectations"
-msgstr ""
+msgstr "Очікування"
 
 #. STRINGS.UI.CONSUMABLESSCREEN.FOOD_EXPECTATIONS_TOOLTIP
 msgctxt "STRINGS.UI.CONSUMABLESSCREEN.FOOD_EXPECTATIONS_TOOLTIP"
 msgid "Expectations\n------------------\nDesires food that is {0} quality or better"
-msgstr ""
+msgstr "Очікування\n------------------\nБажає їжу, яка є {0} якістю або кращою"
 
 #. STRINGS.UI.CONSUMABLESSCREEN.FOOD_PERMISSION_OFF
 msgctxt "STRINGS.UI.CONSUMABLESSCREEN.FOOD_PERMISSION_OFF"
 msgid "<b>{0}</b> is <color=#B87194FF>not allowed</color> to eat <b>{1}</b>"
-msgstr ""
+msgstr "<b>{0}</b> <color=#B87194FF>не дозволено</color> їсти <b>{1}</b>"
 
 #. STRINGS.UI.CONSUMABLESSCREEN.FOOD_PERMISSION_ON
 msgctxt "STRINGS.UI.CONSUMABLESSCREEN.FOOD_PERMISSION_ON"
 msgid "<b>{0}</b> is <color=#B87194FF>allowed</color> to eat <b>{1}</b>"
-msgstr ""
+msgstr "<b>{0}</b> <color=#B87194FF>дозволено</color> їсти <b>{1}</b>"
 
 #. STRINGS.UI.CONSUMABLESSCREEN.FOOD_QUALITY
 msgctxt "STRINGS.UI.CONSUMABLESSCREEN.FOOD_QUALITY"
 msgid "Quality: {0}"
-msgstr ""
+msgstr "Якість: {0}"
 
 #. STRINGS.UI.CONSUMABLESSCREEN.FOOD_QUALITY_VS_EXPECTATION
 msgctxt "STRINGS.UI.CONSUMABLESSCREEN.FOOD_QUALITY_VS_EXPECTATION"
 msgid "------------------\nThis food type {0} {1}'s quality expectations\n[{2} Quality / {3} Expectation]"
-msgstr ""
+msgstr "------------------\nЦей тип їжі {0} {1}'s оцікувана якість\n[{2} Якість / {3} Очікування]"
 
 #. STRINGS.UI.CONSUMABLESSCREEN.FOOD_REFUSE
 msgctxt "STRINGS.UI.CONSUMABLESSCREEN.FOOD_REFUSE"
@@ -21447,27 +21447,27 @@ msgstr ""
 #. STRINGS.UI.CONSUMABLESSCREEN.NEW_MINIONS_FOOD_PERMISSION_OFF
 msgctxt "STRINGS.UI.CONSUMABLESSCREEN.NEW_MINIONS_FOOD_PERMISSION_OFF"
 msgid "<b>New Duplicants</b> are <color=#B87194FF>not allowed</color> to eat \n<b>{0}</b> by default"
-msgstr ""
+msgstr "<b>Новим Дублікантам</b> <color=#B87194FF>не додволено</color> їсти \n<b>{0}</b> за замовчуванням"
 
 #. STRINGS.UI.CONSUMABLESSCREEN.NEW_MINIONS_FOOD_PERMISSION_ON
 msgctxt "STRINGS.UI.CONSUMABLESSCREEN.NEW_MINIONS_FOOD_PERMISSION_ON"
 msgid "<b>New Duplicants</b> are <color=#B87194FF>allowed</color> to eat \n<b>{0}</b> by default"
-msgstr ""
+msgstr "<b>Новим Дублікантам</b> <color=#B87194FF>додволено</color> їсти \n<b>{0}</b> за замовчуванням"
 
 #. STRINGS.UI.CONSUMABLESSCREEN.NEW_MINIONS_TOOLTIP_TOGGLE_ROW
 msgctxt "STRINGS.UI.CONSUMABLESSCREEN.NEW_MINIONS_TOOLTIP_TOGGLE_ROW"
 msgid "Toggle all food permissions for <b>New Duplicants</b>"
-msgstr ""
+msgstr "Перемкнути дозвіл на всю їжу для <b>Нових Дублікантів</b>"
 
 #. STRINGS.UI.CONSUMABLESSCREEN.STRESS
 msgctxt "STRINGS.UI.CONSUMABLESSCREEN.STRESS"
 msgid "Stress"
-msgstr ""
+msgstr "Стрес"
 
 #. STRINGS.UI.CONSUMABLESSCREEN.STRESS_TOOLTIP
 msgctxt "STRINGS.UI.CONSUMABLESSCREEN.STRESS_TOOLTIP"
 msgid "Stress\n------------------\n{0} of a possible 100%"
-msgstr ""
+msgstr "Стрес\n------------------\n{0} з можливих 100%"
 
 #. STRINGS.UI.CONSUMABLESSCREEN.TITLE
 msgctxt "STRINGS.UI.CONSUMABLESSCREEN.TITLE"
@@ -21477,7 +21477,7 @@ msgstr "СПОЖИВЧІ"
 #. STRINGS.UI.CONSUMABLESSCREEN.TOOLTIP_TOGGLE_ALL
 msgctxt "STRINGS.UI.CONSUMABLESSCREEN.TOOLTIP_TOGGLE_ALL"
 msgid "Toggle all food permissions colonywide"
-msgstr ""
+msgstr "Перемкнути дозвіл на всю їжу в колонії"
 
 #. STRINGS.UI.CONSUMABLESSCREEN.TOOLTIP_TOGGLE_COLUMN
 msgctxt "STRINGS.UI.CONSUMABLESSCREEN.TOOLTIP_TOGGLE_COLUMN"
@@ -21487,7 +21487,7 @@ msgstr ""
 #. STRINGS.UI.CONSUMABLESSCREEN.TOOLTIP_TOGGLE_ROW
 msgctxt "STRINGS.UI.CONSUMABLESSCREEN.TOOLTIP_TOGGLE_ROW"
 msgid "Toggle all food permissions for <b>{0}</b>"
-msgstr ""
+msgstr "Перемкнути дозвіл на всю їжу для <b>{0}</b>"
 
 #. STRINGS.UI.COPIED_SETTINGS
 msgctxt "STRINGS.UI.COPIED_SETTINGS"
@@ -22762,12 +22762,12 @@ msgstr "Згенеровано Калорій:"
 #. STRINGS.UI.ENDOFDAYREPORT.CALORIES_CREATED.NEGATIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.CALORIES_CREATED.NEGATIVE_TOOLTIP"
 msgid "Your colony consumed {0} of <style=\"food\">Food</style> over the course of the day"
-msgstr ""
+msgstr "Ваша колонія спожила {0} <style=\"food\">Їжі</style> на протязі всього дня"
 
 #. STRINGS.UI.ENDOFDAYREPORT.CALORIES_CREATED.POSITIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.CALORIES_CREATED.POSITIVE_TOOLTIP"
 msgid "Your colony produced {0} of <style=\"food\">Food</style> over the course of the day"
-msgstr "Ваша колонія виробила {0} of <style=\"food\">Їжі</style> на протязі всього дня"
+msgstr "Ваша колонія виробила {0} <style=\"food\">Їжі</style> на протязі всього дня"
 
 #. STRINGS.UI.ENDOFDAYREPORT.CONTAMINATED_OXYGEN_FLATULENCE.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.CONTAMINATED_OXYGEN_FLATULENCE.NAME"
@@ -22862,12 +22862,12 @@ msgstr "<style=\"power\">Енергія</style> Спожита:"
 #. STRINGS.UI.ENDOFDAYREPORT.ENERGY_USAGE.NEGATIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.ENERGY_USAGE.NEGATIVE_TOOLTIP"
 msgid "Your colony consumed {0} of <style=\"power\">Power</style> over the course of the day"
-msgstr "Ваша колонія спожила {0} of <style=\"power\">Енергії</style> на протязі всього дня"
+msgstr "Ваша колонія спожила {0} <style=\"power\">Енергії</style> на протязі всього дня"
 
 #. STRINGS.UI.ENDOFDAYREPORT.ENERGY_USAGE.POSITIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.ENERGY_USAGE.POSITIVE_TOOLTIP"
 msgid "Your colony created {0} of <style=\"power\">Power</style> over the course of the day"
-msgstr ""
+msgstr "Ваша колонія виробила {0} <style=\"power\">Енергії</style> на протязі всього дня"
 
 #. STRINGS.UI.ENDOFDAYREPORT.ENERGY_WASTED.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.ENERGY_WASTED.NAME"
@@ -22877,7 +22877,7 @@ msgstr "<style=\"power\">Енергія</style> Витрачається:"
 #. STRINGS.UI.ENDOFDAYREPORT.ENERGY_WASTED.NEGATIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.ENERGY_WASTED.NEGATIVE_TOOLTIP"
 msgid "Your colony lost {0} of <style=\"power\">Power</style> today due to overproduction and battery loss"
-msgstr "Ваша колонія втратила {0} of <style=\"power\">Енергії</style> сьогодні від перевиробництва та втрату батареями"
+msgstr "Ваша колонія втратила {0} <style=\"power\">Енергії</style> сьогодні від перевиробництва та втрату батареями"
 
 #. STRINGS.UI.ENDOFDAYREPORT.ENERGY_WASTED.POSITIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.ENERGY_WASTED.POSITIVE_TOOLTIP"
@@ -22897,7 +22897,7 @@ msgstr "Ваші Дубліканти витратили загалом {0} ба
 #. STRINGS.UI.ENDOFDAYREPORT.LEVEL_UP.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.LEVEL_UP.NAME"
 msgid "Skill Increases:"
-msgstr ""
+msgstr "Збільшення Досвіду:"
 
 #. STRINGS.UI.ENDOFDAYREPORT.LEVEL_UP.TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.LEVEL_UP.TOOLTIP"
@@ -22997,12 +22997,12 @@ msgstr "<style=\"oxygen\">Кисню</style> Згенеровано:"
 #. STRINGS.UI.ENDOFDAYREPORT.OXYGEN_CREATED.NEGATIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.OXYGEN_CREATED.NEGATIVE_TOOLTIP"
 msgid "Your colony consumed {0} of <style=\"oxygen\">Oxygen</style> over the course of the day"
-msgstr ""
+msgstr "Ваша колонія спожила {0} <style=\"oxygen\">Кисню</style> на протязі всього дня"
 
 #. STRINGS.UI.ENDOFDAYREPORT.OXYGEN_CREATED.POSITIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.OXYGEN_CREATED.POSITIVE_TOOLTIP"
 msgid "Your colony generated {0} of <style=\"oxygen\">Oxygen</style> over the course of the day"
-msgstr "Ваша колонія виробила {0} of <style=\"oxygen\">Кисню</style> на протязі всього дня"
+msgstr "Ваша колонія виробила {0} <style=\"oxygen\">Кисню</style> на протязі всього дня"
 
 #. STRINGS.UI.ENDOFDAYREPORT.PREV
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.PREV"
@@ -24447,12 +24447,12 @@ msgstr ""
 #. STRINGS.UI.JOBSCREEN_DEFAULT
 msgctxt "STRINGS.UI.JOBSCREEN_DEFAULT"
 msgid "New Duplicants"
-msgstr ""
+msgstr "Нові Дубліканти"
 
 #. STRINGS.UI.JOBSCREEN_EVERYONE
 msgctxt "STRINGS.UI.JOBSCREEN_EVERYONE"
 msgid "Everyone"
-msgstr ""
+msgstr "Будь-хто"
 
 #. STRINGS.UI.JOBSCREEN_HIGH
 msgctxt "STRINGS.UI.JOBSCREEN_HIGH"
@@ -24877,7 +24877,7 @@ msgstr "ОВЕРЛЕЙ БАКТЕРІЙ"
 #. STRINGS.UI.OVERLAYS.DISEASE.NO_DISEASE
 msgctxt "STRINGS.UI.OVERLAYS.DISEASE.NO_DISEASE"
 msgid "Zero surface germs"
-msgstr ""
+msgstr "Нульовий рівень бактерій"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.BUTTON
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.BUTTON"
@@ -26537,7 +26537,7 @@ msgstr ""
 #. STRINGS.UI.TABLESCREENS.COLUMN_SORT_BY_EXPECTATIONS
 msgctxt "STRINGS.UI.TABLESCREENS.COLUMN_SORT_BY_EXPECTATIONS"
 msgid "Sort by quality expectations"
-msgstr ""
+msgstr "Сортувати за якість очікування"
 
 #. STRINGS.UI.TABLESCREENS.COLUMN_SORT_BY_FULLNESS
 msgctxt "STRINGS.UI.TABLESCREENS.COLUMN_SORT_BY_FULLNESS"
@@ -26557,12 +26557,12 @@ msgstr ""
 #. STRINGS.UI.TABLESCREENS.COLUMN_SORT_BY_NAME
 msgctxt "STRINGS.UI.TABLESCREENS.COLUMN_SORT_BY_NAME"
 msgid "Sort by name"
-msgstr ""
+msgstr "Сортувати за імям"
 
 #. STRINGS.UI.TABLESCREENS.COLUMN_SORT_BY_STRESS
 msgctxt "STRINGS.UI.TABLESCREENS.COLUMN_SORT_BY_STRESS"
 msgid "Sort by stress level"
-msgstr ""
+msgstr "Сортувати за рівнем стресу"
 
 #. STRINGS.UI.TABLESCREENS.DUPLICANT_PROPERNAME
 msgctxt "STRINGS.UI.TABLESCREENS.DUPLICANT_PROPERNAME"
@@ -26572,7 +26572,7 @@ msgstr ""
 #. STRINGS.UI.TABLESCREENS.GOTO_DUPLICANT_BUTTON
 msgctxt "STRINGS.UI.TABLESCREENS.GOTO_DUPLICANT_BUTTON"
 msgid "Double-click to go to <b>{0}</b>"
-msgstr ""
+msgstr "Двічі клацніть, щоб перейти до <b>{0}</b>"
 
 #. STRINGS.UI.TABLESCREENS.SELECT_DUPLICANT_BUTTON
 msgctxt "STRINGS.UI.TABLESCREENS.SELECT_DUPLICANT_BUTTON"
@@ -28322,7 +28322,7 @@ msgstr ""
 #. STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.DISEASE_UNITS
 msgctxt "STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.DISEASE_UNITS"
 msgid "germs"
-msgstr ""
+msgstr "бактерії"
 
 #. STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.PRESSURE
 msgctxt "STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.PRESSURE"
@@ -28512,7 +28512,7 @@ msgstr ""
 #. STRINGS.UI.UNITSUFFIXES.DISEASE.UNITS
 msgctxt "STRINGS.UI.UNITSUFFIXES.DISEASE.UNITS"
 msgid " germs"
-msgstr ""
+msgstr " бактерії"
 
 #. STRINGS.UI.UNITSUFFIXES.DISTANCE.METER
 msgctxt "STRINGS.UI.UNITSUFFIXES.DISTANCE.METER"
