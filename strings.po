@@ -14014,6 +14014,9 @@ msgid ""
 "\n"
 "It can be used to produce <style=\"oxygen\">Oxygen</style> when grown in Algae Terrariums."
 msgstr ""
+"Водорості - це низка рухливих, одноклітинних форм життя.\n"
+"\n"
+"Він може бути використаний для виробництва <style=\"oxygen\">Кисню</style> коли ростуть в Тераріумі Водоростей."
 
 #. STRINGS.ELEMENTS.ALGAE.NAME
 msgctxt "STRINGS.ELEMENTS.ALGAE.NAME"
@@ -14032,6 +14035,9 @@ msgid ""
 "\n"
 "It is useful in <style=\"hygiene\">Hygienic</style> processes."
 msgstr ""
+"Хлорний Камінь - це нестійка сполука, яка виділяє токсичний <style=\"gas\">Хлорний Газ</style>.\n"
+"\n"
+"Це допомагає в <style=\"hygiene\">Гігієнічних</style> процесах."
 
 #. STRINGS.ELEMENTS.BLEACHSTONE.NAME
 msgctxt "STRINGS.ELEMENTS.BLEACHSTONE.NAME"
@@ -14041,7 +14047,7 @@ msgstr "Хлорний Камінь"
 #. STRINGS.ELEMENTS.BOTTLEDWATER.DESC
 msgctxt "STRINGS.ELEMENTS.BOTTLEDWATER.DESC"
 msgid "(H<sub>2</sub>O) Clean <style=\"liquid\">Water</style>, prepped for transport."
-msgstr ""
+msgstr "(H<sub>2</sub>O) Чиста <style=\"liquid\">Вода</style>, приготована для перевезення."
 
 #. STRINGS.ELEMENTS.BOTTLEDWATER.NAME
 msgctxt "STRINGS.ELEMENTS.BOTTLEDWATER.NAME"
@@ -14051,7 +14057,7 @@ msgstr "Вода"
 #. STRINGS.ELEMENTS.BREATHABLEDESC
 msgctxt "STRINGS.ELEMENTS.BREATHABLEDESC"
 msgid "<color=#{0}>({1})</color>"
-msgstr ""
+msgstr "<color=#{0}>({1})</color>"
 
 #. STRINGS.ELEMENTS.BRICK.BUILD_DESC
 msgctxt "STRINGS.ELEMENTS.BRICK.BUILD_DESC"
@@ -14065,11 +14071,14 @@ msgid ""
 "\n"
 "It is a reliable <style=\"RawMineral\">Construction Material</style>."
 msgstr ""
+"Кераміка - це твердий, крихкий матеріал, сформований з нагрітої <style=\"RawMineral\">Глини</style>.\n"
+"\n"
+"Це надійний <style=\"RawMineral\">Будівельний Матеріал</style>."
 
 #. STRINGS.ELEMENTS.BRICK.NAME
 msgctxt "STRINGS.ELEMENTS.BRICK.NAME"
 msgid "Ceramic"
-msgstr ""
+msgstr "Кераміка"
 
 #. STRINGS.ELEMENTS.CARBON.BUILD_DESC
 msgctxt "STRINGS.ELEMENTS.CARBON.BUILD_DESC"
@@ -14077,12 +14086,16 @@ msgid ""
 msgstr ""
 
 #. STRINGS.ELEMENTS.CARBON.DESC
+#, fuzzy
 msgctxt "STRINGS.ELEMENTS.CARBON.DESC"
 msgid ""
 "(C) Coal is a combustible fossil fuel composed of carbon.\n"
 "\n"
 "It is useful in <style=\"power\">Power</style> production."
 msgstr ""
+"(C) Вугілля - це горюча паливна копалина створена з вуглецю.\n"
+"\n"
+"Це придатний у виробництві <style=\"power\">Енергії</style>."
 
 #. STRINGS.ELEMENTS.CARBON.NAME
 msgctxt "STRINGS.ELEMENTS.CARBON.NAME"
@@ -14096,6 +14109,9 @@ msgid ""
 "\n"
 "It tends to sink below other gases."
 msgstr ""
+"(CO<sub>2</sub>) Двоокис Вуглецю - це токсичний, атомно тяжка хімічна сполука в <style=\"gas\">Газоподібному</style> стані.\n"
+"\n"
+"Він має тенденцію знижуватися нижче інших газів."
 
 #. STRINGS.ELEMENTS.CARBONDIOXIDE.NAME
 msgctxt "STRINGS.ELEMENTS.CARBONDIOXIDE.NAME"
@@ -14110,17 +14126,17 @@ msgstr ""
 #. STRINGS.ELEMENTS.CARBONFIBRE.DESC
 msgctxt "STRINGS.ELEMENTS.CARBONFIBRE.DESC"
 msgid "Carbon Fiber is a <style=\"RefinedMineral\">Manufactured Material</style> with high tensile strength."
-msgstr ""
+msgstr "Вуглецеве Волокно - це <style=\"RefinedMineral\">Виробничий Матеріал</style> з високою міцністю до розтягування."
 
 #. STRINGS.ELEMENTS.CARBONFIBRE.NAME
 msgctxt "STRINGS.ELEMENTS.CARBONFIBRE.NAME"
 msgid "Carbon Fiber"
-msgstr ""
+msgstr "Вуглецеве Волокно"
 
 #. STRINGS.ELEMENTS.CARBONGAS.DESC
 msgctxt "STRINGS.ELEMENTS.CARBONGAS.DESC"
 msgid "(C) Carbon is an abundant, versatile element heated into a <style=\"gas\">Gaseous</style> state."
-msgstr ""
+msgstr "(C) Вуглець це поширений багатоцільовий елемент, нагрітий до <style=\"gas\">Газоподібного</style> стану."
 
 #. STRINGS.ELEMENTS.CARBONGAS.NAME
 msgctxt "STRINGS.ELEMENTS.CARBONGAS.NAME"
@@ -14135,12 +14151,12 @@ msgstr ""
 #. STRINGS.ELEMENTS.CEMENT.DESC
 msgctxt "STRINGS.ELEMENTS.CEMENT.DESC"
 msgid "Cement is a refined building material used for assembling advanced buildings."
-msgstr ""
+msgstr "Цемент - це очищений будівельний матеріал, який використовується для складання передових будівель."
 
 #. STRINGS.ELEMENTS.CEMENT.NAME
 msgctxt "STRINGS.ELEMENTS.CEMENT.NAME"
 msgid "Cement"
-msgstr ""
+msgstr "Цемент"
 
 #. STRINGS.ELEMENTS.CEMENTMIX.BUILD_DESC
 msgctxt "STRINGS.ELEMENTS.CEMENTMIX.BUILD_DESC"
@@ -14148,19 +14164,20 @@ msgid ""
 msgstr ""
 
 #. STRINGS.ELEMENTS.CEMENTMIX.DESC
+#, fuzzy
 msgctxt "STRINGS.ELEMENTS.CEMENTMIX.DESC"
 msgid "Cement Mix can be used to create <style=\"solid\">Cement</style> for advanced building assembly."
-msgstr ""
+msgstr "Цементна Суміш може бути використана для створення <style=\"solid\">Цементу</style> для розширеної будівельної збірки."
 
 #. STRINGS.ELEMENTS.CEMENTMIX.NAME
 msgctxt "STRINGS.ELEMENTS.CEMENTMIX.NAME"
 msgid "Cement Mix"
-msgstr ""
+msgstr "Цементна Суміш"
 
 #. STRINGS.ELEMENTS.CHLORINE.DESC
 msgctxt "STRINGS.ELEMENTS.CHLORINE.DESC"
 msgid "(Cl) Chlorine is an extremely toxic element in a <style=\"solid\">Solid</style> state."
-msgstr ""
+msgstr "(Cl) Хлор - цу украй токсичний елемент в <style=\"solid\">Твердому</style> стані."
 
 #. STRINGS.ELEMENTS.CHLORINE.NAME
 msgctxt "STRINGS.ELEMENTS.CHLORINE.NAME"
@@ -14170,7 +14187,7 @@ msgstr "Хлор"
 #. STRINGS.ELEMENTS.CHLORINEGAS.DESC
 msgctxt "STRINGS.ELEMENTS.CHLORINEGAS.DESC"
 msgid "(Cl) Chlorine is an extremely toxic chemical in a <style=\"gas\">Gaseous</style> state."
-msgstr ""
+msgstr "(Cl) Хлор - це украй токсичний хімічний в <style=\"gas\">Газоподібному</style> стані."
 
 #. STRINGS.ELEMENTS.CHLORINEGAS.NAME
 msgctxt "STRINGS.ELEMENTS.CHLORINEGAS.NAME"
@@ -14189,6 +14206,9 @@ msgid ""
 "\n"
 "It is a reliable <style=\"RawMineral\">Construction Material</style>."
 msgstr ""
+"Глина - це м'який природний зустрічаючий композит із каменю та ґрунту, який твердне при високим <style=\"heat\">Температурам</style>.\n"
+"\n"
+"Це надійний <style=\"RawMineral\">Будівельний Матеріал</style>."
 
 #. STRINGS.ELEMENTS.CLAY.NAME
 msgctxt "STRINGS.ELEMENTS.CLAY.NAME"
@@ -14202,6 +14222,9 @@ msgid ""
 "\n"
 "It is breathable."
 msgstr ""
+"(O<sub>2</sub>) Забруднений Кисень - це бредне, невідфільтроване повітря.\n"
+"\n"
+"Придатний для дихання."
 
 #. STRINGS.ELEMENTS.CONTAMINATEDOXYGEN.NAME
 msgctxt "STRINGS.ELEMENTS.CONTAMINATEDOXYGEN.NAME"
@@ -14220,6 +14243,9 @@ msgid ""
 "\n"
 "It is suitable for building <style=\"power\">Power</style> systems."
 msgstr ""
+"(Cu) Мідь - це провідний <style=\"RawMetal\">Метал</style>.\n"
+"\n"
+"Він підходить для будівництва <style=\"power\">Електричних</style> мереж."
 
 #. STRINGS.ELEMENTS.COPPER.NAME
 msgctxt "STRINGS.ELEMENTS.COPPER.NAME"
@@ -14229,7 +14255,7 @@ msgstr "Мідь"
 #. STRINGS.ELEMENTS.COPPERGAS.DESC
 msgctxt "STRINGS.ELEMENTS.COPPERGAS.DESC"
 msgid "(Cu) Copper is a conductive <style=\"RawMetal\">Metal</style> heated into a <style=\"gas\">Gas</style>."
-msgstr ""
+msgstr "(Cu) Мідь - це провідний <style=\"RawMetal\">Метал</style> нагрітий до <style=\"gas\">Газу</style>."
 
 #. STRINGS.ELEMENTS.COPPERGAS.NAME
 msgctxt "STRINGS.ELEMENTS.COPPERGAS.NAME"
@@ -14250,12 +14276,16 @@ msgid "Genetic Ooze"
 msgstr ""
 
 #. STRINGS.ELEMENTS.CRUDEOIL.DESC
+#, fuzzy
 msgctxt "STRINGS.ELEMENTS.CRUDEOIL.DESC"
 msgid ""
 "Crude Oil is a raw potential <style=\"power\">Power</style> source composed of billions of dead, primordial organisms.\n"
 "\n"
 "It must be refined into <style=\"liquid\">Petroleum</style> before it can be used to generate power."
 msgstr ""
+"Сира Нафта - це сирий потенційний спокійний, <style=\"power\">Електричний</style> ресурс з мільярда померлих, первісних організмів.\n"
+"\n"
+"Він повинен бути очищений до <style=\"liquid\">Petroleum</style> до того, як використаний генерувати енергію."
 
 #. STRINGS.ELEMENTS.CRUDEOIL.NAME
 msgctxt "STRINGS.ELEMENTS.CRUDEOIL.NAME"
@@ -14265,12 +14295,12 @@ msgstr "Сира Нафта"
 #. STRINGS.ELEMENTS.CRUSHEDICE.DESC
 msgctxt "STRINGS.ELEMENTS.CRUSHEDICE.DESC"
 msgid "(H<sub>2</sub>0) A slush of crushed, semi-solid ice."
-msgstr ""
+msgstr "(H<sub>2</sub>0) Подрібнений талий сніг, напівтвердий лід."
 
 #. STRINGS.ELEMENTS.CRUSHEDICE.NAME
 msgctxt "STRINGS.ELEMENTS.CRUSHEDICE.NAME"
 msgid "Crushed Ice"
-msgstr ""
+msgstr "Зім'ятий Лід"
 
 #. STRINGS.ELEMENTS.CRUSHEDROCK.BUILD_DESC
 msgctxt "STRINGS.ELEMENTS.CRUSHEDROCK.BUILD_DESC"
@@ -14280,12 +14310,12 @@ msgstr ""
 #. STRINGS.ELEMENTS.CRUSHEDROCK.DESC
 msgctxt "STRINGS.ELEMENTS.CRUSHEDROCK.DESC"
 msgid "Crushed Rock is <style=\"solid\">Igneous Rock</style> crushed into a mechanical mixture."
-msgstr ""
+msgstr "Зім'ятий Камінь - це <style=\"solid\">Вулканічний Камінь</style> подрібнений в механічному змішувачі."
 
 #. STRINGS.ELEMENTS.CRUSHEDROCK.NAME
 msgctxt "STRINGS.ELEMENTS.CRUSHEDROCK.NAME"
 msgid "Crushed Rock"
-msgstr ""
+msgstr "Зім'ятий Камінь"
 
 #. STRINGS.ELEMENTS.CUPRITE.BUILD_DESC
 msgctxt "STRINGS.ELEMENTS.CUPRITE.BUILD_DESC"
@@ -14299,6 +14329,9 @@ msgid ""
 "\n"
 "It is suitable for building <style=\"power\">Power</style> systems."
 msgstr ""
+"(Cu<sub>2</sub>0) Мідна Руда - це провідний <style=\"RawMetal\">Метал</style>.\n"
+"\n"
+"Він підходить для будівництва <style=\"power\">Електричних</style> мереж."
 
 #. STRINGS.ELEMENTS.CUPRITE.NAME
 msgctxt "STRINGS.ELEMENTS.CUPRITE.NAME"
@@ -14317,6 +14350,9 @@ msgid ""
 "\n"
 "It is very difficult to excavate."
 msgstr ""
+"(C) Діамант - це промисловий камінь, високою щільністю вуглецю.\n"
+"\n"
+"Це дуже важкий в копанні."
 
 #. STRINGS.ELEMENTS.DIAMOND.NAME
 msgctxt "STRINGS.ELEMENTS.DIAMOND.NAME"
@@ -14335,6 +14371,9 @@ msgid ""
 "\n"
 "It is necessary in some forms of <style=\"food\">Food</style> production."
 msgstr ""
+"Земля - це м'яка, багата поживними речовинами, підтримуюча життя.\n"
+"\n"
+"Це необхідне в деяких формах виробництва <style=\"food\">Їжі</style>."
 
 #. STRINGS.ELEMENTS.DIRT.NAME
 msgctxt "STRINGS.ELEMENTS.DIRT.NAME"
@@ -14344,12 +14383,12 @@ msgstr "Земля"
 #. STRINGS.ELEMENTS.DIRTYICE.DESC
 msgctxt "STRINGS.ELEMENTS.DIRTYICE.DESC"
 msgid "Polluted Ice is dirty, unfiltered water frozen into a <style=\"solid\">Solid</style> state."
-msgstr ""
+msgstr "Забруднений Лід - це брудна, не відфільтрована вода замерзла до <style=\"solid\">Твердого</style> стану."
 
 #. STRINGS.ELEMENTS.DIRTYICE.NAME
 msgctxt "STRINGS.ELEMENTS.DIRTYICE.NAME"
 msgid "Polluted Ice"
-msgstr ""
+msgstr "Забруднений Лід"
 
 #. STRINGS.ELEMENTS.DIRTYWATER.DESC
 msgctxt "STRINGS.ELEMENTS.DIRTYWATER.DESC"
@@ -14358,6 +14397,9 @@ msgid ""
 "\n"
 "It is not fit for consumption."
 msgstr ""
+"Забруднена Вода - це брудна, не відфільтрована <style=\"liquid\">Вода</style>.\n"
+"\n"
+"Не придатна до вживання."
 
 #. STRINGS.ELEMENTS.DIRTYWATER.NAME
 msgctxt "STRINGS.ELEMENTS.DIRTYWATER.NAME"
@@ -14376,6 +14418,9 @@ msgid ""
 "\n"
 "It is suitable for building <style=\"power\">Power</style> systems."
 msgstr ""
+"Електрум - це провідний сплав <style=\"RawMetal\">Металу</style>, створений з золота та срібла.\n"
+"\n"
+"Він підходить для будівництва <style=\"power\">Електричних</style> мереж."
 
 #. STRINGS.ELEMENTS.ELECTRUM.NAME
 msgctxt "STRINGS.ELEMENTS.ELECTRUM.NAME"
@@ -14388,6 +14433,8 @@ msgid ""
 "Resource Type: {0}\n"
 "Condensation point: {1}"
 msgstr ""
+"Тип Ресурса: {0}\n"
+"Точка конденсації: {1}"
 
 #. STRINGS.ELEMENTS.ELEMENTDESCLIQUID
 msgctxt "STRINGS.ELEMENTS.ELEMENTDESCLIQUID"
@@ -14396,6 +14443,9 @@ msgid ""
 "Freezing point: {1}\n"
 "Evaporation point: {2}"
 msgstr ""
+"Тип ресурса: {0}\n"
+"Точка замерзання: {1}\n"
+"Точка випаровування: {2}"
 
 #. STRINGS.ELEMENTS.ELEMENTDESCSOLID
 msgctxt "STRINGS.ELEMENTS.ELEMENTDESCSOLID"
@@ -14404,16 +14454,19 @@ msgid ""
 "Melting point: {1}\n"
 "Hardness: {2}"
 msgstr ""
+"Тип ресурса: {0}\n"
+"Точка плавки: {1}\n"
+"Твердість: {2}"
 
 #. STRINGS.ELEMENTS.ELEMENTDESCVACUUM
 msgctxt "STRINGS.ELEMENTS.ELEMENTDESCVACUUM"
 msgid "Resource Type: {0}"
-msgstr ""
+msgstr "Тип Ресурса: {0}"
 
 #. STRINGS.ELEMENTS.ELEMENTPROPERTIES
 msgctxt "STRINGS.ELEMENTS.ELEMENTPROPERTIES"
 msgid "Properties: {0}"
-msgstr ""
+msgstr "Властивості: {0}"
 
 #. STRINGS.ELEMENTS.FERTILIZER.BUILD_DESC
 msgctxt "STRINGS.ELEMENTS.FERTILIZER.BUILD_DESC"
@@ -14427,6 +14480,9 @@ msgid ""
 "\n"
 "It aids in the growth of certain <style=\"plant\">Plants</style>."
 msgstr ""
+"Добрива - це оброблена суміш біологічних поживних речовин.\n"
+"\n"
+"Це сприяє зростанню <style=\"plant\">Рослин</style>."
 
 #. STRINGS.ELEMENTS.FERTILIZER.NAME
 msgctxt "STRINGS.ELEMENTS.FERTILIZER.NAME"
@@ -14445,6 +14501,9 @@ msgid ""
 "\n"
 "Also known as \"Fool's Gold\", is suitable for building <style=\"power\">Power</style> systems."
 msgstr ""
+"(FeS<sub>2</sub>) Пірит - це провідний <style=\"RawMetal\">Метал</style>.\n"
+"\n"
+"Також відомий як \"Халькопірит\", підходить для будівництва <style=\"power\">Електричних</style> мереж."
 
 #. STRINGS.ELEMENTS.FOOLSGOLD.NAME
 msgctxt "STRINGS.ELEMENTS.FOOLSGOLD.NAME"
@@ -14464,7 +14523,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.GLASS.NAME
 msgctxt "STRINGS.ELEMENTS.GLASS.NAME"
 msgid "Glass"
-msgstr ""
+msgstr "Скло"
 
 #. STRINGS.ELEMENTS.GOLD.BUILD_DESC
 msgctxt "STRINGS.ELEMENTS.GOLD.BUILD_DESC"
@@ -14478,6 +14537,9 @@ msgid ""
 "\n"
 "It is suitable for building <style=\"power\">Power</style> systems."
 msgstr ""
+"(Au) Золото - це дорогоцінний провідний <style=\"RawMetal\">Метал</style>.\n"
+"\n"
+"Він підходить для будівництва <style=\"power\">Електричних</style> мереж."
 
 #. STRINGS.ELEMENTS.GOLD.NAME
 msgctxt "STRINGS.ELEMENTS.GOLD.NAME"
@@ -14496,6 +14558,9 @@ msgid ""
 "\n"
 "It is suitable for building <style=\"power\">Power</style> systems."
 msgstr ""
+"Золота Амальгама - це провідна суміш, золота та ртуті.\n"
+"\n"
+"Він підходить для будівництва <style=\"power\">Електричних</style> мереж."
 
 #. STRINGS.ELEMENTS.GOLDAMALGAM.NAME
 msgctxt "STRINGS.ELEMENTS.GOLDAMALGAM.NAME"
@@ -14505,7 +14570,7 @@ msgstr "Золота Амальгама"
 #. STRINGS.ELEMENTS.GOLDGAS.DESC
 msgctxt "STRINGS.ELEMENTS.GOLDGAS.DESC"
 msgid "(Au) Gold is a conductive precious <style=\"RawMetal\">Metal</style>, heated into a <style=\"gas\">Gas</style>."
-msgstr ""
+msgstr "(Au) Золото - це дорогоцінний провідний <style=\"RawMetal\">Метал</style>, нагрітий до <style=\"gas\">Газу</style>."
 
 #. STRINGS.ELEMENTS.GOLDGAS.NAME
 msgctxt "STRINGS.ELEMENTS.GOLDGAS.NAME"
@@ -14524,6 +14589,9 @@ msgid ""
 "\n"
 "It is useful as a <style=\"RawMineral\">Construction Material</style>."
 msgstr ""
+"Граніт - це щільний композит <style=\"RawMineral\">Вулканічного Каменю</style>.\n"
+"\n"
+"Він використовується як <style=\"RawMineral\">Будівельний Матеріал</style>."
 
 #. STRINGS.ELEMENTS.GRANITE.NAME
 msgctxt "STRINGS.ELEMENTS.GRANITE.NAME"
@@ -14533,42 +14601,42 @@ msgstr "Граніт"
 #. STRINGS.ELEMENTS.HARDNESS.FIRM
 msgctxt "STRINGS.ELEMENTS.HARDNESS.FIRM"
 msgid "{0} (Firm)"
-msgstr ""
+msgstr "{0} (Твердий)"
 
 #. STRINGS.ELEMENTS.HARDNESS.IMPENETRABLE
 msgctxt "STRINGS.ELEMENTS.HARDNESS.IMPENETRABLE"
 msgid "{0} (Impenetrable)"
-msgstr ""
+msgstr "{0} (Непробивний)"
 
 #. STRINGS.ELEMENTS.HARDNESS.NA
 msgctxt "STRINGS.ELEMENTS.HARDNESS.NA"
 msgid "N/A"
-msgstr ""
+msgstr "N/A"
 
 #. STRINGS.ELEMENTS.HARDNESS.NEARLYIMPENETRABLE
 msgctxt "STRINGS.ELEMENTS.HARDNESS.NEARLYIMPENETRABLE"
 msgid "{0} (Nearly Impenetrable)"
-msgstr ""
+msgstr "{0} (Майже Непробивний)"
 
 #. STRINGS.ELEMENTS.HARDNESS.SOFT
 msgctxt "STRINGS.ELEMENTS.HARDNESS.SOFT"
 msgid "{0} (Soft)"
-msgstr ""
+msgstr "{0} (М'який)"
 
 #. STRINGS.ELEMENTS.HARDNESS.VERYFIRM
 msgctxt "STRINGS.ELEMENTS.HARDNESS.VERYFIRM"
 msgid "{0} (Very Firm)"
-msgstr ""
+msgstr "{0} (Дуже Твердий)"
 
 #. STRINGS.ELEMENTS.HARDNESS.VERYSOFT
 msgctxt "STRINGS.ELEMENTS.HARDNESS.VERYSOFT"
 msgid "{0} (Very Soft)"
-msgstr ""
+msgstr "{0} (Дуже М'який)"
 
 #. STRINGS.ELEMENTS.HELIUM.DESC
 msgctxt "STRINGS.ELEMENTS.HELIUM.DESC"
 msgid "(He) Helium is an atomically lightweight, chemical <style=\"gas\">Gas</style>."
-msgstr ""
+msgstr "(He) Гелій - це атомно-легкий хімічний <style=\"gas\">Газ</style>."
 
 #. STRINGS.ELEMENTS.HELIUM.NAME
 msgctxt "STRINGS.ELEMENTS.HELIUM.NAME"
@@ -14578,7 +14646,7 @@ msgstr "Гелій"
 #. STRINGS.ELEMENTS.HYDROGEN.DESC
 msgctxt "STRINGS.ELEMENTS.HYDROGEN.DESC"
 msgid "(H) Hydrogen is the universe's most common and atomically light element in a <style=\"gas\">Gaseous</style> state."
-msgstr ""
+msgstr "(H) Водень - найпоширеніший та атомно-легкий елемент Всесвіту в <style=\"gas\">Газоподібному</style> стані."
 
 #. STRINGS.ELEMENTS.HYDROGEN.NAME
 msgctxt "STRINGS.ELEMENTS.HYDROGEN.NAME"
@@ -14588,12 +14656,12 @@ msgstr "Водень"
 #. STRINGS.ELEMENTS.ICE.DESC
 msgctxt "STRINGS.ELEMENTS.ICE.DESC"
 msgid "(H<sub>2</sub>0) Ice is clean water frozen into a <style=\"solid\">Solid</style> state."
-msgstr ""
+msgstr "(H<sub>2</sub>0) Лід -це замерзла вода в <style=\"solid\">Твердому</style> стані."
 
 #. STRINGS.ELEMENTS.ICE.NAME
 msgctxt "STRINGS.ELEMENTS.ICE.NAME"
 msgid "Ice"
-msgstr ""
+msgstr "Лід"
 
 #. STRINGS.ELEMENTS.IGNEOUSROCK.BUILD_DESC
 msgctxt "STRINGS.ELEMENTS.IGNEOUSROCK.BUILD_DESC"
@@ -14607,6 +14675,9 @@ msgid ""
 "\n"
 "It is useful as a <style=\"RawMineral\">Construction Material</style>."
 msgstr ""
+"Вулканічний Камінь - це композит з стверділої вулканічної породи.\n"
+"\n"
+"Він використовується як <style=\"RawMineral\">Будівельний Матеріал</style>."
 
 #. STRINGS.ELEMENTS.IGNEOUSROCK.NAME
 msgctxt "STRINGS.ELEMENTS.IGNEOUSROCK.NAME"
@@ -14621,7 +14692,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.IRON.DESC
 msgctxt "STRINGS.ELEMENTS.IRON.DESC"
 msgid "(Fe) Iron is a common industrial <style=\"RawMetal\">Metal</style>."
-msgstr ""
+msgstr "(Fe) Залізо - загальний промисловий <style=\"RawMetal\">Метал</style>."
 
 #. STRINGS.ELEMENTS.IRON.NAME
 msgctxt "STRINGS.ELEMENTS.IRON.NAME"
@@ -14631,7 +14702,7 @@ msgstr "Залізо"
 #. STRINGS.ELEMENTS.IRONGAS.DESC
 msgctxt "STRINGS.ELEMENTS.IRONGAS.DESC"
 msgid "(Fe) Iron is a common industrial <style=\"RawMetal\">Metal</style>, heated into a <style=\"gas\">Gas</style>."
-msgstr ""
+msgstr "(Fe) Залізо - загальний промисловий <style=\"RawMetal\">Метал</style>, нагрітий до <style=\"gas\">Газу</style>."
 
 #. STRINGS.ELEMENTS.IRONGAS.NAME
 msgctxt "STRINGS.ELEMENTS.IRONGAS.NAME"
@@ -14646,7 +14717,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.IRONINGOT.DESC
 msgctxt "STRINGS.ELEMENTS.IRONINGOT.DESC"
 msgid "(Fe) Iron is refined <style=\"RawMetal\">Iron Ore</style>."
-msgstr ""
+msgstr "(Fe) Залізо - це очищена <style=\"RawMetal\">Залізна Руда</style>."
 
 #. STRINGS.ELEMENTS.IRONINGOT.NAME
 msgctxt "STRINGS.ELEMENTS.IRONINGOT.NAME"
@@ -14665,6 +14736,9 @@ msgid ""
 "\n"
 "It is suitable for building <style=\"power\">Power</style> systems."
 msgstr ""
+"(Fe) Залізна Руда - це м'який <style=\"RawMetal\">Метал</style>.\n"
+"\n"
+"Він підходить для будівництва <style=\"power\">Електричних</style> мереж."
 
 #. STRINGS.ELEMENTS.IRONORE.NAME
 msgctxt "STRINGS.ELEMENTS.IRONORE.NAME"
@@ -14679,7 +14753,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.KATAIRITE.DESC
 msgctxt "STRINGS.ELEMENTS.KATAIRITE.DESC"
 msgid "(Ab) Abyssalite is a resilient, crystalline element."
-msgstr ""
+msgstr "(Ab) Абіссаліт - це пружний, кристалічний елемент."
 
 #. STRINGS.ELEMENTS.KATAIRITE.NAME
 msgctxt "STRINGS.ELEMENTS.KATAIRITE.NAME"
@@ -14689,7 +14763,7 @@ msgstr "Абіссаліт"
 #. STRINGS.ELEMENTS.LIQUIDCARBONDIOXIDE.DESC
 msgctxt "STRINGS.ELEMENTS.LIQUIDCARBONDIOXIDE.DESC"
 msgid "(CO<sub>2</sub>) Carbon Dioxide is a toxic chemical compound. This selection is currently in a <style=\"liquid\">Liquid</style> state."
-msgstr ""
+msgstr "(CO<sub>2</sub>) Двоокис Вуглецю - це токсично хімічна сполука. Цей вибір знаходиться в <style=\"liquid\">Рідкому</style> стані."
 
 #. STRINGS.ELEMENTS.LIQUIDCARBONDIOXIDE.NAME
 msgctxt "STRINGS.ELEMENTS.LIQUIDCARBONDIOXIDE.NAME"
@@ -14699,7 +14773,7 @@ msgstr "Двоокис Вуглецю"
 #. STRINGS.ELEMENTS.LIQUIDHELIUM.DESC
 msgctxt "STRINGS.ELEMENTS.LIQUIDHELIUM.DESC"
 msgid "(He) Helium is an atomically lightweight chemical element cooled into a <style=\"liquid\">Liquid</style> state."
-msgstr ""
+msgstr "(He) Гелій - це атомно-легкий хімічний елемент, що охолоджений до <style=\"liquid\">Рідкого</style> стану."
 
 #. STRINGS.ELEMENTS.LIQUIDHELIUM.NAME
 msgctxt "STRINGS.ELEMENTS.LIQUIDHELIUM.NAME"
@@ -14713,6 +14787,9 @@ msgid ""
 "\n"
 "It freezes most substances that come into contact with it."
 msgstr ""
+"(H) Водень - це хімічна <style=\"liquid\">Рідина</style>.\n"
+"\n"
+"Він заморозить більшість речовин, які з ним стикаються."
 
 #. STRINGS.ELEMENTS.LIQUIDHYDROGEN.NAME
 msgctxt "STRINGS.ELEMENTS.LIQUIDHYDROGEN.NAME"
@@ -14726,11 +14803,14 @@ msgid ""
 "\n"
 "This selection is in a <style=\"liquid\">Liquid</style> state."
 msgstr ""
+"(CH<sub>4</sub>) Метан - це алкан.\n"
+"\n"
+"Цей вибір в <style=\"liquid\">Рідкому</style> Стані."
 
 #. STRINGS.ELEMENTS.LIQUIDMETHANE.NAME
 msgctxt "STRINGS.ELEMENTS.LIQUIDMETHANE.NAME"
 msgid "Methane"
-msgstr ""
+msgstr "Метан"
 
 #. STRINGS.ELEMENTS.LIQUIDOXYGEN.DESC
 msgctxt "STRINGS.ELEMENTS.LIQUIDOXYGEN.DESC"
@@ -14739,6 +14819,9 @@ msgid ""
 "\n"
 "This selection is in a <style=\"liquid\">Liquid</style> state."
 msgstr ""
+"(O<sub>2</sub>) Кисень - хімічний, придатний для дихання.\n"
+"\n"
+"Цей вибір в <style=\"liquid\">Рідкому</style> стані."
 
 #. STRINGS.ELEMENTS.LIQUIDOXYGEN.NAME
 msgctxt "STRINGS.ELEMENTS.LIQUIDOXYGEN.NAME"
@@ -14752,6 +14835,9 @@ msgid ""
 "\n"
 "This selection is in a <style=\"liquid\">Liquid</style> state."
 msgstr ""
+"(P) Фосфор - це хімічний елемент.\n"
+"\n"
+"Цей вибір в <style=\"liquid\">Рідкому</style> стані."
 
 #. STRINGS.ELEMENTS.LIQUIDPHOSPHORUS.NAME
 msgctxt "STRINGS.ELEMENTS.LIQUIDPHOSPHORUS.NAME"
@@ -14765,6 +14851,9 @@ msgid ""
 "\n"
 "It is useful in <style=\"power\">Power</style> production."
 msgstr ""
+"(C<sub>3</sub>H<sub>8</sub>) Пропан - це природний алкан в <style=\"liquid\">Рідкому</style> стані.\n"
+"\n"
+"Він використовується для виробництва <style=\"power\">Енергії</style>."
 
 #. STRINGS.ELEMENTS.LIQUIDPROPANE.NAME
 msgctxt "STRINGS.ELEMENTS.LIQUIDPROPANE.NAME"
@@ -14774,7 +14863,7 @@ msgstr "Пропан"
 #. STRINGS.ELEMENTS.MAGMA.DESC
 msgctxt "STRINGS.ELEMENTS.MAGMA.DESC"
 msgid "Magma is a composite of <style=\"RawMineral\">Igneous Rock</style> heated into a molten, <style=\"liquid\">Liquid</style> state."
-msgstr ""
+msgstr "Магма - це композит <style=\"RawMineral\">Вулканічного Каменю</style> пагрітий до плавкого, <style=\"liquid\">Рідкого</style> стану."
 
 #. STRINGS.ELEMENTS.MAGMA.NAME
 msgctxt "STRINGS.ELEMENTS.MAGMA.NAME"
@@ -14784,42 +14873,42 @@ msgstr "Магма"
 #. STRINGS.ELEMENTS.MATERIAL_MODIFIERS.DECOR
 msgctxt "STRINGS.ELEMENTS.MATERIAL_MODIFIERS.DECOR"
 msgid "<style=\"decor\">Decor</style>: {0}"
-msgstr ""
+msgstr "<style=\"decor\">Декор</style>: {0}"
 
 #. STRINGS.ELEMENTS.MATERIAL_MODIFIERS.EFFECTS_HEADER
 msgctxt "STRINGS.ELEMENTS.MATERIAL_MODIFIERS.EFFECTS_HEADER"
 msgid "<b>Resource Effects:</b>"
-msgstr ""
+msgstr "<b>Ефекти Ресурсів:</b>"
 
 #. STRINGS.ELEMENTS.MATERIAL_MODIFIERS.HIGH_SPECIFIC_HEAT_CAPACITY
 msgctxt "STRINGS.ELEMENTS.MATERIAL_MODIFIERS.HIGH_SPECIFIC_HEAT_CAPACITY"
 msgid "<style=\"heat\">Slow Heating</style>"
-msgstr ""
+msgstr "<style=\"heat\">Повільний Нагрів</style>"
 
 #. STRINGS.ELEMENTS.MATERIAL_MODIFIERS.HIGH_THERMAL_CONDUCTIVITY
 msgctxt "STRINGS.ELEMENTS.MATERIAL_MODIFIERS.HIGH_THERMAL_CONDUCTIVITY"
 msgid "<style=\"heat\">High Thermal Conductivity</style>"
-msgstr ""
+msgstr "<style=\"heat\">Висока Теплопровідність</style>"
 
 #. STRINGS.ELEMENTS.MATERIAL_MODIFIERS.LOW_SPECIFIC_HEAT_CAPACITY
 msgctxt "STRINGS.ELEMENTS.MATERIAL_MODIFIERS.LOW_SPECIFIC_HEAT_CAPACITY"
 msgid "<style=\"heat\">Thermally Reactive</style>"
-msgstr ""
+msgstr "<style=\"heat\">Термореактивність</style>"
 
 #. STRINGS.ELEMENTS.MATERIAL_MODIFIERS.LOW_THERMAL_CONDUCTIVITY
 msgctxt "STRINGS.ELEMENTS.MATERIAL_MODIFIERS.LOW_THERMAL_CONDUCTIVITY"
 msgid "<style=\"heat\">Insulator</style>"
-msgstr ""
+msgstr "<style=\"heat\">Ізолятор</style>"
 
 #. STRINGS.ELEMENTS.MATERIAL_MODIFIERS.OVERHEATTEMPERATURE
 msgctxt "STRINGS.ELEMENTS.MATERIAL_MODIFIERS.OVERHEATTEMPERATURE"
 msgid "<style=\"heat\">Overheat Temperature</style>: {0}"
-msgstr ""
+msgstr "<style=\"heat\">Температура Перегріву</style>: {0}"
 
 #. STRINGS.ELEMENTS.MATERIAL_MODIFIERS.TOOLTIP.DECOR
 msgctxt "STRINGS.ELEMENTS.MATERIAL_MODIFIERS.TOOLTIP.DECOR"
 msgid "This material will add {0} to the finished building's Decor"
-msgstr ""
+msgstr "Цей матеріал додасть {0} Декору завершеним будівлям"
 
 #. STRINGS.ELEMENTS.MATERIAL_MODIFIERS.TOOLTIP.EFFECTS_HEADER
 msgctxt "STRINGS.ELEMENTS.MATERIAL_MODIFIERS.TOOLTIP.EFFECTS_HEADER"
@@ -14833,6 +14922,9 @@ msgid ""
 "\n"
 "Specific Heat Capacity: {1} J to raise 1g by 1K"
 msgstr ""
+"Повільне нагрівання матеріалів потребує більшої кількості енергії для підвищення  температур та внаслідок цього повільний нагрів та охолодження \n"
+"\n"
+"Питома теплоємність: {1} Дж підвищити 1г до 1K"
 
 #. STRINGS.ELEMENTS.MATERIAL_MODIFIERS.TOOLTIP.HIGH_THERMAL_CONDUCTIVITY
 msgctxt "STRINGS.ELEMENTS.MATERIAL_MODIFIERS.TOOLTIP.HIGH_THERMAL_CONDUCTIVITY"
@@ -14843,6 +14935,11 @@ msgid ""
 "\n"
 "Thermal Conductivity: {1} W per degree K difference (Oxygen: 0.024 W)"
 msgstr ""
+"Цей матеріал розсіює тепло тому, що енергія швидко рухається наскрізь матеріалів з високою теплопровідністю\n"
+"\n"
+"Між двома об'єктами швидкість передачі тепла визначається об'єктом з найнижчою теплоємністю\n"
+"\n"
+"Теплопровідність: {1} Вт за ступінь K розходження (Кисень: 0.024 Вт)"
 
 #. STRINGS.ELEMENTS.MATERIAL_MODIFIERS.TOOLTIP.LOW_SPECIFIC_HEAT_CAPACITY
 msgctxt "STRINGS.ELEMENTS.MATERIAL_MODIFIERS.TOOLTIP.LOW_SPECIFIC_HEAT_CAPACITY"
@@ -14851,6 +14948,9 @@ msgid ""
 "\n"
 "Specific Heat Capacity: {1} J to raise 1g by 1K"
 msgstr ""
+"Термоактивні матеріали потребують невеликої кількості енергії для підвищення температури, тому швидко нагріваються  та охолоджуються\n"
+"\n"
+"Питома теплоємність: {1} Дж підняти 1г до 1K"
 
 #. STRINGS.ELEMENTS.MATERIAL_MODIFIERS.TOOLTIP.LOW_THERMAL_CONDUCTIVITY
 msgctxt "STRINGS.ELEMENTS.MATERIAL_MODIFIERS.TOOLTIP.LOW_THERMAL_CONDUCTIVITY"
@@ -14861,11 +14961,16 @@ msgid ""
 "\n"
 "Thermal Conductivity: {1} W per degree K difference (Oxygen: 0.024 W)"
 msgstr ""
+"Ці матеріали утримують тепло тому, що енергія передається повільно наскрізь матеріалів з низькою теплопровідністю\n"
+"\n"
+"Між двома об'єктами швидкість передачі тепла визначається об'єктом з найнижчою теплоємністю\n"
+"\n"
+"Теплопровідність: {1} Вт за ступінь K розходження (Кисень: 0.024 Вт)"
 
 #. STRINGS.ELEMENTS.MATERIAL_MODIFIERS.TOOLTIP.OVERHEATTEMPERATURE
 msgctxt "STRINGS.ELEMENTS.MATERIAL_MODIFIERS.TOOLTIP.OVERHEATTEMPERATURE"
 msgid "This material will add {0} to the finished building's Overheat Temperature"
-msgstr ""
+msgstr "Цей матеріал додасть  {0}  до Температурного Перегріву завершеним будівлям"
 
 #. STRINGS.ELEMENTS.MERCURY.BUILD_DESC
 msgctxt "STRINGS.ELEMENTS.MERCURY.BUILD_DESC"
@@ -14875,17 +14980,17 @@ msgstr ""
 #. STRINGS.ELEMENTS.MERCURY.DESC
 msgctxt "STRINGS.ELEMENTS.MERCURY.DESC"
 msgid "(Hg) Mercury is a toxic, <style=\"RawMetal\">Metallic</style> <style=\"liquid\">Liquid</style>."
-msgstr ""
+msgstr "(Hg) Ртуть - це токсична, <style=\"RawMetal\">Металічна</style> <style=\"liquid\">Рідина</style>."
 
 #. STRINGS.ELEMENTS.MERCURY.NAME
 msgctxt "STRINGS.ELEMENTS.MERCURY.NAME"
 msgid "Mercury"
-msgstr ""
+msgstr "Ртуть"
 
 #. STRINGS.ELEMENTS.MERCURYGAS.DESC
 msgctxt "STRINGS.ELEMENTS.MERCURYGAS.DESC"
 msgid "(Hg) Mercury is a toxic <style=\"RawMetal\">Metal</style> heated into a <style=\"gas\">Gaseous</style> state."
-msgstr ""
+msgstr "(Hg) Ртуть - це токсичний <style=\"RawMetal\">Метал</style> нагрітий до <style=\"gas\">Газоподібного</style> стану."
 
 #. STRINGS.ELEMENTS.MERCURYGAS.NAME
 msgctxt "STRINGS.ELEMENTS.MERCURYGAS.NAME"
@@ -14899,6 +15004,9 @@ msgid ""
 "\n"
 "It is useful in <style=\"power\">Power</style> production."
 msgstr ""
+"Природний Газ - це суміш усіляких алканів в <style=\"gas\">Газоподібному</style> стані.\n"
+"\n"
+"Він використовується у виробництві <style=\"power\">Енергії</style>."
 
 #. STRINGS.ELEMENTS.METHANE.NAME
 msgctxt "STRINGS.ELEMENTS.METHANE.NAME"
@@ -14908,7 +15016,7 @@ msgstr "Природний Газ"
 #. STRINGS.ELEMENTS.MOLTENCARBON.DESC
 msgctxt "STRINGS.ELEMENTS.MOLTENCARBON.DESC"
 msgid "(C) Carbon is an abundant, versatile element heated into a <style=\"liquid\">Liquid</style> state."
-msgstr ""
+msgstr "(C) Вуглець - це поширений багатоцільовий елемент, нагрітий до <style=\"liquid\">Рідкого</style> стану."
 
 #. STRINGS.ELEMENTS.MOLTENCARBON.NAME
 msgctxt "STRINGS.ELEMENTS.MOLTENCARBON.NAME"
@@ -14918,7 +15026,7 @@ msgstr "Вуглець"
 #. STRINGS.ELEMENTS.MOLTENCOPPER.DESC
 msgctxt "STRINGS.ELEMENTS.MOLTENCOPPER.DESC"
 msgid "(Cu) Copper is a conductive <style=\"RawMetal\">Metal</style> heated into a <style=\"liquid\">Liquid</style> state."
-msgstr ""
+msgstr "(Cu) Мідь - це провідний <style=\"RawMetal\">Метал</style> нагрітий до <style=\"liquid\">Рідкого</style> стану."
 
 #. STRINGS.ELEMENTS.MOLTENCOPPER.NAME
 msgctxt "STRINGS.ELEMENTS.MOLTENCOPPER.NAME"
@@ -14928,17 +15036,17 @@ msgstr "Мідь"
 #. STRINGS.ELEMENTS.MOLTENGLASS.DESC
 msgctxt "STRINGS.ELEMENTS.MOLTENGLASS.DESC"
 msgid "Molten Glass is a composite of granular rock heated into a <style=\"liquid\">Liquid</style> state."
-msgstr ""
+msgstr "Рідке Скло - це композит зернистого каменя, нагріте до <style=\"liquid\">Рідкого</style> стану."
 
 #. STRINGS.ELEMENTS.MOLTENGLASS.NAME
 msgctxt "STRINGS.ELEMENTS.MOLTENGLASS.NAME"
 msgid "Molten Glass"
-msgstr ""
+msgstr "Рідке Скло"
 
 #. STRINGS.ELEMENTS.MOLTENGOLD.DESC
 msgctxt "STRINGS.ELEMENTS.MOLTENGOLD.DESC"
 msgid "(Au) Gold is a conductive precious <style=\"RawMetal\">Metal</style> heated into a <style=\"liquid\">Liquid</style> state."
-msgstr ""
+msgstr "(Au) Золото - це дорогоцінний провідний <style=\"RawMetal\">Метал</style> нагрітий до <style=\"liquid\">Рідкого</style> стану."
 
 #. STRINGS.ELEMENTS.MOLTENGOLD.NAME
 msgctxt "STRINGS.ELEMENTS.MOLTENGOLD.NAME"
@@ -14948,7 +15056,7 @@ msgstr "Золото"
 #. STRINGS.ELEMENTS.MOLTENIRON.DESC
 msgctxt "STRINGS.ELEMENTS.MOLTENIRON.DESC"
 msgid "(Fe) Iron is a common industrial <style=\"RawMetal\">Metal</style> heated into a <style=\"liquid\">Liquid</style> state."
-msgstr ""
+msgstr "(Fe) Залізо - загальний промисловий <style=\"RawMetal\">Метал</style> нагрітий до <style=\"liquid\">Рідкого</style> стану."
 
 #. STRINGS.ELEMENTS.MOLTENIRON.NAME
 msgctxt "STRINGS.ELEMENTS.MOLTENIRON.NAME"
@@ -14958,7 +15066,7 @@ msgstr "Залізо"
 #. STRINGS.ELEMENTS.MOLTENSTEEL.DESC
 msgctxt "STRINGS.ELEMENTS.MOLTENSTEEL.DESC"
 msgid "Steel is a <style=\"RawMetal\">Metal</style> alloy of iron and carbon, heated into a hazardous <style=\"liquid\">Liquid</style> state."
-msgstr ""
+msgstr "Сталь - це <style=\"RawMetal\">Металевий</style> сплав заліза та вуглецю, нагрітий до небезпечного <style=\"liquid\">Рідкого</style> стану."
 
 #. STRINGS.ELEMENTS.MOLTENSTEEL.NAME
 msgctxt "STRINGS.ELEMENTS.MOLTENSTEEL.NAME"
@@ -14968,7 +15076,7 @@ msgstr "Сталь"
 #. STRINGS.ELEMENTS.MOLTENTUNGSTEN.DESC
 msgctxt "STRINGS.ELEMENTS.MOLTENTUNGSTEN.DESC"
 msgid "(W) Tungsten is a crystalline <style=\"RawMetal\">Metal</style> heated into a <style=\"liquid\">Liquid</style> state."
-msgstr ""
+msgstr "(W) Вольфрам - це кристалічний <style=\"RawMetal\">Метал</style>, що нагрівається до <style=\"liquid\">Рідкого</style> стану."
 
 #. STRINGS.ELEMENTS.MOLTENTUNGSTEN.NAME
 msgctxt "STRINGS.ELEMENTS.MOLTENTUNGSTEN.NAME"
@@ -14988,7 +15096,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.NAPHTHA.DESC
 msgctxt "STRINGS.ELEMENTS.NAPHTHA.DESC"
 msgid "Naphtha a distilled hydrocarbon mixture produced from the burning of <style=\"solid\">Plastics</style>."
-msgstr ""
+msgstr "Нафта - дистильована вуглеводнева суміш, що утворюється при спалюванні <style=\"solid\">Пластмаси</style>."
 
 #. STRINGS.ELEMENTS.NAPHTHA.NAME
 msgctxt "STRINGS.ELEMENTS.NAPHTHA.NAME"
@@ -15003,7 +15111,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.OBSIDIAN.DESC
 msgctxt "STRINGS.ELEMENTS.OBSIDIAN.DESC"
 msgid "Obsidian is a brittle composite of volcanic <style=\"solid\">Glass</style>."
-msgstr ""
+msgstr "Обсидіан - це крихкий композит кулканічного <style=\"solid\">Скла</style>."
 
 #. STRINGS.ELEMENTS.OBSIDIAN.NAME
 msgctxt "STRINGS.ELEMENTS.OBSIDIAN.NAME"
@@ -15017,6 +15125,9 @@ msgid ""
 "\n"
 "It tends to rise above other gases."
 msgstr ""
+"(O<sub>2</sub>) Кисень - атомічно легкий та дихаючий <style=\"gas\">Газ</style>, необхідний для підтримки життя.\n"
+"\n"
+"Він має тенденцію підніматися вище інших газів."
 
 #. STRINGS.ELEMENTS.OXYGEN.NAME
 msgctxt "STRINGS.ELEMENTS.OXYGEN.NAME"
@@ -15030,6 +15141,9 @@ msgid ""
 "\n"
 "Excavating Oxylite increases its emission rate, but depletes the ore more rapidly."
 msgstr ""
+"(Ir<sub>3</sub>O<sub>2</sub>) Оксиліт - це хімічна сполука, яка повільно виділяє придатний для дихання <style=\"oxygen\">Кисень</style>.\n"
+"\n"
+"Викопаний Оксиліт збільшує коефіцієнт викидів, але швидше вичерпує руду."
 
 #. STRINGS.ELEMENTS.OXYROCK.NAME
 msgctxt "STRINGS.ELEMENTS.OXYROCK.NAME"
@@ -15037,17 +15151,22 @@ msgid "Oxylite"
 msgstr "Оксиліт"
 
 #. STRINGS.ELEMENTS.PETROLEUM.DESC
+#, fuzzy
 msgctxt "STRINGS.ELEMENTS.PETROLEUM.DESC"
 msgid ""
 "Petroleum is a <style=\"power\">Power</style> source refined from <style=\"liquid\">Crude Oil</style>.\n"
 "\n"
 "It is also an essential ingredient in the production of <style=\"solid\">Plastic</style>."
 msgstr ""
+"Petroleum - це джерето <style=\"power\">Енергії</style> з переробленої <style=\"liquid\">Сирої Нафти</style>.\n"
+"\n"
+"Він також є основним компонентом у виробництві <style=\"solid\">Пластика</style>."
 
 #. STRINGS.ELEMENTS.PETROLEUM.NAME
+#, fuzzy
 msgctxt "STRINGS.ELEMENTS.PETROLEUM.NAME"
 msgid "Petroleum"
-msgstr ""
+msgstr "Petroleum"
 
 #. STRINGS.ELEMENTS.PHOSPHATENODULES.BUILD_DESC
 msgctxt "STRINGS.ELEMENTS.PHOSPHATENODULES.BUILD_DESC"
@@ -15072,7 +15191,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.PHOSPHORITE.DESC
 msgctxt "STRINGS.ELEMENTS.PHOSPHORITE.DESC"
 msgid "Phosphorite is a composite of sedimentary rock, saturated with phosphate."
-msgstr ""
+msgstr "Фосфорит - це композит осадової породи, насичений фосфатами."
 
 #. STRINGS.ELEMENTS.PHOSPHORITE.NAME
 msgctxt "STRINGS.ELEMENTS.PHOSPHORITE.NAME"
@@ -15087,7 +15206,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.PHOSPHORUS.DESC
 msgctxt "STRINGS.ELEMENTS.PHOSPHORUS.DESC"
 msgid "(P) Phosphorus is a chemical element in its <style=\"solid\">Solid</style> state."
-msgstr ""
+msgstr "(P) Фосфор - це хімічний елемент в <style=\"solid\">Твердому</style> стані."
 
 #. STRINGS.ELEMENTS.PHOSPHORUS.NAME
 msgctxt "STRINGS.ELEMENTS.PHOSPHORUS.NAME"
@@ -15097,7 +15216,7 @@ msgstr "Фосфор"
 #. STRINGS.ELEMENTS.PHOSPHORUSGAS.DESC
 msgctxt "STRINGS.ELEMENTS.PHOSPHORUSGAS.DESC"
 msgid "(P) Phosphorus is a chemical element in a <style=\"gas\">Gaseous</style> state."
-msgstr ""
+msgstr "(P) Фосфор - це хімічний елемент в <style=\"gas\">Газоподібному</style> стані."
 
 #. STRINGS.ELEMENTS.PHOSPHORUSGAS.NAME
 msgctxt "STRINGS.ELEMENTS.PHOSPHORUSGAS.NAME"
@@ -15116,6 +15235,9 @@ msgid ""
 "\n"
 "It is useful as a raw <style=\"solid\">Plastic</style> feedstock."
 msgstr ""
+"(C<sub>3</sub>H<sub>6</sub>)<sub>n</sub> Пластик - термопластичний полімер.\n"
+"\n"
+"Це сировина для виробництва <style=\"solid\">Пластика</style> ."
 
 #. STRINGS.ELEMENTS.POLYPROPYLENE.NAME
 msgctxt "STRINGS.ELEMENTS.POLYPROPYLENE.NAME"
@@ -15142,6 +15264,9 @@ msgid ""
 "\n"
 "It is useful in <style=\"power\">Power</style> production."
 msgstr ""
+"(C<sub>3</sub>H<sub>8</sub>) Пропан - це природний алкан <style=\"gas\">Газ</style>.\n"
+"\n"
+"Він використовується для виробництва <style=\"power\">Енергії</style>."
 
 #. STRINGS.ELEMENTS.PROPANE.NAME
 msgctxt "STRINGS.ELEMENTS.PROPANE.NAME"
@@ -15155,16 +15280,19 @@ msgid ""
 "\n"
 "It is useful as a <style=\"power\">Power</style> source."
 msgstr ""
+"(Ra) Радій - це радіоактивна речовина випромінююча <style=\"light\">Світло</style>.\n"
+"\n"
+"Він використовується, як джерело <style=\"power\">Енергії</style>."
 
 #. STRINGS.ELEMENTS.RADIUM.NAME
 msgctxt "STRINGS.ELEMENTS.RADIUM.NAME"
 msgid "Radium"
-msgstr ""
+msgstr "Радій"
 
 #. STRINGS.ELEMENTS.ROCKGAS.DESC
 msgctxt "STRINGS.ELEMENTS.ROCKGAS.DESC"
 msgid "Rock Gas is rock that has been superheated into a <style=\"gas\">Gaseous</style> state."
-msgstr ""
+msgstr "Кам'яний газ - це камінь, який перегрівся до <style=\"gas\">Газоподібного</style> Стану."
 
 #. STRINGS.ELEMENTS.ROCKGAS.NAME
 msgctxt "STRINGS.ELEMENTS.ROCKGAS.NAME"
@@ -15183,6 +15311,9 @@ msgid ""
 "\n"
 "It is useful as a <style=\"misc\">Filtration Medium</style>."
 msgstr ""
+"Пісок - це композит зернистого каменю.\n"
+"\n"
+"Він використовується для <style=\"misc\">Середньої Фільтрації</style>."
 
 #. STRINGS.ELEMENTS.SAND.NAME
 msgctxt "STRINGS.ELEMENTS.SAND.NAME"
@@ -15216,6 +15347,9 @@ msgid ""
 "\n"
 "It is useful as a <style=\"RawMineral\">Construction Material</style>."
 msgstr ""
+"Пісковик - це композит відносно м'якої осадової породи.\n"
+"\n"
+"Він використовується як <style=\"RawMineral\">Будівельний Матеріал</style>."
 
 #. STRINGS.ELEMENTS.SANDSTONE.NAME
 msgctxt "STRINGS.ELEMENTS.SANDSTONE.NAME"
@@ -15234,6 +15368,9 @@ msgid ""
 "\n"
 "It is useful as a <style=\"RawMineral\">Construction Material</style>."
 msgstr ""
+"Осадовий Камінь - це застиглий композит осадових шарів.\n"
+"\n"
+"Він використовується як <style=\"RawMineral\">Будівельний Матеріал</style>."
 
 #. STRINGS.ELEMENTS.SEDIMENTARYROCK.NAME
 msgctxt "STRINGS.ELEMENTS.SEDIMENTARYROCK.NAME"
@@ -15267,6 +15404,9 @@ msgid ""
 "\n"
 "It can be distilled into <style=\"solid\">Algae</style> and is useful in some <style=\"oxygen\">Oxygen</style> production processes."
 msgstr ""
+"Слиз - це густа суміш водоростів, грибків та мукополісахаридів.\n"
+"\n"
+"Він може бути очищений у<style=\"solid\">Водорості</style> та придатний в<style=\"oxygen\">Кисневих</style> виробничих процесах."
 
 #. STRINGS.ELEMENTS.SLIMEMOLD.NAME
 msgctxt "STRINGS.ELEMENTS.SLIMEMOLD.NAME"
@@ -15280,16 +15420,19 @@ msgid ""
 "\n"
 "It becomes <style=\"liquid\">Water</style> when melted."
 msgstr ""
+"(H<sub>2</sub>0) Сніг - це маса незв'язаних кристалічних частинок льоду.\n"
+"\n"
+"Він перетворюється у <style=\"liquid\">Воду</style>, коли тане."
 
 #. STRINGS.ELEMENTS.SNOW.NAME
 msgctxt "STRINGS.ELEMENTS.SNOW.NAME"
 msgid "Snow"
-msgstr ""
+msgstr "Сніг"
 
 #. STRINGS.ELEMENTS.SOLIDCARBONDIOXIDE.DESC
 msgctxt "STRINGS.ELEMENTS.SOLIDCARBONDIOXIDE.DESC"
 msgid "(CO<sub>2</sub>) Carbon Dioxide is a toxic compound in a <style=\"solid\">Solid</style> state."
-msgstr ""
+msgstr "(CO<sub>2</sub>) Двоокис Вуглецю - токсична сполука в <style=\"solid\">Твердому</style> стані."
 
 #. STRINGS.ELEMENTS.SOLIDCARBONDIOXIDE.NAME
 msgctxt "STRINGS.ELEMENTS.SOLIDCARBONDIOXIDE.NAME"
@@ -15299,7 +15442,7 @@ msgstr "Двоокис Вуглецю"
 #. STRINGS.ELEMENTS.SOLIDCHLORINE.DESC
 msgctxt "STRINGS.ELEMENTS.SOLIDCHLORINE.DESC"
 msgid "(Cl) Chlorine is a toxic chemical element in a <style=\"solid\">Solid</style> state."
-msgstr ""
+msgstr "(Cl) Хлор- токсичний хімічний елемент в <style=\"solid\">Твердому</style> стані."
 
 #. STRINGS.ELEMENTS.SOLIDCHLORINE.NAME
 msgctxt "STRINGS.ELEMENTS.SOLIDCHLORINE.NAME"
@@ -15309,7 +15452,7 @@ msgstr "Хлор"
 #. STRINGS.ELEMENTS.SOLIDCRUDEOIL.DESC
 msgctxt "STRINGS.ELEMENTS.SOLIDCRUDEOIL.DESC"
 msgid "Crude Oil is a raw potential <style=\"power\">Power</style> source in a <style=\"solid\">Solid</style> state."
-msgstr ""
+msgstr "Сира Нафта - це потенційне джерело <style=\"power\">Енергії</style> в <style=\"solid\">Твердому</style> стані."
 
 #. STRINGS.ELEMENTS.SOLIDCRUDEOIL.NAME
 msgctxt "STRINGS.ELEMENTS.SOLIDCRUDEOIL.NAME"
@@ -15319,7 +15462,7 @@ msgstr "Сира Нафта"
 #. STRINGS.ELEMENTS.SOLIDHYDROGEN.DESC
 msgctxt "STRINGS.ELEMENTS.SOLIDHYDROGEN.DESC"
 msgid "(H) Hydrogen is the universe's most common element in a <style=\"solid\">Solid</style> state."
-msgstr ""
+msgstr "(H) Водень - найпоширеніший елемент Всесвіту в <style=\"solid\">Твердому</style> стані."
 
 #. STRINGS.ELEMENTS.SOLIDHYDROGEN.NAME
 msgctxt "STRINGS.ELEMENTS.SOLIDHYDROGEN.NAME"
@@ -15334,27 +15477,27 @@ msgstr ""
 #. STRINGS.ELEMENTS.SOLIDMERCURY.DESC
 msgctxt "STRINGS.ELEMENTS.SOLIDMERCURY.DESC"
 msgid "(Hg) Mercury is a toxic <style=\"RawMetal\">Metal</style> in a <style=\"solid\">Solid</style> state."
-msgstr ""
+msgstr "(Hg) Ртуть - токсичний <style=\"RawMetal\">Метал</style> в <style=\"solid\">Твердому</style> стані."
 
 #. STRINGS.ELEMENTS.SOLIDMERCURY.NAME
 msgctxt "STRINGS.ELEMENTS.SOLIDMERCURY.NAME"
 msgid "Mercury"
-msgstr ""
+msgstr "Ртуть"
 
 #. STRINGS.ELEMENTS.SOLIDMETHANE.DESC
 msgctxt "STRINGS.ELEMENTS.SOLIDMETHANE.DESC"
 msgid "(CH<sub>4</sub>) Methane is an alkane in a <style=\"solid\">Solid</style> state."
-msgstr ""
+msgstr "(CH<sub>4</sub>) Метан - це алкан в <style=\"solid\">Твердому</style> стані."
 
 #. STRINGS.ELEMENTS.SOLIDMETHANE.NAME
 msgctxt "STRINGS.ELEMENTS.SOLIDMETHANE.NAME"
 msgid "Methane"
-msgstr ""
+msgstr "Метан"
 
 #. STRINGS.ELEMENTS.SOLIDNAPHTHA.DESC
 msgctxt "STRINGS.ELEMENTS.SOLIDNAPHTHA.DESC"
 msgid "Naphtha is a distilled hydrocarbon mixture in a <style=\"solid\">Solid</style> state."
-msgstr ""
+msgstr "Нафта - це дистильована вуглеводнева суміш в <style=\"solid\">Твердому</style> стані."
 
 #. STRINGS.ELEMENTS.SOLIDNAPHTHA.NAME
 msgctxt "STRINGS.ELEMENTS.SOLIDNAPHTHA.NAME"
@@ -15364,7 +15507,7 @@ msgstr "Нафта"
 #. STRINGS.ELEMENTS.SOLIDOXYGEN.DESC
 msgctxt "STRINGS.ELEMENTS.SOLIDOXYGEN.DESC"
 msgid "(O<sub>2</sub>) Oxygen is a breathable element in a <style=\"solid\">Solid</style> state."
-msgstr ""
+msgstr "(O<sub>2</sub>) Кисень - придатний для дихання елемент в <style=\"solid\">Твердому</style> стані."
 
 #. STRINGS.ELEMENTS.SOLIDOXYGEN.NAME
 msgctxt "STRINGS.ELEMENTS.SOLIDOXYGEN.NAME"
@@ -15374,7 +15517,7 @@ msgstr "Кисень"
 #. STRINGS.ELEMENTS.SOLIDPETROLEUM.DESC
 msgctxt "STRINGS.ELEMENTS.SOLIDPETROLEUM.DESC"
 msgid "Petroleum is a <style=\"power\">Power</style> source in a <style=\"solid\">Solid</style> state."
-msgstr ""
+msgstr "Petroleum - джерело <style=\"power\">Енергії</style> в <style=\"solid\">Твердому</style> стані."
 
 #. STRINGS.ELEMENTS.SOLIDPETROLEUM.NAME
 msgctxt "STRINGS.ELEMENTS.SOLIDPETROLEUM.NAME"
@@ -15389,7 +15532,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.SOLIDPROPANE.DESC
 msgctxt "STRINGS.ELEMENTS.SOLIDPROPANE.DESC"
 msgid "(C<sub>3</sub>H<sub>8</sub>) Propane is a natural gas in a <style=\"solid\">Solid</style> state."
-msgstr ""
+msgstr "(C<sub>3</sub>H<sub>8</sub>) Пропан - природний газ в <style=\"solid\">Твердому</style> стані."
 
 #. STRINGS.ELEMENTS.SOLIDPROPANE.NAME
 msgctxt "STRINGS.ELEMENTS.SOLIDPROPANE.NAME"
@@ -15399,7 +15542,7 @@ msgstr "Пропан"
 #. STRINGS.ELEMENTS.STATE.GAS
 msgctxt "STRINGS.ELEMENTS.STATE.GAS"
 msgid "Gas"
-msgstr ""
+msgstr "Газ"
 
 #. STRINGS.ELEMENTS.STATE.LIQUID
 msgctxt "STRINGS.ELEMENTS.STATE.LIQUID"
@@ -15409,17 +15552,17 @@ msgstr "Рідина"
 #. STRINGS.ELEMENTS.STATE.SOLID
 msgctxt "STRINGS.ELEMENTS.STATE.SOLID"
 msgid "Solid"
-msgstr ""
+msgstr "Тверді"
 
 #. STRINGS.ELEMENTS.STATE.VACUUM
 msgctxt "STRINGS.ELEMENTS.STATE.VACUUM"
 msgid "None"
-msgstr ""
+msgstr "Ніщо"
 
 #. STRINGS.ELEMENTS.STEAM.DESC
 msgctxt "STRINGS.ELEMENTS.STEAM.DESC"
 msgid "(H<sub>2</sub>0) Steam is water that has been heated into a scalding <style=\"gas\">Gas</style>."
-msgstr ""
+msgstr "(H<sub>2</sub>0) Пар - це вода нагріта в пекучий <style=\"gas\">Газ</style>."
 
 #. STRINGS.ELEMENTS.STEAM.NAME
 msgctxt "STRINGS.ELEMENTS.STEAM.NAME"
@@ -15434,7 +15577,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.STEEL.DESC
 msgctxt "STRINGS.ELEMENTS.STEEL.DESC"
 msgid "Steel is a <style=\"RefinedMetal\">Metal Alloy</style> composed of iron and carbon."
-msgstr ""
+msgstr "Сталь - це <style=\"RefinedMetal\">Металевий Сплав</style>, що складається з заліза та вуглецю."
 
 #. STRINGS.ELEMENTS.STEEL.NAME
 msgctxt "STRINGS.ELEMENTS.STEEL.NAME"
@@ -15444,7 +15587,7 @@ msgstr "Сталь"
 #. STRINGS.ELEMENTS.STEELGAS.DESC
 msgctxt "STRINGS.ELEMENTS.STEELGAS.DESC"
 msgid "Steel is a superheated <style=\"RawMetal\">Metal</style> <style=\"gas\">Gas</style> composed of iron and carbon."
-msgstr ""
+msgstr "Сталь - це перегрітий <style=\"RawMetal\">Металічний</style> <style=\"gas\">Газ</style>, що складається з заліза та вуглецю."
 
 #. STRINGS.ELEMENTS.STEELGAS.NAME
 msgctxt "STRINGS.ELEMENTS.STEELGAS.NAME"
@@ -15458,6 +15601,9 @@ msgid ""
 "\n"
 "It emits <style=\"disease\">Polluted Oxygen</style> over time."
 msgstr ""
+"Забруднена Земля - токсичні біологічні відходи.\n"
+"\n"
+"Випускає <style=\"disease\">Забруднений Кисень</style> час від часу."
 
 #. STRINGS.ELEMENTS.TOXICSAND.NAME
 msgctxt "STRINGS.ELEMENTS.TOXICSAND.NAME"
@@ -15476,6 +15622,9 @@ msgid ""
 "\n"
 "It is suitable for building <style=\"power\">Power</style> systems."
 msgstr ""
+"(W) Вольфрам - надзвичайно міцний кристалічний <style=\"RawMetal\">Метал</style>.\n"
+"\n"
+"Він підходить для будівництва <style=\"power\">Електричних</style> мереж."
 
 #. STRINGS.ELEMENTS.TUNGSTEN.NAME
 msgctxt "STRINGS.ELEMENTS.TUNGSTEN.NAME"
@@ -15508,7 +15657,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.TUNGSTENGAS.DESC
 msgctxt "STRINGS.ELEMENTS.TUNGSTENGAS.DESC"
 msgid "(W) Tungsten is a superheated crystalline <style=\"RawMetal\">Metal</style> in a <style=\"gas\">Gaseous</style> state."
-msgstr ""
+msgstr "(W) Вольфрам - це перегрітий кристалічний <style=\"RawMetal\">Метал</style> в <style=\"gas\">Газоподібному</style> стані."
 
 #. STRINGS.ELEMENTS.TUNGSTENGAS.NAME
 msgctxt "STRINGS.ELEMENTS.TUNGSTENGAS.NAME"
@@ -15522,6 +15671,9 @@ msgid ""
 "\n"
 "It cannot be excavated by any Duplicant mining tool."
 msgstr ""
+"(Nt) Нейтроніум є загадковим і надзвичайно пружнім <style=\"RawMetal\">Металічним</style> елементом.\n"
+"\n"
+"Його не можливо викопати знаряддям будь-якого Дубліканта."
 
 #. STRINGS.ELEMENTS.UNOBTANIUM.NAME
 msgctxt "STRINGS.ELEMENTS.UNOBTANIUM.NAME"
@@ -15531,7 +15683,7 @@ msgstr "Нейтроніум"
 #. STRINGS.ELEMENTS.VACUUM.DESC
 msgctxt "STRINGS.ELEMENTS.VACUUM.DESC"
 msgid "A vacuum is a space devoid of all matter."
-msgstr ""
+msgstr "Вакуум - це простір, позбавлений всієї матерії."
 
 #. STRINGS.ELEMENTS.VACUUM.NAME
 msgctxt "STRINGS.ELEMENTS.VACUUM.NAME"
@@ -15541,17 +15693,17 @@ msgstr "Вакуум"
 #. STRINGS.ELEMENTS.VOID.DESC
 msgctxt "STRINGS.ELEMENTS.VOID.DESC"
 msgid "Cold, infinite nothingness."
-msgstr ""
+msgstr "Холод, безкінечне небуття."
 
 #. STRINGS.ELEMENTS.VOID.NAME
 msgctxt "STRINGS.ELEMENTS.VOID.NAME"
 msgid "Void"
-msgstr ""
+msgstr "Пустота"
 
 #. STRINGS.ELEMENTS.WATER.DESC
 msgctxt "STRINGS.ELEMENTS.WATER.DESC"
 msgid "(H<sub>2</sub>O) Clean <style=\"liquid\">Water</style>, suitable for consumption."
-msgstr ""
+msgstr "(H<sub>2</sub>O) Чиста <style=\"liquid\">Вода</style>, придатна для споживання."
 
 #. STRINGS.ELEMENTS.WATER.NAME
 msgctxt "STRINGS.ELEMENTS.WATER.NAME"
@@ -15570,6 +15722,9 @@ msgid ""
 "\n"
 "It is a source of <style=\"RawMetal\">Tungsten</style> and is suitable for building <style=\"power\">Power</style> systems."
 msgstr ""
+"((Fe,Mn)WO<sub>4</sub>) Вольфрамит - це щільний <style=\"RawMetal\">Металічний</style> елемент в <style=\"solid\">Твердому</style> стані.\n"
+"\n"
+"Це джерело <style=\"RawMetal\">Вольфраму</style> та підходить для будівництва <style=\"power\">Електричних</style> мереж."
 
 #. STRINGS.ELEMENTS.WOLFRAMITE.NAME
 msgctxt "STRINGS.ELEMENTS.WOLFRAMITE.NAME"
@@ -24027,7 +24182,7 @@ msgstr ""
 #. STRINGS.UI.ELEMENTAL.DEWPOINT.NAME
 msgctxt "STRINGS.UI.ELEMENTAL.DEWPOINT.NAME"
 msgid "Condensation Point: {0}"
-msgstr ""
+msgstr "Точка конденсації: {0}"
 
 #. STRINGS.UI.ELEMENTAL.DEWPOINT.TOOLTIP
 msgctxt "STRINGS.UI.ELEMENTAL.DEWPOINT.TOOLTIP"
@@ -27420,57 +27575,57 @@ msgstr ""
 #. STRINGS.UI.OVERLAYS.TEMPERATURE.BUTTON
 msgctxt "STRINGS.UI.OVERLAYS.TEMPERATURE.BUTTON"
 msgid "Temperature Overlay"
-msgstr ""
+msgstr "Оверлей Температури"
 
 #. STRINGS.UI.OVERLAYS.TEMPERATURE.COLD
 msgctxt "STRINGS.UI.OVERLAYS.TEMPERATURE.COLD"
 msgid "Chilled"
-msgstr ""
+msgstr "Охолоджена"
 
 #. STRINGS.UI.OVERLAYS.TEMPERATURE.EXTREMECOLD
 msgctxt "STRINGS.UI.OVERLAYS.TEMPERATURE.EXTREMECOLD"
 msgid "Absolute Zero"
-msgstr ""
+msgstr "Абсолютний Нуль"
 
 #. STRINGS.UI.OVERLAYS.TEMPERATURE.EXTREMEHOT
 msgctxt "STRINGS.UI.OVERLAYS.TEMPERATURE.EXTREMEHOT"
 msgid "Scorching"
-msgstr ""
+msgstr "Палаюча"
 
 #. STRINGS.UI.OVERLAYS.TEMPERATURE.HOT
 msgctxt "STRINGS.UI.OVERLAYS.TEMPERATURE.HOT"
 msgid "Warm"
-msgstr ""
+msgstr "Тепла"
 
 #. STRINGS.UI.OVERLAYS.TEMPERATURE.MAXHOT
 msgctxt "STRINGS.UI.OVERLAYS.TEMPERATURE.MAXHOT"
 msgid "Molten"
-msgstr ""
+msgstr "Розплавлена"
 
 #. STRINGS.UI.OVERLAYS.TEMPERATURE.NAME
 msgctxt "STRINGS.UI.OVERLAYS.TEMPERATURE.NAME"
 msgid "TEMPERATURE OVERLAY"
-msgstr ""
+msgstr "ОВЕРЛЕЙ ТЕМПЕРАТУРИ"
 
 #. STRINGS.UI.OVERLAYS.TEMPERATURE.TEMPERATE
 msgctxt "STRINGS.UI.OVERLAYS.TEMPERATURE.TEMPERATE"
 msgid "Temperate"
-msgstr ""
+msgstr "Помірна"
 
 #. STRINGS.UI.OVERLAYS.TEMPERATURE.TOOLTIPS.TEMPERATURE
 msgctxt "STRINGS.UI.OVERLAYS.TEMPERATURE.TOOLTIPS.TEMPERATURE"
 msgid "Temperatures reaching {0}"
-msgstr ""
+msgstr "Температура досягає {0}"
 
 #. STRINGS.UI.OVERLAYS.TEMPERATURE.VERYCOLD
 msgctxt "STRINGS.UI.OVERLAYS.TEMPERATURE.VERYCOLD"
 msgid "Cold"
-msgstr ""
+msgstr "Холодна"
 
 #. STRINGS.UI.OVERLAYS.TEMPERATURE.VERYHOT
 msgctxt "STRINGS.UI.OVERLAYS.TEMPERATURE.VERYHOT"
 msgid "Hot"
-msgstr ""
+msgstr "Гаряча"
 
 #. STRINGS.UI.OVERLAYSTITLE
 msgctxt "STRINGS.UI.OVERLAYSTITLE"
