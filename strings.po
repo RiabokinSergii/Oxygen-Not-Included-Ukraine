@@ -2375,62 +2375,62 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.WIRECIRCUITSTATUS.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WIRECIRCUITSTATUS.NAME"
 msgid "Circuit Status: {CurrentLoad} / {MaxLoad}"
-msgstr ""
+msgstr "Статус Мережі: {CurrentLoad} / {MaxLoad}"
 
 #. STRINGS.BUILDING.STATUSITEMS.WIRECIRCUITSTATUS.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WIRECIRCUITSTATUS.TOOLTIP"
 msgid "The current load on this circuit"
-msgstr ""
+msgstr "Поточне навантаження на цю мережу"
 
 #. STRINGS.BUILDING.STATUSITEMS.WIRECONNECTED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WIRECONNECTED.NAME"
 msgid "Wire Connected"
-msgstr ""
+msgstr "Дріт Підключений"
 
 #. STRINGS.BUILDING.STATUSITEMS.WIRECONNECTED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WIRECONNECTED.TOOLTIP"
 msgid "This wire is connected to a network"
-msgstr ""
+msgstr "Цей дріт підключений до мережі"
 
 #. STRINGS.BUILDING.STATUSITEMS.WIREDISCONNECTED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WIREDISCONNECTED.NAME"
 msgid "Wire Disconnected"
-msgstr ""
+msgstr "Дріт Від'єднаний"
 
 #. STRINGS.BUILDING.STATUSITEMS.WIREDISCONNECTED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WIREDISCONNECTED.TOOLTIP"
 msgid "This wire is not connecting a power consumer to a generator"
-msgstr ""
+msgstr "Цей дріт не підключений до споживачів енергії чи генератора"
 
 #. STRINGS.BUILDING.STATUSITEMS.WIREMAXWATTAGESTATUS.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WIREMAXWATTAGESTATUS.NAME"
 msgid "Max Wattage: {WireMaxWattage}"
-msgstr ""
+msgstr "Макс. Потужність: {WireMaxWattage}"
 
 #. STRINGS.BUILDING.STATUSITEMS.WIREMAXWATTAGESTATUS.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WIREMAXWATTAGESTATUS.TOOLTIP"
 msgid "The maximum wattage that this wire can safely sustain"
-msgstr ""
+msgstr "Максимальна потужність, яку цей дріт може надійно витримати"
 
 #. STRINGS.BUILDING.STATUSITEMS.WIRENOMINAL.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WIRENOMINAL.NAME"
 msgid "Wire Nominal"
-msgstr ""
+msgstr "Номінальний Дріт"
 
 #. STRINGS.BUILDING.STATUSITEMS.WIRENOMINAL.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WIRENOMINAL.TOOLTIP"
 msgid "This wire is in good condition"
-msgstr ""
+msgstr "Цей дріт у хорошому стані"
 
 #. STRINGS.BUILDING.STATUSITEMS.WORKING.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WORKING.NAME"
 msgid "Nominal"
-msgstr ""
+msgstr "Номінальна"
 
 #. STRINGS.BUILDING.STATUSITEMS.WORKING.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WORKING.TOOLTIP"
 msgid "This building is working as intended"
-msgstr ""
+msgstr "Ця будівля працює як задумано"
 
 #. STRINGS.BUILDINGS.AUTODISINFECTABLE.DISABLE_AUTODISINFECT.NAME
 msgctxt "STRINGS.BUILDINGS.AUTODISINFECTABLE.DISABLE_AUTODISINFECT.NAME"
@@ -23581,47 +23581,47 @@ msgstr ""
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.AVAILABLE_JOULES
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.AVAILABLE_JOULES"
 msgid "<style=\"power\">Power</style> stored: {0}"
-msgstr ""
+msgstr "<style=\"power\">Енергії</style> збережено: {0}"
 
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.AVAILABLE_JOULES_TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.AVAILABLE_JOULES_TOOLTIP"
 msgid "Amount of power stored in batteries"
-msgstr ""
+msgstr "Кількість енергії, що зберігається в батареях"
 
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.BATTERIES
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.BATTERIES"
 msgid "BATTERIES"
-msgstr ""
+msgstr "БАТАРЕЇ"
 
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.CIRCUITOVERVIEW
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.CIRCUITOVERVIEW"
 msgid "CIRCUIT OVERVIEW"
-msgstr ""
+msgstr "ОГЛЯД МЕРЕЖІ"
 
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.CONSUMERS
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.CONSUMERS"
 msgid "POWER CONSUMERS"
-msgstr ""
+msgstr "СПОЖИВАЧІ ЕНЕРГІЇ"
 
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.DISCONNECTED
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.DISCONNECTED"
 msgid "Not connected to an electrical circuit"
-msgstr ""
+msgstr "Немає підключення до електричної мережі"
 
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.GENERATORS
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.GENERATORS"
 msgid "POWER GENERATORS"
-msgstr ""
+msgstr "ВИРОБНИКИ ЕНЕРГІЇ"
 
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.MAX_SAFE_WATTAGE
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.MAX_SAFE_WATTAGE"
 msgid "Maximum Safe Wattage: {0}"
-msgstr ""
+msgstr "Макс. Допустима Потужність: {0}"
 
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.MAX_SAFE_WATTAGE_TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.MAX_SAFE_WATTAGE_TOOLTIP"
 msgid "Exceeding this value will overload the circuit and can result in damage to wiring and buildings"
-msgstr ""
+msgstr "Перевищення цього значення перевантажить мережу і може призвести до пошкодження дротів та будівель"
 
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.NAME
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.NAME"
@@ -23631,52 +23631,52 @@ msgstr ""
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.NOBATTERIES
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.NOBATTERIES"
 msgid "No batteries on this circuit"
-msgstr ""
+msgstr "Немає батарей в цій мережі"
 
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.NOCONSUMERS
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.NOCONSUMERS"
 msgid "No consumers on this circuit"
-msgstr ""
+msgstr "Немає споживачів в цій мережі"
 
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.NOGENERATORS
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.NOGENERATORS"
 msgid "No generators on this circuit"
-msgstr ""
+msgstr "Немає виробників в цій мережі"
 
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.POTENTIAL_WATTAGE_CONSUMED
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.POTENTIAL_WATTAGE_CONSUMED"
 msgid "Potential power consumed: {0}"
-msgstr ""
+msgstr "Потенційні споживачі енергії: {0}"
 
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.POTENTIAL_WATTAGE_CONSUMED_TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.POTENTIAL_WATTAGE_CONSUMED_TOOLTIP"
 msgid "The total amount of power that can be used by this circuit if all connected buildings are active"
-msgstr ""
+msgstr "Загальна потужність, яку може використовувати ця мережа, якщо всі підключені будівлі активні"
 
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.TOOLTIP"
 msgid "Monitor the power this building is generating"
-msgstr ""
+msgstr "Контролюйте енергію, яку виробляє ця будівля"
 
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.WATTAGE_CONSUMED
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.WATTAGE_CONSUMED"
 msgid "<style=\"power\">Power</style> consumed: {0}"
-msgstr ""
+msgstr "<style=\"power\">Енергії</style> спожито: {0}"
 
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.WATTAGE_CONSUMED_TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.WATTAGE_CONSUMED_TOOLTIP"
 msgid "The total amount of power used by this circuit"
-msgstr ""
+msgstr "Загальна кількість енергії, спожита цією мережею"
 
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.WATTAGE_GENERATED
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.WATTAGE_GENERATED"
 msgid "<style=\"power\">Power</style> produced: {0}"
-msgstr ""
+msgstr "<style=\"power\">Енергії</style> вироблено: {0}"
 
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.WATTAGE_GENERATED_TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.WATTAGE_GENERATED_TOOLTIP"
 msgid "The total amount of power generated by this circuit"
-msgstr ""
+msgstr "Загальна кількість енергії, вироблена цією мережею"
 
 #. STRINGS.UI.DETAILTABS.ENERGYWIRE.NAME
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYWIRE.NAME"
@@ -26478,62 +26478,63 @@ msgstr "Нульовий рівень бактерій"
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.BUTTON
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.BUTTON"
 msgid "Power Overlay"
-msgstr ""
+msgstr "Оверлей Енергій"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.DIAGRAM_HEADER
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.DIAGRAM_HEADER"
 msgid "Energy from the <b>Left Outlet</b> is used by the <b>Right Outlet</b>"
-msgstr ""
+msgstr "Енергія з <b>Лівого Входу</b> використовується з <b>Правого Виходу</b>"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND_SWITCH
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND_SWITCH"
 msgid "Switch"
-msgstr ""
+msgstr "Перемикач"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND1
+#, fuzzy
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND1"
 msgid "<b>BUILDING POWER</b>"
-msgstr ""
+msgstr "БУДОВА ЕНЕРЕГТИКИ"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND2
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND2"
 msgid "Consumer"
-msgstr ""
+msgstr "Споживач"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND3
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND3"
 msgid "Producer"
-msgstr ""
+msgstr "Виробник"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND4
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND4"
 msgid "<b>CIRCUIT POWER LOAD</b>"
-msgstr ""
+msgstr "<b>НАВАНТАЖЕННЯ ЕНЕРГЕТИЧНОЇ МЕРЕЖІ</b>"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND5
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND5"
 msgid "Energy Surplus"
-msgstr ""
+msgstr "Надлишок Енергії"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND6
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND6"
 msgid "Strained"
-msgstr ""
+msgstr "Навантажена"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND7
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND7"
 msgid "Overloaded"
-msgstr ""
+msgstr "Перевантажена"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND8
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND8"
 msgid "Underpowered"
-msgstr ""
+msgstr "Занижена потужність"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.NAME
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.NAME"
 msgid "POWER OVERLAY"
-msgstr ""
+msgstr "ОВЕРЛЕЙ ЕНЕРГІЇ"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND_SWITCH
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND_SWITCH"
@@ -26541,11 +26542,13 @@ msgid ""
 "<b>Switch</b>\n"
 "Activates or deactivates connected circuits"
 msgstr ""
+"<b>Перемикач</b>\n"
+"Активує або деактивує підключену мережу"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND1
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND1"
 msgid "Displays whether buildings use or generate <style=\"power\">Power</style>"
-msgstr ""
+msgstr "Відображає будівлі, які виробляють чи споживають <style=\"power\">Енергію</style>"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND2
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND2"
@@ -26553,6 +26556,8 @@ msgid ""
 "<b>Consumer</b>\n"
 "These buildings draw power from a circuit"
 msgstr ""
+"<b>Споживач</b>\n"
+"Ці будівлі споживають електроенергію з мережі"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND3
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND3"
@@ -26560,11 +26565,13 @@ msgid ""
 "<b>Producer</b>\n"
 "These buildings generate power for a circuit"
 msgstr ""
+"<b>Виробник</b>\n"
+"Ці будівлі виробляють електроенергію для мережі"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND4
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND4"
 msgid "Displays the power load on wire systems"
-msgstr ""
+msgstr "Відображає навантаження на електричні дроти"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND5
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND5"
@@ -26572,6 +26579,8 @@ msgid ""
 "<b>Energy Surplus</b>\n"
 "These circuits produce more power than they can consume"
 msgstr ""
+"<b>Надлишок Енергії</b>\n"
+"Ці мережі виробляють більше енергії, ніж вони можуть споживати"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND6
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND6"
@@ -26579,13 +26588,16 @@ msgid ""
 "<b>Strained</b>\n"
 "These circuits consume nearly all power they produce, but can still function as intended"
 msgstr ""
+"<b>Навантажена</b>\n"
+"Ці мережі споживають майже всю енергію, яку вони виробляють, але можуть працювати, як передбачено"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND7
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND7"
 msgid "Too much power being drawn from system"
-msgstr ""
+msgstr "Надто багато енергії витягується з мережі"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND8
+#, fuzzy
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND8"
 msgid ""
 "<b>Underpowered</b>\n"
@@ -26593,6 +26605,10 @@ msgid ""
 "------------------\n"
 "Buildings may be frequently shut off when connected to underpowered circuits"
 msgstr ""
+"<b>Занижена потужність</b>\n"
+"Ці мережі споживають більше енергії, ніж вони можуть виробляти\n"
+"------------------\n"
+"Будинки можуть часто відключатися, якщо вони підключені до занижених потужностей"
 
 #. STRINGS.UI.OVERLAYS.GASPLUMBING.BUTTON
 msgctxt "STRINGS.UI.OVERLAYS.GASPLUMBING.BUTTON"
@@ -28999,7 +29015,7 @@ msgstr ""
 #. STRINGS.UI.TOOLTIPS.POWEROVERLAYSTRING
 msgctxt "STRINGS.UI.TOOLTIPS.POWEROVERLAYSTRING"
 msgid "Displays power grid components"
-msgstr ""
+msgstr "Відображає компоненти електричної мережі"
 
 #. STRINGS.UI.TOOLTIPS.PRIORITIESOVERLAYSTRING
 msgctxt "STRINGS.UI.TOOLTIPS.PRIORITIESOVERLAYSTRING"
