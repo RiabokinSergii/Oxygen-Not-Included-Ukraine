@@ -23571,12 +23571,12 @@ msgstr "Перегляньте ризик захворювання, виявле
 #. STRINGS.UI.DETAILTABS.ENERGYCONSUMER.NAME
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYCONSUMER.NAME"
 msgid "Energy"
-msgstr ""
+msgstr "Енергія"
 
 #. STRINGS.UI.DETAILTABS.ENERGYCONSUMER.TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYCONSUMER.TOOLTIP"
 msgid "View how much power this building consumes"
-msgstr ""
+msgstr "Перегляд, скільки споживає ця будівля енергії"
 
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.AVAILABLE_JOULES
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.AVAILABLE_JOULES"
@@ -23626,7 +23626,7 @@ msgstr "Перевищення цього значення перевантаж�
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.NAME
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.NAME"
 msgid "Energy"
-msgstr ""
+msgstr "Енергія"
 
 #. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.NOBATTERIES
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.NOBATTERIES"
@@ -23681,12 +23681,12 @@ msgstr "Загальна кількість енергії, вироблена �
 #. STRINGS.UI.DETAILTABS.ENERGYWIRE.NAME
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYWIRE.NAME"
 msgid "Energy"
-msgstr ""
+msgstr "Енергія"
 
 #. STRINGS.UI.DETAILTABS.ENERGYWIRE.TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.ENERGYWIRE.TOOLTIP"
 msgid "View this wire's network"
-msgstr ""
+msgstr "Переглянути дроти цієї мережі"
 
 #. STRINGS.UI.DETAILTABS.NEEDS.CURRENT_NEED_LEVEL
 msgctxt "STRINGS.UI.DETAILTABS.NEEDS.CURRENT_NEED_LEVEL"
