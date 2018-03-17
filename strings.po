@@ -11454,7 +11454,7 @@ msgstr "Шеф-кухар"
 #. STRINGS.DUPLICANTS.ROLES.FARMER.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.FARMER.DESCRIPTION"
 msgid "Farmers get extra seeds when harvesting plants"
-msgstr ""
+msgstr "Фермери отримують додаткове насіння при збиранні жнив"
 
 #. STRINGS.DUPLICANTS.ROLES.FARMER.NAME
 msgctxt "STRINGS.DUPLICANTS.ROLES.FARMER.NAME"
@@ -11509,7 +11509,7 @@ msgstr "Новачок Будівельник"
 #. STRINGS.DUPLICANTS.ROLES.JUNIOR_COOK.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.JUNIOR_COOK.DESCRIPTION"
 msgid "A cook can make better food"
-msgstr ""
+msgstr "Кухар може зробити кращу їжу"
 
 #. STRINGS.DUPLICANTS.ROLES.JUNIOR_COOK.NAME
 msgctxt "STRINGS.DUPLICANTS.ROLES.JUNIOR_COOK.NAME"
@@ -11519,17 +11519,17 @@ msgstr "Су шеф-кухар"
 #. STRINGS.DUPLICANTS.ROLES.JUNIOR_FARMER.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.JUNIOR_FARMER.DESCRIPTION"
 msgid "Farmers get extra seeds when harvesting plants"
-msgstr ""
+msgstr "Сільські Фермери отримують додаткове насіння при збиранні жнив"
 
 #. STRINGS.DUPLICANTS.ROLES.JUNIOR_FARMER.NAME
 msgctxt "STRINGS.DUPLICANTS.ROLES.JUNIOR_FARMER.NAME"
 msgid "Farmhand"
-msgstr "Ручне фермерство"
+msgstr "Сільський Фермер"
 
 #. STRINGS.DUPLICANTS.ROLES.JUNIOR_MINER.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.JUNIOR_MINER.DESCRIPTION"
 msgid "Miners have improved digging ability"
-msgstr ""
+msgstr "Новачки Шахтарі мають поліпшену здатність копання"
 
 #. STRINGS.DUPLICANTS.ROLES.JUNIOR_MINER.NAME
 msgctxt "STRINGS.DUPLICANTS.ROLES.JUNIOR_MINER.NAME"
@@ -11539,17 +11539,17 @@ msgstr "Новачок Шахтар"
 #. STRINGS.DUPLICANTS.ROLES.JUNIOR_RESEARCHER.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.JUNIOR_RESEARCHER.DESCRIPTION"
 msgid "Researcher Assistants can operate Super Computers and receive a minor boost to their researching ability."
-msgstr ""
+msgstr "Дослідники-Помічники можуть працювати за Супер Комп'ютерами та отримувати незначний приріст у своїх дослідницьких здібностях."
 
 #. STRINGS.DUPLICANTS.ROLES.JUNIOR_RESEARCHER.NAME
 msgctxt "STRINGS.DUPLICANTS.ROLES.JUNIOR_RESEARCHER.NAME"
 msgid "Research Assistant"
-msgstr "Науковий Співробітник"
+msgstr "Дослідник-Помічник"
 
 #. STRINGS.DUPLICANTS.ROLES.MACHINE_TECHNICIAN.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.MACHINE_TECHNICIAN.DESCRIPTION"
 msgid "Machine Operators can operate big machines"
-msgstr ""
+msgstr "Головні Інженери можуть керувати великими механізмами."
 
 #. STRINGS.DUPLICANTS.ROLES.MACHINE_TECHNICIAN.NAME
 msgctxt "STRINGS.DUPLICANTS.ROLES.MACHINE_TECHNICIAN.NAME"
@@ -11559,7 +11559,7 @@ msgstr "Головний Інженер"
 #. STRINGS.DUPLICANTS.ROLES.MATERIALS_MANAGER.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.MATERIALS_MANAGER.DESCRIPTION"
 msgid "This Duplicant is skilled at keeping your base well supplied."
-msgstr ""
+msgstr "Цей Дублікант майстерний підтримати вашу базу в перевезеннях."
 
 #. STRINGS.DUPLICANTS.ROLES.MATERIALS_MANAGER.NAME
 msgctxt "STRINGS.DUPLICANTS.ROLES.MATERIALS_MANAGER.NAME"
@@ -11569,7 +11569,7 @@ msgstr "Кур'єр"
 #. STRINGS.DUPLICANTS.ROLES.MECHATRONIC_ENGINEER.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.MECHATRONIC_ENGINEER.DESCRIPTION"
 msgid "These clever Duplicants usher in a whole new age of solid logistics."
-msgstr ""
+msgstr "Ці талановиті Дубліканти вводять в цілу нову еру твердої тогістики."
 
 #. STRINGS.DUPLICANTS.ROLES.MECHATRONIC_ENGINEER.NAME
 msgctxt "STRINGS.DUPLICANTS.ROLES.MECHATRONIC_ENGINEER.NAME"
@@ -11579,17 +11579,17 @@ msgstr "Інженер Мехатронік"
 #. STRINGS.DUPLICANTS.ROLES.MEDIC.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.MEDIC.DESCRIPTION"
 msgid "Medics have improved caring ability"
-msgstr ""
+msgstr "Лікарі мають вдосконалені здібності турботи"
 
 #. STRINGS.DUPLICANTS.ROLES.MEDIC.NAME
 msgctxt "STRINGS.DUPLICANTS.ROLES.MEDIC.NAME"
 msgid "Medic"
-msgstr ""
+msgstr "Лікар"
 
 #. STRINGS.DUPLICANTS.ROLES.MINER.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.MINER.DESCRIPTION"
 msgid "Miners have improved digging ability"
-msgstr ""
+msgstr "Шахтарі мають поліпшену здатність копання"
 
 #. STRINGS.DUPLICANTS.ROLES.MINER.NAME
 msgctxt "STRINGS.DUPLICANTS.ROLES.MINER.NAME"
@@ -11599,7 +11599,7 @@ msgstr "Шахтар"
 #. STRINGS.DUPLICANTS.ROLES.NO_ROLE.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.NO_ROLE.DESCRIPTION"
 msgid "This Duplicant has not been assigned a job"
-msgstr ""
+msgstr "Цього Дубліканта не призначено до праці"
 
 #. STRINGS.DUPLICANTS.ROLES.NO_ROLE.NAME
 msgctxt "STRINGS.DUPLICANTS.ROLES.NO_ROLE.NAME"
@@ -11617,9 +11617,10 @@ msgid "Oil Technician"
 msgstr ""
 
 #. STRINGS.DUPLICANTS.ROLES.POWER_TECHNICIAN.DESCRIPTION
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ROLES.POWER_TECHNICIAN.DESCRIPTION"
 msgid "Power Technicians get a charge out of keeping the colony powered."
-msgstr ""
+msgstr "Інженер-електрики отримують плату за збереження енергії колонії."
 
 #. STRINGS.DUPLICANTS.ROLES.POWER_TECHNICIAN.NAME
 msgctxt "STRINGS.DUPLICANTS.ROLES.POWER_TECHNICIAN.NAME"
@@ -11629,7 +11630,7 @@ msgstr "Інженер-електрик"
 #. STRINGS.DUPLICANTS.ROLES.RESEARCHER.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.RESEARCHER.DESCRIPTION"
 msgid "Researchers research tech faster"
-msgstr ""
+msgstr "Науковці досліджують технології швидше"
 
 #. STRINGS.DUPLICANTS.ROLES.RESEARCHER.NAME
 msgctxt "STRINGS.DUPLICANTS.ROLES.RESEARCHER.NAME"
@@ -11654,7 +11655,7 @@ msgstr "Старший Архітектор"
 #. STRINGS.DUPLICANTS.ROLES.SENIOR_FARMER.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.SENIOR_FARMER.DESCRIPTION"
 msgid "Farmers get extra seeds when harvesting plants"
-msgstr ""
+msgstr "Загартовані Фермера отримують додаткове насіння при збиранні жнив"
 
 #. STRINGS.DUPLICANTS.ROLES.SENIOR_FARMER.NAME
 msgctxt "STRINGS.DUPLICANTS.ROLES.SENIOR_FARMER.NAME"
@@ -11664,7 +11665,7 @@ msgstr "Загартований Фермер"
 #. STRINGS.DUPLICANTS.ROLES.SENIOR_MINER.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.SENIOR_MINER.DESCRIPTION"
 msgid "Miners have improved digging ability"
-msgstr ""
+msgstr "Загартовані Шахтарі мають поліпшену здатність копання"
 
 #. STRINGS.DUPLICANTS.ROLES.SENIOR_MINER.NAME
 msgctxt "STRINGS.DUPLICANTS.ROLES.SENIOR_MINER.NAME"
@@ -11674,7 +11675,7 @@ msgstr "Загартований Шахтар"
 #. STRINGS.DUPLICANTS.ROLES.SENIOR_RESEARCHER.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.SENIOR_RESEARCHER.DESCRIPTION"
 msgid "Researchers research tech faster"
-msgstr ""
+msgstr "Заслужені Науковці досліджують технології швидше"
 
 #. STRINGS.DUPLICANTS.ROLES.SENIOR_RESEARCHER.NAME
 msgctxt "STRINGS.DUPLICANTS.ROLES.SENIOR_RESEARCHER.NAME"
@@ -11684,7 +11685,7 @@ msgstr "Заслужений Науковець"
 #. STRINGS.DUPLICANTS.ROLES.SUIT_EXPERT.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.SUIT_EXPERT.DESCRIPTION"
 msgid "Exosuit Specialists can move quickly in an exosuit"
-msgstr ""
+msgstr "Екзо-Інженери можуть рухатися швидше в Екзо Костюмі"
 
 #. STRINGS.DUPLICANTS.ROLES.SUIT_EXPERT.NAME
 msgctxt "STRINGS.DUPLICANTS.ROLES.SUIT_EXPERT.NAME"
@@ -15076,7 +15077,7 @@ msgstr "Сталь"
 #. STRINGS.ELEMENTS.MOLTENTUNGSTEN.DESC
 msgctxt "STRINGS.ELEMENTS.MOLTENTUNGSTEN.DESC"
 msgid "(W) Tungsten is a crystalline <style=\"RawMetal\">Metal</style> heated into a <style=\"liquid\">Liquid</style> state."
-msgstr "(W) Вольфрам - це кристалічний <style=\"RawMetal\">Метал</style>, що нагрівається до <style=\"liquid\">Рідкого</style> стану."
+msgstr "(W) Вольфрам - це кристалічний <style=\"RawMetal\">Метал</style>, що нагрітий до <style=\"liquid\">Рідкого</style> стану."
 
 #. STRINGS.ELEMENTS.MOLTENTUNGSTEN.NAME
 msgctxt "STRINGS.ELEMENTS.MOLTENTUNGSTEN.NAME"
@@ -15111,7 +15112,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.OBSIDIAN.DESC
 msgctxt "STRINGS.ELEMENTS.OBSIDIAN.DESC"
 msgid "Obsidian is a brittle composite of volcanic <style=\"solid\">Glass</style>."
-msgstr "Обсидіан - це крихкий композит кулканічного <style=\"solid\">Скла</style>."
+msgstr "Обсидіан - це крихкий композит вулканічного <style=\"solid\">Скла</style>."
 
 #. STRINGS.ELEMENTS.OBSIDIAN.NAME
 msgctxt "STRINGS.ELEMENTS.OBSIDIAN.NAME"
@@ -15442,7 +15443,7 @@ msgstr "Двоокис Вуглецю"
 #. STRINGS.ELEMENTS.SOLIDCHLORINE.DESC
 msgctxt "STRINGS.ELEMENTS.SOLIDCHLORINE.DESC"
 msgid "(Cl) Chlorine is a toxic chemical element in a <style=\"solid\">Solid</style> state."
-msgstr "(Cl) Хлор- токсичний хімічний елемент в <style=\"solid\">Твердому</style> стані."
+msgstr "(Cl) Хлор - токсичний хімічний елемент в <style=\"solid\">Твердому</style> стані."
 
 #. STRINGS.ELEMENTS.SOLIDCHLORINE.NAME
 msgctxt "STRINGS.ELEMENTS.SOLIDCHLORINE.NAME"
@@ -15515,14 +15516,16 @@ msgid "Oxygen"
 msgstr "Кисень"
 
 #. STRINGS.ELEMENTS.SOLIDPETROLEUM.DESC
+#, fuzzy
 msgctxt "STRINGS.ELEMENTS.SOLIDPETROLEUM.DESC"
 msgid "Petroleum is a <style=\"power\">Power</style> source in a <style=\"solid\">Solid</style> state."
 msgstr "Petroleum - джерело <style=\"power\">Енергії</style> в <style=\"solid\">Твердому</style> стані."
 
 #. STRINGS.ELEMENTS.SOLIDPETROLEUM.NAME
+#, fuzzy
 msgctxt "STRINGS.ELEMENTS.SOLIDPETROLEUM.NAME"
 msgid "Petroleum"
-msgstr ""
+msgstr "Petroleum"
 
 #. STRINGS.ELEMENTS.SOLIDPROPANE.BUILD_DESC
 msgctxt "STRINGS.ELEMENTS.SOLIDPROPANE.BUILD_DESC"
@@ -15722,7 +15725,7 @@ msgid ""
 "\n"
 "It is a source of <style=\"RawMetal\">Tungsten</style> and is suitable for building <style=\"power\">Power</style> systems."
 msgstr ""
-"((Fe,Mn)WO<sub>4</sub>) Вольфрамит - це щільний <style=\"RawMetal\">Металічний</style> елемент в <style=\"solid\">Твердому</style> стані.\n"
+"((Fe,Mn)WO<sub>4</sub>) Вольфраміт - це щільний <style=\"RawMetal\">Металічний</style> елемент в <style=\"solid\">Твердому</style> стані.\n"
 "\n"
 "Це джерело <style=\"RawMetal\">Вольфраму</style> та підходить для будівництва <style=\"power\">Електричних</style> мереж."
 
@@ -19901,827 +19904,827 @@ msgstr ""
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.ABIGAIL
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.ABIGAIL"
 msgid "Abigail"
-msgstr ""
+msgstr "Abigail"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.ANITA
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.ANITA"
 msgid "Anita"
-msgstr ""
+msgstr "Anita"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.ARIODNE
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.ARIODNE"
 msgid "Ariodne"
-msgstr ""
+msgstr "Ariodne"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.ASHLEY
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.ASHLEY"
 msgid "Ashley"
-msgstr ""
+msgstr "Ashley"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.CATIE
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.CATIE"
 msgid "Catie"
-msgstr ""
+msgstr "Catie"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.CHARLIE
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.CHARLIE"
 msgid "Charlie"
-msgstr ""
+msgstr "Charlie"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.CRANDICE
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.CRANDICE"
 msgid "Crandice"
-msgstr ""
+msgstr "Crandice"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.DANA
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.DANA"
 msgid "Dana"
-msgstr ""
+msgstr "Dana"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.ELASEBETE
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.ELASEBETE"
 msgid "Elasebete"
-msgstr ""
+msgstr "Elasebete"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.EMILY
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.EMILY"
 msgid "Emily"
-msgstr ""
+msgstr "Emily"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.EMMA
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.EMMA"
 msgid "Emma"
-msgstr ""
+msgstr "Emma"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.GENEVA
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.GENEVA"
 msgid "Geneva"
-msgstr ""
+msgstr "Geneva"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.GISELDA
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.GISELDA"
 msgid "Giselda"
-msgstr ""
+msgstr "Giselda"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.GRUNKTILDA
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.GRUNKTILDA"
 msgid "Grunktilda"
-msgstr ""
+msgstr "Grunktilda"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.JADE
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.JADE"
 msgid "Jade"
-msgstr ""
+msgstr "Jade"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.JENNA
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.JENNA"
 msgid "Jenna"
-msgstr ""
+msgstr "Jenna"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.JENNY
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.JENNY"
 msgid "Jenny"
-msgstr ""
+msgstr "Jenny"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.KELLY
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.KELLY"
 msgid "Kelly"
-msgstr ""
+msgstr "Kelly"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.KELSEY
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.KELSEY"
 msgid "Kelsey"
-msgstr ""
+msgstr "Kelsey"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.KIERSTEN
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.KIERSTEN"
 msgid "Kiersten"
-msgstr ""
+msgstr "Kiersten"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.LANNIE
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.LANNIE"
 msgid "Lannie"
-msgstr ""
+msgstr "Lannie"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.LAURA
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.LAURA"
 msgid "Laura"
-msgstr ""
+msgstr "Laura"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.LEIRA
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.LEIRA"
 msgid "Leira"
-msgstr ""
+msgstr "Leira"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.LILAH
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.LILAH"
 msgid "Lilah"
-msgstr ""
+msgstr "Lilah"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.LORNA
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.LORNA"
 msgid "Lorna"
-msgstr ""
+msgstr "Lorna"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.LUCY
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.LUCY"
 msgid "Lucy"
-msgstr ""
+msgstr "Lucy"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.MAHA
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.MAHA"
 msgid "Maha"
-msgstr ""
+msgstr "Maha"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.NABIEAH
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.NABIEAH"
 msgid "Nabie-Ah"
-msgstr ""
+msgstr "Nabie-Ah"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.NANA
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.NANA"
 msgid "Nana"
-msgstr ""
+msgstr "Nana"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.NASIM
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.NASIM"
 msgid "Nasim"
-msgstr ""
+msgstr "Nasim"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.PRISCILLA
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.PRISCILLA"
 msgid "Priscilla"
-msgstr ""
+msgstr "Priscilla"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.RACHEL
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.RACHEL"
 msgid "Rachel"
-msgstr ""
+msgstr "Rachel"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.RINALDINE
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.RINALDINE"
 msgid "Rinaldine"
-msgstr ""
+msgstr "Rinaldine"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.SARAH
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.SARAH"
 msgid "Sarah"
-msgstr ""
+msgstr "Sarah"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.SIMONE
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.SIMONE"
 msgid "Simone"
-msgstr ""
+msgstr "Simone"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.TONI
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.TONI"
 msgid "Toni"
-msgstr ""
+msgstr "Toni"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.VIVIAN
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.VIVIAN"
 msgid "Vivian"
-msgstr ""
+msgstr "Vivian"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.WALANI
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.WALANI"
 msgid "Walani"
-msgstr ""
+msgstr "Walani"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.WENDY
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.WENDY"
 msgid "Wendy"
-msgstr ""
+msgstr "Wendy"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.WICKERBOTTOM
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.WICKERBOTTOM"
 msgid "Wickerbottom"
-msgstr ""
+msgstr "Wickerbottom"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.WIGFRID
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.WIGFRID"
 msgid "Wigfrid"
-msgstr ""
+msgstr "Wigfrid"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.WILLOW
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.WILLOW"
 msgid "Willow"
-msgstr ""
+msgstr "Willow"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.ALEX
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.ALEX"
 msgid "Alex"
-msgstr ""
+msgstr "Alex"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.ALIA
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.ALIA"
 msgid "Alia"
-msgstr ""
+msgstr "Alia"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.CHARLIE
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.CHARLIE"
 msgid "Charlie"
-msgstr ""
+msgstr "Charlie"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.COREY
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.COREY"
 msgid "Corey"
-msgstr ""
+msgstr "Corey"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.DANY
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.DANY"
 msgid "Dany"
-msgstr ""
+msgstr "Dany"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.EUGENE
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.EUGENE"
 msgid "Eugene"
-msgstr ""
+msgstr "Eugene"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.GRAHAM
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.GRAHAM"
 msgid "Graham"
-msgstr ""
+msgstr "Graham"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.HINK
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.HINK"
 msgid "Hink"
-msgstr ""
+msgstr "Hink"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.HUGO
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.HUGO"
 msgid "Hugo"
-msgstr ""
+msgstr "Hugo"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.IAN
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.IAN"
 msgid "Ian"
-msgstr ""
+msgstr "Ian"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.JAMBELL
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.JAMBELL"
 msgid "Jambell"
-msgstr ""
+msgstr "Jambell"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.JAMIE
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.JAMIE"
 msgid "Jamie"
-msgstr ""
+msgstr "Jamie"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.JAN
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.JAN"
 msgid "Jan"
-msgstr ""
+msgstr "Jan"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.JARRETT
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.JARRETT"
 msgid "Jarrett"
-msgstr ""
+msgstr "Jarrett"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.JASON
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.JASON"
 msgid "Jason"
-msgstr ""
+msgstr "Jason"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.JEFF
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.JEFF"
 msgid "Jeff"
-msgstr ""
+msgstr "Jeff"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.JOE
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.JOE"
 msgid "Joe"
-msgstr ""
+msgstr "Joe"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.JULIAN
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.JULIAN"
 msgid "Ju-Lian"
-msgstr ""
+msgstr "Ju-Lian"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.KERNLE
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.KERNLE"
 msgid "Kernle"
-msgstr ""
+msgstr "Kernle"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.KEVIN
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.KEVIN"
 msgid "Kevin"
-msgstr ""
+msgstr "Kevin"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.LAWRY
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.LAWRY"
 msgid "Lawry"
-msgstr ""
+msgstr "Lawry"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.LOU
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.LOU"
 msgid "Lou"
-msgstr ""
+msgstr "Lou"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.MARK
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.MARK"
 msgid "Mark"
-msgstr ""
+msgstr "Mark"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.MARTY
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.MARTY"
 msgid "Marty"
-msgstr ""
+msgstr "Marty"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.MATT
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.MATT"
 msgid "Matt"
-msgstr ""
+msgstr "Matt"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.MAXWELL
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.MAXWELL"
 msgid "Maxwell"
-msgstr ""
+msgstr "Maxwell"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.MAY
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.MAY"
 msgid "May"
-msgstr ""
+msgstr "May"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.MIKE
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.MIKE"
 msgid "Mike"
-msgstr ""
+msgstr "Mike"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.PETER
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.PETER"
 msgid "Peter"
-msgstr ""
+msgstr "Peter"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.REDWARD
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.REDWARD"
 msgid "Redward"
-msgstr ""
+msgstr "Redward"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.SCOTT
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.SCOTT"
 msgid "Scott"
-msgstr ""
+msgstr "Scott"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.SLOTH
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.SLOTH"
 msgid "Sloth"
-msgstr ""
+msgstr "Sloth"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.STENLAY
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.STENLAY"
 msgid "Stenlay"
-msgstr ""
+msgstr "Stenlay"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.TRAVALDO
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.TRAVALDO"
 msgid "Travaldo"
-msgstr ""
+msgstr "Travaldo"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.VINCE
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.VINCE"
 msgid "Vince"
-msgstr ""
+msgstr "Vince"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.VITO
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.VITO"
 msgid "Vito"
-msgstr ""
+msgstr "Vito"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.WARLY
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.WARLY"
 msgid "Warly"
-msgstr ""
+msgstr "Warly"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.WEBBER
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.WEBBER"
 msgid "Webber"
-msgstr ""
+msgstr "Webber"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.WES
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.WES"
 msgid "Wes"
-msgstr ""
+msgstr "Wes"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.WILSON
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.WILSON"
 msgid "Wilson"
-msgstr ""
+msgstr "Wilson"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.WOLFGANG
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.WOLFGANG"
 msgid "Wolfgang"
-msgstr ""
+msgstr "Wolfgang"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.WOODIE
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.WOODIE"
 msgid "Woodie"
-msgstr ""
+msgstr "Woodie"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.YOG
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.YOG"
 msgid "Yog"
-msgstr ""
+msgstr "Yog"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.ACE
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.ACE"
 msgid "Ace"
-msgstr ""
+msgstr "Ace"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.ANDERSON
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.ANDERSON"
 msgid "Anderson"
-msgstr ""
+msgstr "Anderson"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.AVERY
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.AVERY"
 msgid "Avery"
-msgstr ""
+msgstr "Avery"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.AXEL
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.AXEL"
 msgid "Axel"
-msgstr ""
+msgstr "Axel"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.BABYFACE
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.BABYFACE"
 msgid "Babyface"
-msgstr ""
+msgstr "Babyface"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.BAILEY
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.BAILEY"
 msgid "Bailey"
-msgstr ""
+msgstr "Bailey"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.BAO
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.BAO"
 msgid "Bao"
-msgstr ""
+msgstr "Bao"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.BLUMP
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.BLUMP"
 msgid "Blump"
-msgstr ""
+msgstr "Blump"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.BOBBIE
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.BOBBIE"
 msgid "Bobbie"
-msgstr ""
+msgstr "Bobbie"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.BROOK
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.BROOK"
 msgid "Brook"
-msgstr ""
+msgstr "Brook"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.BUDDY
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.BUDDY"
 msgid "Buddy"
-msgstr ""
+msgstr "Buddy"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.CAMPBELL
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.CAMPBELL"
 msgid "Campbell"
-msgstr ""
+msgstr "Campbell"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.CHAN
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.CHAN"
 msgid "Chan"
-msgstr ""
+msgstr "Chan"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.CROMULUS
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.CROMULUS"
 msgid "Cromulus"
-msgstr ""
+msgstr "Cromulus"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.CRUDMUFFIN
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.CRUDMUFFIN"
 msgid "Crudmuffin"
-msgstr ""
+msgstr "Crudmuffin"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.CRUMB
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.CRUMB"
 msgid "Crumb"
-msgstr ""
+msgstr "Crumb"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.DANCER
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.DANCER"
 msgid "Dancer"
-msgstr ""
+msgstr "Dancer"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.DAR
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.DAR"
 msgid "Dar"
-msgstr ""
+msgstr "Dar"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.DUMPLING
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.DUMPLING"
 msgid "Dumpling"
-msgstr ""
+msgstr "Dumpling"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.FARAH
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.FARAH"
 msgid "Farah"
-msgstr ""
+msgstr "Farah"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.GEORGIE
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.GEORGIE"
 msgid "Georgie"
-msgstr ""
+msgstr "Georgie"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.GREASY
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.GREASY"
 msgid "Greasy"
-msgstr ""
+msgstr "Greasy"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.JUDE
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.JUDE"
 msgid "Jude"
-msgstr ""
+msgstr "Jude"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.JUPITER
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.JUPITER"
 msgid "Jupiter"
-msgstr ""
+msgstr "Jupiter"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.KERRY
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.KERRY"
 msgid "Kerry"
-msgstr ""
+msgstr "Kerry"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.KRIS
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.KRIS"
 msgid "Kris"
-msgstr ""
+msgstr "Kris"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.LEE
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.LEE"
 msgid "Lee"
-msgstr ""
+msgstr "Lee"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.LOGAN
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.LOGAN"
 msgid "Logan"
-msgstr ""
+msgstr "Logan"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.LOVELACE
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.LOVELACE"
 msgid "Lovelace"
-msgstr ""
+msgstr "Lovelace"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.LUNK
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.LUNK"
 msgid "Lunk"
-msgstr ""
+msgstr "Lunk"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.MASON
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.MASON"
 msgid "Mason"
-msgstr ""
+msgstr "Mason"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.MUSCLE
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.MUSCLE"
 msgid "Muscle"
-msgstr ""
+msgstr "Muscle"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.ORION
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.ORION"
 msgid "Orion"
-msgstr ""
+msgstr "Orion"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.PARIS
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.PARIS"
 msgid "Paris"
-msgstr ""
+msgstr "Paris"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.PAT
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.PAT"
 msgid "Pat"
-msgstr ""
+msgstr "Pat"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.PEARSON
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.PEARSON"
 msgid "Pearson"
-msgstr ""
+msgstr "Pearson"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.REESE
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.REESE"
 msgid "Reese"
-msgstr ""
+msgstr "Reese"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.SADSACK
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.SADSACK"
 msgid "Sadsack"
-msgstr ""
+msgstr "Sadsack"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.SCOUT
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.SCOUT"
 msgid "Scout"
-msgstr ""
+msgstr "Scout"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.SELDEMER
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.SELDEMER"
 msgid "Seldemer"
-msgstr ""
+msgstr "Seldemer"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.SLAB
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.SLAB"
 msgid "Slab"
-msgstr ""
+msgstr "Slab"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.SNORT
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.SNORT"
 msgid "Snort"
-msgstr ""
+msgstr "Snort"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.STAR
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.STAR"
 msgid "Star"
-msgstr ""
+msgstr "Star"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.SUNSHINE
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.SUNSHINE"
 msgid "Sunshine"
-msgstr ""
+msgstr "Sunshine"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.TRUCK
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.TRUCK"
 msgid "Truck"
-msgstr ""
+msgstr "Truck"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.TUCKER
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.TUCKER"
 msgid "Tucker"
-msgstr ""
+msgstr "Tucker"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.WEMP
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.WEMP"
 msgid "Wemp"
-msgstr ""
+msgstr "Wemp"
 
 #. STRINGS.NAMEGEN.DUPLICANT.PREFIX.FEMALE.MS
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.PREFIX.FEMALE.MS"
 msgid "Ms."
-msgstr ""
+msgstr "Ms."
 
 #. STRINGS.NAMEGEN.DUPLICANT.PREFIX.FEMALE.OL_WOMAN
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.PREFIX.FEMALE.OL_WOMAN"
 msgid "Ol' Woman"
-msgstr ""
+msgstr "Ol' Woman"
 
 #. STRINGS.NAMEGEN.DUPLICANT.PREFIX.FEMALE.PRINCESS
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.PREFIX.FEMALE.PRINCESS"
 msgid "Princess"
-msgstr ""
+msgstr "Princess"
 
 #. STRINGS.NAMEGEN.DUPLICANT.PREFIX.FEMALE.QUEEN
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.PREFIX.FEMALE.QUEEN"
 msgid "Queen"
-msgstr ""
+msgstr "Queen"
 
 #. STRINGS.NAMEGEN.DUPLICANT.PREFIX.MALE.KING
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.PREFIX.MALE.KING"
 msgid "King"
-msgstr ""
+msgstr "King"
 
 #. STRINGS.NAMEGEN.DUPLICANT.PREFIX.MALE.MR
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.PREFIX.MALE.MR"
 msgid "Mr."
-msgstr ""
+msgstr "Mr."
 
 #. STRINGS.NAMEGEN.DUPLICANT.PREFIX.MALE.OL_MAN
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.PREFIX.MALE.OL_MAN"
 msgid "Ol' Man"
-msgstr ""
+msgstr "Ol' Man"
 
 #. STRINGS.NAMEGEN.DUPLICANT.PREFIX.MALE.PRINCE
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.PREFIX.MALE.PRINCE"
 msgid "Prince"
-msgstr ""
+msgstr "Prince"
 
 #. STRINGS.NAMEGEN.DUPLICANT.PREFIX.NB.BIG
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.PREFIX.NB.BIG"
 msgid "Big"
-msgstr ""
+msgstr "Big"
 
 #. STRINGS.NAMEGEN.DUPLICANT.PREFIX.NB.CAPTAIN
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.PREFIX.NB.CAPTAIN"
 msgid "Captain"
-msgstr ""
+msgstr "Captain"
 
 #. STRINGS.NAMEGEN.DUPLICANT.PREFIX.NB.COLONEL
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.PREFIX.NB.COLONEL"
 msgid "Colonel"
-msgstr ""
+msgstr "Colonel"
 
 #. STRINGS.NAMEGEN.DUPLICANT.PREFIX.NB.DR
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.PREFIX.NB.DR"
 msgid "Dr."
-msgstr ""
+msgstr "Dr."
 
 #. STRINGS.NAMEGEN.DUPLICANT.PREFIX.NB.EVIL
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.PREFIX.NB.EVIL"
 msgid "Evil"
-msgstr ""
+msgstr "Evil"
 
 #. STRINGS.NAMEGEN.DUPLICANT.PREFIX.NB.GOOD_OL
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.PREFIX.NB.GOOD_OL"
 msgid "Good Ol'"
-msgstr ""
+msgstr "Good Ol'"
 
 #. STRINGS.NAMEGEN.DUPLICANT.PREFIX.NB.MX
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.PREFIX.NB.MX"
 msgid "Mx."
-msgstr ""
+msgstr "Mx."
 
 #. STRINGS.NAMEGEN.DUPLICANT.PREFIX.NB.OLD
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.PREFIX.NB.OLD"
 msgid "Old"
-msgstr ""
+msgstr "Old"
 
 #. STRINGS.NAMEGEN.DUPLICANT.PREFIX.NB.PEPPY
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.PREFIX.NB.PEPPY"
 msgid "Peppy"
-msgstr ""
+msgstr "Peppy"
 
 #. STRINGS.NAMEGEN.DUPLICANT.PREFIX.NB.PROFESSOR
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.PREFIX.NB.PROFESSOR"
 msgid "Professor"
-msgstr ""
+msgstr "Professor"
 
 #. STRINGS.NAMEGEN.DUPLICANT.PREFIX.NB.SLICKITY
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.PREFIX.NB.SLICKITY"
 msgid "Slickity"
-msgstr ""
+msgstr "Slickity"
 
 #. STRINGS.NAMEGEN.DUPLICANT.PREFIX.NB.TINY
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.PREFIX.NB.TINY"
 msgid "Tiny"
-msgstr ""
+msgstr "Tiny"
 
 #. STRINGS.NAMEGEN.DUPLICANT.PREFIX.NB.WUNDER
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.PREFIX.NB.WUNDER"
 msgid "Wunder"
-msgstr ""
+msgstr "Wunder"
 
 #. STRINGS.NAMEGEN.DUPLICANT.SUFFIX.FEMALE.THE_DUDETTE
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.SUFFIX.FEMALE.THE_DUDETTE"
 msgid "\"The Dudette\""
-msgstr ""
+msgstr "\"The Dudette\""
 
 #. STRINGS.NAMEGEN.DUPLICANT.SUFFIX.MALE.THE_DUDE
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.SUFFIX.MALE.THE_DUDE"
 msgid "\"The Dude\""
-msgstr ""
+msgstr "\"The Dude\""
 
 #. STRINGS.NAMEGEN.DUPLICANT.SUFFIX.NB.JR
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.SUFFIX.NB.JR"
 msgid "Jr."
-msgstr ""
+msgstr "Jr."
 
 #. STRINGS.NAMEGEN.DUPLICANT.SUFFIX.NB.MCCOOL
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.SUFFIX.NB.MCCOOL"
 msgid "McCool"
-msgstr ""
+msgstr "McCool"
 
 #. STRINGS.NAMEGEN.DUPLICANT.SUFFIX.NB.SR
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.SUFFIX.NB.SR"
 msgid "Sr."
-msgstr ""
+msgstr "Sr."
 
 #. STRINGS.NAMEGEN.DUPLICANT.SUFFIX.NB.STRONG
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.SUFFIX.NB.STRONG"
 msgid "Strong"
-msgstr ""
+msgstr "Strong"
 
 #. STRINGS.NAMEGEN.DUPLICANT.SUFFIX.NB.THE_BAD
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.SUFFIX.NB.THE_BAD"
 msgid "The Bad"
-msgstr ""
+msgstr "The Bad"
 
 #. STRINGS.NAMEGEN.DUPLICANT.SUFFIX.NB.THE_CHOSEN_ONE
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.SUFFIX.NB.THE_CHOSEN_ONE"
 msgid "The Chosen One"
-msgstr ""
+msgstr "The Chosen One"
 
 #. STRINGS.NAMEGEN.DUPLICANT.SUFFIX.NB.THE_EVIL
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.SUFFIX.NB.THE_EVIL"
 msgid "The Evil"
-msgstr ""
+msgstr "The Evil"
 
 #. STRINGS.NAMEGEN.DUPLICANT.SUFFIX.NB.THE_GOOD
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.SUFFIX.NB.THE_GOOD"
 msgid "The Good"
-msgstr ""
+msgstr "The Good"
 
 #. STRINGS.NAMEGEN.DUPLICANT.SUFFIX.NB.THE_GREAT
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.SUFFIX.NB.THE_GREAT"
 msgid "The Great"
-msgstr ""
+msgstr "The Great"
 
 #. STRINGS.NAMEGEN.DUPLICANT.SUFFIX.NB.THE_UGLY
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.SUFFIX.NB.THE_UGLY"
 msgid "The Ugly"
-msgstr ""
+msgstr "The Ugly"
 
 #. STRINGS.NAMEGEN.GRAVE.EPITAPHS.ASHES_TO_ASHES_STARDUST_TO_STARDUST
 msgctxt "STRINGS.NAMEGEN.GRAVE.EPITAPHS.ASHES_TO_ASHES_STARDUST_TO_STARDUST"
@@ -24066,7 +24069,7 @@ msgstr ""
 #. STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.HEALTHY_MESSAGE.CONTINUEBUTTON
 msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.HEALTHY_MESSAGE.CONTINUEBUTTON"
 msgid "Thanks!"
-msgstr ""
+msgstr "Дякую!"
 
 #. STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.LOADING.BODY
 msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.LOADING.BODY"
@@ -24081,16 +24084,24 @@ msgid ""
 "\n"
 "- Klei"
 msgstr ""
+"Ця гра в ранній стадії розробки, що означає ви імовірно зіткнетесь з дивними, цікавими та час від часу ледь зовсім розстроюваними недоробками.\n"
+"Протягом цього часу Oxygen Not Included буде отримувати регулярні оновлення вирішуючи проблеми, додавати функціонал та включати додатковий вміст, якщо у тебе виникнуть питання або просто можете поділитися пропозицією,  будь ласка повідомте нам про це на нашому форумі: <u>http://forums.kleientertainment.com</u>\n"
+"\n"
+"Особлива подяка тим, хто долучився до нас протягом часу в Альфі. Ми цінуємо ваші відгуки та дякуємо за участь в процесі розробки. Ми не змогли це зробити без тебе.\n"
+"\n"
+"Насолоджуйся своїм часом в глибокому космосі!\n"
+"\n"
+"- Klei"
 
 #. STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.LOADING.CONTINUEBUTTON
 msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.LOADING.CONTINUEBUTTON"
 msgid "Okay, thanks for the heads up!"
-msgstr ""
+msgstr "Добре, дякую за настороження!"
 
 #. STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.LOADING.TITLE
 msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.LOADING.TITLE"
 msgid "<b>Welcome to Oxygen Not Included!</b>"
-msgstr ""
+msgstr "<b>Вітаємо в Oxygen Not Included!</b>"
 
 #. STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.MESSAGES.ANIMATION_HEADER
 msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.MESSAGES.ANIMATION_HEADER"
@@ -27775,7 +27786,7 @@ msgstr ""
 #. STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS.ALREADY_IS_ROLE
 msgctxt "STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS.ALREADY_IS_ROLE"
 msgid "{0} <b>is already</b> assigned to the job {1}"
-msgstr ""
+msgstr "{0} <b>вже</b> призначено на роботу {1}"
 
 #. STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS.APTITUDES
 msgctxt "STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS.APTITUDES"
@@ -27785,7 +27796,7 @@ msgstr ""
 #. STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS.CHOREGROUP_ENABLED.DESCRIPTION
 msgctxt "STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS.CHOREGROUP_ENABLED.DESCRIPTION"
 msgid "Capable of performing <b>{0}</b> jobs"
-msgstr "Здібний до виконання <b>{0}</b> роботи"
+msgstr "Здібний до виконання роботи: <b>{0}</b>"
 
 #. STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS.CHOREGROUP_ENABLED.NAME
 msgctxt "STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS.CHOREGROUP_ENABLED.NAME"
@@ -27795,7 +27806,7 @@ msgstr ""
 #. STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS.ELIGIBILITY.ELIGIBLE
 msgctxt "STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS.ELIGIBILITY.ELIGIBLE"
 msgid "{0} is qualified for the {1} position"
-msgstr ""
+msgstr "{0} кваліфікується на позиції {1}"
 
 #. STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS.ELIGIBILITY.INELIGIBLE
 msgctxt "STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS.ELIGIBILITY.INELIGIBLE"
@@ -27865,7 +27876,7 @@ msgstr ""
 #. STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS.HAS_EXPERIENCE.DESCRIPTION
 msgctxt "STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS.HAS_EXPERIENCE.DESCRIPTION"
 msgid "Mastery of the <b>{0}</b> job"
-msgstr "Майстерність до <b>{0}</b> роботи"
+msgstr "Майстерність до роботи: <b>{0}</b>"
 
 #. STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS.HAS_EXPERIENCE.NAME
 msgctxt "STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS.HAS_EXPERIENCE.NAME"
@@ -27875,7 +27886,7 @@ msgstr ""
 #. STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS.NO_APTITUDE
 msgctxt "STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS.NO_APTITUDE"
 msgid "None"
-msgstr ""
+msgstr "Ніхто"
 
 #. STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS.NONE
 msgctxt "STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS.NONE"
@@ -27890,7 +27901,7 @@ msgstr "Актуальні Інтереси:"
 #. STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS.RELEVANT_ATTRIBUTES
 msgctxt "STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS.RELEVANT_ATTRIBUTES"
 msgid "Relevant skills:"
-msgstr "Актуальні Навички"
+msgstr "Актуальні Навички:"
 
 #. STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS.TITLE
 msgctxt "STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS.TITLE"
@@ -27905,7 +27916,7 @@ msgstr ""
 #. STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS.UNEMPLOYED.NAME
 msgctxt "STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS.UNEMPLOYED.NAME"
 msgid "Unassigned"
-msgstr ""
+msgstr "Не призначено"
 
 #. STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS.WILL_BE_UNASSIGNED
 msgctxt "STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS.WILL_BE_UNASSIGNED"
@@ -28060,23 +28071,22 @@ msgstr ""
 #. STRINGS.UI.ROLES_SCREEN.PERKS.ADVANCED_RESEARCH.DESCRIPTION
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.ADVANCED_RESEARCH.DESCRIPTION"
 msgid "Trait: <style=\"research\">Super Computer</style> Researching"
-msgstr "Особливості: Дослідження <style=\\\"research\\\">Суперкомп'ютером</style>"
+msgstr "Особливості: Дослідження <style=\"research\">Суперкомп'ютером</style>"
 
 #. STRINGS.UI.ROLES_SCREEN.PERKS.CAN_DIG_NEARLY_IMPENETRABLE.DESCRIPTION
-#, fuzzy
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.CAN_DIG_NEARLY_IMPENETRABLE.DESCRIPTION"
 msgid "Trait: <style=\"solid\">Abyssalite</style> Mining"
-msgstr "Особливості: Копання <style=\\\"solid\\\">Абіссаліту</style>"
+msgstr "Особливості: Копання <style=\"solid\">Абіссаліту</style>"
 
 #. STRINGS.UI.ROLES_SCREEN.PERKS.CAN_DIG_VERY_FIRM.DESCRIPTION
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.CAN_DIG_VERY_FIRM.DESCRIPTION"
 msgid "Trait: <style=\"misc\">Very Firm Material</style> Mining"
-msgstr "Особливості: Копання <style=\\\"misc\\\">Дуже Твердих Матеріалів</style>"
+msgstr "Особливості: Копання <style=\"misc\">Дуже Твердих Матеріалів</style>"
 
 #. STRINGS.UI.ROLES_SCREEN.PERKS.CAN_ELECTRIC_GRILL.DESCRIPTION
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.CAN_ELECTRIC_GRILL.DESCRIPTION"
 msgid "Trait: <style=\"food\">Electric Grill</style> Cooking"
-msgstr "Особливості: Приготування їжі <style=\\\"food\\\">Електричним Грилем</style>"
+msgstr "Особливості: Приготування їжі <style=\"food\">Електричним Грилем</style>"
 
 #. STRINGS.UI.ROLES_SCREEN.PERKS.CAN_FARM_TINKER.DESCRIPTION
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.CAN_FARM_TINKER.DESCRIPTION"
@@ -28084,13 +28094,13 @@ msgid ""
 "Trait: <style=\"plant\">Crop</style> Tending\n"
 "    â¢ Trait: <style=\"misc\">Micronutrient Fertilizer</style> Crafting"
 msgstr ""
-"Особливості: Збирання <style=\\\"plant\\\">Врожаю</style>\n"
-"    • Особливості: Створення <style=\\\"misc\\\">Мікроелементарного Добрива</style>"
+"Особливості: Збирання <style=\"plant\">Врожаю</style>\n"
+"    • Особливості: Створення <style=\"misc\">Мікроелементарного Добрива</style>"
 
 #. STRINGS.UI.ROLES_SCREEN.PERKS.CAN_PAINT.DESCRIPTION
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.CAN_PAINT.DESCRIPTION"
 msgid "Trait: <style=\"decor\">Canvas</style> Painting"
-msgstr "Особливості: <style=\\\"decor\\\">Полотний</style> Живопис"
+msgstr "Особливості: <style=\"decor\">Полотний</style> Живопис"
 
 #. STRINGS.UI.ROLES_SCREEN.PERKS.CAN_POWER_TINKER.DESCRIPTION
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.CAN_POWER_TINKER.DESCRIPTION"
@@ -28098,23 +28108,23 @@ msgid ""
 "Trait: <style=\"misc\">Generator</style> Tuning\n"
 "    â¢ Trait: <style=\"misc\">Microchip</style> Crafting"
 msgstr ""
-"Особливості: <style=\\\"misc\\\">Генераторний</style> Лад\n"
-"    • Особливості: <style=\\\"misc\\\">Мікрочіпова</style> Майстерність"
+"Особливості: <style=\"misc\">Генераторний</style> Лад\n"
+"    • Особливості: <style=\"misc\">Мікрочіпова</style> Майстерність"
 
 #. STRINGS.UI.ROLES_SCREEN.PERKS.CAN_SCULPT.DESCRIPTION
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.CAN_SCULPT.DESCRIPTION"
 msgid "Trait: <style=\"decor\">Block</style> Sculpting"
-msgstr "Особливості: <style=\\\"decor\\\">Блок</style> Скульптури"
+msgstr "Особливості: <style=\"decor\">Блок</style> Скульптури"
 
 #. STRINGS.UI.ROLES_SCREEN.PERKS.CONVEYOR_BUILD.DESCRIPTION
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.CONVEYOR_BUILD.DESCRIPTION"
 msgid "Trait: <style=\"misc\">Conveyor Rail System</style> Construction"
-msgstr "Особливості: Будівництво <style=\\\"misc\\\">Конвеєрної Рейкової Системи</style>"
+msgstr "Особливості: Будівництво <style=\"misc\">Конвеєрної Рейкової Системи</style>"
 
 #. STRINGS.UI.ROLES_SCREEN.PERKS.EXOSUIT_EXPERTISE.DESCRIPTION
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.EXOSUIT_EXPERTISE.DESCRIPTION"
 msgid "Trait: <style=\"equipment\">Exosuit</style> Sprinting"
-msgstr "Особливості: Швидкість в <style=\\\"equipment\\\">Укзо Костюмі</style>"
+msgstr "Особливості: Швидкість до <style=\"equipment\"Екзо Костюма</style>"
 
 #. STRINGS.UI.ROLES_SCREEN.PERKS.INCREASE_BOTANIST.DESCRIPTION
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.INCREASE_BOTANIST.DESCRIPTION"
@@ -28139,7 +28149,7 @@ msgstr ""
 #. STRINGS.UI.ROLES_SCREEN.PERKS.INCREASED_CARRY_AMOUNT.DESCRIPTION
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.INCREASED_CARRY_AMOUNT.DESCRIPTION"
 msgid "+{0}kg to Carrying Capacity"
-msgstr "+{0}kg до Вантажопідйомності"
+msgstr "+{0}кг до Вантажопідйомності"
 
 #. STRINGS.UI.ROLES_SCREEN.PERKS.INCREASED_CONSTRUCTION.DESCRIPTION
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.INCREASED_CONSTRUCTION.DESCRIPTION"
@@ -28271,7 +28281,7 @@ msgstr ""
 #. STRINGS.UI.ROLES_SCREEN.SLOTS.PICK_JOB
 msgctxt "STRINGS.UI.ROLES_SCREEN.SLOTS.PICK_JOB"
 msgid "No Job"
-msgstr "Немає роботи"
+msgstr "Без.роб."
 
 #. STRINGS.UI.ROLES_SCREEN.SLOTS.UNASSIGNED
 msgctxt "STRINGS.UI.ROLES_SCREEN.SLOTS.UNASSIGNED"
@@ -30499,13 +30509,11 @@ msgid "Flow Control"
 msgstr ""
 
 #. STRINGS.UI.UNITSUFFIXES.CALORIES.CALORIE
-#, fuzzy
 msgctxt "STRINGS.UI.UNITSUFFIXES.CALORIES.CALORIE"
 msgid " cal"
 msgstr " кал"
 
 #. STRINGS.UI.UNITSUFFIXES.CALORIES.KILOCALORIE
-#, fuzzy
 msgctxt "STRINGS.UI.UNITSUFFIXES.CALORIES.KILOCALORIE"
 msgid " kcal"
 msgstr " ккал"
@@ -30516,37 +30524,31 @@ msgid " germs"
 msgstr "бактерії"
 
 #. STRINGS.UI.UNITSUFFIXES.DISTANCE.METER
-#, fuzzy
 msgctxt "STRINGS.UI.UNITSUFFIXES.DISTANCE.METER"
 msgid " m"
 msgstr " м"
 
 #. STRINGS.UI.UNITSUFFIXES.ELECTRICAL.JOULE
-#, fuzzy
 msgctxt "STRINGS.UI.UNITSUFFIXES.ELECTRICAL.JOULE"
 msgid " J"
-msgstr " дж"
+msgstr " Дж"
 
 #. STRINGS.UI.UNITSUFFIXES.ELECTRICAL.KILOJOULE
-#, fuzzy
 msgctxt "STRINGS.UI.UNITSUFFIXES.ELECTRICAL.KILOJOULE"
 msgid " kJ"
-msgstr " кдж"
+msgstr " кДж"
 
 #. STRINGS.UI.UNITSUFFIXES.ELECTRICAL.KILOWATT
-#, fuzzy
 msgctxt "STRINGS.UI.UNITSUFFIXES.ELECTRICAL.KILOWATT"
 msgid " kW"
 msgstr "кВт"
 
 #. STRINGS.UI.UNITSUFFIXES.ELECTRICAL.MEGAJOULE
-#, fuzzy
 msgctxt "STRINGS.UI.UNITSUFFIXES.ELECTRICAL.MEGAJOULE"
 msgid " MJ"
 msgstr " МДж"
 
 #. STRINGS.UI.UNITSUFFIXES.ELECTRICAL.WATT
-#, fuzzy
 msgctxt "STRINGS.UI.UNITSUFFIXES.ELECTRICAL.WATT"
 msgid " W"
 msgstr " Вт"
@@ -30557,18 +30559,17 @@ msgid " dr"
 msgstr ""
 
 #. STRINGS.UI.UNITSUFFIXES.MASS.GRAIN
+#, fuzzy
 msgctxt "STRINGS.UI.UNITSUFFIXES.MASS.GRAIN"
 msgid " gr"
-msgstr ""
+msgstr " лін.в"
 
 #. STRINGS.UI.UNITSUFFIXES.MASS.GRAM
-#, fuzzy
 msgctxt "STRINGS.UI.UNITSUFFIXES.MASS.GRAM"
 msgid " g"
 msgstr " г"
 
 #. STRINGS.UI.UNITSUFFIXES.MASS.KILOGRAM
-#, fuzzy
 msgctxt "STRINGS.UI.UNITSUFFIXES.MASS.KILOGRAM"
 msgid " Kg"
 msgstr " Кг"
@@ -30580,18 +30581,16 @@ msgid " mcg"
 msgstr " мкрг"
 
 #. STRINGS.UI.UNITSUFFIXES.MASS.MILLIGRAM
-#, fuzzy
 msgctxt "STRINGS.UI.UNITSUFFIXES.MASS.MILLIGRAM"
 msgid " mg"
-msgstr " млг"
+msgstr " мг"
 
 #. STRINGS.UI.UNITSUFFIXES.MASS.POUND
 msgctxt "STRINGS.UI.UNITSUFFIXES.MASS.POUND"
 msgid " lb"
-msgstr ""
+msgstr "фт"
 
 #. STRINGS.UI.UNITSUFFIXES.MASS.TONNE
-#, fuzzy
 msgctxt "STRINGS.UI.UNITSUFFIXES.MASS.TONNE"
 msgid " t"
 msgstr " Т"
@@ -30599,16 +30598,14 @@ msgstr " Т"
 #. STRINGS.UI.UNITSUFFIXES.NOISE.UNITS
 msgctxt "STRINGS.UI.UNITSUFFIXES.NOISE.UNITS"
 msgid " dB"
-msgstr ""
+msgstr "дБ"
 
 #. STRINGS.UI.UNITSUFFIXES.PERCENT
-#, fuzzy
 msgctxt "STRINGS.UI.UNITSUFFIXES.PERCENT"
 msgid "%"
 msgstr "%"
 
 #. STRINGS.UI.UNITSUFFIXES.PERCYCLE
-#, fuzzy
 msgctxt "STRINGS.UI.UNITSUFFIXES.PERCYCLE"
 msgid "/cycle"
 msgstr "/цикл"
@@ -30619,25 +30616,21 @@ msgid "/s"
 msgstr " /с"
 
 #. STRINGS.UI.UNITSUFFIXES.SECOND
-#, fuzzy
 msgctxt "STRINGS.UI.UNITSUFFIXES.SECOND"
 msgid " s"
 msgstr " с"
 
 #. STRINGS.UI.UNITSUFFIXES.TEMPERATURE.CELSIUS
-#, fuzzy
 msgctxt "STRINGS.UI.UNITSUFFIXES.TEMPERATURE.CELSIUS"
 msgid " ÂºC"
 msgstr " ºC"
 
 #. STRINGS.UI.UNITSUFFIXES.TEMPERATURE.FAHRENHEIT
-#, fuzzy
 msgctxt "STRINGS.UI.UNITSUFFIXES.TEMPERATURE.FAHRENHEIT"
 msgid " ÂºF"
 msgstr " ºF"
 
 #. STRINGS.UI.UNITSUFFIXES.TEMPERATURE.KELVIN
-#, fuzzy
 msgctxt "STRINGS.UI.UNITSUFFIXES.TEMPERATURE.KELVIN"
 msgid " K"
 msgstr " K"
