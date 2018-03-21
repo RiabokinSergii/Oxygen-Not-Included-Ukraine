@@ -4831,7 +4831,7 @@ msgstr "Потужний Трансфор."
 #. STRINGS.BUILDINGS.PREFABS.PRESSUREDOOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.PRESSUREDOOR.DESC"
 msgid "Mechanized airlocks have the same function as other doors, but open and close more quickly."
-msgstr ""
+msgstr "Механізовані Шлюзи мають ті самі функції що й інші двері, але відчиняються та зачиняються набагато швидше."
 
 #. STRINGS.BUILDINGS.PREFABS.PRESSUREDOOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.PRESSUREDOOR.EFFECT"
@@ -4842,6 +4842,11 @@ msgid ""
 "\n"
 "Functions as a Manual Airlock when no <style=\"power\">Power</style> is available."
 msgstr ""
+"Блокує проходженню <style=\"liquid\">Рідини</style> та <style=\"gas\">Газу</style>, підтримує тиск між зонами.\n"
+"\n"
+"Встановлює Дублікантам дозвіл на прохід для зони обмеження.\n"
+"\n"
+"Функціонує як звичайний Ручний Шлюз, коли немає подачі <style=\"power\">Електрики</style>."
 
 #. STRINGS.BUILDINGS.PREFABS.PRESSUREDOOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PRESSUREDOOR.NAME"
@@ -7094,32 +7099,32 @@ msgstr ""
 #. STRINGS.DUPLICANTS.ATTRIBUTES.ART.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.ART.DESC"
 msgid "Determines the speed and finesse with which a Duplicant creates artwork."
-msgstr ""
+msgstr "Визначає швидкість та творчість з якими Дублікант творить мистецтво."
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.ART.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.ART.NAME"
 msgid "Creativity"
-msgstr ""
+msgstr "Творчість"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.ART.SPEEDMODIFIER
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.ART.SPEEDMODIFIER"
 msgid "{0} Decorating Speed"
-msgstr ""
+msgstr "{0} Швидкість прикрашання"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.ATHLETICS.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.ATHLETICS.DESC"
 msgid "Determines a Duplicant's default runspeed."
-msgstr ""
+msgstr "Визначає швидкість бігу Дублікантів за замовчуванням."
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.ATHLETICS.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.ATHLETICS.NAME"
 msgid "Athletics"
-msgstr ""
+msgstr "Атлетика"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.ATHLETICS.SPEEDMODIFIER
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.ATHLETICS.SPEEDMODIFIER"
 msgid "{0} Runspeed"
-msgstr ""
+msgstr "{0} Швидкість бігу"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.BASE_VALUE
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.BASE_VALUE"
@@ -7141,27 +7146,27 @@ msgstr ""
 #. STRINGS.DUPLICANTS.ATTRIBUTES.BOTANIST.BONUS_SEEDS
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.BOTANIST.BONUS_SEEDS"
 msgid "{0} Seed Chance"
-msgstr ""
+msgstr "{0} Імовірність насіння"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.BOTANIST.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.BOTANIST.DESC"
 msgid "Determines how quickly and efficiently a Duplicant raises plants."
-msgstr ""
+msgstr "Визначає, як швидко та ефективно Дублікант вирощує рослини."
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.BOTANIST.HARVEST_SPEED_MODIFIER
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.BOTANIST.HARVEST_SPEED_MODIFIER"
 msgid "{0} Harvesting Speed"
-msgstr ""
+msgstr "{0} Швидкість збирання жнив"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.BOTANIST.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.BOTANIST.NAME"
 msgid "Farming"
-msgstr ""
+msgstr "Фермерство"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.BOTANIST.TINKER_MODIFIER
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.BOTANIST.TINKER_MODIFIER"
 msgid "{0} Tending Speed"
-msgstr ""
+msgstr "{0} Швидкість догляду"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.BREATHDELTA.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.BREATHDELTA.DESC"
@@ -7186,22 +7191,22 @@ msgstr ""
 #. STRINGS.DUPLICANTS.ATTRIBUTES.CARING.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.CARING.DESC"
 msgid "Determines medical skill and how well a Duplicant works with peers and creatures."
-msgstr ""
+msgstr "Визначає медичні уміння та як добре Дублікант працює з підлітками та тваринами."
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.CARING.FABRICATE_SPEEDMODIFIER
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.CARING.FABRICATE_SPEEDMODIFIER"
 msgid "{0} Compound Treatment Speed"
-msgstr ""
+msgstr "{0} Складова швидкості лікування"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.CARING.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.CARING.NAME"
 msgid "Kindness"
-msgstr ""
+msgstr "Доброта"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.CARING.SPEEDMODIFIER
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.CARING.SPEEDMODIFIER"
 msgid "{0} Medical Care Speed"
-msgstr ""
+msgstr "{0} Швидкість медичної опіки"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.CARRYAMOUNT.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.CARRYAMOUNT.DESC"
@@ -7216,32 +7221,32 @@ msgstr ""
 #. STRINGS.DUPLICANTS.ATTRIBUTES.CONSTRUCTION.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.CONSTRUCTION.DESC"
 msgid "Determines a Duplicant's building speed."
-msgstr ""
+msgstr "Визначає швидкість будівництва Дублікантів."
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.CONSTRUCTION.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.CONSTRUCTION.NAME"
 msgid "Construction"
-msgstr ""
+msgstr "Будівництво"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.CONSTRUCTION.SPEEDMODIFIER
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.CONSTRUCTION.SPEEDMODIFIER"
 msgid "{0} Construction Speed"
-msgstr ""
+msgstr "{0} Швидкість будівництва"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.COOKING.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.COOKING.DESC"
 msgid "Determines how quickly a Duplicant prepares <style=\"food\">Food</style>."
-msgstr ""
+msgstr "Визначає, як швидко Дублікант готує <style=\"food\">Їжу</style>."
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.COOKING.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.COOKING.NAME"
 msgid "Cooking"
-msgstr ""
+msgstr "Кулінарія"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.COOKING.SPEEDMODIFIER
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.COOKING.SPEEDMODIFIER"
 msgid "{0} Cooking Speed"
-msgstr ""
+msgstr "{0} Швидкість куховарення"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.DECOR.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DECOR.DESC"
@@ -7281,17 +7286,17 @@ msgstr ""
 #. STRINGS.DUPLICANTS.ATTRIBUTES.DIGGING.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DIGGING.DESC"
 msgid "Determines a Duplicant's mining speed."
-msgstr ""
+msgstr "Визначає швидкість копання Дублікантів"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.DIGGING.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DIGGING.NAME"
 msgid "Digging"
-msgstr ""
+msgstr "Копання"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.DIGGING.SPEEDMODIFIER
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DIGGING.SPEEDMODIFIER"
 msgid "{0} Digging Speed"
-msgstr ""
+msgstr "{0} Швидкість копання"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.DISEASECURESPEED.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DISEASECURESPEED.DESC"
@@ -7404,37 +7409,37 @@ msgstr ""
 #. STRINGS.DUPLICANTS.ATTRIBUTES.LEARNING.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.LEARNING.DESC"
 msgid "Determines how quickly a Duplicant conducts <style=\"research\">Research</style> and gains skills."
-msgstr ""
+msgstr "Визначає, як швидко Дублікант веде <style=\"research\">Дослідження</style> та набуває уміння"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.LEARNING.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.LEARNING.NAME"
 msgid "Learning"
-msgstr ""
+msgstr "Дослідження"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.LEARNING.RESEARCHSPEED
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.LEARNING.RESEARCHSPEED"
 msgid "{0} Research Speed"
-msgstr ""
+msgstr "{0} Швидкість дослідження"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.LEARNING.SPEEDMODIFIER
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.LEARNING.SPEEDMODIFIER"
 msgid "{0} Skill Leveling"
-msgstr ""
+msgstr "{0} Рівень уміння"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.MACHINERY.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.MACHINERY.DESC"
 msgid "Determines how adeptly a Duplicant uses machines."
-msgstr ""
+msgstr "Визначає, як вправно Дублікант використовує машини."
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.MACHINERY.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.MACHINERY.NAME"
 msgid "Tinkering"
-msgstr ""
+msgstr "Ремісництво"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.MACHINERY.SPEEDMODIFIER
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.MACHINERY.SPEEDMODIFIER"
 msgid "{0} Tinkering Speed"
-msgstr ""
+msgstr "{0} Швидкість ремісництва"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.MACHINERYSPEED.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.MACHINERYSPEED.DESC"
@@ -7534,22 +7539,23 @@ msgstr ""
 #. STRINGS.DUPLICANTS.ATTRIBUTES.STRENGTH.CARRYMODIFIER
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.STRENGTH.CARRYMODIFIER"
 msgid "{0} Carrying Capacity"
-msgstr ""
+msgstr "{0} Вантажопідйомність"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.STRENGTH.DESC
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.STRENGTH.DESC"
 msgid "Determines a Duplicant's carrying capacity, and how much elbow grease they can put into cleaning errands."
-msgstr ""
+msgstr "Визначає вантажопідйомність Дубліканта та як багато"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.STRENGTH.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.STRENGTH.NAME"
 msgid "Strength"
-msgstr ""
+msgstr "Сила"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.STRENGTH.SPEEDMODIFIER
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.STRENGTH.SPEEDMODIFIER"
 msgid "{0} Tidying Speed"
-msgstr ""
+msgstr "{0} Швидкість прибирання"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.STRESSDELTA.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.STRESSDELTA.DESC"
@@ -24149,12 +24155,12 @@ msgstr "Переглянути статус обраного об'єкта"
 #. STRINGS.UI.DETAILTABS.STATS.GROUPNAME_APTITUDES
 msgctxt "STRINGS.UI.DETAILTABS.STATS.GROUPNAME_APTITUDES"
 msgid "INTERESTS"
-msgstr ""
+msgstr "ІНТЕРЕСИ"
 
 #. STRINGS.UI.DETAILTABS.STATS.GROUPNAME_ATTRIBUTES
 msgctxt "STRINGS.UI.DETAILTABS.STATS.GROUPNAME_ATTRIBUTES"
 msgid "ATTRIBUTES"
-msgstr ""
+msgstr "ХАРАКТЕРНІ РИСИ"
 
 #. STRINGS.UI.DETAILTABS.STATS.GROUPNAME_BIO
 msgctxt "STRINGS.UI.DETAILTABS.STATS.GROUPNAME_BIO"
@@ -24164,7 +24170,7 @@ msgstr ""
 #. STRINGS.UI.DETAILTABS.STATS.GROUPNAME_EXPECTATIONS
 msgctxt "STRINGS.UI.DETAILTABS.STATS.GROUPNAME_EXPECTATIONS"
 msgid "EXPECTATIONS"
-msgstr ""
+msgstr "ОЧІКУВАННЯ"
 
 #. STRINGS.UI.DETAILTABS.STATS.GROUPNAME_PERKS
 msgctxt "STRINGS.UI.DETAILTABS.STATS.GROUPNAME_PERKS"
@@ -24184,7 +24190,7 @@ msgstr ""
 #. STRINGS.UI.DETAILTABS.STATS.GROUPNAME_TRAITS
 msgctxt "STRINGS.UI.DETAILTABS.STATS.GROUPNAME_TRAITS"
 msgid "TRAITS"
-msgstr ""
+msgstr "ОСОБЛИВОСТІ"
 
 #. STRINGS.UI.DETAILTABS.STATS.NAME
 msgctxt "STRINGS.UI.DETAILTABS.STATS.NAME"
@@ -25033,7 +25039,7 @@ msgstr "Оптимістичний"
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.STRESS.LEVELS.OPTIMISTIC.NAME
 msgctxt "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.STRESS.LEVELS.OPTIMISTIC.NAME"
 msgid "Optimistic"
-msgstr "Оптимістичний-3"
+msgstr "Оптимістичний"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.STRESS.LEVELS.OPTIMISTIC.TOOLTIP
 msgctxt "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.STRESS.LEVELS.OPTIMISTIC.TOOLTIP"
@@ -25790,7 +25796,7 @@ msgstr ""
 #. STRINGS.UI.FRONTEND.WORLDGENSCREEN.GENERATINGWORLD
 msgctxt "STRINGS.UI.FRONTEND.WORLDGENSCREEN.GENERATINGWORLD"
 msgid "GENERATING WORLD"
-msgstr ""
+msgstr "СТВОРЕННЯ СВІТУ"
 
 #. STRINGS.UI.FRONTEND.WORLDGENSCREEN.LOADINGGAME
 msgctxt "STRINGS.UI.FRONTEND.WORLDGENSCREEN.LOADINGGAME"
@@ -26270,12 +26276,12 @@ msgstr ""
 #. STRINGS.UI.IMMIGRANTSCREEN.SELECTYOURCREW
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.SELECTYOURCREW"
 msgid "CHOOSE THREE DUPLICANTS TO BEGIN"
-msgstr ""
+msgstr "ОБЕРІТЬ ТРЬОХ ДУБЛІКАНТІВ, ЩОБ РОЗПОЧАТИ"
 
 #. STRINGS.UI.IMMIGRANTSCREEN.SHUFFLE
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.SHUFFLE"
 msgid "SHUFFLE"
-msgstr ""
+msgstr "ПЕРЕМІШАТИ"
 
 #. STRINGS.UI.IMMIGRANTSCREEN.SHUFFLE_COLONY_NAME
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.SHUFFLE_COLONY_NAME"
@@ -31574,102 +31580,102 @@ msgstr ""
 #. STRINGS.UI.WORLDGEN.BORDERS
 msgctxt "STRINGS.UI.WORLDGEN.BORDERS"
 msgid "Just adding water..."
-msgstr ""
+msgstr "Лише додавання води..."
 
 #. STRINGS.UI.WORLDGEN.BORDERS1
 msgctxt "STRINGS.UI.WORLDGEN.BORDERS1"
 msgid "Just adding water..."
-msgstr ""
+msgstr "Лише додавання води..."
 
 #. STRINGS.UI.WORLDGEN.BORDERS2
 msgctxt "STRINGS.UI.WORLDGEN.BORDERS2"
 msgid "Staring at the void..."
-msgstr ""
+msgstr "Пильний погляд в пустоту..."
 
 #. STRINGS.UI.WORLDGEN.BORDERS3
 msgctxt "STRINGS.UI.WORLDGEN.BORDERS3"
 msgid "Staring at the void..."
-msgstr ""
+msgstr "Пильний погляд в пустоту..."
 
 #. STRINGS.UI.WORLDGEN.BORDERS4
 msgctxt "STRINGS.UI.WORLDGEN.BORDERS4"
 msgid "Staring at the void..."
-msgstr ""
+msgstr "Пильний погляд в пустоту..."
 
 #. STRINGS.UI.WORLDGEN.BORDERS5
 msgctxt "STRINGS.UI.WORLDGEN.BORDERS5"
 msgid "Avoiding awkward eye contact with the void..."
-msgstr ""
+msgstr "Уникаючи небезпечного погляду зіткнення з пустотою..."
 
 #. STRINGS.UI.WORLDGEN.BORDERS6
 msgctxt "STRINGS.UI.WORLDGEN.BORDERS6"
 msgid "Avoiding awkward eye contact with the void..."
-msgstr ""
+msgstr "Уникаючи небезпечного погляду зіткнення з пустотою..."
 
 #. STRINGS.UI.WORLDGEN.BORDERS7
 msgctxt "STRINGS.UI.WORLDGEN.BORDERS7"
 msgid "Avoiding awkward eye contact with the void..."
-msgstr ""
+msgstr "Уникаючи небезпечного погляду зіткнення з пустотою..."
 
 #. STRINGS.UI.WORLDGEN.BORDERS8
 msgctxt "STRINGS.UI.WORLDGEN.BORDERS8"
 msgid "Avoiding awkward eye contact with the void..."
-msgstr ""
+msgstr "Уникаючи небезпечного погляду зіткнення з пустотою..."
 
 #. STRINGS.UI.WORLDGEN.BORDERS9
 msgctxt "STRINGS.UI.WORLDGEN.BORDERS9"
 msgid "Avoiding awkward eye contact with the void..."
-msgstr ""
+msgstr "Уникаючи небезпечного погляду зіткнення з пустотою..."
 
 #. STRINGS.UI.WORLDGEN.BUILDNOISESOURCE
 msgctxt "STRINGS.UI.WORLDGEN.BUILDNOISESOURCE"
 msgid "Sorting quadrillions of atoms..."
-msgstr ""
+msgstr "Сортування септильйону атомів..."
 
 #. STRINGS.UI.WORLDGEN.BUILDNOISESOURCE1
 msgctxt "STRINGS.UI.WORLDGEN.BUILDNOISESOURCE1"
 msgid "Sorting quadrillions of atoms..."
-msgstr ""
+msgstr "Сортування септильйону атомів..."
 
 #. STRINGS.UI.WORLDGEN.BUILDNOISESOURCE2
 msgctxt "STRINGS.UI.WORLDGEN.BUILDNOISESOURCE2"
 msgid "Sorting quadrillions of atoms..."
-msgstr ""
+msgstr "Сортування септильйону атомів..."
 
 #. STRINGS.UI.WORLDGEN.BUILDNOISESOURCE3
 msgctxt "STRINGS.UI.WORLDGEN.BUILDNOISESOURCE3"
 msgid "Ironing the fabric of creation..."
-msgstr ""
+msgstr "Прасування матерії створення..."
 
 #. STRINGS.UI.WORLDGEN.BUILDNOISESOURCE4
 msgctxt "STRINGS.UI.WORLDGEN.BUILDNOISESOURCE4"
 msgid "Ironing the fabric of creation..."
-msgstr ""
+msgstr "Прасування матерії створення..."
 
 #. STRINGS.UI.WORLDGEN.BUILDNOISESOURCE5
 msgctxt "STRINGS.UI.WORLDGEN.BUILDNOISESOURCE5"
 msgid "Ironing the fabric of creation..."
-msgstr ""
+msgstr "Прасування матерії створення..."
 
 #. STRINGS.UI.WORLDGEN.BUILDNOISESOURCE6
 msgctxt "STRINGS.UI.WORLDGEN.BUILDNOISESOURCE6"
 msgid "Taking hot meteor shower..."
-msgstr ""
+msgstr "Захоплення гарячою метеоритною зливою..."
 
 #. STRINGS.UI.WORLDGEN.BUILDNOISESOURCE7
 msgctxt "STRINGS.UI.WORLDGEN.BUILDNOISESOURCE7"
 msgid "Tightening asteroid belts..."
-msgstr ""
+msgstr "Стискання астероїдного поясу..."
 
 #. STRINGS.UI.WORLDGEN.BUILDNOISESOURCE8
 msgctxt "STRINGS.UI.WORLDGEN.BUILDNOISESOURCE8"
 msgid "Tightening asteroid belts..."
-msgstr ""
+msgstr "Стискання астероїдного поясу..."
 
 #. STRINGS.UI.WORLDGEN.BUILDNOISESOURCE9
 msgctxt "STRINGS.UI.WORLDGEN.BUILDNOISESOURCE9"
 msgid "Tightening asteroid belts..."
-msgstr ""
+msgstr "Стискання астероїдного поясу..."
 
 #. STRINGS.UI.WORLDGEN.CHOOSEWORLDSIZE
 msgctxt "STRINGS.UI.WORLDGEN.CHOOSEWORLDSIZE"
@@ -31679,7 +31685,7 @@ msgstr ""
 #. STRINGS.UI.WORLDGEN.CLEARINGLEVEL
 msgctxt "STRINGS.UI.WORLDGEN.CLEARINGLEVEL"
 msgid "Staring into the void..."
-msgstr ""
+msgstr "Пильний погляд на пустоту..."
 
 #. STRINGS.UI.WORLDGEN.COMPLETE
 msgctxt "STRINGS.UI.WORLDGEN.COMPLETE"
@@ -31689,67 +31695,67 @@ msgstr ""
 #. STRINGS.UI.WORLDGEN.COMPLETELAYOUT
 msgctxt "STRINGS.UI.WORLDGEN.COMPLETELAYOUT"
 msgid "Cooling glass..."
-msgstr ""
+msgstr "Охолоджуємо скло..."
 
 #. STRINGS.UI.WORLDGEN.COMPLETELAYOUT1
 msgctxt "STRINGS.UI.WORLDGEN.COMPLETELAYOUT1"
 msgid "Cooling glass..."
-msgstr ""
+msgstr "Охолоджуємо скло..."
 
 #. STRINGS.UI.WORLDGEN.COMPLETELAYOUT10
 msgctxt "STRINGS.UI.WORLDGEN.COMPLETELAYOUT10"
 msgid "Adding buckets of dirt..."
-msgstr ""
+msgstr "Додавання відер з землею..."
 
 #. STRINGS.UI.WORLDGEN.COMPLETELAYOUT2
 msgctxt "STRINGS.UI.WORLDGEN.COMPLETELAYOUT2"
 msgid "Cooling glass..."
-msgstr ""
+msgstr "Охолоджуємо скло..."
 
 #. STRINGS.UI.WORLDGEN.COMPLETELAYOUT3
 msgctxt "STRINGS.UI.WORLDGEN.COMPLETELAYOUT3"
 msgid "Cooling glass..."
-msgstr ""
+msgstr "Охолоджуємо скло..."
 
 #. STRINGS.UI.WORLDGEN.COMPLETELAYOUT4
 msgctxt "STRINGS.UI.WORLDGEN.COMPLETELAYOUT4"
 msgid "Digging holes..."
-msgstr ""
+msgstr "Копання отворів..."
 
 #. STRINGS.UI.WORLDGEN.COMPLETELAYOUT5
 msgctxt "STRINGS.UI.WORLDGEN.COMPLETELAYOUT5"
 msgid "Digging holes..."
-msgstr ""
+msgstr "Копання отворів..."
 
 #. STRINGS.UI.WORLDGEN.COMPLETELAYOUT6
 msgctxt "STRINGS.UI.WORLDGEN.COMPLETELAYOUT6"
 msgid "Digging holes..."
-msgstr ""
+msgstr "Копання отворів..."
 
 #. STRINGS.UI.WORLDGEN.COMPLETELAYOUT7
 msgctxt "STRINGS.UI.WORLDGEN.COMPLETELAYOUT7"
 msgid "Adding buckets of dirt..."
-msgstr ""
+msgstr "Додавання відер з землею..."
 
 #. STRINGS.UI.WORLDGEN.COMPLETELAYOUT8
 msgctxt "STRINGS.UI.WORLDGEN.COMPLETELAYOUT8"
 msgid "Adding buckets of dirt..."
-msgstr ""
+msgstr "Додавання відер з землею..."
 
 #. STRINGS.UI.WORLDGEN.COMPLETELAYOUT9
 msgctxt "STRINGS.UI.WORLDGEN.COMPLETELAYOUT9"
 msgid "Adding buckets of dirt..."
-msgstr ""
+msgstr "Додавання відер з землею..."
 
 #. STRINGS.UI.WORLDGEN.CONVERTTERRAINCELLSTOEDGES
 msgctxt "STRINGS.UI.WORLDGEN.CONVERTTERRAINCELLSTOEDGES"
 msgid "Hardening diamonds..."
-msgstr ""
+msgstr "Твердіння діамантів..."
 
 #. STRINGS.UI.WORLDGEN.DRAWWORLDBORDER
 msgctxt "STRINGS.UI.WORLDGEN.DRAWWORLDBORDER"
 msgid "Establishing personal boundaries..."
-msgstr ""
+msgstr "Створення особистих кордонів..."
 
 #. STRINGS.UI.WORLDGEN.FAILED
 msgctxt "STRINGS.UI.WORLDGEN.FAILED"
@@ -31759,102 +31765,102 @@ msgstr ""
 #. STRINGS.UI.WORLDGEN.GENERATENOISE
 msgctxt "STRINGS.UI.WORLDGEN.GENERATENOISE"
 msgid "Baking igneous rock..."
-msgstr ""
+msgstr "Запікання магматичного каменя..."
 
 #. STRINGS.UI.WORLDGEN.GENERATENOISE1
 msgctxt "STRINGS.UI.WORLDGEN.GENERATENOISE1"
 msgid "Multilayering sediment..."
-msgstr ""
+msgstr "Багатошаровий осад..."
 
 #. STRINGS.UI.WORLDGEN.GENERATENOISE2
 msgctxt "STRINGS.UI.WORLDGEN.GENERATENOISE2"
 msgid "Multilayering sediment..."
-msgstr ""
+msgstr "Багатошаровий осад..."
 
 #. STRINGS.UI.WORLDGEN.GENERATENOISE3
 msgctxt "STRINGS.UI.WORLDGEN.GENERATENOISE3"
 msgid "Multilayering sediment..."
-msgstr ""
+msgstr "Багатошаровий осад..."
 
 #. STRINGS.UI.WORLDGEN.GENERATENOISE4
 msgctxt "STRINGS.UI.WORLDGEN.GENERATENOISE4"
 msgid "Superheating gases..."
-msgstr ""
+msgstr "Перегріті гази..."
 
 #. STRINGS.UI.WORLDGEN.GENERATENOISE5
 msgctxt "STRINGS.UI.WORLDGEN.GENERATENOISE5"
 msgid "Superheating gases..."
-msgstr ""
+msgstr "Перегріті гази..."
 
 #. STRINGS.UI.WORLDGEN.GENERATENOISE6
 msgctxt "STRINGS.UI.WORLDGEN.GENERATENOISE6"
 msgid "Superheating gases..."
-msgstr ""
+msgstr "Перегріті гази..."
 
 #. STRINGS.UI.WORLDGEN.GENERATENOISE7
 msgctxt "STRINGS.UI.WORLDGEN.GENERATENOISE7"
 msgid "Vacuuming out vacuums..."
-msgstr ""
+msgstr "Відкачування вакууму..."
 
 #. STRINGS.UI.WORLDGEN.GENERATENOISE8
 msgctxt "STRINGS.UI.WORLDGEN.GENERATENOISE8"
 msgid "Vacuuming out vacuums..."
-msgstr ""
+msgstr "Відкачування вакууму..."
 
 #. STRINGS.UI.WORLDGEN.GENERATENOISE9
 msgctxt "STRINGS.UI.WORLDGEN.GENERATENOISE9"
 msgid "Vacuuming out vacuums..."
-msgstr ""
+msgstr "Відкачування вакууму..."
 
 #. STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM
 msgctxt "STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM"
 msgid "Catalyzing Big Bang..."
-msgstr ""
+msgstr "Каталізація великого вибуху..."
 
 #. STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM1
 msgctxt "STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM1"
 msgid "Catalyzing Big Bang..."
-msgstr ""
+msgstr "Каталізація великого вибуху..."
 
 #. STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM2
 msgctxt "STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM2"
 msgid "Catalyzing Big Bang..."
-msgstr ""
+msgstr "Каталізація великого вибуху..."
 
 #. STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM3
 msgctxt "STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM3"
 msgid "Catalyzing Big Bang..."
-msgstr ""
+msgstr "Каталізація великого вибуху..."
 
 #. STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM4
 msgctxt "STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM4"
 msgid "Catalyzing Big Bang..."
-msgstr ""
+msgstr "Каталізація великого вибуху..."
 
 #. STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM5
 msgctxt "STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM5"
 msgid "Catalyzing Big Bang..."
-msgstr ""
+msgstr "Каталізація великого вибуху..."
 
 #. STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM6
 msgctxt "STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM6"
 msgid "Approaching event horizon..."
-msgstr ""
+msgstr "Настання заходу горизонту..."
 
 #. STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM7
 msgctxt "STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM7"
 msgid "Approaching event horizon..."
-msgstr ""
+msgstr "Настання заходу горизонту..."
 
 #. STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM8
 msgctxt "STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM8"
 msgid "Approaching event horizon..."
-msgstr ""
+msgstr "Настання заходу горизонту..."
 
 #. STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM9
 msgctxt "STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM9"
 msgid "Approaching event horizon..."
-msgstr ""
+msgstr "Настання заходу горизонту..."
 
 #. STRINGS.UI.WORLDGEN.GENERATINGWORLD
 msgctxt "STRINGS.UI.WORLDGEN.GENERATINGWORLD"
@@ -31864,7 +31870,7 @@ msgstr ""
 #. STRINGS.UI.WORLDGEN.LOADING
 msgctxt "STRINGS.UI.WORLDGEN.LOADING"
 msgid "Loading world..."
-msgstr ""
+msgstr "Завантаження світу..."
 
 #. STRINGS.UI.WORLDGEN.NOHEADERS
 msgctxt "STRINGS.UI.WORLDGEN.NOHEADERS"
@@ -31874,72 +31880,72 @@ msgstr ""
 #. STRINGS.UI.WORLDGEN.NORMALISENOISE
 msgctxt "STRINGS.UI.WORLDGEN.NORMALISENOISE"
 msgid "Interpolating toxic gas..."
-msgstr ""
+msgstr "Інтерполяція токсичного газу..."
 
 #. STRINGS.UI.WORLDGEN.PLACINGCREATURES
 msgctxt "STRINGS.UI.WORLDGEN.PLACINGCREATURES"
 msgid "Building the suspense..."
-msgstr ""
+msgstr "Створення занепокоєння..."
 
 #. STRINGS.UI.WORLDGEN.PROCESSING
 msgctxt "STRINGS.UI.WORLDGEN.PROCESSING"
 msgid "Embedding metals..."
-msgstr ""
+msgstr "Закопування металів..."
 
 #. STRINGS.UI.WORLDGEN.PROCESSING1
 msgctxt "STRINGS.UI.WORLDGEN.PROCESSING1"
 msgid "Embedding metals..."
-msgstr ""
+msgstr "Закопування металів..."
 
 #. STRINGS.UI.WORLDGEN.PROCESSING2
 msgctxt "STRINGS.UI.WORLDGEN.PROCESSING2"
 msgid "Embedding metals..."
-msgstr ""
+msgstr "Закопування металів..."
 
 #. STRINGS.UI.WORLDGEN.PROCESSING3
 msgctxt "STRINGS.UI.WORLDGEN.PROCESSING3"
 msgid "Burying precious ore..."
-msgstr ""
+msgstr "Закопування дорогоцінних металів..."
 
 #. STRINGS.UI.WORLDGEN.PROCESSING4
 msgctxt "STRINGS.UI.WORLDGEN.PROCESSING4"
 msgid "Burying precious ore..."
-msgstr ""
+msgstr "Закопування дорогоцінних металів..."
 
 #. STRINGS.UI.WORLDGEN.PROCESSING5
 msgctxt "STRINGS.UI.WORLDGEN.PROCESSING5"
 msgid "Burying precious ore..."
-msgstr ""
+msgstr "Закопування дорогоцінних металів..."
 
 #. STRINGS.UI.WORLDGEN.PROCESSING6
 msgctxt "STRINGS.UI.WORLDGEN.PROCESSING6"
 msgid "Burying precious ore..."
-msgstr ""
+msgstr "Закопування дорогоцінних металів..."
 
 #. STRINGS.UI.WORLDGEN.PROCESSING7
 msgctxt "STRINGS.UI.WORLDGEN.PROCESSING7"
 msgid "Excavating tunnels..."
-msgstr ""
+msgstr "Копання тунелів..."
 
 #. STRINGS.UI.WORLDGEN.PROCESSING8
 msgctxt "STRINGS.UI.WORLDGEN.PROCESSING8"
 msgid "Excavating tunnels..."
-msgstr ""
+msgstr "Копання тунелів..."
 
 #. STRINGS.UI.WORLDGEN.PROCESSING9
 msgctxt "STRINGS.UI.WORLDGEN.PROCESSING9"
 msgid "Excavating tunnels..."
-msgstr ""
+msgstr "Копання тунелів..."
 
 #. STRINGS.UI.WORLDGEN.PROCESSRIVERS
 msgctxt "STRINGS.UI.WORLDGEN.PROCESSRIVERS"
 msgid "Pouring rivers..."
-msgstr ""
+msgstr "Розливання річок..."
 
 #. STRINGS.UI.WORLDGEN.RESTARTING
 msgctxt "STRINGS.UI.WORLDGEN.RESTARTING"
 msgid "Rebooting..."
-msgstr ""
+msgstr "Перезавантаження..."
 
 #. STRINGS.UI.WORLDGEN.RETRYCOUNT
 msgctxt "STRINGS.UI.WORLDGEN.RETRYCOUNT"
@@ -31949,52 +31955,52 @@ msgstr ""
 #. STRINGS.UI.WORLDGEN.SETTLESIM
 msgctxt "STRINGS.UI.WORLDGEN.SETTLESIM"
 msgid "Infusing oxygen..."
-msgstr ""
+msgstr "Вливання кисню..."
 
 #. STRINGS.UI.WORLDGEN.SETTLESIM1
 msgctxt "STRINGS.UI.WORLDGEN.SETTLESIM1"
 msgid "Infusing oxygen..."
-msgstr ""
+msgstr "Вливання кисню..."
 
 #. STRINGS.UI.WORLDGEN.SETTLESIM2
 msgctxt "STRINGS.UI.WORLDGEN.SETTLESIM2"
 msgid "Too much oxygen. Removing..."
-msgstr ""
+msgstr "Дуже багато кисню. Вилучення..."
 
 #. STRINGS.UI.WORLDGEN.SETTLESIM3
 msgctxt "STRINGS.UI.WORLDGEN.SETTLESIM3"
 msgid "Too much oxygen. Removing..."
-msgstr ""
+msgstr "Дуже багато кисню. Вилучення..."
 
 #. STRINGS.UI.WORLDGEN.SETTLESIM4
 msgctxt "STRINGS.UI.WORLDGEN.SETTLESIM4"
 msgid "Ideal oxygen levels achieved..."
-msgstr ""
+msgstr "Досягнення ідеального рівня кисню..."
 
 #. STRINGS.UI.WORLDGEN.SETTLESIM5
 msgctxt "STRINGS.UI.WORLDGEN.SETTLESIM5"
 msgid "Ideal oxygen levels achieved..."
-msgstr ""
+msgstr "Досягнення ідеального рівня кисню..."
 
 #. STRINGS.UI.WORLDGEN.SETTLESIM6
 msgctxt "STRINGS.UI.WORLDGEN.SETTLESIM6"
 msgid "Planting space flora..."
-msgstr ""
+msgstr "Насадження космічної флори..."
 
 #. STRINGS.UI.WORLDGEN.SETTLESIM7
 msgctxt "STRINGS.UI.WORLDGEN.SETTLESIM7"
 msgid "Planting space flora..."
-msgstr ""
+msgstr "Насадження космічної флори..."
 
 #. STRINGS.UI.WORLDGEN.SETTLESIM8
 msgctxt "STRINGS.UI.WORLDGEN.SETTLESIM8"
 msgid "Releasing wildlife..."
-msgstr ""
+msgstr "Звільнення дикої природи..."
 
 #. STRINGS.UI.WORLDGEN.SETTLESIM9
 msgctxt "STRINGS.UI.WORLDGEN.SETTLESIM9"
 msgid "Releasing wildlife..."
-msgstr ""
+msgstr "Звільнення дикої природи..."
 
 #. STRINGS.UI.WORLDGEN.SETUPNOISE
 msgctxt "STRINGS.UI.WORLDGEN.SETUPNOISE"
@@ -32004,59 +32010,59 @@ msgstr ""
 #. STRINGS.UI.WORLDGEN.USING_PLAYER_SEED
 msgctxt "STRINGS.UI.WORLDGEN.USING_PLAYER_SEED"
 msgid "Using selected world gen seed: "
-msgstr ""
+msgstr "Використовуючи вибране зерно створення світу: "
 
 #. STRINGS.UI.WORLDGEN.WORLDLAYOUT
 msgctxt "STRINGS.UI.WORLDGEN.WORLDLAYOUT"
 msgid "Freezing ice formations..."
-msgstr ""
+msgstr "Замерзання крижаних утворень..."
 
 #. STRINGS.UI.WORLDGEN.WORLDLAYOUT1
 msgctxt "STRINGS.UI.WORLDGEN.WORLDLAYOUT1"
 msgid "Freezing ice formations..."
-msgstr ""
+msgstr "Замерзання крижаних утворень..."
 
 #. STRINGS.UI.WORLDGEN.WORLDLAYOUT10
 msgctxt "STRINGS.UI.WORLDGEN.WORLDLAYOUT10"
 msgid "Sprinkling sand..."
-msgstr ""
+msgstr "Посипання піску..."
 
 #. STRINGS.UI.WORLDGEN.WORLDLAYOUT2
 msgctxt "STRINGS.UI.WORLDGEN.WORLDLAYOUT2"
 msgid "Freezing ice formations..."
-msgstr ""
+msgstr "Замерзання крижаних утворень..."
 
 #. STRINGS.UI.WORLDGEN.WORLDLAYOUT3
 msgctxt "STRINGS.UI.WORLDGEN.WORLDLAYOUT3"
 msgid "Freezing ice formations..."
-msgstr ""
+msgstr "Замерзання крижаних утворень..."
 
 #. STRINGS.UI.WORLDGEN.WORLDLAYOUT4
 msgctxt "STRINGS.UI.WORLDGEN.WORLDLAYOUT4"
 msgid "Melting magma..."
-msgstr ""
+msgstr "Плавлення магми..."
 
 #. STRINGS.UI.WORLDGEN.WORLDLAYOUT5
 msgctxt "STRINGS.UI.WORLDGEN.WORLDLAYOUT5"
 msgid "Melting magma..."
-msgstr ""
+msgstr "Плавлення магми..."
 
 #. STRINGS.UI.WORLDGEN.WORLDLAYOUT6
 msgctxt "STRINGS.UI.WORLDGEN.WORLDLAYOUT6"
 msgid "Melting magma..."
-msgstr ""
+msgstr "Плавлення магми..."
 
 #. STRINGS.UI.WORLDGEN.WORLDLAYOUT7
 msgctxt "STRINGS.UI.WORLDGEN.WORLDLAYOUT7"
 msgid "Sprinkling sand..."
-msgstr ""
+msgstr "Посипання піску..."
 
 #. STRINGS.UI.WORLDGEN.WORLDLAYOUT8
 msgctxt "STRINGS.UI.WORLDGEN.WORLDLAYOUT8"
 msgid "Sprinkling sand..."
-msgstr ""
+msgstr "Посипання піску..."
 
 #. STRINGS.UI.WORLDGEN.WORLDLAYOUT9
 msgctxt "STRINGS.UI.WORLDGEN.WORLDLAYOUT9"
 msgid "Sprinkling sand..."
-msgstr ""
+msgstr "Посипання піску..."
