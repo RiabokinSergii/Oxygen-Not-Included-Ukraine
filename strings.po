@@ -2608,12 +2608,12 @@ msgstr "Дезодоратор"
 #. STRINGS.BUILDINGS.PREFABS.ALGAEDISTILLERY.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ALGAEDISTILLERY.DESC"
 msgid "Algae distillers convert disease-causing slime into algae for oxygen production."
-msgstr ""
+msgstr "Опріснювачі Водоростів перетворюють слизові захворювання в водорості для виробництва кисню."
 
 #. STRINGS.BUILDINGS.PREFABS.ALGAEDISTILLERY.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.ALGAEDISTILLERY.EFFECT"
 msgid "Refines <style=\"solid\">Slime</style> into <style=\"solid\">Algae</style>."
-msgstr ""
+msgstr "Очищає <style=\"solid\">Слиз</style> у <style=\"solid\">Водорості</style>."
 
 #. STRINGS.BUILDINGS.PREFABS.ALGAEDISTILLERY.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ALGAEDISTILLERY.NAME"
@@ -2644,7 +2644,7 @@ msgstr "Тераріум Водоростів"
 #. STRINGS.BUILDINGS.PREFABS.APOTHECARY.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.APOTHECARY.DESC"
 msgid "All-natural remedies to cure what ails you."
-msgstr ""
+msgstr "Всі природні засоби, щоб вилікувати те, що вас турбує."
 
 #. STRINGS.BUILDINGS.PREFABS.APOTHECARY.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.APOTHECARY.EFFECT"
@@ -2653,6 +2653,9 @@ msgid ""
 "\n"
 "Duplicants will not fabricate items unless recipes are queued."
 msgstr ""
+"Виробляє <style=\"medicine\">Ліки</style>, щоб вилікувати більшість основних <style=\"disease\">Хвороб</style>.\n"
+"\n"
+"Дубліканти не виробляють предмети, якщо рецепти не в черзі."
 
 #. STRINGS.BUILDINGS.PREFABS.APOTHECARY.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.APOTHECARY.NAME"
@@ -2898,14 +2901,15 @@ msgid "Carbon Skimmer"
 msgstr "Вуглецевий Сепаратор"
 
 #. STRINGS.BUILDINGS.PREFABS.COMPOST.DESC
+#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.COMPOST.DESC"
 msgid "Composts safely deal with biological waste and help fertilize domestic plants."
-msgstr ""
+msgstr "Компости надійно займаються з біологічними відходами та допомагають удобрювати домашні рослини."
 
 #. STRINGS.BUILDINGS.PREFABS.COMPOST.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.COMPOST.EFFECT"
 msgid "Breaks <style=\"solid\">Polluted Dirt</style> down into <style=\"solid\">Fertilizer</style>."
-msgstr ""
+msgstr "Перериває <style=\"solid\">Забруднену Землю</style> в <style=\"solid\">Добрива</style>."
 
 #. STRINGS.BUILDINGS.PREFABS.COMPOST.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.COMPOST.NAME"
@@ -3196,12 +3200,12 @@ msgstr "Блок Ферми"
 #. STRINGS.BUILDINGS.PREFABS.FERTILIZERMAKER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.FERTILIZERMAKER.DESC"
 msgid "Fertilizer Synthesizers convert polluted water into fertilizer for domestic plants."
-msgstr ""
+msgstr "Синтезатори Добрив перетворюють забруднену воду в добрива для домашніх рослин."
 
 #. STRINGS.BUILDINGS.PREFABS.FERTILIZERMAKER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.FERTILIZERMAKER.EFFECT"
 msgid "Uses <style=\"liquid\">Polluted Water</style> to produce <style=\"solid\">Fertilizer</style>."
-msgstr ""
+msgstr "Використовує <style=\"liquid\">Забруднену Воду</style> для виробництва <style=\"solid\">Добрив</style>."
 
 #. STRINGS.BUILDINGS.PREFABS.FERTILIZERMAKER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.FERTILIZERMAKER.NAME"
@@ -3536,7 +3540,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.GRAVE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GRAVE.DESC"
 msgid "Burying dead Duplicants reduces health hazards and stress on the colony."
-msgstr ""
+msgstr "Поховані мертві Дубліканти зменшують ризик для здоров'я та стрес в колонії."
 
 #. STRINGS.BUILDINGS.PREFABS.GRAVE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GRAVE.EFFECT"
@@ -3545,6 +3549,9 @@ msgid ""
 "\n"
 "Living Duplicants will automatically place an unburied corpse inside."
 msgstr ""
+"Надає місце відпочинку для померлих Дублікантів.\n"
+"\n"
+"Живі Дубліканти автоматично поміщають нерозбитий труп усередину."
 
 #. STRINGS.BUILDINGS.PREFABS.GRAVE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GRAVE.NAME"
@@ -3554,7 +3561,7 @@ msgstr "Витончений Меморіал"
 #. STRINGS.BUILDINGS.PREFABS.HANDSANITIZER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.HANDSANITIZER.DESC"
 msgid "Hand sanitizers kill germs more effectively than wash basins."
-msgstr ""
+msgstr "Дезінфектори Рук вбивають бактерії більш ефективніше ніж умивальники."
 
 #. STRINGS.BUILDINGS.PREFABS.HANDSANITIZER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.HANDSANITIZER.EFFECT"
@@ -3563,6 +3570,9 @@ msgid ""
 "\n"
 "Germ-covered Duplicants use Hand Sanitizers when passing by in the selected direction."
 msgstr ""
+"Видаляє більшу кількість <style=\"disease\">Бактерій</style> з Дублікантів.\n"
+"\n"
+"Вкриті бактеріями Дубліканти використовують Дезінфектори Рук, коли проходять в обраному напрямку."
 
 #. STRINGS.BUILDINGS.PREFABS.HANDSANITIZER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.HANDSANITIZER.NAME"
@@ -4458,12 +4468,12 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.MEDICALBED.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.MEDICALBED.DESC"
 msgid "Pharma Chambers decrease patients' disease recovery time, but cannot heal physical injuries."
-msgstr ""
+msgstr "Фарма Камери зменшують час одужання пацієнтів від хвороб, але не зцілюють фізичні травми."
 
 #. STRINGS.BUILDINGS.PREFABS.MEDICALBED.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.MEDICALBED.EFFECT"
 msgid "Greatly accelerates recovery from <style=\"disease\">Diseases</style>."
-msgstr ""
+msgstr "Значно прискорює відновлення від <style=\"disease\">Хвороб</style>."
 
 #. STRINGS.BUILDINGS.PREFABS.MEDICALBED.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.MEDICALBED.NAME"
@@ -4473,7 +4483,7 @@ msgstr "Фарма Камера"
 #. STRINGS.BUILDINGS.PREFABS.MEDICALCOT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.MEDICALCOT.DESC"
 msgid "Duplicants use med-beds to recover from sickness and receive medical aid from peers."
-msgstr ""
+msgstr "Дубліканти використовують мед-ліжко для відновлення від хвороби та отримання медичної допомоги від однолітків."
 
 #. STRINGS.BUILDINGS.PREFABS.MEDICALCOT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.MEDICALCOT.EFFECT"
@@ -4482,6 +4492,9 @@ msgid ""
 "\n"
 "Accelerates <style=\"Health\">Health</style> restoration and the healing of physical injuries."
 msgstr ""
+"Поліпшує відновлення від <style=\"disease\">Хвороб</style>.\n"
+"\n"
+"Прискорює відновлення <style=\"Health\">Здоров'я</style> та лікування фізичних травм."
 
 #. STRINGS.BUILDINGS.PREFABS.MEDICALCOT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.MEDICALCOT.NAME"
@@ -4512,7 +4525,7 @@ msgstr "Отворовий Кахель"
 #. STRINGS.BUILDINGS.PREFABS.METALREFINERY.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.METALREFINERY.DESC"
 msgid "Refined metals are necessary to build advanced electronics and technologies."
-msgstr ""
+msgstr "Перероблені метали необхідні в будівництві поліпшеної електроніки та технологій."
 
 #. STRINGS.BUILDINGS.PREFABS.METALREFINERY.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.METALREFINERY.EFFECT"
@@ -4521,6 +4534,9 @@ msgid ""
 "\n"
 "Outputs significantly <style=\"heat\">Heated</style> <style=\"liquid\">Liquid</style>."
 msgstr ""
+"Виробляє <style=\"solid\">Перероблені Метали</style> з сирої <style=\"RawMetal\">Металевої Руди</style>.\n"
+"\n"
+"Істотний вихід <style=\"heat\">Нагрітої</style> <style=\"liquid\">Рідини</style>."
 
 #. STRINGS.BUILDINGS.PREFABS.METALREFINERY.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.METALREFINERY.NAME"
@@ -4619,12 +4635,13 @@ msgstr "Розкислювач Водоростів"
 #. STRINGS.BUILDINGS.PREFABS.OILREFINERY.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.OILREFINERY.DESC"
 msgid "Petroleum can only be produced from the refinement of crude oil."
-msgstr ""
+msgstr "Petroleum може бути вироблений лише з переробкою сирої нафти."
 
 #. STRINGS.BUILDINGS.PREFABS.OILREFINERY.EFFECT
+#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.OILREFINERY.EFFECT"
 msgid "Converts <style=\"liquid\">Crude Oil</style> into <style=\"liquid\">Petroleum</style> and <style=\"gas\">Natural Gas</style>."
-msgstr ""
+msgstr "Перетворює <style=\"liquid\">Сиру Нафту</style> в <style=\"liquid\">Petroleum</style> та <style=\"gas\">Природний Газ</style>."
 
 #. STRINGS.BUILDINGS.PREFABS.OILREFINERY.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.OILREFINERY.NAME"
@@ -4781,12 +4798,12 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.POLYMERIZER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.POLYMERIZER.DESC"
 msgid "Plastic can be used to craft unique buildings and goods."
-msgstr ""
+msgstr "Пластик може бути використаний в створенні унікальних будинків та речей."
 
 #. STRINGS.BUILDINGS.PREFABS.POLYMERIZER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.POLYMERIZER.EFFECT"
 msgid "Converts <style=\"liquid\">Petroleum</style> into raw <style=\"solid\">Plastic</style>."
-msgstr ""
+msgstr "Перетворює <style=\"liquid\">Petroleum</style> в сирий <style=\"solid\">Пластик</style>."
 
 #. STRINGS.BUILDINGS.PREFABS.POLYMERIZER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.POLYMERIZER.NAME"
@@ -4950,7 +4967,7 @@ msgstr "Станція Досліджень"
 #. STRINGS.BUILDINGS.PREFABS.ROCKCRUSHER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKCRUSHER.DESC"
 msgid "Sand is used in an array of liquid and air filtering processes."
-msgstr ""
+msgstr "Пісок застосовується в безліч процесів, фільтрації рідин та повітря."
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKCRUSHER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKCRUSHER.EFFECT"
@@ -4959,11 +4976,14 @@ msgid ""
 "\n"
 "Inefficiently produces <style=\"solid\">Refined Metals</style> from raw <style=\"RawMetal\">Metal Ore</style>."
 msgstr ""
+"Виробляє <style=\"solid\">Пісок</style> з <style=\"RawMineral\">Сирих Мінералів</style>.\n"
+"\n"
+"Не ефективно виробляє <style=\"solid\">Перероблені Метали</style> з сирої <style=\"RawMetal\">Металевої Руди</style>."
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKCRUSHER.METAL_RECIPE_DESCRIPTION
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKCRUSHER.METAL_RECIPE_DESCRIPTION"
 msgid "Crushes <style=\"RawMetal\">{1}</style> into <style=\"RawMineral\">Sand</style> and pure <style=\"RefinedMetal\">{0}</style>."
-msgstr ""
+msgstr "Подрібнює <style=\"RawMetal\">{1}</style> в <style=\"RawMineral\">Пісок</style> та чисті <style=\"RefinedMetal\">{0}</style>."
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKCRUSHER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKCRUSHER.NAME"
@@ -5413,7 +5433,7 @@ msgstr "Перехід Транзитної Трубки"
 #. STRINGS.BUILDINGS.PREFABS.WASHBASIN.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.WASHBASIN.DESC"
 msgid "Germ spread can be reduced by building wash basins where Duplicants are likely to get dirty."
-msgstr ""
+msgstr "Поширення бактерій можна зменшити, будуючи умивальники там, де Дубліканти можливо отримають забруднення."
 
 #. STRINGS.BUILDINGS.PREFABS.WASHBASIN.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.WASHBASIN.EFFECT"
@@ -5422,6 +5442,9 @@ msgid ""
 "\n"
 "Germ-covered Duplicants use Wash Basins when passing by in the selected direction."
 msgstr ""
+"Прибирає деякі <style=\"disease\">Бактерії</style> з Дублікантів.\n"
+"\n"
+"Вкриті бактеріями Дубліканти використовують Умивальники, коли проходять в обраному напрямку."
 
 #. STRINGS.BUILDINGS.PREFABS.WASHBASIN.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.WASHBASIN.NAME"
@@ -5431,7 +5454,7 @@ msgstr "Умивальник"
 #. STRINGS.BUILDINGS.PREFABS.WASHSINK.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.WASHSINK.DESC"
 msgid "Sinks are plumbed and do not need to be manually emptied or refilled."
-msgstr ""
+msgstr "Раковини мають водопровід та не потребують ручного спорожнення чи наповнення."
 
 #. STRINGS.BUILDINGS.PREFABS.WASHSINK.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.WASHSINK.EFFECT"
@@ -5440,6 +5463,9 @@ msgid ""
 "\n"
 "Germ-covered Duplicants use Sinks when passing by in the selected direction."
 msgstr ""
+"Видаляє <style=\"disease\">Бактерії</style> з Дублікатів.\n"
+"\n"
+"Вкриті бактеріями Дубліканти використовують Раковини, коли проходять в обраному напрямку."
 
 #. STRINGS.BUILDINGS.PREFABS.WASHSINK.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.WASHSINK.NAME"
@@ -5449,7 +5475,7 @@ msgstr "Раковина"
 #. STRINGS.BUILDINGS.PREFABS.WATERPURIFIER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.WATERPURIFIER.DESC"
 msgid "Sieves cannot kill germs and pass any disease they receive into their waste and water output."
-msgstr ""
+msgstr "Фільтратори не можуть знищити бактерії та пропускають будь-які захворювання, вони передають їх у вихідну воду."
 
 #. STRINGS.BUILDINGS.PREFABS.WATERPURIFIER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.WATERPURIFIER.EFFECT"
@@ -5458,6 +5484,9 @@ msgid ""
 "\n"
 "Produces <style=\"RawMineral\">Polluted Dirt</style>."
 msgstr ""
+"Виробляє чисту <style=\"liquid\">Воду</style> з <style=\"liquid\">Забрудненої Води</style> застосовуючи <style=\"solid\">Пісок</style>.\n"
+"\n"
+"Виробляє <style=\"RawMineral\">Забруднену Землю</style>."
 
 #. STRINGS.BUILDINGS.PREFABS.WATERPURIFIER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.WATERPURIFIER.NAME"
@@ -7339,7 +7368,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.ATTRIBUTES.FOODEXPECTATION.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.FOODEXPECTATION.NAME"
 msgid "Food Quality Expectation"
-msgstr ""
+msgstr "Очікувана якість їжі"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.HITPOINTSDELTA.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.HITPOINTSDELTA.DESC"
@@ -11010,6 +11039,8 @@ msgid ""
 "Most objects have <style=\"decor\">Decor</style> values that alter Duplicants' opinions of their surroundings.\n"
 "This Duplicant desires decor values of {0} or higher, and becomes <style=\"stress\">Stressed</style> in areas with lower decor."
 msgstr ""
+"Більшість об'єктів мають знначення <style=\"decor\">Декора</style>, які змінюють думки Дублікантів їх оточення.\n"
+"Цей Дублікант бажає значення декору {0} чи вищий та стає <style=\"stress\">Стресуючим</style> в зонах з низьким декором."
 
 #. STRINGS.DUPLICANTS.NEEDS.DECOR.NAME
 msgctxt "STRINGS.DUPLICANTS.NEEDS.DECOR.NAME"
@@ -11079,7 +11110,7 @@ msgstr "Страшно"
 #. STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.BAD_FOOD_MOD
 msgctxt "STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.BAD_FOOD_MOD"
 msgid "Food Quality"
-msgstr ""
+msgstr "Якість Їжі"
 
 #. STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.EXPECTATION_MOD_NAME
 msgctxt "STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.EXPECTATION_MOD_NAME"
@@ -11092,6 +11123,8 @@ msgid ""
 "Each Duplicant has a minimum quality of <style=\"food\">Food</style> they'll tolerate eating.\n"
 "This Duplicant desires Tier {0} or better food, and becomes <style=\"stress\">Stressed</style> when they eat meals of lower quality."
 msgstr ""
+"Кожний Дублікант має мінімальну якість <style=\"food\">Їжі</style>, дозволеної їм їсти\n"
+"Цей Дублікант бажає Рівня {0} їжі чи кращої та стає <style=\"stress\">Стресуючим</style>, коли він їсть їжу низької якості."
 
 #. STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.FOODQUALITY
 msgctxt "STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.FOODQUALITY"
@@ -11110,17 +11143,17 @@ msgstr ""
 #. STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.GOOD_FOOD_MOD
 msgctxt "STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.GOOD_FOOD_MOD"
 msgid "Food Quality"
-msgstr ""
+msgstr "Якість Їжі"
 
 #. STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.NAME
 msgctxt "STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.NAME"
 msgid "Food Quality"
-msgstr ""
+msgstr "Якість Їжі"
 
 #. STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.NORMAL_FOOD_MOD
 msgctxt "STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.NORMAL_FOOD_MOD"
 msgid "Food Quality"
-msgstr ""
+msgstr "Якість Їжі"
 
 #. STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.PROFESSION_NAME
 msgctxt "STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.PROFESSION_NAME"
@@ -11623,7 +11656,7 @@ msgstr "Фермер"
 #. STRINGS.DUPLICANTS.ROLES.GROUPS.APTITUDE_DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.GROUPS.APTITUDE_DESCRIPTION"
 msgid "This Duplicant enjoys performing <style=\"job\">{0}</style> jobs and will master them <style=\"misc\">{1}%</style> faster"
-msgstr ""
+msgstr "Цей Дублікант любить виконувати роботу <style=\"job\">{0}</style> та буде опановувати її на <style=\"misc\">{1}%</style> швидше"
 
 #. STRINGS.DUPLICANTS.ROLES.HANDYMAN.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.HANDYMAN.DESCRIPTION"
@@ -13645,37 +13678,37 @@ msgstr ""
 #. STRINGS.DUPLICANTS.TRAITS.AGGRESSIVE.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.AGGRESSIVE.DESC"
 msgid "This Duplicant handles stress by taking their frustrations out on defenseless machines"
-msgstr ""
+msgstr "Цей Дублікант відтворює свій стрес на беззахисних машинах"
 
 #. STRINGS.DUPLICANTS.TRAITS.AGGRESSIVE.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.AGGRESSIVE.NAME"
 msgid "Destructive"
-msgstr ""
+msgstr "Деструктивний"
 
 #. STRINGS.DUPLICANTS.TRAITS.AGGRESSIVE.NOREPAIR
 msgctxt "STRINGS.DUPLICANTS.TRAITS.AGGRESSIVE.NOREPAIR"
 msgid "â¢ Will not repair buildings above 60% stress"
-msgstr ""
+msgstr "â¢ Не бажає ремонтувати будівлі з понад 60% струсу"
 
 #. STRINGS.DUPLICANTS.TRAITS.ANEMIC.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.ANEMIC.DESC"
 msgid "This Duplicant has trouble keeping up with the others"
-msgstr ""
+msgstr "Цей Дублікант має тривогу не відставати від інших"
 
 #. STRINGS.DUPLICANTS.TRAITS.ANEMIC.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.ANEMIC.NAME"
 msgid "Anemic"
-msgstr ""
+msgstr "Анемія"
 
 #. STRINGS.DUPLICANTS.TRAITS.ANXIOUS.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.ANXIOUS.DESC"
 msgid "This Duplicant collapses when put under too much pressure"
-msgstr ""
+msgstr "Цей Дублікант зазнає краху, коли застрягає в дуже великому тиску"
 
 #. STRINGS.DUPLICANTS.TRAITS.ANXIOUS.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.ANXIOUS.NAME"
 msgid "Anxious"
-msgstr ""
+msgstr "Тривожний"
 
 #. STRINGS.DUPLICANTS.TRAITS.ATTRIBUTE_MODIFIERS
 msgctxt "STRINGS.DUPLICANTS.TRAITS.ATTRIBUTE_MODIFIERS"
@@ -13683,36 +13716,38 @@ msgid ""
 "\n"
 "â¢ {0}: {1}"
 msgstr ""
+"\n"
+"â¢ {0}: {1}"
 
 #. STRINGS.DUPLICANTS.TRAITS.BEDSIDEMANNER.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.BEDSIDEMANNER.DESC"
 msgid "This Duplicant has good bedside manner and a healing touch"
-msgstr ""
+msgstr "Цей Дублікант має добрий приліжковий метод та цілющий дотик"
 
 #. STRINGS.DUPLICANTS.TRAITS.BEDSIDEMANNER.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.BEDSIDEMANNER.NAME"
 msgid "Caregiver"
-msgstr ""
+msgstr "Піклувальник"
 
 #. STRINGS.DUPLICANTS.TRAITS.BINGEEATER.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.BINGEEATER.DESC"
 msgid "This Duplicant will dangerously overeat when stressed"
-msgstr ""
+msgstr "Цей Дублікант буде небезпечно об'їдатися, коли стресуватиме"
 
 #. STRINGS.DUPLICANTS.TRAITS.BINGEEATER.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.BINGEEATER.NAME"
 msgid "Binge Eater"
-msgstr ""
+msgstr "Гульня Їдець"
 
 #. STRINGS.DUPLICANTS.TRAITS.CALORIEBURNER.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.CALORIEBURNER.DESC"
 msgid "This Duplicant might actually be several black holes in a trench coat"
-msgstr ""
+msgstr "Цей Дублікант може мати насправді декілька чорних дір в траншеї"
 
 #. STRINGS.DUPLICANTS.TRAITS.CALORIEBURNER.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.CALORIEBURNER.NAME"
 msgid "Bottomless Stomach"
-msgstr ""
+msgstr "Безмежний Шлунок"
 
 #. STRINGS.DUPLICANTS.TRAITS.CANNOT_DO_TASK
 msgctxt "STRINGS.DUPLICANTS.TRAITS.CANNOT_DO_TASK"
@@ -13720,71 +13755,73 @@ msgid ""
 "\n"
 "â¢ Cannot perform errand: {0}"
 msgstr ""
+"\n"
+"â¢ Не може виконувати завдання: {0}"
 
 #. STRINGS.DUPLICANTS.TRAITS.CANTBUILD.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.CANTBUILD.DESC"
 msgid "This Duplicant is incapable of building even the most basic of structures"
-msgstr ""
+msgstr "Цей Дублікант нездатний будувати навіть майже базові споруди"
 
 #. STRINGS.DUPLICANTS.TRAITS.CANTBUILD.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.CANTBUILD.NAME"
 msgid "Unconstructive"
-msgstr ""
+msgstr "Неконструктивний"
 
 #. STRINGS.DUPLICANTS.TRAITS.CANTCOOK.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.CANTCOOK.DESC"
 msgid "This Duplicant has a deep-seated distrust of the culinary arts"
-msgstr ""
+msgstr "Цей Дублікант має глибоку недовіру до кулінарних мистецтв"
 
 #. STRINGS.DUPLICANTS.TRAITS.CANTCOOK.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.CANTCOOK.NAME"
 msgid "Gastrophobia"
-msgstr ""
+msgstr "Гастрофобія"
 
 #. STRINGS.DUPLICANTS.TRAITS.CANTDIG.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.CANTDIG.DESC"
 msgid "This Duplicant's fear of holes makes it impossible for them to dig"
-msgstr ""
+msgstr "Ці Дубліканти бояться створення отворів, що унеможливлює їх копання"
 
 #. STRINGS.DUPLICANTS.TRAITS.CANTDIG.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.CANTDIG.NAME"
 msgid "Trypophobia"
-msgstr ""
+msgstr "Тріпофобія"
 
 #. STRINGS.DUPLICANTS.TRAITS.CANTRESEARCH.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.CANTRESEARCH.DESC"
 msgid "This Duplicant isn't the brightest star in the solar system"
-msgstr ""
+msgstr "Цей Дублікант не яскрава зірка в сонячній системі"
 
 #. STRINGS.DUPLICANTS.TRAITS.CANTRESEARCH.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.CANTRESEARCH.NAME"
 msgid "Yokel"
-msgstr ""
+msgstr "Селюк"
 
 #. STRINGS.DUPLICANTS.TRAITS.DEEPERDIVERSLUNGS.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.DEEPERDIVERSLUNGS.DESC"
 msgid "This Duplicant was a talented opera singer and a snorkeling instructor."
-msgstr ""
+msgstr "Цей Дублікант має талант оперного співака та інструктора з підводного плавання."
 
 #. STRINGS.DUPLICANTS.TRAITS.DEEPERDIVERSLUNGS.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.DEEPERDIVERSLUNGS.NAME"
 msgid "Deeper Diver's Lungs"
-msgstr ""
+msgstr "Глибинні Дайверські Легені"
 
 #. STRINGS.DUPLICANTS.TRAITS.DIVERSLUNG.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.DIVERSLUNG.DESC"
 msgid "This Duplicant could have been a talented opera singer in another life"
-msgstr ""
+msgstr "Цей Дублікант міг би бути талановитим оперним співаком в іншому житті"
 
 #. STRINGS.DUPLICANTS.TRAITS.DIVERSLUNG.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.DIVERSLUNG.NAME"
 msgid "Diver's Lungs"
-msgstr ""
+msgstr "Дайверські Легені"
 
 #. STRINGS.DUPLICANTS.TRAITS.EARLYBIRD.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.EARLYBIRD.DESC"
 msgid "This Duplicant always wakes up feeling fresh and efficient!"
-msgstr ""
+msgstr "Цей Дублікант завжди прокидається з відчуттям свіжості та ефективності"
 
 #. STRINGS.DUPLICANTS.TRAITS.EARLYBIRD.EXTENDED_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.EARLYBIRD.EXTENDED_DESC"
@@ -13792,61 +13829,63 @@ msgid ""
 "â¢ Morning: <style=\"produced\">{0}</style> bonus to all skills\n"
 "â¢ Evening: Bonuses removed"
 msgstr ""
+"â¢ Ранок: <style=\"produced\">{0}</style> бонус до всіх умінь\n"
+"â¢ Вечір: Бонуси прибираються"
 
 #. STRINGS.DUPLICANTS.TRAITS.EARLYBIRD.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.EARLYBIRD.NAME"
 msgid "Early Bird"
-msgstr ""
+msgstr "Рання Пташка"
 
 #. STRINGS.DUPLICANTS.TRAITS.FASTLEARNER.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.FASTLEARNER.DESC"
 msgid "This Duplicant's sharp as a tack and learns new skills with amazing speed"
-msgstr ""
+msgstr "Цей Дублікант розумний як галс та вчиться новим навичкам з вражаючою швидкістю"
 
 #. STRINGS.DUPLICANTS.TRAITS.FASTLEARNER.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.FASTLEARNER.NAME"
 msgid "Quick Learner"
-msgstr ""
+msgstr "Швидкий Учень"
 
 #. STRINGS.DUPLICANTS.TRAITS.FLATULENCE.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.FLATULENCE.DESC"
 msgid "Some Duplicants are just full of it"
-msgstr ""
+msgstr "Деякі Дубліканти просто повні ним"
 
 #. STRINGS.DUPLICANTS.TRAITS.FLATULENCE.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.FLATULENCE.NAME"
 msgid "Flatulent"
-msgstr ""
+msgstr "Пихатий"
 
 #. STRINGS.DUPLICANTS.TRAITS.FUSSY.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.FUSSY.DESC"
 msgid "Nothing's ever quite good enough for this Duplicant"
-msgstr ""
+msgstr "Цей Дублікант, вічно, ніколи чимось не задоволений"
 
 #. STRINGS.DUPLICANTS.TRAITS.FUSSY.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.FUSSY.NAME"
 msgid "Fussy"
-msgstr ""
+msgstr "Нервовий"
 
 #. STRINGS.DUPLICANTS.TRAITS.GREASEMONKEY.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GREASEMONKEY.DESC"
 msgid "This Duplicant likes to throw a wrench into the colony's plans... in a good way"
-msgstr ""
+msgstr "Цей Дублікант полюбляє кидати ключ, на плани колонії... в хорошому сенсі"
 
 #. STRINGS.DUPLICANTS.TRAITS.GREASEMONKEY.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GREASEMONKEY.NAME"
 msgid "Grease Monkey"
-msgstr ""
+msgstr "Змащена Мавпа"
 
 #. STRINGS.DUPLICANTS.TRAITS.HEMOPHOBIA.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.HEMOPHOBIA.DESC"
 msgid "This Duplicant is of delicate disposition and cannot tend to the sick"
-msgstr ""
+msgstr "Цей Дублікант слабкий схильністю та не може доглядати за хворими."
 
 #. STRINGS.DUPLICANTS.TRAITS.HEMOPHOBIA.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.HEMOPHOBIA.NAME"
 msgid "Squeamish"
-msgstr ""
+msgstr "Вразливий"
 
 #. STRINGS.DUPLICANTS.TRAITS.IGNORED_EFFECTS
 msgctxt "STRINGS.DUPLICANTS.TRAITS.IGNORED_EFFECTS"
@@ -13854,166 +13893,168 @@ msgid ""
 "\n"
 "â¢ Ignores the effects of: {0}"
 msgstr ""
+"\n"
+"â¢ Ігнорування ефектів: {0}"
 
 #. STRINGS.DUPLICANTS.TRAITS.INTERIORDECORATOR.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.INTERIORDECORATOR.DESC"
 msgid "\"Move it a little to the left...\""
-msgstr ""
+msgstr "\"Перемістіть трішки лівіше...\""
 
 #. STRINGS.DUPLICANTS.TRAITS.INTERIORDECORATOR.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.INTERIORDECORATOR.NAME"
 msgid "Interior Decorator"
-msgstr ""
+msgstr "Інтер'єрний Декоратор"
 
 #. STRINGS.DUPLICANTS.TRAITS.IRONGUT.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.IRONGUT.DESC"
 msgid "This Duplicant can eat just about anything without getting sick"
-msgstr ""
+msgstr "Цей Дублікант може їсти майже все, без зараження хворобою"
 
 #. STRINGS.DUPLICANTS.TRAITS.IRONGUT.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.IRONGUT.NAME"
 msgid "Iron Gut"
-msgstr ""
+msgstr "Залізне Пузо"
 
 #. STRINGS.DUPLICANTS.TRAITS.IRRITABLEBOWEL.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.IRRITABLEBOWEL.DESC"
 msgid "This Duplicant needs a little extra time to \"do their business\""
-msgstr ""
+msgstr "Цей Дублікант потребує трохи часу, щоб зробити \"діло\""
 
 #. STRINGS.DUPLICANTS.TRAITS.IRRITABLEBOWEL.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.IRRITABLEBOWEL.NAME"
 msgid "Irritable Bowel"
-msgstr ""
+msgstr "Подразливий Кишечник"
 
 #. STRINGS.DUPLICANTS.TRAITS.MOLEHANDS.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.MOLEHANDS.DESC"
 msgid "They're great for tunneling, but finding good gloves is a nightmare"
-msgstr ""
+msgstr "Вони чудові для прокладення тунелів, але пошук гарних рукавичок - кошмар"
 
 #. STRINGS.DUPLICANTS.TRAITS.MOLEHANDS.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.MOLEHANDS.NAME"
 msgid "Mole Hands"
-msgstr ""
+msgstr "Кротячі Руки"
 
 #. STRINGS.DUPLICANTS.TRAITS.MOUTHBREATHER.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.MOUTHBREATHER.DESC"
 msgid "This Duplicant sucks up way more than their fair share of <style=\"oxygen\">Oxygen</style>"
-msgstr ""
+msgstr "Цей Дублікант набагато більше поглинає <style=\"oxygen\">Кисню</style>, ніж середня частина"
 
 #. STRINGS.DUPLICANTS.TRAITS.MOUTHBREATHER.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.MOUTHBREATHER.NAME"
 msgid "Mouth Breather"
-msgstr ""
+msgstr "Дихає Ротом"
 
 #. STRINGS.DUPLICANTS.TRAITS.NARCOLEPSY.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NARCOLEPSY.DESC"
 msgid "This Duplicant can and will fall asleep anytime, anyplace"
-msgstr ""
+msgstr "Цей Дублікант має силу волі та падає спати у будь-який час, будь-де"
 
 #. STRINGS.DUPLICANTS.TRAITS.NARCOLEPSY.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NARCOLEPSY.NAME"
 msgid "Narcoleptic"
-msgstr ""
+msgstr "Нарколептичний"
 
 #. STRINGS.DUPLICANTS.TRAITS.NEEDS.CLAUSTROPHOBIC.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NEEDS.CLAUSTROPHOBIC.DESC"
 msgid "This Duplicant feels suffocated in spaces less than four tiles high or three tiles wide"
-msgstr ""
+msgstr "Цей Дублікант починає задихатися в просторі меншим, ніж чотири кахеля висотою чи три кахеля шириною"
 
 #. STRINGS.DUPLICANTS.TRAITS.NEEDS.CLAUSTROPHOBIC.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NEEDS.CLAUSTROPHOBIC.NAME"
 msgid "Claustrophobic"
-msgstr ""
+msgstr "Клаустрофобний"
 
 #. STRINGS.DUPLICANTS.TRAITS.NEEDS.CLIMACOPHOBIC.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NEEDS.CLIMACOPHOBIC.DESC"
 msgid "Climbing ladders more than four tiles tall makes this Duplicant's stomach do flips"
-msgstr ""
+msgstr "Піднімаючись сходами з понад чотири кахельні, шлунок цього Дубліканта робить перекидання"
 
 #. STRINGS.DUPLICANTS.TRAITS.NEEDS.CLIMACOPHOBIC.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NEEDS.CLIMACOPHOBIC.NAME"
 msgid "Vertigo Prone"
-msgstr ""
+msgstr "Запаморочливий"
 
 #. STRINGS.DUPLICANTS.TRAITS.NEEDS.FASHIONABLE.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NEEDS.FASHIONABLE.DESC"
 msgid "This Duplicant dies a bit inside when forced to wear unstylish clothing"
-msgstr ""
+msgstr "Цей Дублікант трішки помирає з середини, коли вимушений носити нестильний одяг"
 
 #. STRINGS.DUPLICANTS.TRAITS.NEEDS.FASHIONABLE.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NEEDS.FASHIONABLE.NAME"
 msgid "Fashionista"
-msgstr ""
+msgstr "Модниця"
 
 #. STRINGS.DUPLICANTS.TRAITS.NEEDS.PREFERSCOOLER.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NEEDS.PREFERSCOOLER.DESC"
 msgid "This Duplicant has some extra insulation, so the room temperature affects them a little less"
-msgstr ""
+msgstr "Цей Дублікант має деяку додаткову ізоляцію, тому температура кімнат впливає на нього в меншій мірі"
 
 #. STRINGS.DUPLICANTS.TRAITS.NEEDS.PREFERSCOOLER.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NEEDS.PREFERSCOOLER.NAME"
 msgid "Pudgy"
-msgstr ""
+msgstr "Товстий"
 
 #. STRINGS.DUPLICANTS.TRAITS.NEEDS.PREFERSWARMER.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NEEDS.PREFERSWARMER.DESC"
 msgid "This Duplicant doesn't have much insulation, so they are more temperature sensitive than others"
-msgstr ""
+msgstr "Цей Дублікант не має значної ізоляції, тому він більш чутливий до температур, ніж інші"
 
 #. STRINGS.DUPLICANTS.TRAITS.NEEDS.PREFERSWARMER.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NEEDS.PREFERSWARMER.NAME"
 msgid "Skinny"
-msgstr ""
+msgstr "Худий"
 
 #. STRINGS.DUPLICANTS.TRAITS.NEEDS.SENSITIVEFEET.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NEEDS.SENSITIVEFEET.DESC"
 msgid "This Duplicant is a sensitive sole and would rather walk on tile floorings than bedrock"
-msgstr ""
+msgstr "Цей Дублікант відчуває ступнями та скоріше буде ходити но кахельній підлозі ніж бедроці"
 
 #. STRINGS.DUPLICANTS.TRAITS.NEEDS.SENSITIVEFEET.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NEEDS.SENSITIVEFEET.NAME"
 msgid "Delicate Feetsies"
-msgstr ""
+msgstr "Ніжні Ніжки"
 
 #. STRINGS.DUPLICANTS.TRAITS.NEEDS.SOLITARYSLEEPER.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NEEDS.SOLITARYSLEEPER.DESC"
 msgid "This Duplicant prefers to sleep alone"
-msgstr ""
+msgstr "Цей Дублікант надає перевагу спати на самоті"
 
 #. STRINGS.DUPLICANTS.TRAITS.NEEDS.SOLITARYSLEEPER.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NEEDS.SOLITARYSLEEPER.NAME"
 msgid "Solitary Sleeper"
-msgstr ""
+msgstr "Окремий Сон"
 
 #. STRINGS.DUPLICANTS.TRAITS.NEEDS.WORKAHOLIC.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NEEDS.WORKAHOLIC.DESC"
 msgid "This Duplicant gets antsy when left idle"
-msgstr ""
+msgstr "Цей Дублікант зазнає неспокою, коли залишається байдикувати"
 
 #. STRINGS.DUPLICANTS.TRAITS.NEEDS.WORKAHOLIC.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NEEDS.WORKAHOLIC.NAME"
 msgid "Workaholic"
-msgstr ""
+msgstr "Трудоголік"
 
 #. STRINGS.DUPLICANTS.TRAITS.NIGHTOWL.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NIGHTOWL.DESC"
 msgid "This Duplicant does their best work when they'd ought to be sleeping"
-msgstr ""
+msgstr "Цей Дублікант робить роботу добре, коли вони мають спати"
 
 #. STRINGS.DUPLICANTS.TRAITS.NIGHTOWL.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NIGHTOWL.NAME"
 msgid "Night Owl"
-msgstr ""
+msgstr "Нічна Сова"
 
 #. STRINGS.DUPLICANTS.TRAITS.NOODLEARMS.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NOODLEARMS.DESC"
 msgid "This Duplicant's arms have all the tensile strength of overcooked linguine"
-msgstr ""
+msgstr "Цей Дублікант має руки всією міцністю на розтяг, як переварені лінгвін"
 
 #. STRINGS.DUPLICANTS.TRAITS.NOODLEARMS.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NOODLEARMS.NAME"
 msgid "Noodle Arms"
-msgstr ""
+msgstr "Руки Локшина"
 
 #. STRINGS.DUPLICANTS.TRAITS.REFUSES_TO_DO_TASK
 msgctxt "STRINGS.DUPLICANTS.TRAITS.REFUSES_TO_DO_TASK"
@@ -14021,101 +14062,103 @@ msgid ""
 "\n"
 "â¢ Refuses to do errand: {0}"
 msgstr ""
+"\n"
+"â¢ Відмовляється від завдання: {0}"
 
 #. STRINGS.DUPLICANTS.TRAITS.REGENERATION.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.REGENERATION.DESC"
 msgid "This Duplicant is constantly regenerating health."
-msgstr ""
+msgstr "Цей Дублікант постійно регенерує здоров'я"
 
 #. STRINGS.DUPLICANTS.TRAITS.REGENERATION.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.REGENERATION.NAME"
 msgid "Regenerative"
-msgstr ""
+msgstr "Регенеративний"
 
 #. STRINGS.DUPLICANTS.TRAITS.ROCKCRUSHER.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.ROCKCRUSHER.DESC"
 msgid "This Duplicant is incredibly strong."
-msgstr ""
+msgstr "Цей Дублікант неймовірно сильний"
 
 #. STRINGS.DUPLICANTS.TRAITS.ROCKCRUSHER.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.ROCKCRUSHER.NAME"
 msgid "Rock Crusher"
-msgstr ""
+msgstr "Камнедробар"
 
 #. STRINGS.DUPLICANTS.TRAITS.SCAREDYCAT.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.SCAREDYCAT.DESC"
 msgid "This Duplicant abhors violence"
-msgstr ""
+msgstr "Цей Дублікант не ненавидить образи"
 
 #. STRINGS.DUPLICANTS.TRAITS.SCAREDYCAT.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.SCAREDYCAT.NAME"
 msgid "Pacifist"
-msgstr ""
+msgstr "Пацифіст"
 
 #. STRINGS.DUPLICANTS.TRAITS.SLOWLEARNER.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.SLOWLEARNER.DESC"
 msgid "This Duplicant's a little slow on the uptake, but gosh do they try"
-msgstr ""
+msgstr "Ці Дубліканти дуже мало розуміють, але вони намагаються"
 
 #. STRINGS.DUPLICANTS.TRAITS.SLOWLEARNER.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.SLOWLEARNER.NAME"
 msgid "Slow Learner"
-msgstr ""
+msgstr "Повільний Учень"
 
 #. STRINGS.DUPLICANTS.TRAITS.SMALLBLADDER.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.SMALLBLADDER.DESC"
 msgid "This Duplicant has a tiny, pea-sized bladder. Adorable!"
-msgstr ""
+msgstr "Цей Дублікант має крихітний, з горошину розміром, пузир. Чудово!"
 
 #. STRINGS.DUPLICANTS.TRAITS.SMALLBLADDER.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.SMALLBLADDER.NAME"
 msgid "Small Bladder"
-msgstr ""
+msgstr "Малий Пузир"
 
 #. STRINGS.DUPLICANTS.TRAITS.SNORER.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.SNORER.DESC"
 msgid "In space, everyone can hear you snore"
-msgstr ""
+msgstr "В космосі, будь-хто чує його хропіння"
 
 #. STRINGS.DUPLICANTS.TRAITS.SNORER.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.SNORER.NAME"
 msgid "Loud Sleeper"
-msgstr ""
+msgstr "Хропун"
 
 #. STRINGS.DUPLICANTS.TRAITS.STRESSVOMITER.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.STRESSVOMITER.DESC"
 msgid "This Duplicant is liable to puke everywhere when stressed"
-msgstr ""
+msgstr "Цей Дублікант схильний до блювання усюди, коли стресує"
 
 #. STRINGS.DUPLICANTS.TRAITS.STRESSVOMITER.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.STRESSVOMITER.NAME"
 msgid "Vomiter"
-msgstr ""
+msgstr "Блювотник"
 
 #. STRINGS.DUPLICANTS.TRAITS.STRONGARM.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.STRONGARM.DESC"
 msgid "This Duplicant has muscles on their muscles"
-msgstr ""
+msgstr "Цей Дублікант має м'язи в своїх м'язах"
 
 #. STRINGS.DUPLICANTS.TRAITS.STRONGARM.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.STRONGARM.NAME"
 msgid "Buff"
-msgstr ""
+msgstr "Бафф"
 
 #. STRINGS.DUPLICANTS.TRAITS.STRONGIMMUNESYSTEM.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.STRONGIMMUNESYSTEM.DESC"
 msgid "This Duplicant's immune system bounces back faster than most"
-msgstr ""
+msgstr "Цих Дублікантів імунні системи зцілюються швидше, ніж більшості"
 
 #. STRINGS.DUPLICANTS.TRAITS.STRONGIMMUNESYSTEM.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.STRONGIMMUNESYSTEM.NAME"
 msgid "Germ Resistant"
-msgstr ""
+msgstr "Бактеріальна Стійкість"
 
 #. STRINGS.DUPLICANTS.TRAITS.SUNNYDISPOSITION.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.SUNNYDISPOSITION.DESC"
 msgid "This Duplicant has an unwaveringly positive outlook on life."
-msgstr ""
+msgstr "Цей Дублікант має непохитно позитивний погляд на життя"
 
 #. STRINGS.DUPLICANTS.TRAITS.SUNNYDISPOSITION.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.SUNNYDISPOSITION.NAME"
@@ -14125,42 +14168,42 @@ msgstr "Щасливий Настрій"
 #. STRINGS.DUPLICANTS.TRAITS.TWINKLETOES.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.TWINKLETOES.DESC"
 msgid "This Duplicant is light as a feather on their feet"
-msgstr ""
+msgstr "Цей Дублікант легкий наче пере на його ногах"
 
 #. STRINGS.DUPLICANTS.TRAITS.TWINKLETOES.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.TWINKLETOES.NAME"
 msgid "Twinkletoes"
-msgstr ""
+msgstr "Поспішайко"
 
 #. STRINGS.DUPLICANTS.TRAITS.UGLYCRIER.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.UGLYCRIER.DESC"
 msgid "If this Duplicant gets too stressed it won't be pretty"
-msgstr ""
+msgstr "Якщо цей Дублікант стане надто напруженим, це не буде гарно"
 
 #. STRINGS.DUPLICANTS.TRAITS.UGLYCRIER.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.UGLYCRIER.NAME"
 msgid "Ugly Crier"
-msgstr ""
+msgstr "Бридкий Крикун"
 
 #. STRINGS.DUPLICANTS.TRAITS.UNCULTURED.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.UNCULTURED.DESC"
 msgid "This Duplicant has simply no appreciation for the arts"
-msgstr ""
+msgstr "Цей Дублікант просто не має розуміння в мистецтві"
 
 #. STRINGS.DUPLICANTS.TRAITS.UNCULTURED.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.UNCULTURED.NAME"
 msgid "Uncultured"
-msgstr ""
+msgstr "Некультурний"
 
 #. STRINGS.DUPLICANTS.TRAITS.WEAKIMMUNESYSTEM.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.WEAKIMMUNESYSTEM.DESC"
 msgid "All the vitamin C in space couldn't stop this Duplicant from getting sick"
-msgstr ""
+msgstr "Всі вітаміни С в космосі не можуть зупинити цього Дубліканта від зараження хворобою"
 
 #. STRINGS.DUPLICANTS.TRAITS.WEAKIMMUNESYSTEM.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.WEAKIMMUNESYSTEM.NAME"
 msgid "Biohazardous"
-msgstr ""
+msgstr "Заразний"
 
 #. STRINGS.ELEMENTS.ALGAE.BUILD_DESC
 msgctxt "STRINGS.ELEMENTS.ALGAE.BUILD_DESC"
@@ -22965,7 +23008,7 @@ msgstr ""
 #. STRINGS.UI.CHARACTERCONTAINER_APTITUDES_TITLE
 msgctxt "STRINGS.UI.CHARACTERCONTAINER_APTITUDES_TITLE"
 msgid "INTERESTS"
-msgstr ""
+msgstr "ІНТЕРЕСИ"
 
 #. STRINGS.UI.CHARACTERCONTAINER_CONGENITALTRAIT
 msgctxt "STRINGS.UI.CHARACTERCONTAINER_CONGENITALTRAIT"
@@ -22990,17 +23033,17 @@ msgstr ""
 #. STRINGS.UI.CHARACTERCONTAINER_SKILLS_TITLE
 msgctxt "STRINGS.UI.CHARACTERCONTAINER_SKILLS_TITLE"
 msgid "ATTRIBUTES"
-msgstr ""
+msgstr "ХАРАКТЕРНІ РИСИ"
 
 #. STRINGS.UI.CHARACTERCONTAINER_STRESSTRAIT
 msgctxt "STRINGS.UI.CHARACTERCONTAINER_STRESSTRAIT"
 msgid "Stress Response: {0}"
-msgstr ""
+msgstr "Стресова Відповідь: {0}"
 
 #. STRINGS.UI.CHARACTERCONTAINER_TRAITS_TITLE
 msgctxt "STRINGS.UI.CHARACTERCONTAINER_TRAITS_TITLE"
 msgid "TRAITS"
-msgstr ""
+msgstr "ОСОБЛИВОСТІ"
 
 #. STRINGS.UI.COLONYLOSTSCREEN.COLONYLOST
 msgctxt "STRINGS.UI.COLONYLOSTSCREEN.COLONYLOST"
@@ -24296,22 +24339,22 @@ msgstr "ПАТЧ ПРИМІТКИ"
 #. STRINGS.UI.DEVELOPMENTBUILDS.FULL_PATCH_NOTES
 msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.FULL_PATCH_NOTES"
 msgid "Full Patch Notes"
-msgstr ""
+msgstr "Повний Пачт Примітки"
 
 #. STRINGS.UI.DEVELOPMENTBUILDS.PREVIOUS_VERSION
 msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.PREVIOUS_VERSION"
 msgid "Previous Version"
-msgstr ""
+msgstr "Попередня Версія"
 
 #. STRINGS.UI.DEVELOPMENTBUILDS.UPDATES.BIGGER_TIMES
 msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.UPDATES.BIGGER_TIMES"
 msgid "{1} weeks {0} days"
-msgstr "{1} тиждень {0} день"
+msgstr "{1} тижні {0} дні"
 
 #. STRINGS.UI.DEVELOPMENTBUILDS.UPDATES.FINAL_WEEK
 msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.UPDATES.FINAL_WEEK"
 msgid "{0} days"
-msgstr "{0} днів"
+msgstr "{0} день(ів)"
 
 #. STRINGS.UI.DEVELOPMENTBUILDS.UPDATES.NOW
 msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.UPDATES.NOW"
@@ -24521,12 +24564,12 @@ msgstr "Згенеровано Калорій:"
 #. STRINGS.UI.ENDOFDAYREPORT.CALORIES_CREATED.NEGATIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.CALORIES_CREATED.NEGATIVE_TOOLTIP"
 msgid "Your colony consumed {0} of <style=\"food\">Food</style> over the course of the day"
-msgstr "Ваша колонія спожила {0} of <style=\"food\">Їжі</style> на протязі всього дня"
+msgstr "Ваша колонія спожила {0} <style=\"food\">Їжі</style> на протязі всього дня"
 
 #. STRINGS.UI.ENDOFDAYREPORT.CALORIES_CREATED.POSITIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.CALORIES_CREATED.POSITIVE_TOOLTIP"
 msgid "Your colony produced {0} of <style=\"food\">Food</style> over the course of the day"
-msgstr "Ваша колонія виробила {0} of <style=\"food\">Їжі</style> на протязі всього дня"
+msgstr "Ваша колонія виробила {0} <style=\"food\">Їжі</style> на протязі всього дня"
 
 #. STRINGS.UI.ENDOFDAYREPORT.CONTAMINATED_OXYGEN_FLATULENCE.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.CONTAMINATED_OXYGEN_FLATULENCE.NAME"
@@ -24753,7 +24796,7 @@ msgstr ""
 #. STRINGS.UI.ENDOFDAYREPORT.OXYGEN_CREATED.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.OXYGEN_CREATED.NAME"
 msgid "<style=\"oxygen\">Oxygen</style> Generation:"
-msgstr "<style=\\\"oxygen\\\">Кисню</style> Згенеровано:"
+msgstr "<style=\"oxygen\">Кисню</style> Згенеровано:"
 
 #. STRINGS.UI.ENDOFDAYREPORT.OXYGEN_CREATED.NEGATIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.OXYGEN_CREATED.NEGATIVE_TOOLTIP"
@@ -26256,7 +26299,7 @@ msgstr ""
 #. STRINGS.UI.IMMIGRANTSCREEN.NAME_YOUR_COLONY
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.NAME_YOUR_COLONY"
 msgid "NAME YOUR COLONY"
-msgstr ""
+msgstr "ІМ'Я ВАШОЇ КОЛОНІЇ"
 
 #. STRINGS.UI.IMMIGRANTSCREEN.PROCEEDBUTTON
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.PROCEEDBUTTON"
@@ -26281,17 +26324,17 @@ msgstr "ОБЕРІТЬ ТРЬОХ ДУБЛІКАНТІВ, ЩОБ РОЗПОЧА�
 #. STRINGS.UI.IMMIGRANTSCREEN.SHUFFLE
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.SHUFFLE"
 msgid "SHUFFLE"
-msgstr "ПЕРЕМІШАТИ"
+msgstr "ТАСУВАТИ"
 
 #. STRINGS.UI.IMMIGRANTSCREEN.SHUFFLE_COLONY_NAME
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.SHUFFLE_COLONY_NAME"
 msgid "Randomize colony name"
-msgstr ""
+msgstr "Випадкове ім'я колонії"
 
 #. STRINGS.UI.IMMIGRANTSCREEN.SHUFFLETOOLTIP
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.SHUFFLETOOLTIP"
 msgid "Shuffle for a different Duplicant"
-msgstr ""
+msgstr "Тасувати для іншого Дубліканта"
 
 #. STRINGS.UI.JOBS
 msgctxt "STRINGS.UI.JOBS"
@@ -27948,7 +27991,7 @@ msgstr "{0} <b>вже</b> призначено на роботу {1}"
 #. STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS.APTITUDES
 msgctxt "STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS.APTITUDES"
 msgid "Interests"
-msgstr ""
+msgstr "Інтереси"
 
 #. STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS.CHOREGROUP_ENABLED.DESCRIPTION
 msgctxt "STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS.CHOREGROUP_ENABLED.DESCRIPTION"
@@ -31570,12 +31613,12 @@ msgstr ""
 #. STRINGS.UI.WORLDGEN.ANALYZINGWORLD
 msgctxt "STRINGS.UI.WORLDGEN.ANALYZINGWORLD"
 msgid "Shuffling DNA Blueprints..."
-msgstr ""
+msgstr "Хитрий ДНК проект..."
 
 #. STRINGS.UI.WORLDGEN.ANALYZINGWORLDCOMPLETE
 msgctxt "STRINGS.UI.WORLDGEN.ANALYZINGWORLDCOMPLETE"
 msgid "Tidying up for the Duplicants..."
-msgstr ""
+msgstr "Прибирання для Дублікантів..."
 
 #. STRINGS.UI.WORLDGEN.BORDERS
 msgctxt "STRINGS.UI.WORLDGEN.BORDERS"
@@ -31680,7 +31723,7 @@ msgstr "Стискання астероїдного поясу..."
 #. STRINGS.UI.WORLDGEN.CHOOSEWORLDSIZE
 msgctxt "STRINGS.UI.WORLDGEN.CHOOSEWORLDSIZE"
 msgid "Select the magnitude of your new galaxy."
-msgstr ""
+msgstr "Виберіть розмір вашої нової галактики."
 
 #. STRINGS.UI.WORLDGEN.CLEARINGLEVEL
 msgctxt "STRINGS.UI.WORLDGEN.CLEARINGLEVEL"
@@ -31690,7 +31733,7 @@ msgstr "Пильний погляд на пустоту..."
 #. STRINGS.UI.WORLDGEN.COMPLETE
 msgctxt "STRINGS.UI.WORLDGEN.COMPLETE"
 msgid "Success! Space adventure awaits."
-msgstr ""
+msgstr "Успіх! Космічні пригоди чикають."
 
 #. STRINGS.UI.WORLDGEN.COMPLETELAYOUT
 msgctxt "STRINGS.UI.WORLDGEN.COMPLETELAYOUT"
@@ -31760,7 +31803,7 @@ msgstr "Створення особистих кордонів..."
 #. STRINGS.UI.WORLDGEN.FAILED
 msgctxt "STRINGS.UI.WORLDGEN.FAILED"
 msgid "Goodness, has this ever gone terribly wrong!"
-msgstr ""
+msgstr "Доброта - це вічне прощання, страшної шкоди!"
 
 #. STRINGS.UI.WORLDGEN.GENERATENOISE
 msgctxt "STRINGS.UI.WORLDGEN.GENERATENOISE"
@@ -31865,7 +31908,7 @@ msgstr "Настання заходу горизонту..."
 #. STRINGS.UI.WORLDGEN.GENERATINGWORLD
 msgctxt "STRINGS.UI.WORLDGEN.GENERATINGWORLD"
 msgid "The Galaxy Synthesizer"
-msgstr ""
+msgstr "Галактичний Синтезатор "
 
 #. STRINGS.UI.WORLDGEN.LOADING
 msgctxt "STRINGS.UI.WORLDGEN.LOADING"
@@ -31950,7 +31993,7 @@ msgstr "Перезавантаження..."
 #. STRINGS.UI.WORLDGEN.RETRYCOUNT
 msgctxt "STRINGS.UI.WORLDGEN.RETRYCOUNT"
 msgid "Oh dear, let's try that again."
-msgstr ""
+msgstr "О дорогий, спробуй це знову."
 
 #. STRINGS.UI.WORLDGEN.SETTLESIM
 msgctxt "STRINGS.UI.WORLDGEN.SETTLESIM"
@@ -32005,7 +32048,7 @@ msgstr "Звільнення дикої природи..."
 #. STRINGS.UI.WORLDGEN.SETUPNOISE
 msgctxt "STRINGS.UI.WORLDGEN.SETUPNOISE"
 msgid "BANG!"
-msgstr ""
+msgstr "Бах!"
 
 #. STRINGS.UI.WORLDGEN.USING_PLAYER_SEED
 msgctxt "STRINGS.UI.WORLDGEN.USING_PLAYER_SEED"
