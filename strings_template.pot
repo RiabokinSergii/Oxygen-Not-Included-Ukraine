@@ -2335,7 +2335,7 @@ msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.AIRCONDITIONER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.AIRCONDITIONER.EFFECT"
-msgid "Cools the<link=\"ELEMENTSGAS\">Gas</link>piped through it, but outputs <link=\"HEAT\">Heat</link> in its immediate vicinity."
+msgid "Cools the <link=\"ELEMENTSGAS\">Gas</link> piped through it, but outputs <link=\"HEAT\">Heat</link> in its immediate vicinity."
 msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.AIRCONDITIONER.NAME
