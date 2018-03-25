@@ -5599,7 +5599,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.RANCHSTATION.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.RANCHSTATION.NAME"
 msgid "<link=\"RANCHSTATION\">Grooming Station</link>"
-msgstr ""
+msgstr "<link=\"RANCHSTATION\">Станція Догляду</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.RATIONBOX.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.RATIONBOX.DESC"
@@ -6572,7 +6572,7 @@ msgstr ""
 #. STRINGS.CODEX.BLUFFBRIAR.TITLE
 msgctxt "STRINGS.CODEX.BLUFFBRIAR.TITLE"
 msgid "Bluff Briar"
-msgstr ""
+msgstr "Фальшива Шипшина"
 
 #. STRINGS.CODEX.BRISTLEBLOSSOM.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.BRISTLEBLOSSOM.BODY.CONTAINER1"
@@ -6626,7 +6626,7 @@ msgstr "Їстівні рослини"
 #. STRINGS.CODEX.DUSKCAP.TITLE
 msgctxt "STRINGS.CODEX.DUSKCAP.TITLE"
 msgid "Dusk Cap"
-msgstr ""
+msgstr "Сутінковий Гриб"
 
 #. STRINGS.CODEX.EXAMPLE_ENTRY.BODY
 msgctxt "STRINGS.CODEX.EXAMPLE_ENTRY.BODY"
@@ -6810,7 +6810,7 @@ msgstr "Їстівні рослини"
 #. STRINGS.CODEX.MEALWOOD.TITLE
 msgctxt "STRINGS.CODEX.MEALWOOD.TITLE"
 msgid "Mealwood"
-msgstr "Насіння Деревоїда"
+msgstr "М'ясне Дерево"
 
 #. STRINGS.CODEX.MORB.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.MORB.BODY.CONTAINER1"
@@ -6880,16 +6880,23 @@ msgid ""
 "gravitropism, causing its stem to prefer growing downwards while the roots "
 "tend to grow up."
 msgstr ""
+"Перцевий Горішник - це тропічна лоза з зменшеною структурною системою "
+"роботи, що робить її нездатною зростати вгору від землі.\n"
+"\n"
+"Тому рослина вважає за краще вкорінювати своє коріння в високі дерева та "
+"скелясті виходи, наслідком чого є зворотний вплив природного гравітропізму "
+"рослини, змушуючи їй віддавати перевагу росту вниз, тоді як коріння, як "
+"правило, росте вверх."
 
 #. STRINGS.CODEX.PINCHAPEPPERPLANT.SUBTITLE
 msgctxt "STRINGS.CODEX.PINCHAPEPPERPLANT.SUBTITLE"
 msgid "Edible Spice Plant"
-msgstr ""
+msgstr "Рослина, їстівні спеції"
 
 #. STRINGS.CODEX.PINCHAPEPPERPLANT.TITLE
 msgctxt "STRINGS.CODEX.PINCHAPEPPERPLANT.TITLE"
 msgid "Pincha Pepperplant"
-msgstr "Гострий Горіх"
+msgstr "Перцевий Горішник"
 
 #. STRINGS.CODEX.POWER.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.POWER.BODY.CONTAINER1"
@@ -7001,12 +7008,9 @@ msgid "Textile Plant"
 msgstr "Ткацький Верстат"
 
 #. STRINGS.CODEX.THIMBLEREED.TITLE
-#, fuzzy
-#| msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.BASICFABRICMATERIALPLANT.NAME"
-#| msgid "Thimble Reed Seed"
 msgctxt "STRINGS.CODEX.THIMBLEREED.TITLE"
 msgid "Thimble Reed"
-msgstr "Насіння Очерету"
+msgstr "Наперстковий Очерет"
 
 #. STRINGS.CODEX.WHEEZEWORT.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.WHEEZEWORT.BODY.CONTAINER1"
@@ -7019,6 +7023,13 @@ msgid ""
 "hibernation, slowing the Wheezewort's metabolism to require less nutrients "
 "over long periods of time."
 msgstr ""
+"Холододув найкращий загальновідомий, що здатний змінювати температуру в "
+"навколишньому середовищі, прямо всмоктуючи теплову енергію, підтримуючи свої "
+"тілесні процеси.\n"
+"\n"
+"Це управління навколишнім середовищем також служить, для впровадження типу "
+"само індивідуальної сплячки, що уповільнює обмін речовин Холододува, "
+"вимагаючи менше поживних речовин протягом тривалого періоду часу."
 
 #. STRINGS.CODEX.WHEEZEWORT.SUBTITLE
 msgctxt "STRINGS.CODEX.WHEEZEWORT.SUBTITLE"
@@ -7028,7 +7039,7 @@ msgstr "Рослина"
 #. STRINGS.CODEX.WHEEZEWORT.TITLE
 msgctxt "STRINGS.CODEX.WHEEZEWORT.TITLE"
 msgid "Wheezewort"
-msgstr ""
+msgstr "Холододув"
 
 #. STRINGS.CREATURES.BAGGED_DESC_FMT
 msgctxt "STRINGS.CREATURES.BAGGED_DESC_FMT"
@@ -7339,16 +7350,18 @@ msgid ""
 "Thimble Reeds produce indescribably soft Reed Fiber for <link=\"EQUIPMENT"
 "\">Clothing</link> production."
 msgstr ""
+"Наперсткові Очерети виробляють, невимовно м'які Волокна Очерету, для "
+"виробництва <link=\"EQUIPMENT\">Одягу</link>."
 
 #. STRINGS.CREATURES.SPECIES.BASICFABRICMATERIALPLANT.DOMESTICATEDDESC
 msgctxt "STRINGS.CREATURES.SPECIES.BASICFABRICMATERIALPLANT.DOMESTICATEDDESC"
 msgid "This plant produces Reed Fiber."
-msgstr ""
+msgstr "Ця рослина виробляє Волокна Очерету."
 
 #. STRINGS.CREATURES.SPECIES.BASICFABRICMATERIALPLANT.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.BASICFABRICMATERIALPLANT.NAME"
 msgid "<link=\"BASICFABRICMATERIALPLANT\">Thimble Reed</link>"
-msgstr ""
+msgstr "<link=\"BASICFABRICMATERIALPLANT\">Наперстковий Очерет</link>"
 
 #. STRINGS.CREATURES.SPECIES.BASICFORAGEPLANTPLANTED.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.BASICFORAGEPLANTPLANTED.DESC"
@@ -7368,16 +7381,19 @@ msgid ""
 "Mealwoods produce <link=\"BASICPLANTFOOD\">Meal Lice</link>, an oddly "
 "wriggly grain that can be harvested for <link=\"FOOD\">Food</link>."
 msgstr ""
+"М'ясне Дерево виробляє <link=\"BASICPLANTFOOD\">Борошноїдів</link>, дивне "
+"звивисте зерно, яке можна збирати для <link=\"FOOD\">Їжі</link>."
 
 #. STRINGS.CREATURES.SPECIES.BASICSINGLEHARVESTPLANT.DOMESTICATEDDESC
 msgctxt "STRINGS.CREATURES.SPECIES.BASICSINGLEHARVESTPLANT.DOMESTICATEDDESC"
 msgid "This plant produces edible <link=\"BASICPLANTFOOD\">Meal Lice</link>."
 msgstr ""
+"Ця рослина виробляє їстівних <link=\"BASICPLANTFOOD\">Борошноїдів</link>."
 
 #. STRINGS.CREATURES.SPECIES.BASICSINGLEHARVESTPLANT.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.BASICSINGLEHARVESTPLANT.NAME"
 msgid "<link=\"BASICSINGLEHARVESTPLANT\">Mealwood</link>"
-msgstr ""
+msgstr "<link=\"BASICSINGLEHARVESTPLANT\">М'ясне Дерево</link>"
 
 #. STRINGS.CREATURES.SPECIES.CHLORINEGEYSER.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.CHLORINEGEYSER.DESC"
@@ -7397,16 +7413,18 @@ msgid ""
 "Wheezeworts can be grown in flower pots and absorb <link=\"HEAT\">Heat</"
 "link> by respiring through their porous outer membranes."
 msgstr ""
+"Холододув може рости в Квітковому Горщику та поглинати <link=\"HEAT\">Тепло</"
+"link>, дихаючи через пористі зовнішні мембрани."
 
 #. STRINGS.CREATURES.SPECIES.COLDBREATHER.DOMESTICATEDDESC
 msgctxt "STRINGS.CREATURES.SPECIES.COLDBREATHER.DOMESTICATEDDESC"
 msgid "This plant absorbs <link=\"HEAT\">Heat</link>."
-msgstr ""
+msgstr "Ця рослина поглинає <link=\"HEAT\">Тепло</link>."
 
 #. STRINGS.CREATURES.SPECIES.COLDBREATHER.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.COLDBREATHER.NAME"
 msgid "<link=\"COLDBREATHER\">Wheezewort</link>"
-msgstr ""
+msgstr "<link=\"COLDBREATHER\">Холододув</link>"
 
 #. STRINGS.CREATURES.SPECIES.COLDWHEAT.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.COLDWHEAT.DESC"
@@ -7414,17 +7432,21 @@ msgid ""
 "Sleet Wheat produces <link=\"COLDWHEATSEED\">Sleet Wheat Grain</link>, a "
 "chilly grain that can be processed into <link=\"FOOD\">Food</link>."
 msgstr ""
+"Морозна Пшениця виробляє <link=\"COLDWHEATSEED\">Зерна Морозної Пшениці</"
+"link>, холодне зерно, яке можна переробити в <link=\"FOOD\">Їжу</link>."
 
 #. STRINGS.CREATURES.SPECIES.COLDWHEAT.DOMESTICATEDDESC
 msgctxt "STRINGS.CREATURES.SPECIES.COLDWHEAT.DOMESTICATEDDESC"
 msgid ""
 "This plant produces edible <link=\"COLDWHEATSEED\">Sleet Wheat Grain</link>."
 msgstr ""
+"Ця рослина виробляє їстівне <link=\"COLDWHEATSEED\">Зерно Морозної Пшениці</"
+"link>."
 
 #. STRINGS.CREATURES.SPECIES.COLDWHEAT.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.COLDWHEAT.NAME"
 msgid "<link=\"COLDWHEAT\">Sleet Wheat</link>"
-msgstr ""
+msgstr "<link=\"COLDWHEAT\">Морозна Пшениця</link>"
 
 #. STRINGS.CREATURES.SPECIES.FLUT.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.FLUT.DESC"
@@ -7798,16 +7820,18 @@ msgid ""
 "Dusk Caps produce <link=\"MUSHROOM\">Mushroom</link>, fungal growths that "
 "can be harvested for <link=\"FOOD\">Food</link>."
 msgstr ""
+"Сутінковий Гриб виробляє <link=\"MUSHROOM\">Гриби</link>, грибні врожаї, які "
+"можна збирати для <link=\"FOOD\">Їжі</link>."
 
 #. STRINGS.CREATURES.SPECIES.MUSHROOMPLANT.DOMESTICATEDDESC
 msgctxt "STRINGS.CREATURES.SPECIES.MUSHROOMPLANT.DOMESTICATEDDESC"
 msgid "This plant produces edible <link=\"MUSHROOM\">Mushrooms</link>."
-msgstr ""
+msgstr "Ця рослина виробляє їстівні <link=\"MUSHROOM\">Гриби</link>."
 
 #. STRINGS.CREATURES.SPECIES.MUSHROOMPLANT.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.MUSHROOMPLANT.NAME"
 msgid "<link=\"MUSHROOMPLANT\">Dusk Cap</link>"
-msgstr ""
+msgstr "<link=\"MUSHROOMPLANT\">Сутінковий Гриб</link>"
 
 #. STRINGS.CREATURES.SPECIES.MYSTERYEGG.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.MYSTERYEGG.DESC"
@@ -7866,17 +7890,20 @@ msgid ""
 "Bristle Blossoms produce <link=\"PRICKLEFRUIT\">Bristle Berry</link>, a "
 "prickly edible bud."
 msgstr ""
+"Цвітіння Щетини виробляє <link=\"PRICKLEFRUIT\">Щетинну Ягоду</link>, "
+"колючий їстівний бутон."
 
 #. STRINGS.CREATURES.SPECIES.PRICKLEFLOWER.DOMESTICATEDDESC
 msgctxt "STRINGS.CREATURES.SPECIES.PRICKLEFLOWER.DOMESTICATEDDESC"
 msgid ""
 "This plant produces edible <link=\"BRISTLE BERRY\">Bristle Berries</link>."
 msgstr ""
+"Ця рослина виробляє їстівне <link=\"BRISTLE BERRY\">Цвітіння Щетини</link>."
 
 #. STRINGS.CREATURES.SPECIES.PRICKLEFLOWER.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.PRICKLEFLOWER.NAME"
 msgid "<link=\"PRICKLEFLOWER\">Bristle Blossom</link>"
-msgstr ""
+msgstr "<link=\"PRICKLEFLOWER\">Цвітіння Щетини</link>"
 
 #. STRINGS.CREATURES.SPECIES.PRICKLEGRASS.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.PRICKLEGRASS.DESC"
@@ -7884,16 +7911,18 @@ msgid ""
 "Bluff Briars exude pheromones causing critters to view them as especially "
 "beautiful."
 msgstr ""
+"Фальшиві Шипшини виділяють феромони, змушуючи тварин переглядати їх, як "
+"особливо красиві."
 
 #. STRINGS.CREATURES.SPECIES.PRICKLEGRASS.DOMESTICATEDDESC
 msgctxt "STRINGS.CREATURES.SPECIES.PRICKLEGRASS.DOMESTICATEDDESC"
 msgid "This plant improves <link=\"DECOR\">Decor</link>."
-msgstr ""
+msgstr "Ця рослина поліпшує <link=\"DECOR\">Декор</link>."
 
 #. STRINGS.CREATURES.SPECIES.PRICKLEGRASS.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.PRICKLEGRASS.NAME"
 msgid "<link=\"PRICKLEGRASS\">Bluff Briar</link>"
-msgstr ""
+msgstr "<link=\"PRICKLEGRASS\">Фальшива Шипшина</link>"
 
 #. STRINGS.CREATURES.SPECIES.PROPANESPOUT.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.PROPANESPOUT.DESC"
@@ -7930,11 +7959,16 @@ msgid ""
 "\n"
 "Digging up Buried Objects may uncover a Thimble Reed Seed."
 msgstr ""
+"<link=\"PLANTS\">Насіння</link> з <link=\"BASICFABRICMATERIALPLANT\">Thimble "
+"Reed</link>.\n"
+"\n"
+"Відкопування Прихованих Об'єктів, може виявити Насіння Наперсткового Очерету."
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.BASICFABRICMATERIALPLANT.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.BASICFABRICMATERIALPLANT.NAME"
 msgid "<link=\"BASICFABRICMATERIALPLANT\">Thimble Reed Seed</link>"
 msgstr ""
+"<link=\"BASICFABRICMATERIALPLANT\">Насіння Наперсткового Очерету</link>"
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.BASICSINGLEHARVESTPLANT.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.BASICSINGLEHARVESTPLANT.DESC"
@@ -7944,11 +7978,15 @@ msgid ""
 "\n"
 "Digging up Buried Objects may uncover a Mealwood Seed."
 msgstr ""
+"<link=\"PLANTS\">Насіння</link> з <link=\"BASICSINGLEHARVESTPLANT\">М'ясного "
+"Дерева</link>.\n"
+"\n"
+"Відкопування Прихованих Об'єктів, може виявити Насіння М'ясного Дерева."
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.BASICSINGLEHARVESTPLANT.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.BASICSINGLEHARVESTPLANT.NAME"
 msgid "<link=\"BASICSINGLEHARVESTPLANT\">Mealwood Seed</link>"
-msgstr ""
+msgstr "<link=\"BASICSINGLEHARVESTPLANT\">Насіння М'ясного Дерева</link>"
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.COLDBREATHER.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.COLDBREATHER.DESC"
@@ -7958,11 +7996,14 @@ msgid ""
 "\n"
 "Digging up Buried Objects may uncover a Wort Seed."
 msgstr ""
+"<link=\"PLANTS\">Насіння</link> з <link=\"COLDBREATHER\">Холододува</link>.\n"
+"\n"
+"Відкопування Прихованих Об'єктів, може виявити Насіння Морозка."
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.COLDBREATHER.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.COLDBREATHER.NAME"
 msgid "<link=\"COLDBREATHER\">Wort Seed</link>"
-msgstr ""
+msgstr "<link=\"COLDBREATHER\">Насіння Морозка</link>"
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.COLDWHEAT.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.COLDWHEAT.DESC"
@@ -7977,7 +8018,7 @@ msgstr ""
 #. STRINGS.CREATURES.SPECIES.SEEDS.COLDWHEAT.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.COLDWHEAT.NAME"
 msgid "<link=\"COLDWHEAT\">Sleet Wheat Grain</link>"
-msgstr ""
+msgstr "<link=\"COLDWHEAT\">Зерна Морозної Пшениці</link>"
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.MUSHROOMPLANT.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.MUSHROOMPLANT.DESC"
@@ -7987,11 +8028,15 @@ msgid ""
 "\n"
 "Digging up Buried Objects may uncover a Fungal Spore."
 msgstr ""
+"<link=\"PLANTS\">Спори</link> з <link=\"MUSHROOMPLANT\">Сутінковий Гриб</"
+"link>.\n"
+"\n"
+"Відкопування Прихованих Об'єктів, може виявити Грибні Спори."
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.MUSHROOMPLANT.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.MUSHROOMPLANT.NAME"
 msgid "<link=\"MUSHROOMPLANT\">Fungal Spore</link>"
-msgstr ""
+msgstr "<link=\"MUSHROOMPLANT\">Грибні Спори</link>"
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.OILEATER.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.OILEATER.DESC"
@@ -8014,11 +8059,15 @@ msgid ""
 "\n"
 "Digging up Buried Objects may uncover a Blossom Seed."
 msgstr ""
+"<link=\"PLANTS\">Насіння</link>з <link=\"PRICKLEFLOWER\">Цвітіння Щетини</"
+"link>.\n"
+"\n"
+"Відкопування Прихованих Об'єктів, може виявити Насіння Цвіту."
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.PRICKLEFLOWER.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.PRICKLEFLOWER.NAME"
 msgid "<link=\"PRICKLEFLOWER\">Blossom Seed</link>"
-msgstr ""
+msgstr "<link=\"PRICKLEFLOWER\">Насіння Цвіту</link>"
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.PRICKLEGRASS.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.PRICKLEGRASS.DESC"
@@ -8028,11 +8077,15 @@ msgid ""
 "\n"
 "Digging up Buried Objects may uncover a Briar Seed."
 msgstr ""
+"<link=\"PLANTS\">Насіння</link> з <link=\"PRICKLEGRASS\">Фальшивої Шипшини</"
+"link>.\n"
+"\n"
+"Відкопування Прихованих Об'єктів, може виявити Насіння Шипшини."
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.PRICKLEGRASS.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.PRICKLEGRASS.NAME"
 msgid "<link=\"PRICKLEGRASS\">Briar Seed</link>"
-msgstr ""
+msgstr "<link=\"PRICKLEGRASS\">Насіння Шипшини</link>"
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.SPICE_VINE.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.SPICE_VINE.DESC"
@@ -8042,11 +8095,15 @@ msgid ""
 "\n"
 "Digging up Buried Objects may uncover a Pincha Pepper Seed."
 msgstr ""
+"<link=\"PLANTS\">Насіння</link> з <link=\"SPICEVINE\">Перцевого Горішника</"
+"link>.\n"
+"\n"
+"Відкопування Прихованих Об'єктів, може виявити Насіння Гострого Горіха."
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.SPICE_VINE.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.SPICE_VINE.NAME"
 msgid "<link=\"SPICEVINE\">Pincha Pepper Seed</link>"
-msgstr ""
+msgstr "<link=\"SPICEVINE\">Насіння Гострого Горіха</link>"
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.SWAMPLILY.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.SWAMPLILY.DESC"
@@ -8055,11 +8112,14 @@ msgid ""
 "\n"
 "Digging up Buried Objects may uncover a Balm Lily Seed."
 msgstr ""
+"<link=\"PLANTS\">Насіння</link> з <link=\"SWAMPLILY\">Balm Lily</link>.\n"
+"\n"
+"Відкопування Прихованих Об'єктів, може виявити Насіння Бальзамної Лілії."
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.SWAMPLILY.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.SWAMPLILY.NAME"
 msgid "<link=\"SWAMPLILY\">Balm Lily Seed</link>"
-msgstr ""
+msgstr "<link=\"SWAMPLILY\">Насіння Бальзамної Лілії</link>"
 
 #. STRINGS.CREATURES.SPECIES.SHOCKWORM.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SHOCKWORM.DESC"
@@ -8079,16 +8139,18 @@ msgid ""
 "Pincha Pepperplants produce flavorful <link=\"SPICENUT\">Pincha Peppernut</"
 "link> for spicing <link=\"FOOD\">Food</link>."
 msgstr ""
+"Перцевий Горішник виробляє ароматний <link=\"SPICENUT\">Гострий Горіх</"
+"link>, щоб приправляти <link=\"FOOD\">Їжу</link>."
 
 #. STRINGS.CREATURES.SPECIES.SPICE_VINE.DOMESTICATEDDESC
 msgctxt "STRINGS.CREATURES.SPECIES.SPICE_VINE.DOMESTICATEDDESC"
 msgid "This plant produces <link=\"SPICENUT\">Pincha Peppernut</link> spices."
-msgstr ""
+msgstr "Ця рослина виробляє спеції <link=\"SPICENUT\">Гострого Горіха</link>"
 
 #. STRINGS.CREATURES.SPECIES.SPICE_VINE.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.SPICE_VINE.NAME"
 msgid "<link=\"SPICEVINE\">Pincha Pepperplant</link>"
-msgstr ""
+msgstr "<link=\"SPICEVINE\">Перцевий Горішник</link>"
 
 #. STRINGS.CREATURES.SPECIES.STEAMSPOUT.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.STEAMSPOUT.DESC"
@@ -8106,16 +8168,18 @@ msgid ""
 "Balm Lilies produce Balm Lily Flower, a lovely bloom with medicinal "
 "properties."
 msgstr ""
+"Бальзамна Лілія виробляє Квіти Бальзамної Лілії, красиво цвітуть, з "
+"медичними характеристиками."
 
 #. STRINGS.CREATURES.SPECIES.SWAMPLILY.DOMESTICATEDDESC
 msgctxt "STRINGS.CREATURES.SPECIES.SWAMPLILY.DOMESTICATEDDESC"
 msgid "This plant produces medicinal Balm Lily Flower."
-msgstr ""
+msgstr "Ця рослина виробляє лікувальні Квіти Бальзамної Лілії."
 
 #. STRINGS.CREATURES.SPECIES.SWAMPLILY.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.SWAMPLILY.NAME"
 msgid "<link=\"SWAMPLILY\">Balm Lily</link>"
-msgstr ""
+msgstr "<link=\"SWAMPLILY\">Бальзамна Лілія</link>"
 
 #. STRINGS.CREATURES.STATS.AIRPRESSURE.NAME
 msgctxt "STRINGS.CREATURES.STATS.AIRPRESSURE.NAME"
@@ -19983,11 +20047,13 @@ msgid ""
 "<link=\"BASICPLANTFOOD\">Meal Lice</link> compacted into a dense, immobile "
 "loaf."
 msgstr ""
+"<link=\"BASICPLANTFOOD\">Борошноїд</link>спресований в компактний, "
+"нерухомий, м'ясний хліб."
 
 #. STRINGS.ITEMS.FOOD.BASICPLANTBAR.NAME
 msgctxt "STRINGS.ITEMS.FOOD.BASICPLANTBAR.NAME"
 msgid "<link=\"BASICPLANTBAR\">Liceloaf</link>"
-msgstr ""
+msgstr "<link=\"BASICPLANTBAR\">Брикет з Борошноїда</link>"
 
 #. STRINGS.ITEMS.FOOD.BASICPLANTBAR.RECIPEDESC
 msgctxt "STRINGS.ITEMS.FOOD.BASICPLANTBAR.RECIPEDESC"
@@ -19995,6 +20061,8 @@ msgid ""
 "<link=\"BASICPLANTFOOD\">Meal Lice</link> compacted into a dense, immobile "
 "loaf."
 msgstr ""
+"<link=\"BASICPLANTFOOD\">Борошноїд</link>спресований в компактний, "
+"нерухомий, м'ясний хліб."
 
 #. STRINGS.ITEMS.FOOD.BASICPLANTFOOD.DESC
 msgctxt "STRINGS.ITEMS.FOOD.BASICPLANTFOOD.DESC"
@@ -20004,7 +20072,7 @@ msgstr ""
 #. STRINGS.ITEMS.FOOD.BASICPLANTFOOD.NAME
 msgctxt "STRINGS.ITEMS.FOOD.BASICPLANTFOOD.NAME"
 msgid "<link=\"BASICPLANTFOOD\">Meal Lice</link>"
-msgstr ""
+msgstr "<link=\"BASICPLANTFOOD\">Борошноїд</link>"
 
 #. STRINGS.ITEMS.FOOD.COLDWHEATBREAD.DESC
 msgctxt "STRINGS.ITEMS.FOOD.COLDWHEATBREAD.DESC"
@@ -20015,11 +20083,16 @@ msgid ""
 "Each bite leaves a mild cooling sensation in one's mouth, even when the bun "
 "itself is warm."
 msgstr ""
+"Проста випічка, спечена з <link=\"COLDWHEATSEED\">Зерна Морозної Пшениці</"
+"link>.\n"
+"\n"
+"Кожний укус залишає м'яке відчуття охолодження в роті навіть, коли сама "
+"булочка тепла."
 
 #. STRINGS.ITEMS.FOOD.COLDWHEATBREAD.NAME
 msgctxt "STRINGS.ITEMS.FOOD.COLDWHEATBREAD.NAME"
 msgid "<link=\"COLDWHEATBREAD\">Frost Bun</link>"
-msgstr ""
+msgstr "<link=\"COLDWHEATBREAD\">Морозний Кекс</link>"
 
 #. STRINGS.ITEMS.FOOD.COLDWHEATBREAD.RECIPEDESC
 msgctxt "STRINGS.ITEMS.FOOD.COLDWHEATBREAD.RECIPEDESC"
@@ -20027,16 +20100,18 @@ msgid ""
 "A simple bun baked from <link=\"COLDWHEATSEED\">Sleet Wheat Grain</link> "
 "grain."
 msgstr ""
+"Проста випічка, спечена з <link=\"COLDWHEATSEED\">Зерна Морозної Пшениці</"
+"link>."
 
 #. STRINGS.ITEMS.FOOD.COLDWHEATSEED.DESC
 msgctxt "STRINGS.ITEMS.FOOD.COLDWHEATSEED.DESC"
 msgid "An edible grain that leaves a cool taste on the tongue."
-msgstr ""
+msgstr "Їстівне зерно, що залишає прохолодний смак на язиці."
 
 #. STRINGS.ITEMS.FOOD.COLDWHEATSEED.NAME
 msgctxt "STRINGS.ITEMS.FOOD.COLDWHEATSEED.NAME"
 msgid "<link=\"COLDWHEATSEED\">Sleet Wheat Grain</link>"
-msgstr ""
+msgstr "<link=\"COLDWHEATSEED\">Зерна Морозної Пшениці</link>"
 
 #. STRINGS.ITEMS.FOOD.COMPOST
 msgctxt "STRINGS.ITEMS.FOOD.COMPOST"
@@ -20050,16 +20125,19 @@ msgid ""
 "\n"
 "It turns out you do, in fact, have to break a few eggs to make it."
 msgstr ""
+"Розбиті та перемішані яєчні нутрощі.\n"
+"\n"
+"Виявляється, ви насправді повинні розбити декілька яєць, щоб зробити це."
 
 #. STRINGS.ITEMS.FOOD.COOKEDEGG.NAME
 msgctxt "STRINGS.ITEMS.FOOD.COOKEDEGG.NAME"
 msgid "<link=\"COOKEDEGG\">Omelette</link>"
-msgstr ""
+msgstr "<link=\"COOKEDEGG\">Омлет</link>"
 
 #. STRINGS.ITEMS.FOOD.COOKEDEGG.RECIPEDESC
 msgctxt "STRINGS.ITEMS.FOOD.COOKEDEGG.RECIPEDESC"
 msgid "Fluffed and folded egg innards."
-msgstr ""
+msgstr "Розбиті та перемішані яєчні нутрощі."
 
 #. STRINGS.ITEMS.FOOD.COOKEDMEAT.DESC
 msgctxt "STRINGS.ITEMS.FOOD.COOKEDMEAT.DESC"
@@ -20068,26 +20146,29 @@ msgid ""
 "\n"
 "It has a delightful smoky aftertaste."
 msgstr ""
+"Приготовлене м'ясо з переможений тварин.\n"
+"\n"
+"Він має чудовий димчастий після-смак."
 
 #. STRINGS.ITEMS.FOOD.COOKEDMEAT.NAME
 msgctxt "STRINGS.ITEMS.FOOD.COOKEDMEAT.NAME"
 msgid "<link=\"COOKEDMEAT\">Barbeque</link>"
-msgstr ""
+msgstr "<link=\"COOKEDMEAT\">Барбекю</link>"
 
 #. STRINGS.ITEMS.FOOD.COOKEDMEAT.RECIPEDESC
 msgctxt "STRINGS.ITEMS.FOOD.COOKEDMEAT.RECIPEDESC"
 msgid "The cooked meat of a defeated critter."
-msgstr ""
+msgstr "Приготовлене м'ясо з переможений тварин."
 
 #. STRINGS.ITEMS.FOOD.FIELDRATION.DESC
 msgctxt "STRINGS.ITEMS.FOOD.FIELDRATION.DESC"
 msgid "A nourishing nutrient paste, sandwiched between thin wafer layers."
-msgstr ""
+msgstr "Живильна, поживна паста, розміщена між тонким шаром вафлі."
 
 #. STRINGS.ITEMS.FOOD.FIELDRATION.NAME
 msgctxt "STRINGS.ITEMS.FOOD.FIELDRATION.NAME"
 msgid "<link=\"FIELDRATION\">Nutrient Bar</link>"
-msgstr ""
+msgstr "<link=\"FIELDRATION\">Поживний Брикет</link>"
 
 #. STRINGS.ITEMS.FOOD.FRIEDMUSHBAR.DESC
 msgctxt "STRINGS.ITEMS.FOOD.FRIEDMUSHBAR.DESC"
@@ -20096,16 +20177,19 @@ msgid ""
 "\n"
 "The inside is almost completely uncooked, despite the crunch on the outside."
 msgstr ""
+"Глибоко обсмажене, стверділа тягуча грязь.\n"
+"\n"
+"Всередині майже повністю сира, незважаючи на хруст із зовнішньої сторони."
 
 #. STRINGS.ITEMS.FOOD.FRIEDMUSHBAR.NAME
 msgctxt "STRINGS.ITEMS.FOOD.FRIEDMUSHBAR.NAME"
 msgid "<link=\"FRIEDMUSHBAR\">Mush Fry</link>"
-msgstr ""
+msgstr "<link=\"FRIEDMUSHBAR\">Смажена Каша</link>"
 
 #. STRINGS.ITEMS.FOOD.FRIEDMUSHBAR.RECIPEDESC
 msgctxt "STRINGS.ITEMS.FOOD.FRIEDMUSHBAR.RECIPEDESC"
 msgid "Deep fried, solidified mudslop."
-msgstr ""
+msgstr "Глибоко обсмажене, стверділа тягуча грязь."
 
 #. STRINGS.ITEMS.FOOD.FRIEDMUSHROOM.DESC
 msgctxt "STRINGS.ITEMS.FOOD.FRIEDMUSHROOM.DESC"
@@ -20114,16 +20198,20 @@ msgid ""
 "\n"
 "It has a thick, savory flavor with subtle earthy undertones."
 msgstr ""
+"Смажене страва, зроблена з плодоносних <link=\"MUSHROOM\">Грибів</link>.\n"
+"\n"
+"Він має густий, смачний аромат з ніжним земляним відтінком."
 
 #. STRINGS.ITEMS.FOOD.FRIEDMUSHROOM.NAME
 msgctxt "STRINGS.ITEMS.FOOD.FRIEDMUSHROOM.NAME"
 msgid "<link=\"FRIEDMUSHROOM\">Fried Mushroom</link>"
-msgstr ""
+msgstr "<link=\"FRIEDMUSHROOM\">Смажений Гриб</link>"
 
 #. STRINGS.ITEMS.FOOD.FRIEDMUSHROOM.RECIPEDESC
 msgctxt "STRINGS.ITEMS.FOOD.FRIEDMUSHROOM.RECIPEDESC"
 msgid "A fried dish made with a fruiting <link=\"MUSHROOM\">Mushroom</link>."
 msgstr ""
+"Смажене страва, зроблена з плодоносних <link=\"MUSHROOM\">Грибів</link>."
 
 #. STRINGS.ITEMS.FOOD.FRUITCAKE.DESC
 msgctxt "STRINGS.ITEMS.FOOD.FRUITCAKE.DESC"
@@ -20134,11 +20222,16 @@ msgid ""
 "Its aggressive, overbearing sweetness can leave the tongue feeling "
 "temporarily numb."
 msgstr ""
+"Грязьове пюре з <link=\"PRICKLEFRUIT\">Щетинної Ягоди</link>, з винятково "
+"тривалим часом зберігання.\n"
+"\n"
+"Її агресивність, солодкість може залишити відчуття мови, тимчасового "
+"оніміння."
 
 #. STRINGS.ITEMS.FOOD.FRUITCAKE.NAME
 msgctxt "STRINGS.ITEMS.FOOD.FRUITCAKE.NAME"
 msgid "<link=\"FRUITCAKE\">Berry Sludge</link>"
-msgstr ""
+msgstr "<link=\"FRUITCAKE\">Ягідна Грязь</link>"
 
 #. STRINGS.ITEMS.FOOD.FRUITCAKE.RECIPEDESC
 msgctxt "STRINGS.ITEMS.FOOD.FRUITCAKE.RECIPEDESC"
@@ -20146,6 +20239,8 @@ msgid ""
 "A mashed up <link=\"PRICKLEFRUIT\">Bristle Berry</link> sludge with an "
 "exceptionally long shelf life."
 msgstr ""
+"Грязьове пюре з <link=\"PRICKLEFRUIT\">Щетинної Ягоди</link>, з винятково "
+"тривалим часом зберігання."
 
 #. STRINGS.ITEMS.FOOD.GRILLEDPRICKLEFRUIT.DESC
 msgctxt "STRINGS.ITEMS.FOOD.GRILLEDPRICKLEFRUIT.DESC"
@@ -20159,7 +20254,7 @@ msgstr ""
 #. STRINGS.ITEMS.FOOD.GRILLEDPRICKLEFRUIT.NAME
 msgctxt "STRINGS.ITEMS.FOOD.GRILLEDPRICKLEFRUIT.NAME"
 msgid "<link=\"GRILLEDPRICKLEFRUIT\">Gristle Berry</link>"
-msgstr ""
+msgstr "<link=\"GRILLEDPRICKLEFRUIT\">Хрумка Ягода</link>"
 
 #. STRINGS.ITEMS.FOOD.GRILLEDPRICKLEFRUIT.RECIPEDESC
 msgctxt "STRINGS.ITEMS.FOOD.GRILLEDPRICKLEFRUIT.RECIPEDESC"
@@ -20204,7 +20299,7 @@ msgstr ""
 #. STRINGS.ITEMS.FOOD.MEAT.NAME
 msgctxt "STRINGS.ITEMS.FOOD.MEAT.NAME"
 msgid "<link=\"MEAT\">Meat</link>"
-msgstr ""
+msgstr "<link=\"MEAT\">М'ясо</link>"
 
 #. STRINGS.ITEMS.FOOD.MUSHBAR.DESC
 msgctxt "STRINGS.ITEMS.FOOD.MUSHBAR.DESC"
@@ -20213,11 +20308,14 @@ msgid ""
 "\n"
 "Mush Bars are preferable to starvation, but only just barely."
 msgstr ""
+"Їстівний, розкладаюча грязь.\n"
+"\n"
+"Кашовий Брикет преференційний від голодування, але лише ледве."
 
 #. STRINGS.ITEMS.FOOD.MUSHBAR.NAME
 msgctxt "STRINGS.ITEMS.FOOD.MUSHBAR.NAME"
 msgid "<link=\"MUSHBAR\">Mush Bar</link>"
-msgstr ""
+msgstr "<link=\"MUSHBAR\">Кашовий Брикет</link>"
 
 #. STRINGS.ITEMS.FOOD.MUSHBAR.RECIPEDESC
 msgctxt "STRINGS.ITEMS.FOOD.MUSHBAR.RECIPEDESC"
@@ -20235,7 +20333,7 @@ msgstr ""
 #. STRINGS.ITEMS.FOOD.MUSHROOM.NAME
 msgctxt "STRINGS.ITEMS.FOOD.MUSHROOM.NAME"
 msgid "<link=\"MUSHROOM\">Mushroom</link>"
-msgstr ""
+msgstr "<link=\"MUSHROOM\">Гриб</link>"
 
 #. STRINGS.ITEMS.FOOD.OILFLOATEREGG.DESC
 msgctxt "STRINGS.ITEMS.FOOD.OILFLOATEREGG.DESC"
@@ -20259,26 +20357,29 @@ msgid ""
 "\n"
 "It's a rarely acquired taste."
 msgstr ""
+"Борошноїд консервований в оцті.\n"
+"\n"
+"Це зрідка, набутий смак."
 
 #. STRINGS.ITEMS.FOOD.PICKLEDMEAL.NAME
 msgctxt "STRINGS.ITEMS.FOOD.PICKLEDMEAL.NAME"
 msgid "<link=\"PICKLEDMEAL\">Pickled Meal</link>"
-msgstr ""
+msgstr "<link=\"PICKLEDMEAL\">Маренована Їжа</link>"
 
 #. STRINGS.ITEMS.FOOD.PICKLEDMEAL.RECIPEDESC
 msgctxt "STRINGS.ITEMS.FOOD.PICKLEDMEAL.RECIPEDESC"
 msgid "Meal Lice regrettably preserved in vinegar."
-msgstr ""
+msgstr "На жаль, Борошноїд консервований в оцті"
 
 #. STRINGS.ITEMS.FOOD.PRICKLEFRUIT.DESC
 msgctxt "STRINGS.ITEMS.FOOD.PRICKLEFRUIT.DESC"
 msgid "A sweet, mostly pleasant-tasting fruit covered in prickly barbs."
-msgstr ""
+msgstr "Солодкий, зазвичай приємний на смак фрукт, покритий колючими зубцями."
 
 #. STRINGS.ITEMS.FOOD.PRICKLEFRUIT.NAME
 msgctxt "STRINGS.ITEMS.FOOD.PRICKLEFRUIT.NAME"
 msgid "<link=\"PRICKLEFRUIT\">Bristle Berry</link>"
-msgstr ""
+msgstr "<link=\"PRICKLEFRUIT\">Щетина Ягода</link>"
 
 #. STRINGS.ITEMS.FOOD.PUFTEGG.DESC
 msgctxt "STRINGS.ITEMS.FOOD.PUFTEGG.DESC"
@@ -20306,7 +20407,7 @@ msgstr ""
 #. STRINGS.ITEMS.FOOD.ROTPILE.NAME
 msgctxt "STRINGS.ITEMS.FOOD.ROTPILE.NAME"
 msgid "<link=\"COMPOST\">Rot Pile</link>"
-msgstr ""
+msgstr "<link=\"COMPOST\">Гнильна Купа</link>"
 
 #. STRINGS.ITEMS.FOOD.SALSA.DESC
 msgctxt "STRINGS.ITEMS.FOOD.SALSA.DESC"
@@ -20314,11 +20415,13 @@ msgid ""
 "A baked <link=\"PRICKLEFRUIT\">Bristle Berry</link> stuffed with delectable "
 "spices and vibrantly flavored."
 msgstr ""
+"Запечена <link=\"PRICKLEFRUIT\">Щетинна Ягода</link>, з чудовими спеціями та "
+"наповнена яскравими ароматами."
 
 #. STRINGS.ITEMS.FOOD.SALSA.NAME
 msgctxt "STRINGS.ITEMS.FOOD.SALSA.NAME"
 msgid "<link=\"SALSA\">Stuffed Berry</link>"
-msgstr ""
+msgstr "<link=\"SALSA\">Фарширована Ягода</link>"
 
 #. STRINGS.ITEMS.FOOD.SALSA.RECIPEDESC
 msgctxt "STRINGS.ITEMS.FOOD.SALSA.RECIPEDESC"
@@ -20326,6 +20429,8 @@ msgid ""
 "A baked <link=\"PRICKLEFRUIT\">Bristle Berry</link> stuffed with delectable "
 "spices and vibrantly flavored."
 msgstr ""
+"Запечена <link=\"PRICKLEFRUIT\">Щетинна Ягода</link>, з чудовими спеціями та "
+"наповнена яскравими ароматами."
 
 #. STRINGS.ITEMS.FOOD.SPICEBREAD.DESC
 msgctxt "STRINGS.ITEMS.FOOD.SPICEBREAD.DESC"
@@ -20335,11 +20440,15 @@ msgid ""
 "\n"
 "There's a simple joy to be had in pulling it apart in one's fingers."
 msgstr ""
+"Буханка хліба, з ледве пряний ароматом <link=\"SPICENUT\">Гострого Горіха</"
+"link> для м'якого кусання.\n"
+"\n"
+"То просто задоволення, витягати його окремо в пальцях."
 
 #. STRINGS.ITEMS.FOOD.SPICEBREAD.NAME
 msgctxt "STRINGS.ITEMS.FOOD.SPICEBREAD.NAME"
 msgid "<link=\"SPICEBREAD\">Pepper Bread</link>"
-msgstr ""
+msgstr "<link=\"SPICEBREAD\">Гострий Хліб</link>"
 
 #. STRINGS.ITEMS.FOOD.SPICEBREAD.RECIPEDESC
 msgctxt "STRINGS.ITEMS.FOOD.SPICEBREAD.RECIPEDESC"
@@ -20347,6 +20456,8 @@ msgid ""
 "A loaf of bread, lightly spiced with <link=\"SPICENUT\">Pincha Peppernut</"
 "link> for a mild bite."
 msgstr ""
+"Буханка хліба, з ледве пряний ароматом <link=\"SPICENUT\">Гострого Горіха</"
+"link> для м'якого кусання."
 
 #. STRINGS.ITEMS.FOOD.SPICENUT.DESC
 msgctxt "STRINGS.ITEMS.FOOD.SPICENUT.DESC"
@@ -20355,11 +20466,14 @@ msgid ""
 "\n"
 "The bitter outer rind hides a rich, peppery core that is useful in cooking."
 msgstr ""
+"Ароматний горіх з link=\"SPICEVINE\">Перцевого Горішника</link>.\n"
+"\n"
+"Гірка шкірка, гостра серцевина, що використовується в кулінарії."
 
 #. STRINGS.ITEMS.FOOD.SPICENUT.NAME
 msgctxt "STRINGS.ITEMS.FOOD.SPICENUT.NAME"
 msgid "<link=\"SPICENUT\">Pincha Peppernut</link>"
-msgstr ""
+msgstr "<link=\"SPICENUT\">Гострий Горіх</link>"
 
 #. STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.BASIC_FABRIC.DESC
 msgctxt "STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.BASIC_FABRIC.DESC"
@@ -32370,7 +32484,7 @@ msgid ""
 "Available: {0}\n"
 "({1} of {2} allocated to pending errands)"
 msgstr ""
-"Доступно: {0}\n"
+" Доступно: {0}\n"
 " ({1} з {2} призначених в очікуванні завдань)"
 
 #. STRINGS.UI.RESOURCESCREEN.CATEGORY_TOOLTIP
@@ -32794,9 +32908,10 @@ msgid "Trait: Geographical Feature <link=\"ANALYSIS\">Analysis</link>"
 msgstr "Особливості: Географічні показники <link=\"ANALYSIS\">Аналізу</link>"
 
 #. STRINGS.UI.ROLES_SCREEN.PERKS.CAN_USE_RANCH_STATION.DESCRIPTION
+#, fuzzy
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.CAN_USE_RANCH_STATION.DESCRIPTION"
 msgid "Trait: Grooming Station Training"
-msgstr "Особливості: Grooming Station Training"
+msgstr "Особливості: Учбова Станція Догляду"
 
 #. STRINGS.UI.ROLES_SCREEN.PERKS.CAN_WRANGLE_CREATURES.DESCRIPTION
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.CAN_WRANGLE_CREATURES.DESCRIPTION"
