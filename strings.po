@@ -13,6 +13,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Poedit 2.0.1\n"
+"X-Poedit-SourceCharset: UTF-8\n"
 
 #. STRINGS.BUILDING.DETAILS.USE_COUNT
 msgctxt "STRINGS.BUILDING.DETAILS.USE_COUNT"
@@ -151,7 +152,7 @@ msgstr "Очікує постачання"
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGEGGDELIVERY.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGEGGDELIVERY.TOOLTIP"
 msgid "Awaiting delivery of selected egg"
-msgstr "Очікує постачання вибраного насіння"
+msgstr "Очікує постачання вибраного яйця"
 
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGFUEL.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGFUEL.NAME"
@@ -1308,7 +1309,7 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.NEEDEGG.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDEGG.NAME"
 msgid "No Egg Selected"
-msgstr "Не обране насіння"
+msgstr "Не обране яйце"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDEGG.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDEGG.TOOLTIP"
@@ -1388,7 +1389,7 @@ msgstr "Цій будівлі не вистачає необхідних мат�
 #. STRINGS.BUILDING.STATUSITEMS.NEEDSEED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDSEED.NAME"
 msgid "No Seed Selected"
-msgstr "Не Обране Насіння"
+msgstr "Не обране насіння"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDSEED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDSEED.TOOLTIP"
@@ -1509,7 +1510,7 @@ msgstr "Насіння недоступне"
 #. STRINGS.BUILDING.STATUSITEMS.NOAVAILABLEEGG.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOAVAILABLEEGG.TOOLTIP"
 msgid "The selected egg is not currently available"
-msgstr "Вибране насіння недоступне"
+msgstr "Вибране яйще недоступне"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOAVAILABLESEED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOAVAILABLESEED.NAME"
@@ -2353,20 +2354,11 @@ msgid "Waiting for a Duplicant to adjust flow rate"
 msgstr ""
 
 #. STRINGS.BUILDING.STATUSITEMS.WAITINGFORMATERIALS.LINE_ITEM_MASS
-#| msgctxt "STRINGS.DUPLICANTS.TRAITS.ATTRIBUTE_MODIFIERS"
-#| msgid ""
-#| "\n"
-#| "â¢ {0}: {1}"
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WAITINGFORMATERIALS.LINE_ITEM_MASS"
 msgid "• {0}: {1}"
 msgstr "• {0}: {1}"
 
 #. STRINGS.BUILDING.STATUSITEMS.WAITINGFORMATERIALS.LINE_ITEM_UNITS
-#| msgctxt ""
-#| "STRINGS.BUILDING.STATUSITEMS.CONVEYOR_CONTENTS.CONTENTS_WITH_DISEASE"
-#| msgid ""
-#| "\n"
-#| "  {0}"
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WAITINGFORMATERIALS.LINE_ITEM_UNITS"
 msgid "• {0}"
 msgstr "• {0}"
@@ -2690,7 +2682,6 @@ msgstr ""
 
 # перевірити перектад, те той що потрібен, після оновлення гри
 #. STRINGS.BUILDINGS.PREFABS.AIRCONDITIONER.EFFECT
-#, fuzzy
 #| msgctxt "STRINGS.BUILDINGS.PREFABS.GASVALVE.EFFECT"
 #| msgid ""
 #| "Controls the <link=\"ELEMENTSGAS\">Gas</link> volume permitted through "
@@ -2700,13 +2691,11 @@ msgid ""
 "Cools the <link=\"ELEMENTSGAS\">Gas</link> piped through it, but outputs "
 "<link=\"HEAT\">Heat</link> in its immediate vicinity."
 msgstr ""
-"Контролює об'єм <link=\"ELEMENTSGAS\">Газу</link> дозволеного пропускати до "
-"<link=\"GASPIPING\">Труби</link>."
 
 #. STRINGS.BUILDINGS.PREFABS.AIRCONDITIONER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.AIRCONDITIONER.NAME"
 msgid "<link=\"AIRCONDITIONER\">Thermo Regulator</link>"
-msgstr "<link=\"AIRCONDITIONER\">Рідинний Регулятор</link>"
+msgstr "<link=\"AIRCONDITIONER\">Газовий Регулятор</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.AIRFILTER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.AIRFILTER.DESC"
@@ -2922,7 +2911,7 @@ msgstr ""
 msgctxt "STRINGS.BUILDINGS.PREFABS.BED.DESC"
 msgid ""
 "Duplicants without a bed will develop sore backs from sleeping on the floor."
-msgstr ""
+msgstr "Дубліканти без ліжок, розвивають хворобу спини, від спання на підлозі."
 
 #. STRINGS.BUILDINGS.PREFABS.BED.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.BED.EFFECT"
@@ -2931,6 +2920,9 @@ msgid ""
 "\n"
 "Duplicants will automatically return to their cots to sleep at night."
 msgstr ""
+"Надає Дублікатну одне спальне місце\n"
+"\n"
+"Дублікант автоматично повертається на його койку, спати в ночі."
 
 #. STRINGS.BUILDINGS.PREFABS.BED.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.BED.NAME"
@@ -2943,6 +2935,8 @@ msgid ""
 "A bottle emptier's Element Filter can be used to designate areas for "
 "specific liquid storage."
 msgstr ""
+"Осушувачі Пляшок елементарні фільтри, які використовуються як визначення "
+"площі, для спеціальних рідинних сховищ."
 
 #. STRINGS.BUILDINGS.PREFABS.BOTTLEEMPTIER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.BOTTLEEMPTIER.EFFECT"
@@ -2976,7 +2970,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.CANVAS.AVERAGEQUALITYNAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVAS.AVERAGEQUALITYNAME"
 msgid "Mediocre Painting"
-msgstr ""
+msgstr "Бездарний Живопис"
 
 #. STRINGS.BUILDINGS.PREFABS.CANVAS.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVAS.DESC"
@@ -2984,6 +2978,8 @@ msgid ""
 "Once built, a Duplicant can paint a blank canvas to produce a decorative "
 "painting."
 msgstr ""
+"Як тільки збудовано, Дублікант може малювати на чистому полотні, створювати "
+"декоративний живопис."
 
 #. STRINGS.BUILDINGS.PREFABS.CANVAS.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVAS.EFFECT"
@@ -2993,11 +2989,15 @@ msgid ""
 "\n"
 "Must be painted by a Duplicant."
 msgstr ""
+"Збільшує <link=\"DECOR\">Декор</link> та знижує <link=\"STRESS\">Стрес</"
+"link>.\n"
+"\n"
+"Необхідно малювали Дублікантові."
 
 #. STRINGS.BUILDINGS.PREFABS.CANVAS.EXCELLENTQUALITYNAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVAS.EXCELLENTQUALITYNAME"
 msgid "Masterpiece"
-msgstr ""
+msgstr "Шедевр"
 
 #. STRINGS.BUILDINGS.PREFABS.CANVAS.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVAS.NAME"
@@ -3007,18 +3007,20 @@ msgstr "<link=\"CANVAS\">Чисте Полотно</link>"
 #. STRINGS.BUILDINGS.PREFABS.CANVAS.POORQUALITYNAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVAS.POORQUALITYNAME"
 msgid "Crude Painting"
-msgstr ""
+msgstr "Сирий Живопис"
 
 #. STRINGS.BUILDINGS.PREFABS.CEILINGLIGHT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.CEILINGLIGHT.DESC"
 msgid "Light reduces Duplicant stress and is required to grow certain plants."
 msgstr ""
+"Світло знижує стрес Дубліканта та потребується у вирощування певних рослин."
 
 #. STRINGS.BUILDINGS.PREFABS.CEILINGLIGHT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.CEILINGLIGHT.EFFECT"
 msgid ""
 "Provides <link=\"LIGHT\">Light</link> when <link=\"POWER\">Power</link>."
 msgstr ""
+"Виробляє <link=\"LIGHT\">Світло</link> з <link=\"POWER\">Енергії</link>."
 
 #. STRINGS.BUILDINGS.PREFABS.CEILINGLIGHT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CEILINGLIGHT.NAME"
@@ -3064,7 +3066,7 @@ msgid ""
 "\n"
 "Duplicants will not fabricate items unless recipes are queued."
 msgstr ""
-"Дублікант, кравець шиє <link=\"EQUIPMENT\">Одяг</link>.\n"
+"Кравець Дублікант шиє <link=\"EQUIPMENT\">Одяг</link>.\n"
 "\n"
 "Дубліканти не виробляють предмети, якщо рецепти не в черзі."
 
@@ -3174,11 +3176,13 @@ msgid ""
 "Critters tend to stay close to their food source and will wander less when "
 "given a Feeder."
 msgstr ""
+"Тварини, як правило, залишаються поруч з їх джерелом їжі та будуть блукати, "
+"коли дають Годівниці."
 
 #. STRINGS.BUILDINGS.PREFABS.CREATUREFEEDER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.CREATUREFEEDER.EFFECT"
 msgid "Automatically dispenses food for hungry critters."
-msgstr ""
+msgstr "Автоматично видає їжу для голодних тварин"
 
 #. STRINGS.BUILDINGS.PREFABS.CREATUREFEEDER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CREATUREFEEDER.NAME"
@@ -3225,6 +3229,7 @@ msgstr ""
 msgctxt "STRINGS.BUILDINGS.PREFABS.DININGTABLE.DESC"
 msgid "Duplicants prefer to dine at a table, rather than eat off the floor."
 msgstr ""
+"Дубліканти надають перевагу, краще обідати за столами, чим їсти на підлозі."
 
 #. STRINGS.BUILDINGS.PREFABS.DININGTABLE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.DININGTABLE.EFFECT"
@@ -3233,6 +3238,9 @@ msgid ""
 "\n"
 "Duplicants will automatically eat at their assigned table when hungry."
 msgstr ""
+"Надає Дублікатну одне місце для їжі.\n"
+"\n"
+"Дубліканти будуть автоматично їсти за їх столами для їжі, коли зголодніють."
 
 #. STRINGS.BUILDINGS.PREFABS.DININGTABLE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.DININGTABLE.NAME"
@@ -3388,6 +3396,10 @@ msgid ""
 "Assigned Duplicants must possess the <link=\"RANCHER\">Critter Wrangling</"
 "link> trait."
 msgstr ""
+"Висиджує тваринні яйця, до готовності вилуплення.\n"
+"\n"
+"Назначені Дубліканти повинні володіти рисою <link=\"RANCHER\">Випасання "
+"Тварин</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EGGINCUBATOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.EGGINCUBATOR.NAME"
@@ -3523,12 +3535,14 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.FLOORLAMP.DESC"
 msgid ""
 "The emitting radius of a building's light can be viewed in the Light Overlay."
 msgstr ""
+"Радіус світла, що випромінює будівля, можна подивитися в Оверлеї Світла."
 
 #. STRINGS.BUILDINGS.PREFABS.FLOORLAMP.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOORLAMP.EFFECT"
 msgid ""
 "Provides <link=\"LIGHT\">Light</link> when <link=\"POWER\">Power</link>."
 msgstr ""
+"Виробляє <link=\"LIGHT\">Світло</link> з <link=\"POWER\">Енергії</link>."
 
 #. STRINGS.BUILDINGS.PREFABS.FLOORLAMP.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOORLAMP.NAME"
@@ -3565,6 +3579,7 @@ msgstr "<link=\"FLOORSWITCH\">Вагова Плитка</link>"
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASE.DESC"
 msgid "Flower pots allow decorative plants to be moved to new locations."
 msgstr ""
+"Квіткові горщики дозволяють перемістити декоративні рослини в нові місця"
 
 #. STRINGS.BUILDINGS.PREFABS.FLOWERVASE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASE.EFFECT"
@@ -3575,6 +3590,11 @@ msgid ""
 "Houses a single <link=\"PLANTS\">Plant</link> when sown with a <link=\"PLANTS"
 "\">Seed</link>."
 msgstr ""
+"Збільшує <link=\"DECOR\">Декор</link> та знижує <link=\"STRESS\">Стрес</"
+"link>.\n"
+"\n"
+"Будинок однієї <link=\"PLANTS\">Рослині</link>, коли засіяне з <link=\"PLANTS"
+"\">Гасіння</link>."
 
 #. STRINGS.BUILDINGS.PREFABS.FLOWERVASE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASE.NAME"
@@ -4054,12 +4074,12 @@ msgstr "<link=\"HYDROPONICFARM\">Гідропонна Ферма</link>"
 #. STRINGS.BUILDINGS.PREFABS.ICESCULPTURE.AVERAGEQUALITYNAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ICESCULPTURE.AVERAGEQUALITYNAME"
 msgid "Genius Ice Sculpture"
-msgstr ""
+msgstr "Геніальна Крижана Скульптура"
 
 #. STRINGS.BUILDINGS.PREFABS.ICESCULPTURE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ICESCULPTURE.DESC"
 msgid "Ice sculptures will melt over time if not kept sufficiently chilled."
-msgstr ""
+msgstr "Крижані скульптури з часом розтають, якщо їх не охолодити."
 
 #. STRINGS.BUILDINGS.PREFABS.ICESCULPTURE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.ICESCULPTURE.EFFECT"
@@ -4069,6 +4089,10 @@ msgid ""
 "\n"
 "Must be sculpted by a Duplicant."
 msgstr ""
+"Збільшує <link=\"DECOR\">Декор</link> та знижує <link=\"STRESS\">Стрес</"
+"link>.\n"
+"\n"
+"Повинна бути виліплена Дублікантом."
 
 #. STRINGS.BUILDINGS.PREFABS.ICESCULPTURE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ICESCULPTURE.NAME"
@@ -4078,7 +4102,7 @@ msgstr "<link=\"ICESCULPTURE\">Крижана Скеля</link>"
 #. STRINGS.BUILDINGS.PREFABS.ICESCULPTURE.POORQUALITYNAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ICESCULPTURE.POORQUALITYNAME"
 msgid "\"Abstract\" Ice Sculpture"
-msgstr ""
+msgstr "\"Абстрактна\" Крижана Скульптура"
 
 #. STRINGS.BUILDINGS.PREFABS.INSULATEDGASCONDUIT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATEDGASCONDUIT.DESC"
@@ -4795,7 +4819,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.LOGICSWITCH.LOGIC_PORT_DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICSWITCH.LOGIC_PORT_DESC"
 msgid "Active/Standby"
-msgstr ""
+msgstr "Активний/Очікування"
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICSWITCH.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICSWITCH.NAME"
@@ -4894,6 +4918,8 @@ msgid ""
 "Duplicants prefer comfy beds to cots and will gain more stamina back from "
 "sleeping in them."
 msgstr ""
+"Дубліканти надають перевагу комфортним ліжкам, койкам та одержують більше "
+"витривалості від сні в них."
 
 #. STRINGS.BUILDINGS.PREFABS.LUXURYBED.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LUXURYBED.EFFECT"
@@ -4903,6 +4929,10 @@ msgid ""
 "\n"
 "Duplicants will automatically sleep in their assigned beds at night."
 msgstr ""
+"Забезпечує Дубліканта одною спальною площею та повертає додаткову <link="
+"\"STAMINA\">Витривалість</link>.\n"
+"\n"
+"Дублікант автоматично повертається в його комфортне ліжко, спати в ночі."
 
 #. STRINGS.BUILDINGS.PREFABS.LUXURYBED.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LUXURYBED.NAME"
@@ -4982,12 +5012,12 @@ msgstr "<link=\"MANUALPRESSUREDOOR\">Ручний Шлюз</link>"
 #. STRINGS.BUILDINGS.PREFABS.MASSAGETABLE.ACTIVATE_TOOLTIP
 msgctxt "STRINGS.BUILDINGS.PREFABS.MASSAGETABLE.ACTIVATE_TOOLTIP"
 msgid "Duplicants must take a break when their stress reaches {0}"
-msgstr ""
+msgstr "Дубліканти повинні зробити перерву, коли стрес досягне {0}"
 
 #. STRINGS.BUILDINGS.PREFABS.MASSAGETABLE.DEACTIVATE_TOOLTIP
 msgctxt "STRINGS.BUILDINGS.PREFABS.MASSAGETABLE.DEACTIVATE_TOOLTIP"
 msgid "Breaktime ends when stress is reduced to {0}"
-msgstr ""
+msgstr "Перерва закінчиться, коли стрес зменшується до {0}"
 
 #. STRINGS.BUILDINGS.PREFABS.MASSAGETABLE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.MASSAGETABLE.DESC"
@@ -4995,6 +5025,8 @@ msgid ""
 "Massage tables quickly reduce extreme stress, at the cost of power "
 "production."
 msgstr ""
+"Масажні столи швидко зменшують граничний стрес, споживаючи електричний "
+"видобуток."
 
 #. STRINGS.BUILDINGS.PREFABS.MASSAGETABLE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.MASSAGETABLE.EFFECT"
@@ -5004,6 +5036,10 @@ msgid ""
 "Duplicants will automatically seek a massage table when <link=\"STRESS"
 "\">Stress</link> exceeds breaktime range."
 msgstr ""
+"Швидко зменшує <link=\"STRESS\">Стрес</link>, коли Дубліканти користуються\n"
+"\n"
+"Дубліканти будуть автоматично шукати масажний стіл, коли <link=\"STRESS"
+"\">Стрес</link> перевищить поріг."
 
 #. STRINGS.BUILDINGS.PREFABS.MASSAGETABLE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.MASSAGETABLE.NAME"
@@ -5246,7 +5282,7 @@ msgstr "<link=\"MINERALDEOXIDIZER\">Розкислювач Водоростів<
 #. STRINGS.BUILDINGS.PREFABS.OILREFINERY.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.OILREFINERY.DESC"
 msgid "Petroleum can only be produced from the refinement of crude oil."
-msgstr "Petroleum може бути вироблений лише з переробкою сирої нафти."
+msgstr "Гас може бути вироблений лише з переробкою сирої нафти."
 
 #. STRINGS.BUILDINGS.PREFABS.OILREFINERY.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.OILREFINERY.EFFECT"
@@ -5254,8 +5290,8 @@ msgid ""
 "Converts <link=\"CRUDEOIL\">Crude Oil</link> into <link=\"PETROLEUM"
 "\">Petroleum</link> and <link=\"METHANE\">Natural Gas</link>."
 msgstr ""
-"Перетворює <link=\"CRUDEOIL\">Сиру Нафту</link> в <link=\"PETROLEUM"
-"\">Petroleum</link> та <link=\"METHANE\">Природний Газ</link>."
+"Перетворює <link=\"CRUDEOIL\">Сиру Нафту</link> в <link=\"PETROLEUM\">Гас</"
+"link> та <link=\"METHANE\">Природний Газ</link>."
 
 #. STRINGS.BUILDINGS.PREFABS.OILREFINERY.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.OILREFINERY.NAME"
@@ -5336,7 +5372,7 @@ msgid ""
 "Petroleum generators have a high energy output but produce a great deal of "
 "waste."
 msgstr ""
-"Petroleum Генератори мають великий енергетичний вихід, але велику кількість "
+"Гасові Генератори мають великий енергетичний вихід, але велику кількість "
 "відходів."
 
 #. STRINGS.BUILDINGS.PREFABS.PETROLEUMGENERATOR.EFFECT
@@ -5348,7 +5384,7 @@ msgid ""
 "Produces <link=\"CARBONDIOXIDE\">Carbon Dioxide</link> and <link=\"DIRTYWATER"
 "\">Polluted Water</link>."
 msgstr ""
-"Перетворює <link=\"PETROLEUM\">Petroleum</link> на електричну <link=\"POWER"
+"Перетворює <link=\"PETROLEUM\">Гас</link> на електричну <link=\"POWER"
 "\">Енергію</link>.\n"
 "\n"
 "Виробляє <link=\"CARBONDIOXIDE\">Двоокис Вуглецю</link> та <link=\"DIRTYWATER"
@@ -5357,7 +5393,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.PETROLEUMGENERATOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PETROLEUMGENERATOR.NAME"
 msgid "<link=\"PETROLEUMGENERATOR\">Petroleum Generator</link>"
-msgstr "<link=\"PETROLEUMGENERATOR\">Petroleum Генератор</link>"
+msgstr "<link=\"PETROLEUMGENERATOR\">Гасовий Генератор</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.PLANTERBOX.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.PLANTERBOX.DESC"
@@ -5444,6 +5480,8 @@ msgid ""
 "Converts <link=\"CRUDEOIL\">Crude Oil</link> into raw <link=\"PETROLEUM"
 "\">Petroleum</link>."
 msgstr ""
+"Перетворює <link=\"CRUDEOIL\">Сиру Нафту</link> в сирий <link=\"PETROLEUM"
+"\">Гас</link>."
 
 #. STRINGS.BUILDINGS.PREFABS.POLYMERIZER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.POLYMERIZER.NAME"
@@ -5729,7 +5767,7 @@ msgstr "<link=\"ROLESTATION\">Дошка Роботи</link>"
 #. STRINGS.BUILDINGS.PREFABS.SCULPTURE.AVERAGEQUALITYNAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SCULPTURE.AVERAGEQUALITYNAME"
 msgid "Genius Sculpture"
-msgstr ""
+msgstr "Геніальна Скульптура"
 
 #. STRINGS.BUILDINGS.PREFABS.SCULPTURE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SCULPTURE.DESC"
@@ -5737,6 +5775,8 @@ msgid ""
 "Duplicants with high art skill will produce better, more decorative "
 "sculptures."
 msgstr ""
+"Дубліканти з високими творчими навичками створюють кращі, більш декоративні "
+"скульптури."
 
 #. STRINGS.BUILDINGS.PREFABS.SCULPTURE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SCULPTURE.EFFECT"
@@ -5746,6 +5786,10 @@ msgid ""
 "\n"
 "Must be sculpted by a Duplicant."
 msgstr ""
+"Збільшує <link=\"DECOR\">Декор</link> та знижує <link=\"STRESS\">Стрес</"
+"link>.\n"
+"\n"
+"Повинна бути виліплена Дублікантом."
 
 #. STRINGS.BUILDINGS.PREFABS.SCULPTURE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SCULPTURE.NAME"
@@ -6611,7 +6655,7 @@ msgstr "Якість сприйняття"
 #. STRINGS.CODEX.DECOR.TITLE
 msgctxt "STRINGS.CODEX.DECOR.TITLE"
 msgid "<link=\"DECOR\">Decor</link>"
-msgstr ""
+msgstr "<link=\"DECOR\">Декор</link>"
 
 #. STRINGS.CODEX.DUSKCAP.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.DUSKCAP.BODY.CONTAINER1"
@@ -7959,8 +8003,8 @@ msgid ""
 "\n"
 "Digging up Buried Objects may uncover a Thimble Reed Seed."
 msgstr ""
-"<link=\"PLANTS\">Насіння</link> з <link=\"BASICFABRICMATERIALPLANT\">Thimble "
-"Reed</link>.\n"
+"<link=\"PLANTS\">Насіння</link> з <link=\"BASICFABRICMATERIALPLANT"
+"\">Наперсткового Очерету</link>.\n"
 "\n"
 "Відкопування Прихованих Об'єктів, може виявити Насіння Наперсткового Очерету."
 
@@ -8112,7 +8156,8 @@ msgid ""
 "\n"
 "Digging up Buried Objects may uncover a Balm Lily Seed."
 msgstr ""
-"<link=\"PLANTS\">Насіння</link> з <link=\"SWAMPLILY\">Balm Lily</link>.\n"
+"<link=\"PLANTS\">Насіння</link> з <link=\"SWAMPLILY\">Бальзамної Лілії</"
+"link>.\n"
 "\n"
 "Відкопування Прихованих Об'єктів, може виявити Насіння Бальзамної Лілії."
 
@@ -9609,7 +9654,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.ATTRIBUTES.DISEASECURESPEED.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DISEASECURESPEED.NAME"
 msgid "<link=\"DISEASE\">Disease</link> Recovery Speed Bonus"
-msgstr ""
+msgstr "<link=\"DISEASE\">Хвороба</link> Бонус Швидкості Відновлення"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.DOCTOREDLEVEL.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DOCTOREDLEVEL.DESC"
@@ -9623,7 +9668,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.ATTRIBUTES.DOCTOREDLEVEL.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DOCTOREDLEVEL.NAME"
 msgid "<link=\"MEDICINE\">Care Received</link> Effect"
-msgstr ""
+msgstr "<link=\"MEDICINE\">Надання Опіки</link> Ефект"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.DOMESTICATIONDELTA.DESC
 #, fuzzy
@@ -9697,7 +9742,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.ATTRIBUTES.HITPOINTSDELTA.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.HITPOINTSDELTA.NAME"
 msgid "<link=\"HEALTH\">Health</link>"
-msgstr ""
+msgstr "<link=\"HEALTH\">Здоров'я</link>"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.HYGIENE.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.HYGIENE.DESC"
@@ -9919,7 +9964,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.ATTRIBUTES.STAMINADELTA.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.STAMINADELTA.NAME"
 msgid "Stamina Change"
-msgstr ""
+msgstr "Зміна Витривалості"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.STRENGTH.CARRYMODIFIER
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.STRENGTH.CARRYMODIFIER"
@@ -9962,7 +10007,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.ATTRIBUTES.THERMALCONDUCTIVITYBARRIER.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.THERMALCONDUCTIVITYBARRIER.NAME"
 msgid "Insulation Thickness"
-msgstr ""
+msgstr "Товщина Ізоляції"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.THERMALCONDUCTIVITYBARRIER.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.THERMALCONDUCTIVITYBARRIER.TOOLTIP"
@@ -13324,12 +13369,12 @@ msgstr ""
 #. STRINGS.DUPLICANTS.MODIFIERS.SOAKINGWET.CAUSE
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SOAKINGWET.CAUSE"
 msgid "Obtained from submergence in liquid."
-msgstr ""
+msgstr "Отримано від занурення у рідину."
 
 #. STRINGS.DUPLICANTS.MODIFIERS.SOAKINGWET.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SOAKINGWET.NAME"
 msgid "Sopping Wet"
-msgstr ""
+msgstr "Наскрізь Промоклий"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.SOAKINGWET.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SOAKINGWET.TOOLTIP"
@@ -13339,12 +13384,12 @@ msgstr ""
 #. STRINGS.DUPLICANTS.MODIFIERS.SOREBACK.CAUSE
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SOREBACK.CAUSE"
 msgid "Obtained by sleeping on the ground"
-msgstr ""
+msgstr "Отримано, через сон на землі"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.SOREBACK.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SOREBACK.NAME"
 msgid "Sore Back"
-msgstr ""
+msgstr "Болить Cпина"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.SOREBACK.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SOREBACK.TOOLTIP"
@@ -13480,12 +13525,12 @@ msgstr ""
 #. STRINGS.DUPLICANTS.MODIFIERS.UNCLEAN.CAUSE
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.UNCLEAN.CAUSE"
 msgid "Obtained by coming into contact with polluted substances"
-msgstr ""
+msgstr "Отримано шляхом контакту з забрудненими речовинами."
 
 #. STRINGS.DUPLICANTS.MODIFIERS.UNCLEAN.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.UNCLEAN.NAME"
 msgid "Grimy"
-msgstr ""
+msgstr "Забруднений"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.UNCLEAN.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.UNCLEAN.TOOLTIP"
@@ -13610,12 +13655,12 @@ msgstr ""
 #. STRINGS.DUPLICANTS.MODIFIERS.WETFEET.CAUSE
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.WETFEET.CAUSE"
 msgid "Obtained by walking through liquid."
-msgstr ""
+msgstr "Отримано, проходячи через рідину."
 
 #. STRINGS.DUPLICANTS.MODIFIERS.WETFEET.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.WETFEET.NAME"
 msgid "Soggy Feet"
-msgstr ""
+msgstr "Вологі Ноги"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.WETFEET.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.WETFEET.TOOLTIP"
@@ -14654,7 +14699,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.STATS.DECOR.NAME
 msgctxt "STRINGS.DUPLICANTS.STATS.DECOR.NAME"
 msgid "Decor"
-msgstr ""
+msgstr "Декор"
 
 #. STRINGS.DUPLICANTS.STATS.DECOR.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATS.DECOR.TOOLTIP"
@@ -18357,7 +18402,6 @@ msgid "<link=\"OXYROCK\">Oxylite</link>"
 msgstr "<link=\"OXYROCK\">Оксиліт</link>"
 
 #. STRINGS.ELEMENTS.PETROLEUM.DESC
-#, fuzzy
 msgctxt "STRINGS.ELEMENTS.PETROLEUM.DESC"
 msgid ""
 "Petroleum is a <link=\"POWER\">Power</link> source refined from <link="
@@ -18366,23 +18410,21 @@ msgid ""
 "It is also an essential ingredient in the production of <link=\"POLYPROPYLENE"
 "\">Plastic</link>."
 msgstr ""
-"Petroleum - це джерето <link=\"POWER\">Енергії</link> з переробленої <link="
+"Гас - це джерето <link=\"POWER\">Енергії</link> з переробленої <link="
 "\"CRUDEOIL\">Сирої Нафти</link>.\n"
 "\n"
 "Він також є основним компонентом у виробництві <link=\"POLYPROPYLENE"
 "\">Пластика</link>."
 
 #. STRINGS.ELEMENTS.PETROLEUM.NAME
-#, fuzzy
 msgctxt "STRINGS.ELEMENTS.PETROLEUM.NAME"
 msgid "<link=\"PETROLEUM\">Petroleum</link>"
-msgstr "<link=\"PETROLEUM\">Petroleum</link>"
+msgstr "<link=\"PETROLEUM\">Гас</link>"
 
 #. STRINGS.ELEMENTS.PETROLEUM.NAME_TWO
-#, fuzzy
 msgctxt "STRINGS.ELEMENTS.PETROLEUM.NAME_TWO"
 msgid "<link=\"PETROLEUM\">Petroleum</link>"
-msgstr "<link=\"PETROLEUM\">Petroleum</link>"
+msgstr "<link=\"PETROLEUM\">Гас</link>"
 
 #. STRINGS.ELEMENTS.PHOSPHATENODULES.BUILD_DESC
 msgctxt "STRINGS.ELEMENTS.PHOSPHATENODULES.BUILD_DESC"
@@ -18830,20 +18872,18 @@ msgid ""
 msgstr ""
 
 #. STRINGS.ELEMENTS.SOLIDPETROLEUM.DESC
-#, fuzzy
 msgctxt "STRINGS.ELEMENTS.SOLIDPETROLEUM.DESC"
 msgid ""
 "Petroleum is a <link=\"POWER\">Power</link> source in a <link=\"ELEMENTSSOLID"
 "\">Solid</link> state."
 msgstr ""
-"Petroleum - джерело <link=\"POWER\">Енергії</link> в <link=\"ELEMENTSSOLID"
+"Гас - джерело <link=\"POWER\">Енергії</link> в <link=\"ELEMENTSSOLID"
 "\">Твердому</link> стані."
 
 #. STRINGS.ELEMENTS.SOLIDPETROLEUM.NAME
-#, fuzzy
 msgctxt "STRINGS.ELEMENTS.SOLIDPETROLEUM.NAME"
 msgid "<link=\"SOLIDPETROLEUM\">Petroleum</link>"
-msgstr "<link=\"SOLIDPETROLEUM\">Petroleum</link>"
+msgstr "<link=\"SOLIDPETROLEUM\">Гас</link>"
 
 #. STRINGS.ELEMENTS.SOLIDPROPANE.BUILD_DESC
 msgctxt "STRINGS.ELEMENTS.SOLIDPROPANE.BUILD_DESC"
@@ -19149,12 +19189,12 @@ msgstr ""
 #. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT.GENERICNAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT.GENERICNAME"
 msgid "Suit"
-msgstr ""
+msgstr "Костюм"
 
 #. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT.NAME"
 msgid "Atmo Suit"
-msgstr ""
+msgstr "Атмосферний Костюм"
 
 #. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT.RECIPE_DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT.RECIPE_DESC"
@@ -25198,7 +25238,7 @@ msgstr ""
 #. STRINGS.RESEARCH.TYPES.ALPHA.NAME
 msgctxt "STRINGS.RESEARCH.TYPES.ALPHA.NAME"
 msgid "Novice Research"
-msgstr ""
+msgstr "Новітні Дослідження"
 
 #. STRINGS.RESEARCH.TYPES.ALPHA.RECIPEDESC
 msgctxt "STRINGS.RESEARCH.TYPES.ALPHA.RECIPEDESC"
@@ -25217,7 +25257,7 @@ msgstr ""
 #. STRINGS.RESEARCH.TYPES.BETA.NAME
 msgctxt "STRINGS.RESEARCH.TYPES.BETA.NAME"
 msgid "Intermediate Research"
-msgstr ""
+msgstr "Проміжні Дослідження"
 
 #. STRINGS.RESEARCH.TYPES.BETA.RECIPEDESC
 msgctxt "STRINGS.RESEARCH.TYPES.BETA.RECIPEDESC"
@@ -25556,7 +25596,7 @@ msgstr ""
 #. STRINGS.ROOMS.TYPES.CREATUREPEN.NAME
 msgctxt "STRINGS.ROOMS.TYPES.CREATUREPEN.NAME"
 msgid "Stable"
-msgstr "Стабільний"
+msgstr ""
 
 #. STRINGS.ROOMS.TYPES.CREATUREPEN.TOOLTIP
 msgctxt "STRINGS.ROOMS.TYPES.CREATUREPEN.TOOLTIP"
@@ -25965,7 +26005,7 @@ msgstr "Лікування всього, крім застуди."
 #. STRINGS.UI.BUILDCATEGORIES.MISC.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.MISC.NAME"
 msgid "<link=\"BUILDCATEGORYMISC\">Decor</link>"
-msgstr ""
+msgstr "<link=\"BUILDCATEGORYMISC\">Декор</link>"
 
 #. STRINGS.UI.BUILDCATEGORIES.MISC.TOOLTIP
 msgctxt "STRINGS.UI.BUILDCATEGORIES.MISC.TOOLTIP"
@@ -26040,17 +26080,17 @@ msgstr ""
 #. STRINGS.UI.BUILDINGEFFECTS.ASSIGNEDDUPLICANT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.ASSIGNEDDUPLICANT"
 msgid "Duplicant assignment"
-msgstr ""
+msgstr "Покликання Дубліканта"
 
 #. STRINGS.UI.BUILDINGEFFECTS.BATTERYCAPACITY
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.BATTERYCAPACITY"
 msgid "<link=\"POWER\">Power</link> capacity: {0}"
-msgstr ""
+msgstr "<link=\"POWER\">Електрична</link> ємкість: {0}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.BATTERYLEAK
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.BATTERYLEAK"
 msgid "<link=\"POWER\">Power</link> runoff: {0}"
-msgstr ""
+msgstr "<link=\"POWER\">Електричні</link> втрати: {0}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.CAPTURE_METHOD_LURE
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.CAPTURE_METHOD_LURE"
@@ -26075,12 +26115,12 @@ msgstr ""
 #. STRINGS.UI.BUILDINGEFFECTS.COOLANT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.COOLANT"
 msgid "Coolant: {1} {0}"
-msgstr ""
+msgstr "Охолоджувач: {1} {0}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.DECORPROVIDED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.DECORPROVIDED"
 msgid "<link=\"DECOR\">Decor</link>: {1} (Radius: {2} tiles)"
-msgstr ""
+msgstr "<link=\"DECOR\">Декор</link>: {1} (Радіус: {2} кахеля)"
 
 #. STRINGS.UI.BUILDINGEFFECTS.DISEASECONSUMEDPERUSE
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.DISEASECONSUMEDPERUSE"
@@ -26095,7 +26135,7 @@ msgstr "{0}: {1} за користування"
 #. STRINGS.UI.BUILDINGEFFECTS.DOCTORING
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.DOCTORING"
 msgid "Doctoring"
-msgstr ""
+msgstr "Лікування"
 
 #. STRINGS.UI.BUILDINGEFFECTS.DUPLICANTMOVEMENTBOOST
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.DUPLICANTMOVEMENTBOOST"
@@ -26125,7 +26165,7 @@ msgstr "{0}: {1} за користування"
 #. STRINGS.UI.BUILDINGEFFECTS.ENABLESDOMESTICGROWTH
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.ENABLESDOMESTICGROWTH"
 msgid "Enables <link=\"PLANTS\">Plant Domestication</link>"
-msgstr ""
+msgstr "Дозволяє <link=\"PLANTS\">Приручати Рослини</link>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.ENERGYCONSUMED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.ENERGYCONSUMED"
@@ -26145,12 +26185,12 @@ msgstr "{1}"
 #. STRINGS.UI.BUILDINGEFFECTS.FABRICATES
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.FABRICATES"
 msgid "Fabricates"
-msgstr ""
+msgstr "Виготовляє"
 
 #. STRINGS.UI.BUILDINGEFFECTS.GASCOOLING
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.GASCOOLING"
 msgid "<link=\"HEAT\">Cooling factor</link>: {0}"
-msgstr ""
+msgstr "<link=\"HEAT\">Фактор Охолодження</link>: {0}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.GEYSER_DISEASE
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.GEYSER_DISEASE"
@@ -26190,22 +26230,22 @@ msgstr ""
 #. STRINGS.UI.BUILDINGEFFECTS.HEATCONSUMED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.HEATCONSUMED"
 msgid "<link=\"HEAT\">Heat</link>: -{0}"
-msgstr ""
+msgstr "<link=\"HEAT\">Тепло</link>: -{0}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.HEATGENERATED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.HEATGENERATED"
 msgid "<link=\"HEAT\">Heat</link>: +{0}"
-msgstr ""
+msgstr "<link=\"HEAT\">Тепло</link>: +{0}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.HEATGENERATED_AIRCONDITIONER
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.HEATGENERATED_AIRCONDITIONER"
 msgid "<link=\"HEAT\">Heat</link>: +{0} (Approximate Value)"
-msgstr ""
+msgstr "<link=\"HEAT\">Тепло</link>: +{0} (Approximate Value)"
 
 #. STRINGS.UI.BUILDINGEFFECTS.HEATGENERATED_LIQUIDCONDITIONER
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.HEATGENERATED_LIQUIDCONDITIONER"
 msgid "<link=\"HEAT\">Heat</link>: +{0} (Approximate Value)"
-msgstr ""
+msgstr "<link=\"HEAT\">Тепло</link>: +{0} (Approximate Value)"
 
 #. STRINGS.UI.BUILDINGEFFECTS.HIT_POINTS_PER_CYCLE
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.HIT_POINTS_PER_CYCLE"
@@ -26215,7 +26255,7 @@ msgstr ""
 #. STRINGS.UI.BUILDINGEFFECTS.IMPROVED_BUILDINGS
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.IMPROVED_BUILDINGS"
 msgid "Improved Buildings"
-msgstr ""
+msgstr "Поліпшує Будівлі"
 
 #. STRINGS.UI.BUILDINGEFFECTS.IMPROVED_BUILDINGS_ITEM
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.IMPROVED_BUILDINGS_ITEM"
@@ -26225,7 +26265,7 @@ msgstr "{0}"
 #. STRINGS.UI.BUILDINGEFFECTS.ITEM_TEMPERATURE_ADJUST
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.ITEM_TEMPERATURE_ADJUST"
 msgid "Stored <link=\"HEAT\">Temperature</link>: {0}"
-msgstr ""
+msgstr "<link=\"HEAT\">Температура</link> Зберігання: {0}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.KCAL_PER_CYCLE
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.KCAL_PER_CYCLE"
@@ -26235,12 +26275,12 @@ msgstr ""
 #. STRINGS.UI.BUILDINGEFFECTS.LIQUIDCOOLING
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.LIQUIDCOOLING"
 msgid "<link=\"HEAT\">Cooling factor</link>: {0}"
-msgstr ""
+msgstr "<link=\"HEAT\">Фактор Охолодження</link>: {0}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.MAX_WATTAGE
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.MAX_WATTAGE"
 msgid "Max <link=\"POWER\">Power</link>: {0}"
-msgstr ""
+msgstr "Макс <link=\"POWER\">Потужність</link>: {0}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.MINIMUM_TEMP
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.MINIMUM_TEMP"
@@ -26255,17 +26295,17 @@ msgstr ""
 #. STRINGS.UI.BUILDINGEFFECTS.OPERATIONEFFECTS
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.OPERATIONEFFECTS"
 msgid "<b>Effects:</b>"
-msgstr ""
+msgstr "<b>Ефекти:</b>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.OPERATIONREQUIREMENTS
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.OPERATIONREQUIREMENTS"
 msgid "<b>Requirements:</b>"
-msgstr ""
+msgstr "<b>Вимоги:</b>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.OVER_PRESSURE_MASS
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.OVER_PRESSURE_MASS"
 msgid "Over Pressure: {0}"
-msgstr ""
+msgstr "Надлишковий Тиск: {0}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.OVERHEAT_TEMP
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.OVERHEAT_TEMP"
@@ -26280,7 +26320,7 @@ msgstr ""
 #. STRINGS.UI.BUILDINGEFFECTS.PREFERS_ROOM
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.PREFERS_ROOM"
 msgid "Preferred Room: {0}"
-msgstr ""
+msgstr "Переважна Кімната:"
 
 #. STRINGS.UI.BUILDINGEFFECTS.PROCESSEDITEM
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.PROCESSEDITEM"
@@ -26290,7 +26330,7 @@ msgstr "{1}"
 #. STRINGS.UI.BUILDINGEFFECTS.PROCESSES
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.PROCESSES"
 msgid "Refines:"
-msgstr ""
+msgstr "Очищує:"
 
 #. STRINGS.UI.BUILDINGEFFECTS.PRODUCES_RESEARCH_POINTS
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.PRODUCES_RESEARCH_POINTS"
@@ -26315,17 +26355,17 @@ msgstr "{0}"
 #. STRINGS.UI.BUILDINGEFFECTS.REMOVES_DISEASE
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.REMOVES_DISEASE"
 msgid "Removes disease"
-msgstr ""
+msgstr "Прибирає хвороби"
 
 #. STRINGS.UI.BUILDINGEFFECTS.REMOVESEFFECTSUBTITLE
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.REMOVESEFFECTSUBTITLE"
 msgid "Cures"
-msgstr ""
+msgstr "Лікує"
 
 #. STRINGS.UI.BUILDINGEFFECTS.REQUIRESCREATIVITY
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.REQUIRESCREATIVITY"
 msgid "Duplicant <link=\"ARTIST\">Creativity</link>"
-msgstr ""
+msgstr "<link=\"ARTIST\">Творчий</link> Дублікант"
 
 #. STRINGS.UI.BUILDINGEFFECTS.REQUIRESELEMENT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.REQUIRESELEMENT"
@@ -26335,52 +26375,52 @@ msgstr "Постачання {0}"
 #. STRINGS.UI.BUILDINGEFFECTS.REQUIRESGASINPUT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.REQUIRESGASINPUT"
 msgid "<link=\"GASPIPING\">Gas Intake Pipe</link>"
-msgstr ""
+msgstr "<link=\"GASPIPING\">Вхідна Газова Труба</link>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.REQUIRESGASOUTPUT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.REQUIRESGASOUTPUT"
 msgid "<link=\"GASPIPING\">Gas Output Pipe</link>"
-msgstr ""
+msgstr "<link=\"GASPIPING\">Вихідна Газова Труба</link>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.REQUIRESGASOUTPUTS
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.REQUIRESGASOUTPUTS"
 msgid "Two <link=\"GASPIPING\">Gas Output Pipes</link>"
-msgstr ""
+msgstr "Дві <link=\"GASPIPING\">Вихідні Газові Труби</link>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.REQUIRESLIQUIDINPUT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.REQUIRESLIQUIDINPUT"
 msgid "<link=\"LIQUIDPIPING\">Liquid Intake Pipe</link>"
-msgstr ""
+msgstr "<link=\"LIQUIDPIPING\">Вхідна Рідинна Труба</link>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.REQUIRESLIQUIDOUTPUT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.REQUIRESLIQUIDOUTPUT"
 msgid "<link=\"LIQUIDPIPING\">Liquid Output Pipe</link>"
-msgstr ""
+msgstr "<link=\"LIQUIDPIPING\">Вихідна Рідинна Труба</link>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.REQUIRESLIQUIDOUTPUTS
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.REQUIRESLIQUIDOUTPUTS"
 msgid "Two <link=\"LIQUIDPIPING\">Liquid Output Pipes</link>"
-msgstr ""
+msgstr "Дві <link=\"LIQUIDPIPING\">Вихідні Рідинні Труби</link>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.REQUIRESMANUALOPERATION
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.REQUIRESMANUALOPERATION"
 msgid "Duplicant operation"
-msgstr ""
+msgstr "Керується Дублікантом"
 
 #. STRINGS.UI.BUILDINGEFFECTS.REQUIRESPOWER
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.REQUIRESPOWER"
 msgid "<link=\"POWER\">Power</link>: {0}"
-msgstr ""
+msgstr "<link=\"POWER\">Енергії</link>: {0}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.REQUIRESPOWERGENERATOR
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.REQUIRESPOWERGENERATOR"
 msgid "<link=\"POWER\">Power</link> generator"
-msgstr ""
+msgstr "<link=\"POWER\">Електричний</link> виробник"
 
 #. STRINGS.UI.BUILDINGEFFECTS.REQUIRESROOM
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.REQUIRESROOM"
 msgid "Dedicated Room: {0}"
-msgstr ""
+msgstr "Спеціальна Кімната: {0}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.REQUIRESSEED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.REQUIRESSEED"
@@ -26390,17 +26430,17 @@ msgstr ""
 #. STRINGS.UI.BUILDINGEFFECTS.RESEARCH_MATERIALS
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.RESEARCH_MATERIALS"
 msgid "{0}: {1} per <link=\"RESEARCH\">Research</link> point"
-msgstr ""
+msgstr "{0}: {1} за <link=\"RESEARCH\">Дослідницьку</link> одиницю"
 
 #. STRINGS.UI.BUILDINGEFFECTS.STORAGECAPACITY
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.STORAGECAPACITY"
 msgid "Storage capacity: {0}"
-msgstr ""
+msgstr "Ємкість Сховища: {0}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.STRESSREDUCEDPERMINUTE
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.STRESSREDUCEDPERMINUTE"
 msgid "<link=\"STRESS\">Stress</link>: {0} per minute"
-msgstr ""
+msgstr "<link=\"STRESS\">Стрес</link>: {0} за хвилину"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ADDED_EFFECT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ADDED_EFFECT"
@@ -26410,6 +26450,10 @@ msgid ""
 "{0}\n"
 "{1}"
 msgstr ""
+"Будуть застосовані ефекти:\n"
+"\n"
+"{0}\n"
+"{1}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ALLOWS_FERTILIZER
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ALLOWS_FERTILIZER"
@@ -26430,17 +26474,20 @@ msgstr ""
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ASSIGNEDDUPLICANT"
 msgid "This amenity may only be used by the Duplicant it is assigned to"
 msgstr ""
+"Цими зручностями може користуватися, лише той Дублікант, який призначений"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.BATTERYCAPACITY
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.BATTERYCAPACITY"
 msgid "Can hold {0} of power when connected to a generator"
-msgstr ""
+msgstr "Може вміщувати {0} енергії, коли підключено до генератора"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.BATTERYLEAK
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.BATTERYLEAK"
 msgid ""
 "Imperfect buildings materials mean {0} battery charge will be lost as heat"
 msgstr ""
+"Недосконалі будівельні матеріали мають намір втрачати {0} заряду батареї, як "
+"тепло"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.CAPTURE_METHOD_LURE
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.CAPTURE_METHOD_LURE"
@@ -26469,21 +26516,26 @@ msgid ""
 "Coolant temperature increase is variable and dictated by the amount of "
 "energy needed to cool the produced item"
 msgstr ""
+"{1} охолоджуючиї {0} необхідно, щоб охолодити предмет, вироблений в цій "
+"будівлі\n"
+"------------------\n"
+"Збільшення температури охолоджуючої рідини змінюється і продиктовано "
+"кількістю енергії, необхідної для охолодження виробленої продукції"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.DECORDECREASED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.DECORDECREASED"
 msgid "Decreases Decor values by {0} in a {1} tile radius"
-msgstr ""
+msgstr "Знижує рівень Декору на {0} в радіусі {1} кахелю"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.DECORPROVIDED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.DECORPROVIDED"
 msgid "Improves Decor values by {0} in a {1} tile radius"
-msgstr ""
+msgstr "Збільшує рівень Декору на {0} в радіусі {1} кахелю"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.DISEASECONSUMEDPERUSE
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.DISEASECONSUMEDPERUSE"
 msgid "Removes {0} of any disease per use"
-msgstr ""
+msgstr "Видаляє {0} будь-яких хвороб за використання"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.DISEASEEMITTEDPERUSE
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.DISEASEEMITTEDPERUSE"
@@ -26496,56 +26548,58 @@ msgid ""
 "Doctoring increases existing health benefits and can allow treatment of "
 "otherwise stubborn diseases"
 msgstr ""
+"Лікар збільшує існуючі переваги лікування та може дозволити лікувати інакше, "
+"впертих захворювань"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.DUPLICANTMOVEMENTBOOST
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.DUPLICANTMOVEMENTBOOST"
 msgid "Duplicants walk {0} faster on this tile"
-msgstr ""
+msgstr "Дубліканти ходять на {0} швидше на цьому кахелю"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ELEMENTCONSUMED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ELEMENTCONSUMED"
 msgid "Consumes {1} of {0} when in use"
-msgstr ""
+msgstr "Споживає {1} {0}, коли у використанні"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ELEMENTCONSUMEDPERUSE
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ELEMENTCONSUMEDPERUSE"
 msgid "Consumes {1} of {0} per use"
-msgstr ""
+msgstr "Споживає {1} {0} за використання"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ELEMENTEMITTED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ELEMENTEMITTED"
 msgid "Produces {1} of {0} when in use"
-msgstr ""
+msgstr "Виробляє {1} {0}, коли у використанні"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ELEMENTEMITTEDPERUSE
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ELEMENTEMITTEDPERUSE"
 msgid "Produces {1} of {0} per use"
-msgstr ""
+msgstr "Виробляє {1} {0} за використання"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ENABLESDOMESTICGROWTH
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ENABLESDOMESTICGROWTH"
 msgid "Accelerates plant growth and maturation"
-msgstr ""
+msgstr "Прискорює ріст та дозрівання рослин"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ENERGYCONSUMED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ENERGYCONSUMED"
 msgid "Draws {0} from the power grid it's connected to"
-msgstr ""
+msgstr "Забирає {0} з електромережі, до якої під'єднаний"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ENERGYGENERATED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ENERGYGENERATED"
 msgid "Produces {0} for the power grid it's connected to"
-msgstr ""
+msgstr "Виробляє {0} для електромережі, до якої під'єднаний"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.FABRICATES
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.FABRICATES"
 msgid "Fabrication is the production of items and equipment"
-msgstr ""
+msgstr "Виготовлення - це виробництво предметів та устаткування"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.GASCOOLING
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.GASCOOLING"
 msgid "Reduces the temperature of piped gases by {0}"
-msgstr ""
+msgstr "Знижує температуру в газових трубах на {0}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.GEYSER_DISEASE
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.GEYSER_DISEASE"
@@ -26600,6 +26654,15 @@ msgid ""
 "    • insulation thickness\n"
 "    • thermal conductivity"
 msgstr ""
+"Розсіює {0} в секунду\n"
+"\n"
+"Сумарна зміна температури може впливати на атрибути матеріалу охолоджуваної "
+"речовини:\n"
+"     • маса\n"
+"     • питома теплоємність\n"
+"     • область поверхні\n"
+"     • товщина ізоляції\n"
+"     • теплопровідність"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.HEATGENERATED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.HEATGENERATED"
@@ -26614,6 +26677,14 @@ msgid ""
 "    • insulation thickness\n"
 "    • thermal conductivity"
 msgstr ""
+"Генерує {0} в секунду\n"
+"\n"
+"Сумарна зміна температури впливає на атрибути матеріалу нагрітої речовини:\n"
+"     • маса\n"
+"     • питома теплоємність\n"
+"     • область поверхні\n"
+"     • товщина ізоляції\n"
+"     • теплопровідність"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.HEATGENERATED_AIRCONDITIONER
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.HEATGENERATED_AIRCONDITIONER"
@@ -26623,6 +26694,10 @@ msgid ""
 "------------------\n"
 "Cooling 1 Kg of room temperature oxygen will output {0} per second"
 msgstr ""
+"Генерує тепло залежно від об'єму, температури та питомої теплоємності "
+"пройденого газу\n"
+"------------------\n"
+"Охолодження 1 кг кисню до кімнатної температури, виведе {0} за секунду"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.HEATGENERATED_LIQUIDCONDITIONER
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.HEATGENERATED_LIQUIDCONDITIONER"
@@ -26632,11 +26707,15 @@ msgid ""
 "------------------\n"
 "Cooling 1 Kg of room temperature water will output {0} per second"
 msgstr ""
+"Генерує тепло залежно від об'єму, температури та питомої теплоємності "
+"пройденої рідини\n"
+"------------------\n"
+"Охолодження 1 кг води до кімнатної температури, виведе {0} за секунду"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.IMPROVED_BUILDINGS
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.IMPROVED_BUILDINGS"
 msgid "Tune Ups will improve these buildings:"
-msgstr ""
+msgstr "Співи покращать ці будівлі:"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.IMPROVED_BUILDINGS_ITEM
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.IMPROVED_BUILDINGS_ITEM"
@@ -26646,12 +26725,12 @@ msgstr "{0}"
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ITEM_TEMPERATURE_ADJUST
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ITEM_TEMPERATURE_ADJUST"
 msgid "Stored items will reach a temperature of {0} over time"
-msgstr ""
+msgstr "Поміщені ресурси з часом досягають температури {0}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.LIQUIDCOOLING
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.LIQUIDCOOLING"
 msgid "Reduces the temperature of piped liquids by {0}"
-msgstr ""
+msgstr "Знижує температуру в рідинних трубах на {0}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.MAX_WATTAGE
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.MAX_WATTAGE"
@@ -26659,6 +26738,8 @@ msgid ""
 "Drawing more than the maximum allowed power can result in damage to the "
 "circuit"
 msgstr ""
+"Перевищення більше, ніж максимально допустима потужність, може провести до "
+"пошкодження мережі"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.MINIMUM_TEMP
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.MINIMUM_TEMP"
@@ -26683,22 +26764,22 @@ msgstr ""
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.OPERATIONEFFECTS
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.OPERATIONEFFECTS"
 msgid "The building will produce these effects when its requirements are met"
-msgstr ""
+msgstr "Будівля створюватиме ці ефекти, коли будуть виконані всі умови"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.OPERATIONREQUIREMENTS
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.OPERATIONREQUIREMENTS"
 msgid "All requirements must be met in order for this building to operate"
-msgstr ""
+msgstr "Необхідно виконати всі вимоги, щоб я будівля працювала"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.OVER_PRESSURE_MASS
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.OVER_PRESSURE_MASS"
 msgid "Ceases to function when the surrounding mass is above {0}"
-msgstr ""
+msgstr "Припиняє роботу, коли оточуюча маса вище за {0}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.OVERHEAT_TEMP
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.OVERHEAT_TEMP"
 msgid "Begins overheating at {0} and melts down at {1}"
-msgstr ""
+msgstr "Починає перегріватися при {0} та розплавлятися при {1}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.PLANTERBOX_PENTALTY
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.PLANTERBOX_PENTALTY"
@@ -26711,21 +26792,23 @@ msgid ""
 "This building gains additional effects or functionality when built inside a "
 "{0}"
 msgstr ""
+"Ця будівля отримає додаткові ефекти чи функціонал, коли буде розміщена в "
+"середині {0}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.PROCESSEDITEM
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.PROCESSEDITEM"
 msgid "Refining this material produces {0}"
-msgstr ""
+msgstr "Очищує цей матеріал в {0}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.PROCESSES
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.PROCESSES"
 msgid "This building processes raw materials into refined materials"
-msgstr ""
+msgstr "Ця будівля обробляє сирі матеріали в очищені матеріали"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.PRODUCES_RESEARCH_POINTS
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.PRODUCES_RESEARCH_POINTS"
 msgid "Produces {0} research"
-msgstr ""
+msgstr "Виробляє {0}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REFILLOXYGENTANK
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REFILLOXYGENTANK"
@@ -26759,66 +26842,70 @@ msgstr "{0}"
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REMOVES_DISEASE"
 msgid "Cooking pasteurizes ingredients and removes their disease risk"
 msgstr ""
+"Приготування пастеризованих інгредієнтів та усуває їхній ризик захворювання"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REMOVESEFFECTSUBTITLE
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REMOVESEFFECTSUBTITLE"
 msgid "Use of this building will remove the listed effects"
-msgstr ""
+msgstr "Користування цієї будівлі прибирає перелік ефектів"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESCREATIVITY
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESCREATIVITY"
 msgid "A Duplicant must work on this object to create art"
-msgstr ""
+msgstr "Дублікант повинен працювати над цим об'єктом з творчим мистецтвом"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESELEMENT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESELEMENT"
 msgid "Must receive deliveries of {0} to function"
-msgstr ""
+msgstr "Необхідно постачати {0} для функціонування"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESGASINPUT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESGASINPUT"
 msgid "Must receive gas from a gas pipe system"
-msgstr ""
+msgstr "Необхідно отримувати газ з газопровідної системи"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESGASOUTPUT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESGASOUTPUT"
 msgid "Must expel gas through a gas pipe system"
-msgstr ""
+msgstr "Необхідно відсилати газ до газопровідної системи"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESGASOUTPUTS
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESGASOUTPUTS"
 msgid "Must expel gas through a gas pipe system"
-msgstr ""
+msgstr "Необхідно відсилати газ до газопровідної системи"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESLIQUIDINPUT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESLIQUIDINPUT"
 msgid "Must receive liquid from a liquid pipe system"
-msgstr ""
+msgstr "Необхідно отримувати рідину з водопровідної системи"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESLIQUIDOUTPUT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESLIQUIDOUTPUT"
 msgid "Must expel liquid through a liquid pipe system"
-msgstr ""
+msgstr "Необхідно відсилати рідину до водопровідної системи"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESLIQUIDOUTPUTS
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESLIQUIDOUTPUTS"
 msgid "Must expel liquid through a liquid pipe system"
-msgstr ""
+msgstr "Необхідно відсилати рідину до водопровідної системи"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESMANUALOPERATION
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESMANUALOPERATION"
 msgid "A Duplicant must be present to run this building"
-msgstr ""
+msgstr "Необхідний присутній Дублікант, щоб запустити цю будівлю"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESPOWER
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESPOWER"
 msgid "Must be connected to a power grid with at least -{0} of available power"
 msgstr ""
+"Необхідно підключити до електричної мережі, принаймні з -{0} наявної "
+"потужності"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESPOWERGENERATOR
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESPOWERGENERATOR"
 msgid "Must be connected to a power producing generator to function"
 msgstr ""
+"Необхідно підключити до виробників електричної енергії, для функцірнування"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESROOM
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESROOM"
@@ -26827,6 +26914,9 @@ msgid ""
 "------------------\n"
 "Room will become a {0} after construction"
 msgstr ""
+"Необхідно побудувати в середині Спеціальної Кімнати\n"
+"------------------\n"
+"Кімната стане {0} після будівництва"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESSEED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESSEED"
@@ -26838,16 +26928,19 @@ msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.RESEARCH_MATERIALS"
 msgid ""
 "This research station consumes {1} of {0} for each research point produced"
 msgstr ""
+"Ця дослідницька станція споживає {1} {0}, для кожної дослідницької "
+"виробленої одиниці"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.STORAGECAPACITY
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.STORAGECAPACITY"
 msgid "Holds up to {0} of material"
-msgstr ""
+msgstr "Вміщує до {0} матеріалу"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.STRESSREDUCEDPERMINUTE
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.STRESSREDUCEDPERMINUTE"
 msgid "Removes {0} of Duplicants' Stress for every uninterrupted minute of use"
 msgstr ""
+"Прибирає {0} Стресу Дублікантів, за кожну безперервну хвилину використання"
 
 #. STRINGS.UI.CALCULATING
 msgctxt "STRINGS.UI.CALCULATING"
@@ -30217,7 +30310,7 @@ msgstr ""
 #. STRINGS.UI.GAMEOBJECTEFFECTS.FOOD_EFFECTS
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.FOOD_EFFECTS"
 msgid "Effects:"
-msgstr ""
+msgstr "Ефекти:"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.FOOD_QUALITY
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.FOOD_QUALITY"
@@ -30840,17 +30933,17 @@ msgstr "     {0}"
 #. STRINGS.UI.LOGIC_PORTS.CONTROL_OPERATIONAL
 msgctxt "STRINGS.UI.LOGIC_PORTS.CONTROL_OPERATIONAL"
 msgid "Enabled/Disabled"
-msgstr ""
+msgstr "Ввімкнено/Вимкнено"
 
 #. STRINGS.UI.LOGIC_PORTS.INPUT_PORTS
 msgctxt "STRINGS.UI.LOGIC_PORTS.INPUT_PORTS"
 msgid "<link=\"LOGIC\">Auto Inputs</link>: {0}"
-msgstr ""
+msgstr "<link=\"LOGIC\">Авто Входи</link>: {0}"
 
 #. STRINGS.UI.LOGIC_PORTS.OUTPUT_PORTS
 msgctxt "STRINGS.UI.LOGIC_PORTS.OUTPUT_PORTS"
 msgid "<link=\"LOGIC\">Auto Inputs</link>: {0}"
-msgstr ""
+msgstr "<link=\"LOGIC\">Авто Входи</link>: {0}"
 
 #. STRINGS.UI.MESSAGES
 msgctxt "STRINGS.UI.MESSAGES"
@@ -34740,7 +34833,7 @@ msgstr "{0}: {1} / {2}"
 #. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.RESULTEFFECTS
 msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.RESULTEFFECTS"
 msgid "<b>Effects:</b>"
-msgstr ""
+msgstr "<b>Ефекти:</b>"
 
 #. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.RESULTREQUIREMENTS
 msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.RESULTREQUIREMENTS"
