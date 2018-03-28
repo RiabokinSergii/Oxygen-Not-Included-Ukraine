@@ -338,7 +338,7 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.COLONYLACKSREQUIREDROLEPERK.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.COLONYLACKSREQUIREDROLEPERK.NAME"
 msgid "Colony Lacks {Roles}s"
-msgstr ""
+msgstr "Необхідна посада {Roles}"
 
 #. STRINGS.BUILDING.STATUSITEMS.COLONYLACKSREQUIREDROLEPERK.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.COLONYLACKSREQUIREDROLEPERK.TOOLTIP"
@@ -568,7 +568,7 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.DIGREQUIRESROLEPERK.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.DIGREQUIRESROLEPERK.NAME"
 msgid "Miner-Only Dig"
-msgstr ""
+msgstr "Може копати лише шахтар"
 
 #. STRINGS.BUILDING.STATUSITEMS.DIGREQUIRESROLEPERK.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.DIGREQUIRESROLEPERK.TOOLTIP"
@@ -759,12 +759,12 @@ msgstr "Необхідно розкопати Дублікантом"
 #. STRINGS.BUILDING.STATUSITEMS.EXCAVATOR_BOMB.ARMED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EXCAVATOR_BOMB.ARMED.NAME"
 msgid "Armed"
-msgstr ""
+msgstr "Озброєна"
 
 #. STRINGS.BUILDING.STATUSITEMS.EXCAVATOR_BOMB.ARMED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EXCAVATOR_BOMB.ARMED.TOOLTIP"
 msgid "Stand back, this baby's ready to blow!"
-msgstr ""
+msgstr "Назад, ця крихітка готова вибухнути!"
 
 #. STRINGS.BUILDING.STATUSITEMS.EXCAVATOR_BOMB.COUNTDOWN.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EXCAVATOR_BOMB.COUNTDOWN.NAME"
@@ -1274,7 +1274,7 @@ msgid ""
 msgstr ""
 "Побудуйте Кахель під цією будівлею\n"
 "------------------\n"
-"Кахель можна знайти в <color=#833A5FFF>Вкладка Базовий</color> "
+"Кахель можна знайти в <color=#833A5FFF>Вкладка Основа</color> "
 "<color=#F44A47>[1]</color> в Меню Будівництва"
 
 #. STRINGS.BUILDING.STATUSITEMS.MOPUNREACHABLE.NAME
@@ -1314,7 +1314,7 @@ msgstr "Не обране яйце"
 #. STRINGS.BUILDING.STATUSITEMS.NEEDEGG.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDEGG.TOOLTIP"
 msgid "Collect eggs from critters to incubate"
-msgstr ""
+msgstr "Зберіть яйця в тварин для висиджування"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDGASIN.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDGASIN.NAME"
@@ -1914,26 +1914,29 @@ msgid ""
 "------------------\n"
 "Reduce pressure by pumping gas away or clearing more space"
 msgstr ""
+"Високий тиск навколишнього середовища перешкоджає цій будівлі випускати газ\n"
+"------------------\n"
+"Зменшіть тиск шляхом відкачування газу або очищення більшого простору"
 
 #. STRINGS.BUILDING.STATUSITEMS.PUMPINGLIQUIDORGAS.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PUMPINGLIQUIDORGAS.NAME"
 msgid "Average Flow Rate: {FlowRate}"
-msgstr ""
+msgstr "Середній темп потоку: {FlowRate}"
 
 #. STRINGS.BUILDING.STATUSITEMS.PUMPINGLIQUIDORGAS.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PUMPINGLIQUIDORGAS.TOOLTIP"
 msgid "This building is pumping an average volume of {FlowRate}"
-msgstr ""
+msgstr "Ця будівля виштовхує з середнім об'ємом {FlowRate}"
 
 #. STRINGS.BUILDING.STATUSITEMS.PUMPINGSTATION.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PUMPINGSTATION.NAME"
 msgid "Liquid Available: {Liquids}"
-msgstr ""
+msgstr "Наявна рідина: {Liquids}"
 
 #. STRINGS.BUILDING.STATUSITEMS.PUMPINGSTATION.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PUMPINGSTATION.TOOLTIP"
 msgid "This pumping station has access to: {Liquids}"
-msgstr ""
+msgstr "Ця насосна станція має доступ до: {Liquids}"
 
 #. STRINGS.BUILDING.STATUSITEMS.RATIONBOXCONTENTS.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.RATIONBOXCONTENTS.NAME"
@@ -1943,7 +1946,7 @@ msgstr "Зберігає: {Stored}"
 #. STRINGS.BUILDING.STATUSITEMS.RATIONBOXCONTENTS.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.RATIONBOXCONTENTS.TOOLTIP"
 msgid "This box contains {Stored} of food"
-msgstr ""
+msgstr "Ця скриня містить {Stored} їжі"
 
 #. STRINGS.BUILDING.STATUSITEMS.RELEASING_PRESSURE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.RELEASING_PRESSURE.NAME"
@@ -1974,7 +1977,7 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.RESEARCHING.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.RESEARCHING.NAME"
 msgid "Current <link=\"TECH\">Research</link>: {Tech}"
-msgstr ""
+msgstr "Поточне <link=\"TECH\">Дослідження</link>: {Tech}"
 
 #. STRINGS.BUILDING.STATUSITEMS.RESEARCHING.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.RESEARCHING.TOOLTIP"
@@ -14519,12 +14522,12 @@ msgstr ""
 msgctxt "STRINGS.DUPLICANTS.ROLES.ARTIST.DESCRIPTION"
 msgid ""
 "Becoming an artist will vastly improve a Duplicant's creative abilities."
-msgstr ""
+msgstr "Стати Художником, украй поліпшує творчі здібності Дублікантів."
 
 #. STRINGS.DUPLICANTS.ROLES.ARTIST.NAME
 msgctxt "STRINGS.DUPLICANTS.ROLES.ARTIST.NAME"
 msgid "<link=\"ARTIST\">Artist</link>"
-msgstr ""
+msgstr "<link=\"ARTIST\">Художник</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.BOTANIST.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.BOTANIST.DESCRIPTION"
@@ -14532,11 +14535,13 @@ msgid ""
 "Becoming a Botanist broadens a Duplicant's understanding of\n"
 "plants, improving their crop tending abilities."
 msgstr ""
+"Стати Ботаніком, розширює розуміння Дублікантів про\n"
+"рослини, поліпшує їхню здатність піклування за рослинами."
 
 #. STRINGS.DUPLICANTS.ROLES.BOTANIST.NAME
 msgctxt "STRINGS.DUPLICANTS.ROLES.BOTANIST.NAME"
 msgid "<link=\"BOTANIST\">Botanist</link>"
-msgstr ""
+msgstr "<link=\"BOTANIST\">Ботанік</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.BUILDER.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.BUILDER.DESCRIPTION"
@@ -14544,11 +14549,13 @@ msgid ""
 "Promotion to the full-fledged Architect position further increases\n"
 "a Duplicant's construction speeds."
 msgstr ""
+"Просування до повноцінної Архітекторської позиції сприяє збільшенню\n"
+"швидкості будівництва Дублікантів."
 
 #. STRINGS.DUPLICANTS.ROLES.BUILDER.NAME
 msgctxt "STRINGS.DUPLICANTS.ROLES.BUILDER.NAME"
 msgid "<link=\"BUILDER\">Architect</link>"
-msgstr ""
+msgstr "<link=\"BUILDER\">Архітектор</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.COOK.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.COOK.DESCRIPTION"
@@ -14556,11 +14563,13 @@ msgid ""
 "Promotion to the Chef position further increases a Duplicant's\n"
 "cooking skills."
 msgstr ""
+"Просування до позиції Шеф-кухаря сприяє збільшенню\n"
+"навичок кулінарії Дублікантів."
 
 #. STRINGS.DUPLICANTS.ROLES.COOK.NAME
 msgctxt "STRINGS.DUPLICANTS.ROLES.COOK.NAME"
 msgid "<link=\"COOK\">Chef</link>"
-msgstr ""
+msgstr "<link=\"COOK\">Шеф-кухар</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.FARMER.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.FARMER.DESCRIPTION"
@@ -14568,11 +14577,13 @@ msgid ""
 "This job provides additional training in the tending of crops.\n"
 "Tending plants will increase their growth speed."
 msgstr ""
+"Ця робота надає додаткову підготовку в догляді за рослинами.\n"
+"Догляд за рослинами збільшує швидкість їхнього росту."
 
 #. STRINGS.DUPLICANTS.ROLES.FARMER.NAME
 msgctxt "STRINGS.DUPLICANTS.ROLES.FARMER.NAME"
 msgid "<link=\"FARMER\">Farmer</link>"
-msgstr ""
+msgstr "<link=\"FARMER\">Фермер</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.GROUPS.APTITUDE_DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.GROUPS.APTITUDE_DESCRIPTION"
@@ -14586,12 +14597,12 @@ msgstr ""
 msgctxt "STRINGS.DUPLICANTS.ROLES.HANDYMAN.DESCRIPTION"
 msgid ""
 "Becoming a Groundskeeper minorly improves a Duplicant's physical strength."
-msgstr ""
+msgstr "Стати Прибиральником, незначно поліпшує фізичну силу Дублікантів."
 
 #. STRINGS.DUPLICANTS.ROLES.HANDYMAN.NAME
 msgctxt "STRINGS.DUPLICANTS.ROLES.HANDYMAN.NAME"
 msgid "<link=\"HANDYMAN\">Groundskeeper</link>"
-msgstr ""
+msgstr "<link=\"HANDYMAN\">Прибиральник</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.HAULER.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.HAULER.DESCRIPTION"
@@ -14599,22 +14610,26 @@ msgid ""
 "Becoming a Gofer will minorly increase a Duplicant's strength\n"
 "and carrying capacity."
 msgstr ""
+"Стати Вантажником незначно збільшує силу Дублікантів\n"
+"та вантажопідйомність."
 
 #. STRINGS.DUPLICANTS.ROLES.HAULER.NAME
 msgctxt "STRINGS.DUPLICANTS.ROLES.HAULER.NAME"
 msgid "<link=\"HAULER\">Gofer</link>"
-msgstr ""
+msgstr "<link=\"HAULER\">Вантажник</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.JUNIOR_ARTIST.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.JUNIOR_ARTIST.DESCRIPTION"
 msgid ""
 "Becoming an art student will improve a Duplicant's sculptures and paintings."
 msgstr ""
+"Стати художнім студентом, потішує різьблення та живопис\n"
+"Дублікантів."
 
 #. STRINGS.DUPLICANTS.ROLES.JUNIOR_ARTIST.NAME
 msgctxt "STRINGS.DUPLICANTS.ROLES.JUNIOR_ARTIST.NAME"
 msgid "<link=\"JUNIORARTIST\">Art Student</link>"
-msgstr ""
+msgstr "<link=\"JUNIORARTIST\">Художній студент</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.JUNIOR_BUILDER.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.JUNIOR_BUILDER.DESCRIPTION"
@@ -14622,11 +14637,13 @@ msgid ""
 "Becoming an Apprentice Architect marginally improves a Duplicant's\n"
 "construction speeds."
 msgstr ""
+"Стати Учнем архітектора мінімально поліпшує Дублікантам\n"
+"швидкість будівництва."
 
 #. STRINGS.DUPLICANTS.ROLES.JUNIOR_BUILDER.NAME
 msgctxt "STRINGS.DUPLICANTS.ROLES.JUNIOR_BUILDER.NAME"
 msgid "<link=\"JUNIORBUILDER\">Apprentice Architect</link>"
-msgstr ""
+msgstr "<link=\"JUNIORBUILDER\">Учень архітектор</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.JUNIOR_COOK.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.JUNIOR_COOK.DESCRIPTION"
@@ -14634,11 +14651,13 @@ msgid ""
 "This job provides training in the use of Electric Grills and\n"
 "improves a Duplicant's cooking speed."
 msgstr ""
+"Ця робота надає підготовку у використанні Електричним Грилем\n"
+"та поліпшує швидкість кулінарного мистецтва Дублікантів."
 
 #. STRINGS.DUPLICANTS.ROLES.JUNIOR_COOK.NAME
 msgctxt "STRINGS.DUPLICANTS.ROLES.JUNIOR_COOK.NAME"
 msgid "<link=\"JUNIORCOOK\">Sous Chef</link>"
-msgstr ""
+msgstr "<link=\"JUNIORCOOK\">Су шеф-кухар</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.JUNIOR_FARMER.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.JUNIOR_FARMER.DESCRIPTION"
@@ -14646,11 +14665,14 @@ msgid ""
 "Becoming a Farmhand will minorly increase a Duplicant's farming\n"
 "skills, increasing their chances of harvesting new plant seeds."
 msgstr ""
+"Стати Сільськогосподарським фермером незначно збільшує\n"
+"навички фермерства Дублікантів, збільшуючи їх шанси на\n"
+"збирання насіння, нових рослин."
 
 #. STRINGS.DUPLICANTS.ROLES.JUNIOR_FARMER.NAME
 msgctxt "STRINGS.DUPLICANTS.ROLES.JUNIOR_FARMER.NAME"
 msgid "<link=\"JUNIORFARMER\">Farmhand</link>"
-msgstr ""
+msgstr "<link=\"JUNIORFARMER\">С/Г Фермер</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.JUNIOR_MINER.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.JUNIOR_MINER.DESCRIPTION"
@@ -14658,11 +14680,13 @@ msgid ""
 "This job provides training in the excavation of very firm\n"
 "materials such as Granite."
 msgstr ""
+"Ця робота надає підготовку в копанні дуже твердих\n"
+"матеріалів таких як Граніт."
 
 #. STRINGS.DUPLICANTS.ROLES.JUNIOR_MINER.NAME
 msgctxt "STRINGS.DUPLICANTS.ROLES.JUNIOR_MINER.NAME"
 msgid "<link=\"JUNIORMINER\">Apprentice Miner</link>"
-msgstr ""
+msgstr "<link=\"JUNIORMINER\">Учень шахтар</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.JUNIOR_RESEARCHER.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.JUNIOR_RESEARCHER.DESCRIPTION"
@@ -14670,11 +14694,13 @@ msgid ""
 "This job provides training in the use of Super Computers and\n"
 "improves a Duplicant's researching ability."
 msgstr ""
+"Ця робота надає підготовку в користуванні Супер Комп'ютером\n"
+"та поліпшує дослідницькі здібності Дублікантів."
 
 #. STRINGS.DUPLICANTS.ROLES.JUNIOR_RESEARCHER.NAME
 msgctxt "STRINGS.DUPLICANTS.ROLES.JUNIOR_RESEARCHER.NAME"
 msgid "<link=\"JUNIORRESEARCHER\">Research Assistant</link>"
-msgstr ""
+msgstr "<link=\"JUNIORRESEARCHER\">Учень-дослідник</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.MACHINE_TECHNICIAN.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.MACHINE_TECHNICIAN.DESCRIPTION"
@@ -14682,13 +14708,13 @@ msgid ""
 "Becoming an Engineer marginally improves a Duplicant's\n"
 "tinkering speeds."
 msgstr ""
-"Стати Інженером незначно покращює роботу Дублікантів\n"
+"Стати Інженером незначно покращює роботу Дублікантів,\n"
 "швидкість майстрування."
 
 #. STRINGS.DUPLICANTS.ROLES.MACHINE_TECHNICIAN.NAME
 msgctxt "STRINGS.DUPLICANTS.ROLES.MACHINE_TECHNICIAN.NAME"
 msgid "<link=\"MACHINETECHNICIAN\">General Engineer</link>"
-msgstr ""
+msgstr "<link=\"MACHINETECHNICIAN\">Головний інженер</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.MATERIALS_MANAGER.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.MATERIALS_MANAGER.DESCRIPTION"
@@ -14696,11 +14722,13 @@ msgid ""
 "Promotion to the Courier position further increases a Duplicant's\n"
 "strength and carrying capacity for even swifter deliveries."
 msgstr ""
+"Просування до позиції Кур'єра сприяє збільшенню сили Дубліканта\n"
+"та вантажопідйомності для ще швидших поставок."
 
 #. STRINGS.DUPLICANTS.ROLES.MATERIALS_MANAGER.NAME
 msgctxt "STRINGS.DUPLICANTS.ROLES.MATERIALS_MANAGER.NAME"
 msgid "<link=\"MATERIALSMANAGER\">Courier</link>"
-msgstr ""
+msgstr "<link=\"MATERIALSMANAGER\">Кур'єр</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.MECHATRONIC_ENGINEER.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.MECHATRONIC_ENGINEER.DESCRIPTION"
@@ -14708,11 +14736,13 @@ msgid ""
 "This job provides additional training in the construction and\n"
 "maintenance of conveyor rail systems."
 msgstr ""
+"Ця робота надає додаткову підготовку в будівництві та\n"
+"управлінні конвеєрними рейковими системами."
 
 #. STRINGS.DUPLICANTS.ROLES.MECHATRONIC_ENGINEER.NAME
 msgctxt "STRINGS.DUPLICANTS.ROLES.MECHATRONIC_ENGINEER.NAME"
 msgid "<link=\"MECHATRONICENGINEER\">Mechatronics Engineer</link>"
-msgstr ""
+msgstr "<link=\"MECHATRONICENGINEER\">Інженер-мехатронік</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.MEDIC.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.MEDIC.DESCRIPTION"
@@ -14720,11 +14750,13 @@ msgid ""
 "Becoming a Medic will allow a Duplicant to treat the sick and\n"
 "injured with more efficiency."
 msgstr ""
+"Стати Лікарем, дозволить Дублікантам лікувати хворих та\n"
+"поранення, з більшою ефективністю."
 
 #. STRINGS.DUPLICANTS.ROLES.MEDIC.NAME
 msgctxt "STRINGS.DUPLICANTS.ROLES.MEDIC.NAME"
 msgid "<link=\"MEDIC\">Medic</link>"
-msgstr ""
+msgstr "<link=\"MEDIC\">Лікар</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.MINER.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.MINER.DESCRIPTION"
@@ -14732,11 +14764,13 @@ msgid ""
 "This job provides training in the excavation of the element\n"
 "Abyssalite."
 msgstr ""
+"Ця робота надає підготовку в копанні елемента\n"
+"Абіссаліт."
 
 #. STRINGS.DUPLICANTS.ROLES.MINER.NAME
 msgctxt "STRINGS.DUPLICANTS.ROLES.MINER.NAME"
 msgid "<link=\"MINER\">Miner</link>"
-msgstr ""
+msgstr "<link=\"MINER\">Шахтар</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.NO_ROLE.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.NO_ROLE.DESCRIPTION"
@@ -14746,17 +14780,19 @@ msgstr "Немає назначеної роботи"
 #. STRINGS.DUPLICANTS.ROLES.NO_ROLE.NAME
 msgctxt "STRINGS.DUPLICANTS.ROLES.NO_ROLE.NAME"
 msgid "<link=\"NOROLE\">Unemployed</link>"
-msgstr ""
+msgstr "<link=\"NOROLE\">Безробітні</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.OIL_TECHNICIAN.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.OIL_TECHNICIAN.DESCRIPTION"
 msgid "Oil Technicians can extract and refine crude oil"
 msgstr ""
+"Нафтові техніки можуть витягувати та очищували\n"
+"сиру нафту."
 
 #. STRINGS.DUPLICANTS.ROLES.OIL_TECHNICIAN.NAME
 msgctxt "STRINGS.DUPLICANTS.ROLES.OIL_TECHNICIAN.NAME"
 msgid "<link=\"OILTECHNICIAN\">Oil Technician</link>"
-msgstr ""
+msgstr "<link=\"OILTECHNICIAN\">Нафтовий технік</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.POWER_TECHNICIAN.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.POWER_TECHNICIAN.DESCRIPTION"
@@ -14764,11 +14800,13 @@ msgid ""
 "This job provides additional training in the tuning of generators.\n"
 "Tuned generators will temporarily have improved power output."
 msgstr ""
+"Ця робота надає додаткову підготовку в налаштуванні генераторів.\n"
+"Налаштовані генератори тимчасово можуть поліпшувати вихідну потужність."
 
 #. STRINGS.DUPLICANTS.ROLES.POWER_TECHNICIAN.NAME
 msgctxt "STRINGS.DUPLICANTS.ROLES.POWER_TECHNICIAN.NAME"
 msgid "<link=\"POWERTECHNICIAN\">Electrical Engineer</link>"
-msgstr ""
+msgstr "<link=\"POWERTECHNICIAN\">Інженер-електрик</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.RANCHER.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.RANCHER.DESCRIPTION"
@@ -14776,11 +14814,13 @@ msgid ""
 "Becoming a Rancher improves a Duplicant's ability to care for\n"
 "domestic critters."
 msgstr ""
+"Стати Ковбоєм, поліпшує здатність турботи Дублікантів\n"
+"для домашніх тварин."
 
 #. STRINGS.DUPLICANTS.ROLES.RANCHER.NAME
 msgctxt "STRINGS.DUPLICANTS.ROLES.RANCHER.NAME"
 msgid "<link=\"RANCHER\">Rancher</link>"
-msgstr ""
+msgstr "<link=\"RANCHER\">Ковбой</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.RESEARCHER.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.RESEARCHER.DESCRIPTION"
@@ -14788,16 +14828,18 @@ msgid ""
 "Promotion to the Scientist position further increases a Duplicant's\n"
 "researching ability."
 msgstr ""
+"Просування до позиції Науковця збільшує дослідницькі здібності\n"
+"Дублікантів."
 
 #. STRINGS.DUPLICANTS.ROLES.RESEARCHER.NAME
 msgctxt "STRINGS.DUPLICANTS.ROLES.RESEARCHER.NAME"
 msgid "<link=\"RESEARCHER\">Scientist</link>"
-msgstr ""
+msgstr "<link=\"RESEARCHER\">Науковець</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.ROLE_MASTERED
 msgctxt "STRINGS.DUPLICANTS.ROLES.ROLE_MASTERED"
 msgid "Job Mastered"
-msgstr ""
+msgstr "Робота опанована"
 
 #. STRINGS.DUPLICANTS.ROLES.SENIOR_BUILDER.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.SENIOR_BUILDER.DESCRIPTION"
@@ -14805,11 +14847,13 @@ msgid ""
 "Promotion to the Senior Architect position further increases a\n"
 "Duplicant's construction speeds."
 msgstr ""
+"Просування до позиції Старшого архітектора сприяє збільшенню\n"
+"швидкості будівництва Дублікантів."
 
 #. STRINGS.DUPLICANTS.ROLES.SENIOR_BUILDER.NAME
 msgctxt "STRINGS.DUPLICANTS.ROLES.SENIOR_BUILDER.NAME"
 msgid "<link=\"SENIORBUILDER\">Senior Architect</link>"
-msgstr ""
+msgstr "<link=\"SENIORBUILDER\">Старший архітектор</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.SENIOR_FARMER.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.SENIOR_FARMER.DESCRIPTION"
@@ -14817,11 +14861,13 @@ msgid ""
 "Promotion to the Seasoned Farmer position further increases a\n"
 "Duplicant's farming skills."
 msgstr ""
+"Просування до позиції Загартованого фермера значно збільшує\n"
+"навички фермерства Дублікантів."
 
 #. STRINGS.DUPLICANTS.ROLES.SENIOR_FARMER.NAME
 msgctxt "STRINGS.DUPLICANTS.ROLES.SENIOR_FARMER.NAME"
 msgid "<link=\"SENIORFARMER\">Seasoned Farmer</link>"
-msgstr ""
+msgstr "<link=\"SENIORFARMER\">Загартований фермер</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.SENIOR_MINER.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.SENIOR_MINER.DESCRIPTION"
@@ -14829,11 +14875,13 @@ msgid ""
 "Promotion to the Seasoned Miner position further increases a\n"
 "Duplicant's digging speed."
 msgstr ""
+"Просування до позиції Загартованого шахтаря сприяє збільшенню\n"
+"швидкості копання Дублікантів."
 
 #. STRINGS.DUPLICANTS.ROLES.SENIOR_MINER.NAME
 msgctxt "STRINGS.DUPLICANTS.ROLES.SENIOR_MINER.NAME"
 msgid "<link=\"SENIORMINER\">Seasoned Miner</link>"
-msgstr ""
+msgstr "<link=\"SENIORMINER\">Загартований шахтар</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.SENIOR_RANCHER.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.SENIOR_RANCHER.DESCRIPTION"
@@ -14841,11 +14889,13 @@ msgid ""
 "Seasoned Ranchers have spent time studying domestic critters\n"
 "and are adept at caring for them."
 msgstr ""
+"Загартовані ковбої витрачають час на вивчення домашніх\n"
+"тварин та знають, як за ними доглядати."
 
 #. STRINGS.DUPLICANTS.ROLES.SENIOR_RANCHER.NAME
 msgctxt "STRINGS.DUPLICANTS.ROLES.SENIOR_RANCHER.NAME"
 msgid "<link=\"SENIORRANCHER\">Seasoned Rancher</link>"
-msgstr ""
+msgstr "<link=\"SENIORRANCHER\">Загартований ковбой</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.SENIOR_RESEARCHER.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.SENIOR_RESEARCHER.DESCRIPTION"
@@ -14853,11 +14903,13 @@ msgid ""
 "Promotion to the esteemed Tenured Scientist position further\n"
 "increases a Duplicant's researching ability."
 msgstr ""
+"Просування до позиції Провідного вченого сприяє\n"
+"збільшенню дослідницьких здібностей Дублікантів."
 
 #. STRINGS.DUPLICANTS.ROLES.SENIOR_RESEARCHER.NAME
 msgctxt "STRINGS.DUPLICANTS.ROLES.SENIOR_RESEARCHER.NAME"
 msgid "<link=\"SENIORRESEARCHER\">Tenured Scientist</link>"
-msgstr ""
+msgstr "<link=\"SENIORRESEARCHER\">Провідний вчений</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.SUIT_EXPERT.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.SUIT_EXPERT.DESCRIPTION"
@@ -14865,16 +14917,18 @@ msgid ""
 "This job provides additional training in correct use of Exosuits,\n"
 "eliminating the runspeed loss experienced while wearing them."
 msgstr ""
+"Ця робота надає додаткову підготовку, точного використання Екзо костюма,\n"
+"ігноруючи пониження швидкості бігу, що виникають при його носінні."
 
 #. STRINGS.DUPLICANTS.ROLES.SUIT_EXPERT.NAME
 msgctxt "STRINGS.DUPLICANTS.ROLES.SUIT_EXPERT.NAME"
 msgid "<link=\"SUITEXPERT\">Exosuit Engineer</link>"
-msgstr ""
+msgstr "<link=\"SUITEXPERT\">Екзо-інженер</link>"
 
 #. STRINGS.DUPLICANTS.STATS.BLADDER.NAME
 msgctxt "STRINGS.DUPLICANTS.STATS.BLADDER.NAME"
 msgid "Bladder"
-msgstr ""
+msgstr "Сечовий міхур"
 
 #. STRINGS.DUPLICANTS.STATS.BLADDER.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATS.BLADDER.TOOLTIP"
@@ -14884,11 +14938,15 @@ msgid ""
 "Duplicants make \"messes\" if no toilets are available at one hundred "
 "percent bladder fullness"
 msgstr ""
+"Сечовий міхур\n"
+"------------------\n"
+"Дубліканти роблять \"безлад\", якщо немає вбиральні\n"
+"та з сто відсотковим повним сечовий міхуром"
 
 #. STRINGS.DUPLICANTS.STATS.BREATH.NAME
 msgctxt "STRINGS.DUPLICANTS.STATS.BREATH.NAME"
 msgid "Breath"
-msgstr ""
+msgstr "Дихання"
 
 #. STRINGS.DUPLICANTS.STATS.BREATH.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATS.BREATH.TOOLTIP"
@@ -14897,11 +14955,15 @@ msgid ""
 "------------------\n"
 "A Duplicant with zero remaining breath will begin suffocating"
 msgstr ""
+"Дихання\n"
+"------------------\n"
+"Дублікант з нульовим залишком повітря\n"
+"почне задихатися"
 
 #. STRINGS.DUPLICANTS.STATS.CALORIES.NAME
 msgctxt "STRINGS.DUPLICANTS.STATS.CALORIES.NAME"
 msgid "Calories"
-msgstr ""
+msgstr "Калорії"
 
 #. STRINGS.DUPLICANTS.STATS.CALORIES.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATS.CALORIES.TOOLTIP"
@@ -14912,7 +14974,8 @@ msgid ""
 msgstr ""
 "Калорії\n"
 "------------------\n"
-"Цей Дублікант може спалити {0} до того, як зголодніє"
+"Цей Дублікант може спалити {0} до того,\n"
+"як зголодніє"
 
 #. STRINGS.DUPLICANTS.STATS.DECOR.NAME
 msgctxt "STRINGS.DUPLICANTS.STATS.DECOR.NAME"
@@ -14929,16 +14992,22 @@ msgid ""
 "Open the Decor Overlay <color=#F44A47>[F8]</color> to view current decor "
 "values"
 msgstr ""
+"Декор\n"
+"------------------\n"
+"Дубліканти стають напруженими в зонах, з меншим \n"
+"декором, ніж вони очікують\n"
+"Відкрийте Оверлей Декору <color=#F44A47>[F8]</color>\n"
+"для перегляду поточного рівня декору"
 
 #. STRINGS.DUPLICANTS.STATS.DISEASERECOVERYTIME.NAME
 msgctxt "STRINGS.DUPLICANTS.STATS.DISEASERECOVERYTIME.NAME"
 msgid "Disease Recovery"
-msgstr ""
+msgstr "Відновлення від хвороби"
 
 #. STRINGS.DUPLICANTS.STATS.EXTERNALTEMPERATURE.NAME
 msgctxt "STRINGS.DUPLICANTS.STATS.EXTERNALTEMPERATURE.NAME"
 msgid "External Temperature"
-msgstr ""
+msgstr "Зовнішня Температура"
 
 #. STRINGS.DUPLICANTS.STATS.EXTERNALTEMPERATURE.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATS.EXTERNALTEMPERATURE.TOOLTIP"
@@ -14947,6 +15016,9 @@ msgid ""
 "------------------\n"
 "This Duplicant's environment is {0}"
 msgstr ""
+"Зовнішня Температура\n"
+"------------------\n"
+"Оточення цих Дублікантів {0}"
 
 #. STRINGS.DUPLICANTS.STATS.HITPOINTS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATS.HITPOINTS.NAME"
@@ -14962,7 +15034,8 @@ msgid ""
 msgstr ""
 "Здоров'я\n"
 "------------------\n"
-"Бойова одиниця стає не дієздатна при нульомому житті"
+"Бойова одиниця стає не дієздатна при \n"
+"нульовому житті"
 
 #. STRINGS.DUPLICANTS.STATS.IMMUNELEVEL.NAME
 msgctxt "STRINGS.DUPLICANTS.STATS.IMMUNELEVEL.NAME"
@@ -14978,7 +15051,8 @@ msgid ""
 msgstr ""
 "Імунна система\n"
 "------------------\n"
-"Дубліканти оримують хворобу, тоді як імунна система досягає нуля"
+"Дубліканти отримують хворобу, тоді як імунна\n"
+"система досягає нуля"
 
 #. STRINGS.DUPLICANTS.STATS.MORALE.NAME
 msgctxt "STRINGS.DUPLICANTS.STATS.MORALE.NAME"
@@ -14993,17 +15067,17 @@ msgstr ""
 #. STRINGS.DUPLICANTS.STATS.SKIN_DURABILITY.NAME
 msgctxt "STRINGS.DUPLICANTS.STATS.SKIN_DURABILITY.NAME"
 msgid "Skin Durability"
-msgstr ""
+msgstr "Стійкість шкіри"
 
 #. STRINGS.DUPLICANTS.STATS.SKIN_THICKNESS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATS.SKIN_THICKNESS.NAME"
 msgid "Skin Thickness"
-msgstr ""
+msgstr "Товщина шкіри"
 
 #. STRINGS.DUPLICANTS.STATS.STAMINA.NAME
 msgctxt "STRINGS.DUPLICANTS.STATS.STAMINA.NAME"
 msgid "Stamina"
-msgstr ""
+msgstr "Витривалість"
 
 #. STRINGS.DUPLICANTS.STATS.STAMINA.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATS.STAMINA.TOOLTIP"
@@ -15012,11 +15086,15 @@ msgid ""
 "------------------\n"
 "Duplicants will pass out from fatigue when stamina reaches zero"
 msgstr ""
+"Stamina\n"
+"------------------\n"
+"Дубліканти знепритомніють від виснаження, коли \n"
+"витривалість досягне нуля"
 
 #. STRINGS.DUPLICANTS.STATS.STRESS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATS.STRESS.NAME"
 msgid "Stress"
-msgstr ""
+msgstr "Стрес"
 
 #. STRINGS.DUPLICANTS.STATS.STRESS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATS.STRESS.TOOLTIP"
@@ -15027,12 +15105,13 @@ msgid ""
 msgstr ""
 "Стрес\n"
 "------------------\n"
-"Дубліканти проявляють свою Стресову Відповідь при сто відсотковому стресі"
+"Дубліканти проявляють свою Стресову Відповідь\n"
+"при сто відсотковому стресі"
 
 #. STRINGS.DUPLICANTS.STATS.TEMPERATURE.NAME
 msgctxt "STRINGS.DUPLICANTS.STATS.TEMPERATURE.NAME"
 msgid "Body Temperature"
-msgstr ""
+msgstr "Температура тіла"
 
 #. STRINGS.DUPLICANTS.STATS.TEMPERATURE.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATS.TEMPERATURE.TOOLTIP"
@@ -15041,6 +15120,9 @@ msgid ""
 "------------------\n"
 "A healthy Duplicant's body temperature is {1}"
 msgstr ""
+"Температура тіла\n"
+"------------------\n"
+"Життєздатна температура тіла Дублікантів  {1}"
 
 #. STRINGS.DUPLICANTS.STATS.TOXICITY.NAME
 msgctxt "STRINGS.DUPLICANTS.STATS.TOXICITY.NAME"
@@ -15070,18 +15152,20 @@ msgstr ""
 #. STRINGS.DUPLICANTS.STATUSITEMS.BEDUNREACHABLE.NOTIFICATION_NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.BEDUNREACHABLE.NOTIFICATION_NAME"
 msgid "Unreachable bed"
-msgstr ""
+msgstr "Ліжко недосяжне"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.BEDUNREACHABLE.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.BEDUNREACHABLE.NOTIFICATION_TOOLTIP"
 msgid ""
 "These Duplicants cannot sleep because their beds are beyond their reach:"
 msgstr ""
+"Ці Дубліканти не можуть спати, тому що їхні ліжка поза межами їхньої "
+"досяжності:"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.BEDUNREACHABLE.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.BEDUNREACHABLE.TOOLTIP"
 msgid "This Duplicant cannot reach their bed"
-msgstr ""
+msgstr "Цей Дублікант не може досягти свого ліжка"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.BODYREGULATINGCOOLING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.BODYREGULATINGCOOLING.NAME"
@@ -15616,22 +15700,22 @@ msgstr ""
 #. STRINGS.DUPLICANTS.STATUSITEMS.IDLE.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.IDLE.NAME"
 msgid "Idle"
-msgstr ""
+msgstr "Байдикує"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.IDLE.NOTIFICATION_NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.IDLE.NOTIFICATION_NAME"
 msgid "Idle"
-msgstr ""
+msgstr "Байдикує"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.IDLE.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.IDLE.NOTIFICATION_TOOLTIP"
 msgid "These Duplicants cannot reach any pending errands:"
-msgstr ""
+msgstr "Ці Дубліканти не можуть досягти будь-яких очікуваних завдань:"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.IDLE.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.IDLE.TOOLTIP"
 msgid "This Duplicant cannot reach any pending errands"
-msgstr ""
+msgstr "Цей Дублікант не може досягти будь-якого очікуваного завдання"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.INCAPACITATED.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.INCAPACITATED.NAME"
@@ -21487,7 +21571,7 @@ msgstr ""
 #. STRINGS.MISC.NOTIFICATIONS.FOODLOW.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.FOODLOW.NAME"
 msgid "Food shortage"
-msgstr ""
+msgstr "Дефіцит їжі"
 
 #. STRINGS.MISC.NOTIFICATIONS.FOODLOW.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.FOODLOW.TOOLTIP"
@@ -21496,11 +21580,14 @@ msgid ""
 "    • You have {0} available\n"
 "    • Your Duplicants are consuming {1} per cycle"
 msgstr ""
+"Запаси <link=\"FOOD\">Їжі</link> ваших колоністів низькі:\n"
+"    • Ви маєте наявних {0}\n"
+"    • Ваші Дубліканти споживають {1} за цикл"
 
 #. STRINGS.MISC.NOTIFICATIONS.FOODROT.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.FOODROT.NAME"
 msgid "Food has decayed"
-msgstr ""
+msgstr "Їжа була зіпсована"
 
 #. STRINGS.MISC.NOTIFICATIONS.FOODROT.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.FOODROT.TOOLTIP"
@@ -21509,11 +21596,13 @@ msgid ""
 "edible:\n"
 "• {0}"
 msgstr ""
+"Ці одиниці <link=\"FOOD\">Їжі</link>, вже згнити та більше не їстівні:\n"
+"• {0}"
 
 #. STRINGS.MISC.NOTIFICATIONS.FOODSTALE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.FOODSTALE.NAME"
 msgid "Food has become stale"
-msgstr ""
+msgstr "Їжа стала не свіжою"
 
 #. STRINGS.MISC.NOTIFICATIONS.FOODSTALE.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.FOODSTALE.TOOLTIP"
@@ -21521,6 +21610,8 @@ msgid ""
 "These <link=\"FOOD\">Food</link> items have become stale and could rot if "
 "not stored:"
 msgstr ""
+"Ці одиниці <link=\"FOOD\">Food</link>, втратили свіжість та можуть згнити, "
+"якщо не зберігається:"
 
 #. STRINGS.MISC.NOTIFICATIONS.GASCLOUDARRIVING.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.GASCLOUDARRIVING.NAME"
@@ -21651,12 +21742,12 @@ msgstr ""
 #. STRINGS.MISC.NOTIFICATIONS.INVALIDCONSTRUCTIONLOCATION.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.INVALIDCONSTRUCTIONLOCATION.NAME"
 msgid "Invalid construction location"
-msgstr ""
+msgstr "Хибне розташування будівлі"
 
 #. STRINGS.MISC.NOTIFICATIONS.INVALIDCONSTRUCTIONLOCATION.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.INVALIDCONSTRUCTIONLOCATION.TOOLTIP"
 msgid "These buildings cannot be constructed in the planned areas:\n"
-msgstr ""
+msgstr "Ці будівлі не можуть бути збудовані в запланованих ділянках:\n"
 
 #. STRINGS.MISC.NOTIFICATIONS.LEVELUP.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.LEVELUP.NAME"
@@ -22147,7 +22238,7 @@ msgstr ""
 #. STRINGS.MISC.NOTIFICATIONS.UNREFRIGERATEDFOOD.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.UNREFRIGERATEDFOOD.NAME"
 msgid "Unrefrigerated Food"
-msgstr ""
+msgstr "Їжа не охолоджується"
 
 #. STRINGS.MISC.NOTIFICATIONS.UNREFRIGERATEDFOOD.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.UNREFRIGERATEDFOOD.TOOLTIP"
@@ -22155,6 +22246,7 @@ msgid ""
 "These <link=\"FOOD\">Food</link> items are in storage but are not "
 "refrigerated:\n"
 msgstr ""
+"Ці одиниці <link=\"FOOD\">Їжі</link> в сховищі, але не охолоджуються:\n"
 
 #. STRINGS.MISC.NOTIFICATIONS.VENTBLOCKED.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.VENTBLOCKED.NAME"
@@ -24904,42 +24996,42 @@ msgstr ""
 #. STRINGS.RESEARCH.OTHER_TECH_ITEMS.AUTOMATION_OVERLAY.DESC
 msgctxt "STRINGS.RESEARCH.OTHER_TECH_ITEMS.AUTOMATION_OVERLAY.DESC"
 msgid "Enables access to the Automation Overlay."
-msgstr ""
+msgstr "Дає доступ до Оверлею Автоматизації"
 
 #. STRINGS.RESEARCH.OTHER_TECH_ITEMS.AUTOMATION_OVERLAY.NAME
 msgctxt "STRINGS.RESEARCH.OTHER_TECH_ITEMS.AUTOMATION_OVERLAY.NAME"
 msgid "Automation Overlay"
-msgstr ""
+msgstr "Оверлей Автоматизації"
 
 #. STRINGS.RESEARCH.OTHER_TECH_ITEMS.BETA_RESEARCH_POINT.DESC
 msgctxt "STRINGS.RESEARCH.OTHER_TECH_ITEMS.BETA_RESEARCH_POINT.DESC"
 msgid "Allows advanced technology tiers to be researched."
-msgstr ""
+msgstr "Дозволять досліджувати поліпшені технології рівні."
 
 #. STRINGS.RESEARCH.OTHER_TECH_ITEMS.BETA_RESEARCH_POINT.NAME
 msgctxt "STRINGS.RESEARCH.OTHER_TECH_ITEMS.BETA_RESEARCH_POINT.NAME"
 msgid "Intermediate Research Point"
-msgstr ""
+msgstr "Проміжні Дослідницькі Одиниці"
 
 #. STRINGS.RESEARCH.OTHER_TECH_ITEMS.CONVEYOR_OVERLAY.DESC
 msgctxt "STRINGS.RESEARCH.OTHER_TECH_ITEMS.CONVEYOR_OVERLAY.DESC"
 msgid "Enables access to the Conveyor Overlay."
-msgstr ""
+msgstr "Дає доступ до Оверлею Конвеєрів"
 
 #. STRINGS.RESEARCH.OTHER_TECH_ITEMS.CONVEYOR_OVERLAY.NAME
 msgctxt "STRINGS.RESEARCH.OTHER_TECH_ITEMS.CONVEYOR_OVERLAY.NAME"
 msgid "Conveyor Overlay"
-msgstr ""
+msgstr "Оверлей Конвеєрів"
 
 #. STRINGS.RESEARCH.OTHER_TECH_ITEMS.SUITS_OVERLAY.DESC
 msgctxt "STRINGS.RESEARCH.OTHER_TECH_ITEMS.SUITS_OVERLAY.DESC"
 msgid "Enables access to the Exosuit Overlay."
-msgstr ""
+msgstr "Дає доступ до Оверлею Екзо Костюмів"
 
 #. STRINGS.RESEARCH.OTHER_TECH_ITEMS.SUITS_OVERLAY.NAME
 msgctxt "STRINGS.RESEARCH.OTHER_TECH_ITEMS.SUITS_OVERLAY.NAME"
 msgid "Exosuit Overlay"
-msgstr ""
+msgstr "Оверлей Екзо Костюмів"
 
 #. STRINGS.RESEARCH.TECHS.ADVANCEDFILTRATION.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.ADVANCEDFILTRATION.DESC"
@@ -24947,11 +25039,13 @@ msgid ""
 "Basic technologies for filtering <link=\"ELEMENTSLIQUID\">Liquid</link> and "
 "<link=\"ELEMENTSGAS\">Gas</link>."
 msgstr ""
+"Базові технології для фільтрації <link=\"ELEMENTSLIQUID\">Рідин</link> та "
+"<link=\"ELEMENTSGAS\">Газів</link>."
 
 #. STRINGS.RESEARCH.TECHS.ADVANCEDFILTRATION.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.ADVANCEDFILTRATION.NAME"
 msgid "<link=\"ADVANCEDFILTRATION\">Filtration</link>"
-msgstr ""
+msgstr "<link=\"ADVANCEDFILTRATION\">Фільтрація</link>"
 
 #. STRINGS.RESEARCH.TECHS.ADVANCEDPOWERREGULATION.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.ADVANCEDPOWERREGULATION.DESC"
@@ -24959,42 +25053,46 @@ msgid ""
 "Circuit components required for large scale <link=\"POWER\">Power</link> "
 "management."
 msgstr ""
+"Мережеві компоненти необхідні, для великого масштабного <link=\"POWER"
+"\">Електричного</link> управління."
 
 #. STRINGS.RESEARCH.TECHS.ADVANCEDPOWERREGULATION.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.ADVANCEDPOWERREGULATION.NAME"
 msgid "<link=\"ADVANCEDPOWERREGULATION\">Advanced Power Regulation</link>"
-msgstr ""
+msgstr "<link=\"ADVANCEDPOWERREGULATION\">Поліпшені Електричні Правила</link>"
 
 #. STRINGS.RESEARCH.TECHS.ADVANCEDRESEARCH.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.ADVANCEDRESEARCH.DESC"
 msgid ""
 "The tools your colony needs to conduct more advanced and in depth research."
 msgstr ""
+"Пристрої, необхідні вашій колонії для проведення більш просунутих та "
+"поглиблених досліджень."
 
 #. STRINGS.RESEARCH.TECHS.ADVANCEDRESEARCH.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.ADVANCEDRESEARCH.NAME"
 msgid "<link=\"ADVANCEDRESEARCH\">Advanced Research</link>"
-msgstr ""
+msgstr "<link=\"ADVANCEDRESEARCH\">Передові Дослідження</link>"
 
 #. STRINGS.RESEARCH.TECHS.AGRICULTURE.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.AGRICULTURE.DESC"
 msgid "Master the agricultural art of crop raising."
-msgstr ""
+msgstr "Сприяє мистецтву землеробства з розведення рослин."
 
 #. STRINGS.RESEARCH.TECHS.AGRICULTURE.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.AGRICULTURE.NAME"
 msgid "<link=\"AGRICULTURE\">Agriculture</link>"
-msgstr ""
+msgstr "<link=\"AGRICULTURE\">Землеробство</link>"
 
 #. STRINGS.RESEARCH.TECHS.ANIMALCONTROL.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.ANIMALCONTROL.DESC"
 msgid "Useful techniques to manage critter populations in your base."
-msgstr ""
+msgstr "Допоміжні технології, для управління популяцією тварин у вашій базі."
 
 #. STRINGS.RESEARCH.TECHS.ANIMALCONTROL.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.ANIMALCONTROL.NAME"
 msgid "<link=\"ANIMALCONTROL\">Animal Control</link>"
-msgstr ""
+msgstr "<link=\"ANIMALCONTROL\">Управління Тваринами</link>"
 
 #. STRINGS.RESEARCH.TECHS.ARTISTRY.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.ARTISTRY.DESC"
@@ -25002,31 +25100,33 @@ msgid ""
 "Majorly improve <link=\"DECOR\">Decor</link> by allowing Duplicants artistic "
 "and emotional expression."
 msgstr ""
+"Значною мірою поліпшуйте <link=\"DECOR\">Декор</link>, дозволяйте "
+"Дублікантам артистичні та емоційні вираження."
 
 #. STRINGS.RESEARCH.TECHS.ARTISTRY.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.ARTISTRY.NAME"
 msgid "<link=\"ARTISTRY\">Artistic Expression</link>"
-msgstr ""
+msgstr "<link=\"ARTISTRY\">Вираження Артистичності</link>"
 
 #. STRINGS.RESEARCH.TECHS.BASICREFINEMENT.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.BASICREFINEMENT.DESC"
 msgid "When life gives you rocks, make rock-aid! (Or sand.)"
-msgstr ""
+msgstr "Коли життя дає вам каміння, робіть камінь-дробач! (Або пісок.)"
 
 #. STRINGS.RESEARCH.TECHS.BASICREFINEMENT.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.BASICREFINEMENT.NAME"
 msgid "<link=\"BASICREFINEMENT\">Brute-Force Refinement</link>"
-msgstr ""
+msgstr "<link=\"BASICREFINEMENT\">Груба-Міць Очищення</link>"
 
 #. STRINGS.RESEARCH.TECHS.CLOTHING.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.CLOTHING.DESC"
 msgid "Produce decorative and practical clothing for Duplicants."
-msgstr ""
+msgstr "Виробництво декоративного та практичного одягу для Дублікантів."
 
 #. STRINGS.RESEARCH.TECHS.CLOTHING.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.CLOTHING.NAME"
 msgid "<link=\"CLOTHING\">Clothing</link>"
-msgstr ""
+msgstr "<link=\"CLOTHING\">Одяг</link>"
 
 #. STRINGS.RESEARCH.TECHS.COMBUSTION.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.COMBUSTION.DESC"
@@ -25034,11 +25134,13 @@ msgid ""
 "Crude fuel-powered generators for automatic <link=\"POWER\">Power</link> "
 "production."
 msgstr ""
+"Сирі, паливно-виробничі генератори, для автоматичного виробництва <link="
+"\"POWER\">Енергії</link>"
 
 #. STRINGS.RESEARCH.TECHS.COMBUSTION.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.COMBUSTION.NAME"
 msgid "<link=\"COMBUSTION\">Internal Combustion</link>"
-msgstr ""
+msgstr "<link=\"COMBUSTION\">Внутрішнє Спалювання</link>"
 
 #. STRINGS.RESEARCH.TECHS.DIRECTEDAIRSTREAMS.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.DIRECTEDAIRSTREAMS.DESC"
@@ -25046,43 +25148,45 @@ msgid ""
 "Instruments to help you reduce <link=\"DISEASE\">Germ</link> spread in your "
 "base."
 msgstr ""
+"Інструменти, які допоможуть знизити поширення <link=\"DISEASE\">Бактерій</"
+"link> у вашій базі."
 
 #. STRINGS.RESEARCH.TECHS.DIRECTEDAIRSTREAMS.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.DIRECTEDAIRSTREAMS.NAME"
 msgid "<link=\"DIRECTEDAIRSTREAMS\">Decontamination</link>"
-msgstr ""
+msgstr "<link=\"DIRECTEDAIRSTREAMS\">Знезаражування</link>"
 
 #. STRINGS.RESEARCH.TECHS.DISTILLATION.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.DISTILLATION.DESC"
 msgid "Distill difficult mixtures down to their most useful parts."
-msgstr ""
+msgstr "Очищення тяжких сумішей до більш придатних частинок."
 
 #. STRINGS.RESEARCH.TECHS.DISTILLATION.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.DISTILLATION.NAME"
 msgid "<link=\"DISTILLATION\">Distillation</link>"
-msgstr ""
+msgstr "<link=\"DISTILLATION\">Ратифікація</link>"
 
 #. STRINGS.RESEARCH.TECHS.DUPETRAFFICCONTROL.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.DUPETRAFFICCONTROL.DESC"
 msgid "Prevent your Duplicants from getting into dangerous situations."
-msgstr ""
+msgstr "Перешкоджає прохід вашим Дублікантам, в небезпечних ситуаціях."
 
 #. STRINGS.RESEARCH.TECHS.DUPETRAFFICCONTROL.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.DUPETRAFFICCONTROL.NAME"
 msgid "<link=\"DUPETRAFFICCONTROL\">Duplicant Traffic Control</link>"
-msgstr ""
+msgstr "<link=\"DUPETRAFFICCONTROL\">Контроль Руху Дублікантів</link>"
 
 #. STRINGS.RESEARCH.TECHS.FARMINGTECH.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.FARMINGTECH.DESC"
 msgid ""
 "Learn the introductory principles of <link=\"PLANTS\">Plant</link> "
 "domestication."
-msgstr ""
+msgstr "Вивчіть початкові основи приручення <link=\"PLANTS\">Рослин</link>."
 
 #. STRINGS.RESEARCH.TECHS.FARMINGTECH.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.FARMINGTECH.NAME"
 msgid "<link=\"FARMINGTECH\">Basic Farming</link>"
-msgstr ""
+msgstr "<link=\"FARMINGTECH\">Базове Фермерство</link>"
 
 #. STRINGS.RESEARCH.TECHS.FINEDINING.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.FINEDINING.DESC"
@@ -25090,11 +25194,13 @@ msgid ""
 "Prepare more nutritious <link=\"FOOD\">Food</link> and store it longer "
 "before spoiling."
 msgstr ""
+"Готування більш поживної <link=\"FOOD\">Їжі</link> та зберігання довше, доки "
+"не зіпсуються."
 
 #. STRINGS.RESEARCH.TECHS.FINEDINING.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.FINEDINING.NAME"
 msgid "<link=\"FINEDINING\">Meal Preparation</link>"
-msgstr ""
+msgstr "<link=\"FINEDINING\">Приготування Їжі</link>"
 
 #. STRINGS.RESEARCH.TECHS.GASPIPING.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.GASPIPING.DESC"
@@ -25102,21 +25208,23 @@ msgid ""
 "Rudimentary technologies for installing <link=\"ELEMENTSGAS\">Gas</link> "
 "infrastructure."
 msgstr ""
+"Елементарні технології для встановлення <link=\"ELEMENTSGAS\">Газової</link> "
+"інфраструктури."
 
 #. STRINGS.RESEARCH.TECHS.GASPIPING.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.GASPIPING.NAME"
 msgid "<link=\"GASPIPING\">Ventilation</link>"
-msgstr ""
+msgstr "<link=\"GASPIPING\">Вентиляція</link>"
 
 #. STRINGS.RESEARCH.TECHS.GENERICSENSORS.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.GENERICSENSORS.DESC"
 msgid "Drive automation in brand new ways."
-msgstr ""
+msgstr "Керування автоматизацією, на новому рівні."
 
 #. STRINGS.RESEARCH.TECHS.GENERICSENSORS.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.GENERICSENSORS.NAME"
 msgid "<link=\"GENERICSENSORS\">Generic Sensors</link>"
-msgstr ""
+msgstr "<link=\"GENERICSENSORS\">Загальні Чутливий Елемент</link>"
 
 #. STRINGS.RESEARCH.TECHS.HVAC.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.HVAC.DESC"
@@ -25124,22 +25232,26 @@ msgid ""
 "Regulate <link=\"HEAT\">Temperature</link> in your colony for <link=\"PLANTS"
 "\">Plant</link> cultivation and Duplicant comfort."
 msgstr ""
+"Регулюйте <link=\"HEAT\">Температуру</link> у вашій колонії для вирощування "
+"<link=\"PLANTS\">Рослин</link> та комфорту Дублікантів."
 
 #. STRINGS.RESEARCH.TECHS.HVAC.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.HVAC.NAME"
 msgid "<link=\"HVAC\">HVAC</link>"
-msgstr ""
+msgstr "<link=\"HVAC\">Регулювання Температури Газів</link>"
 
 #. STRINGS.RESEARCH.TECHS.IMPROVEDCOMBUSTION.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.IMPROVEDCOMBUSTION.DESC"
 msgid ""
 "Burn dirty fuels for exceptional <link=\"POWER\">Power</link> production."
 msgstr ""
+"Спалюйте брудне паливо, для надзвичайного виробництва <link=\"POWER"
+"\">Енергії</link>"
 
 #. STRINGS.RESEARCH.TECHS.IMPROVEDCOMBUSTION.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.IMPROVEDCOMBUSTION.NAME"
 msgid "<link=\"IMPROVEDCOMBUSTION\">Fossil Fuels</link>"
-msgstr ""
+msgstr "<link=\"IMPROVEDCOMBUSTION\">Паливні Копалини</link>"
 
 #. STRINGS.RESEARCH.TECHS.IMPROVEDGASPIPING.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.IMPROVEDGASPIPING.DESC"
@@ -25147,11 +25259,13 @@ msgid ""
 "<link=\"ELEMENTSGAS\">Gas</link> infrastructure capable of withstanding more "
 "intense conditions, such as <link=\"HEAT\">Heat</link> and pressure."
 msgstr ""
+"<link=\"ELEMENTSGAS\">Газова</link> інфраструктура, здатна встояти перед "
+"більш сильними умовами такими, як <link=\"HEAT\">Тепло</link> та тиск."
 
 #. STRINGS.RESEARCH.TECHS.IMPROVEDGASPIPING.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.IMPROVEDGASPIPING.NAME"
 msgid "<link=\"IMPROVEDGASPIPING\">Improved Ventilation</link>"
-msgstr ""
+msgstr "<link=\"IMPROVEDGASPIPING\">Покращена Вентиляція</link>"
 
 #. STRINGS.RESEARCH.TECHS.IMPROVEDLIQUIDPIPING.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.IMPROVEDLIQUIDPIPING.DESC"
@@ -25160,21 +25274,23 @@ msgid ""
 "withstanding more intense conditions, such as <link=\"HEAT\">Heat</link> and "
 "pressure."
 msgstr ""
+"<link=\"ELEMENTSLIQUID\">Рідинна</link> інфраструктура, здатна встояти перед "
+"більш сильними умовами такими, як <link=\"HEAT\">Тепло</link> та тиск."
 
 #. STRINGS.RESEARCH.TECHS.IMPROVEDLIQUIDPIPING.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.IMPROVEDLIQUIDPIPING.NAME"
 msgid "<link=\"IMPROVEDLIQUIDPIPING\">Improved Plumbing</link>"
-msgstr ""
+msgstr "<link=\"IMPROVEDLIQUIDPIPING\">Покращена Сантехніка</link>"
 
 #. STRINGS.RESEARCH.TECHS.IMPROVEDOXYGEN.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.IMPROVEDOXYGEN.DESC"
 msgid "Make the air in your colony clean and breathable."
-msgstr ""
+msgstr "Робіть повітря вашої колонії чистим та придатним для дихання."
 
 #. STRINGS.RESEARCH.TECHS.IMPROVEDOXYGEN.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.IMPROVEDOXYGEN.NAME"
 msgid "<link=\"IMPROVEDOXYGEN\">Air Systems</link>"
-msgstr ""
+msgstr "<link=\"IMPROVEDOXYGEN\">Повітряні Системи</link>"
 
 #. STRINGS.RESEARCH.TECHS.INSULATION.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.INSULATION.DESC"
@@ -25194,11 +25310,13 @@ msgid ""
 "<link=\"DECOR\">Decor</link> boosting items to counteract the gloom of "
 "underground living."
 msgstr ""
+"<link=\"DECOR\">Декораційні</link> предмети підтримують протидію пітьми в "
+"підземному житті."
 
 #. STRINGS.RESEARCH.TECHS.INTERIORDECOR.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.INTERIORDECOR.NAME"
 msgid "<link=\"INTERIORDECOR\">Interior Decor</link>"
-msgstr ""
+msgstr "<link=\"INTERIORDECOR\">Внутрішній Декор</link>"
 
 #. STRINGS.RESEARCH.TECHS.LIQUIDPIPING.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.LIQUIDPIPING.DESC"
@@ -25206,11 +25324,13 @@ msgid ""
 "Rudimentary technologies for installing <link=\"ELEMENTSLIQUID\">Liquid</"
 "link> infrastructure."
 msgstr ""
+"Елементарні технології для встановлення <link=\"ELEMENTSLIQUID\">Рідинної</"
+"link> інфраструктури."
 
 #. STRINGS.RESEARCH.TECHS.LIQUIDPIPING.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.LIQUIDPIPING.NAME"
 msgid "<link=\"LIQUIDPIPING\">Plumbing</link>"
-msgstr ""
+msgstr "<link=\"LIQUIDPIPING\">Сантехніка</link>"
 
 #. STRINGS.RESEARCH.TECHS.LIQUIDTEMPERATURE.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.LIQUIDTEMPERATURE.DESC"
@@ -25218,41 +25338,45 @@ msgid ""
 "Easily manipulate <link=\"ELEMENTSLIQUID\">Liquid</link> <link=\"TEMPERATURES"
 "\">heat</link> with these technologies."
 msgstr ""
+"Легко маніпулюйте <link=\"TEMPERATURES\">теплом</link> <link=\"ELEMENTSLIQUID"
+"\">Рідин</link>, з цими технологіями."
 
 #. STRINGS.RESEARCH.TECHS.LIQUIDTEMPERATURE.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.LIQUIDTEMPERATURE.NAME"
 msgid "<link=\"LIQUIDTEMPERATURE\">Liquid Tuning</link>"
-msgstr ""
+msgstr "<link=\"LIQUIDTEMPERATURE\">Регулювання Рідин</link>"
 
 #. STRINGS.RESEARCH.TECHS.LOGICCIRCUITS.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.LOGICCIRCUITS.DESC"
 msgid "Logic gates and wiring to allow you to program your base."
-msgstr ""
+msgstr "Логічні хвіртки та дроти, що допомагають програмувати вашу базу."
 
 #. STRINGS.RESEARCH.TECHS.LOGICCIRCUITS.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.LOGICCIRCUITS.NAME"
 msgid "<link=\"LOGICCIRCUITS\">Advanced Automation</link>"
-msgstr ""
+msgstr "<link=\"LOGICCIRCUITS\">Покращена Автоматизація</link>"
 
 #. STRINGS.RESEARCH.TECHS.LOGICCONTROL.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.LOGICCONTROL.DESC"
 msgid "Use switches to control your buildings."
-msgstr ""
+msgstr "Використовуйте перемикачі, для управління вашими будинками"
 
 #. STRINGS.RESEARCH.TECHS.LOGICCONTROL.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.LOGICCONTROL.NAME"
 msgid "<link=\"LOGICCONTROL\">Automatic Control</link>"
-msgstr ""
+msgstr "<link=\"LOGICCONTROL\">Автоматичне Управління</link>"
 
 #. STRINGS.RESEARCH.TECHS.LUXURY.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.LUXURY.DESC"
 msgid "Luxury amenities for advanced <link=\"STRESS\">Stress</link> reduction."
 msgstr ""
+"Розкішні зручності для перспективного зменшення <link=\"STRESS\">Стресу</"
+"link>."
 
 #. STRINGS.RESEARCH.TECHS.LUXURY.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.LUXURY.NAME"
 msgid "<link=\"LUXURY\">Home Luxuries</link>"
-msgstr ""
+msgstr "<link=\"LUXURY\">Домашня Насолода</link>"
 
 #. STRINGS.RESEARCH.TECHS.MEDBAY.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.MEDBAY.DESC"
@@ -25260,11 +25384,13 @@ msgid ""
 "Prevent injury and <link=\"DISEASE\">Disease</link> from running rampant in "
 "your colony."
 msgstr ""
+"Запобігання тілесних ушкоджень та <link=\"DISEASE\">Захворювань</link> від "
+"загрозливого бігу в самій колонії."
 
 #. STRINGS.RESEARCH.TECHS.MEDBAY.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.MEDBAY.NAME"
 msgid "<link=\"MEDBAY\">Healthcare</link>"
-msgstr ""
+msgstr "<link=\"MEDBAY\">Охорона Здоров'я</link>"
 
 #. STRINGS.RESEARCH.TECHS.MEDICALRESEARCH.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.MEDICALRESEARCH.DESC"
@@ -25272,11 +25398,13 @@ msgid ""
 "Basic medical knowledge to fight the common <link=\"DISEASE\">Diseases</"
 "link> that plague Duplicants."
 msgstr ""
+"Базові медичні знання в боротьбі із загальними <link=\"DISEASE\">Хворобами</"
+"link>, що набридають Дублікантам."
 
 #. STRINGS.RESEARCH.TECHS.MEDICALRESEARCH.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.MEDICALRESEARCH.NAME"
 msgid "<link=\"MEDICALRESEARCH\">Medical Research</link>"
-msgstr ""
+msgstr "<link=\"MEDICALRESEARCH\">Медичні Дослідження</link>"
 
 #. STRINGS.RESEARCH.TECHS.METALREFINEMENT.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.METALREFINEMENT.DESC"
@@ -25294,112 +25422,117 @@ msgid ""
 "Stable, light weight, durable. Plastics are useful in a wide array of "
 "applications."
 msgstr ""
+"Стійкий, легкий, міцний. Пластики корисні в широкому спектрі застосувань."
 
 #. STRINGS.RESEARCH.TECHS.PLASTICS.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.PLASTICS.NAME"
 msgid "<link=\"PLASTICS\">Plastic Manufacturing</link>"
-msgstr ""
+msgstr "<link=\"PLASTICS\">Виробництво Пластику</link>"
 
 #. STRINGS.RESEARCH.TECHS.POWERREGULATION.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.POWERREGULATION.DESC"
 msgid ""
 "Prevent wasted <link=\"POWER\">Power</link> with improved eletrical tools."
 msgstr ""
+"Запобігайте втратам <link=\"POWER\">Енергії</link> з поліпшеними "
+"електричними пристроями."
 
 #. STRINGS.RESEARCH.TECHS.POWERREGULATION.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.POWERREGULATION.NAME"
 msgid "<link=\"POWERREGULATION\">Power Regulation</link>"
-msgstr ""
+msgstr "<link=\"POWERREGULATION\">Електричні Правила</link>"
 
 #. STRINGS.RESEARCH.TECHS.PRESSUREMANAGEMENT.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.PRESSUREMANAGEMENT.DESC"
 msgid "Unlock technologies to manage colony pressure and atmosphere."
-msgstr ""
+msgstr "Розблокуйте технології, для управління тиском та атмосферою колонії."
 
 #. STRINGS.RESEARCH.TECHS.PRESSUREMANAGEMENT.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.PRESSUREMANAGEMENT.NAME"
 msgid "<link=\"PRESSUREMANAGEMENT\">Pressure Management</link>"
-msgstr ""
+msgstr "<link=\"PRESSUREMANAGEMENT\">Керування Тиском </link>"
 
 #. STRINGS.RESEARCH.TECHS.PRETTYGOODCONDUCTORS.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.PRETTYGOODCONDUCTORS.DESC"
 msgid "Pure-core wires that can handle more current without overloading."
 msgstr ""
+"Чисто-стержневі дроти, що можуть проводити більший потік, без перевантаження."
 
 #. STRINGS.RESEARCH.TECHS.PRETTYGOODCONDUCTORS.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.PRETTYGOODCONDUCTORS.NAME"
 msgid "<link=\"PRETTYGOODCONDUCTORS\">Low-Resistance Conductors</link>"
-msgstr ""
+msgstr "<link=\"PRETTYGOODCONDUCTORS\">Низько-Опірні Провідники</link>"
 
 #. STRINGS.RESEARCH.TECHS.RANCHING.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.RANCHING.DESC"
 msgid "Manage and care for critters."
-msgstr ""
+msgstr "Умій поводитися та піклуватися за тваринами."
 
 #. STRINGS.RESEARCH.TECHS.RANCHING.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.RANCHING.NAME"
 msgid "<link=\"RANCHING\">Ranching</link>"
-msgstr ""
+msgstr "<link=\"RANCHING\">Випасання</link>"
 
 #. STRINGS.RESEARCH.TECHS.REFINEDOBJECTS.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.REFINEDOBJECTS.DESC"
 msgid "Using simple materials to improve base function."
-msgstr ""
+msgstr "Використовуйте прості матеріали, для поліпшення функціонування бази."
 
 #. STRINGS.RESEARCH.TECHS.REFINEDOBJECTS.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.REFINEDOBJECTS.NAME"
 msgid "<link=\"REFINEDOBJECTS\">Refined Objects</link>"
-msgstr ""
+msgstr "<link=\"REFINEDOBJECTS\">вдосконалені Об'єкти</link>"
 
 #. STRINGS.RESEARCH.TECHS.RENEWABLEENERGY.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.RENEWABLEENERGY.DESC"
 msgid "Clean <link=\"POWER\">Power</link> production"
-msgstr ""
+msgstr "Чисте виробництво <link=\"POWER\">Енергії</link>"
 
 #. STRINGS.RESEARCH.TECHS.RENEWABLEENERGY.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.RENEWABLEENERGY.NAME"
 msgid "<link=\"RENEWABLEENERGY\">Renewable Energy</link>"
-msgstr ""
+msgstr "<link=\"RENEWABLEENERGY\">Відновлююча Енергія</link>"
 
 #. STRINGS.RESEARCH.TECHS.SANITATIONSCIENCES.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.SANITATIONSCIENCES.DESC"
 msgid "Make daily ablutions less of a hassle."
-msgstr ""
+msgstr "Робіть щоденне очищення, менше клопоту."
 
 #. STRINGS.RESEARCH.TECHS.SANITATIONSCIENCES.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.SANITATIONSCIENCES.NAME"
 msgid "<link=\"SANITATIONSCIENCES\">Sanitation</link>"
-msgstr ""
+msgstr "<link=\"SANITATIONSCIENCES\">Cанітарія</link>"
 
 #. STRINGS.RESEARCH.TECHS.SMARTSTORAGE.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.SMARTSTORAGE.DESC"
 msgid "Automate the storage of your solids."
-msgstr ""
+msgstr "Автоматизуйте зберігання ваших твердих речовин."
 
 #. STRINGS.RESEARCH.TECHS.SMARTSTORAGE.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.SMARTSTORAGE.NAME"
 msgid "<link=\"SMARTSTORAGE\">Smart Storage</link>"
-msgstr ""
+msgstr "<link=\"SMARTSTORAGE\">Розумне Зберігання</link>"
 
 #. STRINGS.RESEARCH.TECHS.SMELTING.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.SMELTING.DESC"
 msgid "High temperatures allow more efficient metal fabrication."
-msgstr ""
+msgstr "Високі температури дозволяють більш ефективніше виробляти метал."
 
 #. STRINGS.RESEARCH.TECHS.SMELTING.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.SMELTING.NAME"
 msgid "<link=\"SMELTING\">Smelting</link>"
-msgstr ""
+msgstr "<link=\"SMELTING\">Виплавлення</link>"
 
 #. STRINGS.RESEARCH.TECHS.SOLIDTRANSPORT.DESC
+#, fuzzy
 msgctxt "STRINGS.RESEARCH.TECHS.SOLIDTRANSPORT.DESC"
 msgid "Save so much wear and tear on tired Duplicant feet."
-msgstr ""
+msgstr "Збережіть більше падіння та сльоз на втомлених ногах Дублікантів"
 
 #. STRINGS.RESEARCH.TECHS.SOLIDTRANSPORT.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.SOLIDTRANSPORT.NAME"
 msgid "<link=\"SOLIDTRANSPORT\">Solid Transport</link>"
-msgstr ""
+msgstr "<link=\"SOLIDTRANSPORT\">Тверде Транспортування</link>"
 
 #. STRINGS.RESEARCH.TECHS.SUITS.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.SUITS.DESC"
@@ -25407,11 +25540,13 @@ msgid ""
 "Craft the equipment necessary to survive in extreme conditions and "
 "environments."
 msgstr ""
+"Створюйте необхідне обладнання щоб вижити в екстремальних умовах та "
+"середовищі."
 
 #. STRINGS.RESEARCH.TECHS.SUITS.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.SUITS.NAME"
 msgid "<link=\"SUITS\">Environmental Protection</link>"
-msgstr ""
+msgstr "<link=\"SUITS\">Захисне Середовище</link>"
 
 #. STRINGS.RESEARCH.TECHS.TEMPERATUREMODULATION.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.TEMPERATUREMODULATION.DESC"
@@ -25419,31 +25554,34 @@ msgid ""
 "Unlock <link=\"HEAT\">Temperature</link> changing technologies to keep your "
 "colony at the perfect Kelvin."
 msgstr ""
+"Розблокуйте технології зміни <link=\"HEAT\">Температури</link>, для тримання "
+"вашої колонії в ідеальних Кельвінах."
 
 #. STRINGS.RESEARCH.TECHS.TEMPERATUREMODULATION.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.TEMPERATUREMODULATION.NAME"
 msgid "<link=\"TEMPERATUREMODULATION\">Temperature Modulation</link>"
-msgstr ""
+msgstr "<link=\"TEMPERATUREMODULATION\">Температурна Модуляція</link>"
 
 #. STRINGS.RESEARCH.TECHS.TRAVELTUBES.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.TRAVELTUBES.DESC"
 msgid "Get around your base quickly, safely, and in style!"
-msgstr ""
+msgstr "Переміщуйтесь навколо вашої бази швидше та з стилем!"
 
 #. STRINGS.RESEARCH.TECHS.TRAVELTUBES.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.TRAVELTUBES.NAME"
 msgid "<link=\"TRAVELTUBES\">Transit Tubes</link>"
-msgstr ""
+msgstr "<link=\"TRAVELTUBES\">Транзитні Трубки</link>"
 
 #. STRINGS.RESEARCH.TECHS.VALVEMINIATURIZATION.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.VALVEMINIATURIZATION.DESC"
 msgid "Smaller, more efficient pumps for those low-throughput situations."
 msgstr ""
+"Маленькі, більш ефективні відкачувачі, для таких низькопродуктивних ситуацій."
 
 #. STRINGS.RESEARCH.TECHS.VALVEMINIATURIZATION.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.VALVEMINIATURIZATION.NAME"
 msgid "<link=\"VALVEMINIATURIZATION\">Valve Minaturization</link>"
-msgstr ""
+msgstr "<link=\"VALVEMINIATURIZATION\">Мініатюризація</link>"
 
 #. STRINGS.RESEARCH.TYPES.ALPHA.DESC
 msgctxt "STRINGS.RESEARCH.TYPES.ALPHA.DESC"
@@ -25452,6 +25590,9 @@ msgid ""
 "technologies.\n"
 "It can be conducted at a <link=\"RESEARCHCENTER\">Research Station</link>."
 msgstr ""
+"<link=\"RESEARCH\">Новітні Дослідження</link> необхідні, для розблокування "
+"базових технологій.\n"
+"Це можна провести на <link=\"RESEARCHCENTER\">Станції Досліджень</link>."
 
 #. STRINGS.RESEARCH.TYPES.ALPHA.NAME
 msgctxt "STRINGS.RESEARCH.TYPES.ALPHA.NAME"
@@ -25461,7 +25602,7 @@ msgstr "Новітні Дослідження"
 #. STRINGS.RESEARCH.TYPES.ALPHA.RECIPEDESC
 msgctxt "STRINGS.RESEARCH.TYPES.ALPHA.RECIPEDESC"
 msgid "Unlocks rudimentary technologies."
-msgstr ""
+msgstr "Розблоковують елементарні технології"
 
 #. STRINGS.RESEARCH.TYPES.BETA.DESC
 msgctxt "STRINGS.RESEARCH.TYPES.BETA.DESC"
@@ -25471,6 +25612,10 @@ msgid ""
 "It can be conducted at a <link=\"ADVANCEDRESEARCHCENTER\">Super Computer</"
 "link>."
 msgstr ""
+"<link=\"RESEARCH\">Проміжні Дослідження</link> необхідні, для розблокування "
+"покращених технологій.\n"
+"Це можна провести на <link=\"ADVANCEDRESEARCHCENTER\">Супер Комп'ютері</"
+"link>."
 
 #. STRINGS.RESEARCH.TYPES.BETA.NAME
 msgctxt "STRINGS.RESEARCH.TYPES.BETA.NAME"
@@ -25480,7 +25625,7 @@ msgstr "Проміжні Дослідження"
 #. STRINGS.RESEARCH.TYPES.BETA.RECIPEDESC
 msgctxt "STRINGS.RESEARCH.TYPES.BETA.RECIPEDESC"
 msgid "Unlocks improved technologies."
-msgstr ""
+msgstr "Розблокують покращені технології."
 
 #. STRINGS.ROOMS.CRITERIA.BED_MULTIPLE.DESCRIPTION
 msgctxt "STRINGS.ROOMS.CRITERIA.BED_MULTIPLE.DESCRIPTION"
@@ -28745,7 +28890,7 @@ msgstr "ФОРУМИ"
 #. STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.MESSAGES.HEADER
 msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.MESSAGES.HEADER"
 msgid "DEVELOPMENT BUILD"
-msgstr "БІЛД В РОЗРОБКІ"
+msgstr "БІЛД В РОЗРОБЦІ"
 
 #. STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.MESSAGES.MAILINGLIST
 msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.MESSAGES.MAILINGLIST"
@@ -28795,7 +28940,7 @@ msgstr "НАСТУПНЕ ОНОВЛЕННЯ"
 #. STRINGS.UI.DEVELOPMENTBUILDS.WATERMARK
 msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.WATERMARK"
 msgid "DEVELOPMENT BUILD: {0}"
-msgstr "БІЛД В РОЗРОБКІ: {0}"
+msgstr "БІЛД В РОЗРОБЦІ: {0}"
 
 #. STRINGS.UI.DUPLICANTPRINTING
 msgctxt "STRINGS.UI.DUPLICANTPRINTING"
@@ -30954,7 +31099,7 @@ msgstr "Тасувати для іншого Дубліканта"
 #. STRINGS.UI.JOBS
 msgctxt "STRINGS.UI.JOBS"
 msgid "PRIORITIES"
-msgstr ""
+msgstr "ПРІОРИТЕТИ"
 
 #. STRINGS.UI.JOBSCREEN_DEFAULT
 msgctxt "STRINGS.UI.JOBSCREEN_DEFAULT"
@@ -31120,7 +31265,7 @@ msgstr ""
 #. STRINGS.UI.JOBSSCREEN.TITLE
 msgctxt "STRINGS.UI.JOBSSCREEN.TITLE"
 msgid "MANAGE ERRAND PRIORITIES"
-msgstr ""
+msgstr "УПРАВЛІННЯ ПРІОРИТЕТАМИ ЗАВДАНЬ"
 
 #. STRINGS.UI.JOBSSCREEN.TOGGLE_ADVANCED_MODE
 msgctxt "STRINGS.UI.JOBSSCREEN.TOGGLE_ADVANCED_MODE"
@@ -32716,7 +32861,7 @@ msgstr ""
 #. STRINGS.UI.PRIORITYSCREEN.DIAGRAM_TITLE
 msgctxt "STRINGS.UI.PRIORITYSCREEN.DIAGRAM_TITLE"
 msgid "PRIORITIES"
-msgstr ""
+msgstr "ПРІОРИТЕТИ"
 
 #. STRINGS.UI.PRIORITYSCREEN.EMERGENCY
 msgctxt "STRINGS.UI.PRIORITYSCREEN.EMERGENCY"
@@ -32805,12 +32950,12 @@ msgstr "ДОСЛІДЖЕННЯ"
 #. STRINGS.UI.RESEARCHPOINTS
 msgctxt "STRINGS.UI.RESEARCHPOINTS"
 msgid "Research points"
-msgstr ""
+msgstr "Дослідницькі одиниці"
 
 #. STRINGS.UI.RESEARCHSCREEN_UNLOCKSTOOLTIP
 msgctxt "STRINGS.UI.RESEARCHSCREEN_UNLOCKSTOOLTIP"
 msgid "Unlocks: {0}"
-msgstr ""
+msgstr "Розблокує: {0}"
 
 #. STRINGS.UI.RESOURCESCREEN.AVAILABLE_TOOLTIP
 msgctxt "STRINGS.UI.RESOURCESCREEN.AVAILABLE_TOOLTIP"
@@ -32828,6 +32973,9 @@ msgid ""
 "------------------\n"
 "Click to expand"
 msgstr ""
+"Перераховує всі наявні ресурси, в межах досяжності\n"
+"------------------\n"
+"Натисніть, щоб розгорнути"
 
 #. STRINGS.UI.ROLES
 msgctxt "STRINGS.UI.ROLES"
@@ -32837,7 +32985,7 @@ msgstr "РОБОЧІ ПОСАДИ"
 #. STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS.ALREADY_IS_JOBLESS
 msgctxt "STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS.ALREADY_IS_JOBLESS"
 msgid "{0} <b>is already</b> unemployed"
-msgstr ""
+msgstr "{0} <b>вже</b> безробітний"
 
 #. STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS.ALREADY_IS_ROLE
 msgctxt "STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS.ALREADY_IS_ROLE"
@@ -32860,7 +33008,7 @@ msgstr "Здібний до виконання роботи: <b>{0}</b>"
 msgctxt ""
 "STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS.CHOREGROUP_ENABLED.NAME"
 msgid "Can perform {0}"
-msgstr ""
+msgstr "Може виконувати {0}"
 
 #. STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS.ELIGIBILITY.ELIGIBLE
 msgctxt "STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS.ELIGIBILITY.ELIGIBLE"
@@ -32871,89 +33019,89 @@ msgstr "{0} кваліфікується на позиції {1}"
 msgctxt ""
 "STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS.ELIGIBILITY.INELIGIBLE"
 msgid "{0} is <color=#F44A47FF>not qualified</color> for the {1} position"
-msgstr ""
+msgstr "{0} <color=#F44A47FF>не придатний</color> для позиції {1}"
 
 #. STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS.HAS_ATTRIBUTE_COOKING_BASIC.DESCRIPTION
 msgctxt ""
 "STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS.HAS_ATTRIBUTE_COOKING_BASIC."
 "DESCRIPTION"
 msgid "Must have at least {0} cooking skill"
-msgstr ""
+msgstr "Повинен мати навички кулінарії, принаймні {0}"
 
 #. STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS.HAS_ATTRIBUTE_COOKING_BASIC.NAME
 msgctxt ""
 "STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS.HAS_ATTRIBUTE_COOKING_BASIC."
 "NAME"
 msgid "Basic Cooking"
-msgstr ""
+msgstr "Базова кулінарія"
 
 #. STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS.HAS_ATTRIBUTE_DIGGING_BASIC.DESCRIPTION
 msgctxt ""
 "STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS.HAS_ATTRIBUTE_DIGGING_BASIC."
 "DESCRIPTION"
 msgid "Must have at least {0} digging skill"
-msgstr ""
+msgstr "Повинен мати навички копання, принаймні {0}"
 
 #. STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS.HAS_ATTRIBUTE_DIGGING_BASIC.NAME
 msgctxt ""
 "STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS.HAS_ATTRIBUTE_DIGGING_BASIC."
 "NAME"
 msgid "Basic Digging"
-msgstr ""
+msgstr "Базове копання"
 
 #. STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS.HAS_ATTRIBUTE_LEARNING_BASIC.DESCRIPTION
 msgctxt ""
 "STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS.HAS_ATTRIBUTE_LEARNING_BASIC."
 "DESCRIPTION"
 msgid "Must have at least {0} learning skill"
-msgstr ""
+msgstr "Повинен мати навички дослідження, принаймні {0}"
 
 #. STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS.HAS_ATTRIBUTE_LEARNING_BASIC.NAME
 msgctxt ""
 "STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS.HAS_ATTRIBUTE_LEARNING_BASIC."
 "NAME"
 msgid "Basic Learning"
-msgstr ""
+msgstr "Базове навчання"
 
 #. STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS.HAS_ATTRIBUTE_LEARNING_MEDIUM.DESCRIPTION
 msgctxt ""
 "STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS."
 "HAS_ATTRIBUTE_LEARNING_MEDIUM.DESCRIPTION"
 msgid "Must have at least {0} learning skill"
-msgstr ""
+msgstr "Повинен мати навички дослідження, принаймні {0}"
 
 #. STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS.HAS_ATTRIBUTE_LEARNING_MEDIUM.NAME
 msgctxt ""
 "STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS."
 "HAS_ATTRIBUTE_LEARNING_MEDIUM.NAME"
 msgid "Medium Learning"
-msgstr ""
+msgstr "Середнє навчання"
 
 #. STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS.HAS_COLONY_LEADER.DESCRIPTION
 msgctxt ""
 "STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS.HAS_COLONY_LEADER.DESCRIPTION"
 msgid "A colony leader must be assigned"
-msgstr ""
+msgstr "Необхідно призначити керівника колонії"
 
 #. STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS.HAS_COLONY_LEADER.NAME
 msgctxt ""
 "STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS.HAS_COLONY_LEADER.NAME"
 msgid "Has colony leader"
-msgstr ""
+msgstr "Керівник колонії призначений"
 
 #. STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS.HAS_COMPLETED_ANY_OTHER_ROLE.DESCRIPTION
 msgctxt ""
 "STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS.HAS_COMPLETED_ANY_OTHER_ROLE."
 "DESCRIPTION"
 msgid "Mastery of <b>at least one</b> job"
-msgstr ""
+msgstr "Опануйхе <b>хоча б одну</b> роботу"
 
 #. STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS.HAS_COMPLETED_ANY_OTHER_ROLE.NAME
 msgctxt ""
 "STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS.HAS_COMPLETED_ANY_OTHER_ROLE."
 "NAME"
 msgid "General Experience"
-msgstr ""
+msgstr "Загальний досвіт"
 
 #. STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS.HAS_EXPERIENCE.DESCRIPTION
 msgctxt ""
@@ -32964,7 +33112,7 @@ msgstr "Майстерність до роботи: <b>{0}</b>"
 #. STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS.HAS_EXPERIENCE.NAME
 msgctxt "STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS.HAS_EXPERIENCE.NAME"
 msgid "{0} Experience"
-msgstr ""
+msgstr "{0} Досвід"
 
 #. STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS.NO_APTITUDE
 msgctxt "STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS.NO_APTITUDE"
@@ -32974,7 +33122,7 @@ msgstr "Ніхто"
 #. STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS.NONE
 msgctxt "STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS.NONE"
 msgid "This position has no qualification requirements"
-msgstr ""
+msgstr "Ця позиція не має вимог кваліфікації"
 
 #. STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS.RELEVANT_APTITUDES
 msgctxt "STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS.RELEVANT_APTITUDES"
@@ -32995,7 +33143,7 @@ msgstr "Кваліфікація"
 msgctxt ""
 "STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS.UNEMPLOYED.DESCRIPTION"
 msgid "Duplicant must not already have a job assignment"
-msgstr ""
+msgstr "Дублікант не повинен мати, вже призначеної роботи"
 
 #. STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS.UNEMPLOYED.NAME
 msgctxt "STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS.UNEMPLOYED.NAME"
@@ -33008,6 +33156,8 @@ msgid ""
 "Note: Assigning {0} to {1} will <color=#F44A47FF>unassign</color> them from "
 "{2}"
 msgstr ""
+"Примітка: Призначення {0} на {1} приведе до <color=#F44A47FF>звільнення</"
+"color> його з {2}"
 
 #. STRINGS.UI.ROLES_SCREEN.AUTO_PRIORITIZE
 msgctxt "STRINGS.UI.ROLES_SCREEN.AUTO_PRIORITIZE"
@@ -33031,12 +33181,12 @@ msgstr ""
 #. STRINGS.UI.ROLES_SCREEN.DROPDOWN.ALREADY_ROLE
 msgctxt "STRINGS.UI.ROLES_SCREEN.DROPDOWN.ALREADY_ROLE"
 msgid "(Currently {0})"
-msgstr ""
+msgstr "(Currently {0})"
 
 #. STRINGS.UI.ROLES_SCREEN.DROPDOWN.NAME_AND_ROLE
 msgctxt "STRINGS.UI.ROLES_SCREEN.DROPDOWN.NAME_AND_ROLE"
 msgid "{0} <color=#F44A47FF>({1})</color>"
-msgstr ""
+msgstr "{0} <color=#F44A47FF>({1})</color>"
 
 #. STRINGS.UI.ROLES_SCREEN.EXPECTATIONS.DECOR.HIGH.DESCRIPTION
 msgctxt "STRINGS.UI.ROLES_SCREEN.EXPECTATIONS.DECOR.HIGH.DESCRIPTION"
@@ -33164,17 +33314,17 @@ msgstr ""
 #. STRINGS.UI.ROLES_SCREEN.EXPECTATIONS.PRIVATE_ROOM.NAME
 msgctxt "STRINGS.UI.ROLES_SCREEN.EXPECTATIONS.PRIVATE_ROOM.NAME"
 msgid "Private Bedroom"
-msgstr ""
+msgstr "Особиста спальня"
 
 #. STRINGS.UI.ROLES_SCREEN.EXPECTATIONS.TITLE
 msgctxt "STRINGS.UI.ROLES_SCREEN.EXPECTATIONS.TITLE"
 msgid "Special Provisions Request"
-msgstr ""
+msgstr "Спеціально надане прохання"
 
 #. STRINGS.UI.ROLES_SCREEN.HIGHEST_EXPECTATIONS_TIER
 msgctxt "STRINGS.UI.ROLES_SCREEN.HIGHEST_EXPECTATIONS_TIER"
 msgid "<b>Highest Expectations</b>"
-msgstr ""
+msgstr "<b>Найвищі очікування</b>"
 
 #. STRINGS.UI.ROLES_SCREEN.MANAGEMENT_BUTTON
 msgctxt "STRINGS.UI.ROLES_SCREEN.MANAGEMENT_BUTTON"
@@ -33184,7 +33334,7 @@ msgstr "ПРАЦЯ"
 #. STRINGS.UI.ROLES_SCREEN.NO_JOB_STATION_WARNING
 msgctxt "STRINGS.UI.ROLES_SCREEN.NO_JOB_STATION_WARNING"
 msgid "Build a Jobs Board to unlock Job Assignments"
-msgstr ""
+msgstr "Побудуй Дошки Роботи, щоб відкрити розділ роботи"
 
 #. STRINGS.UI.ROLES_SCREEN.PERKS.ADVANCED_RESEARCH.DESCRIPTION
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.ADVANCED_RESEARCH.DESCRIPTION"
@@ -33332,7 +33482,7 @@ msgstr ""
 #. STRINGS.UI.ROLES_SCREEN.PERKS.MANAGERIAL_DUTIES.DESCRIPTION
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.MANAGERIAL_DUTIES.DESCRIPTION"
 msgid "Workload stress"
-msgstr ""
+msgstr "Стресове навантаження"
 
 #. STRINGS.UI.ROLES_SCREEN.PERKS.NO_PERKS
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.NO_PERKS"
@@ -33342,12 +33492,12 @@ msgstr ""
 #. STRINGS.UI.ROLES_SCREEN.PERKS.TITLE_BASICTRAINING
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.TITLE_BASICTRAINING"
 msgid "Basic Job Training"
-msgstr ""
+msgstr "Базові навчання праці"
 
 #. STRINGS.UI.ROLES_SCREEN.PERKS.TITLE_MORETRAINING
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.TITLE_MORETRAINING"
 msgid "Additional Job Training"
-msgstr ""
+msgstr "Допоміжні навчання праці"
 
 #. STRINGS.UI.ROLES_SCREEN.PRIORITY.DESCRIPTION
 msgctxt "STRINGS.UI.ROLES_SCREEN.PRIORITY.DESCRIPTION"
@@ -33382,7 +33532,7 @@ msgstr "Кваліфікація"
 #. STRINGS.UI.ROLES_SCREEN.RESUME.UNASSIGNED
 msgctxt "STRINGS.UI.ROLES_SCREEN.RESUME.UNASSIGNED"
 msgid "Unassigned"
-msgstr ""
+msgstr "Не призначені"
 
 #. STRINGS.UI.ROLES_SCREEN.ROLE_PROGRESS
 msgctxt "STRINGS.UI.ROLES_SCREEN.ROLE_PROGRESS"
@@ -33391,41 +33541,44 @@ msgid ""
 "Duplicants can become eligible for specialized jobs by maxing their current "
 "job experience"
 msgstr ""
+"<b>Робочий досвід: {0}/{1}</b>\n"
+"Дубліканти можуть отримати право до спеціальних \n"
+"робіт, збільшивши свій поточний робочий досвід"
 
 #. STRINGS.UI.ROLES_SCREEN.SIDEBAR.ASSIGNED_DUPLICANTS
 msgctxt "STRINGS.UI.ROLES_SCREEN.SIDEBAR.ASSIGNED_DUPLICANTS"
 msgid "Assigned Duplicants"
-msgstr ""
+msgstr "Призначені Дубліканти"
 
 #. STRINGS.UI.ROLES_SCREEN.SIDEBAR.UNASSIGN
 msgctxt "STRINGS.UI.ROLES_SCREEN.SIDEBAR.UNASSIGN"
 msgid "Unassign job"
-msgstr ""
+msgstr "Звільнити з роботи"
 
 #. STRINGS.UI.ROLES_SCREEN.SIDEBAR.UNASSIGNED_DUPLICANTS
 msgctxt "STRINGS.UI.ROLES_SCREEN.SIDEBAR.UNASSIGNED_DUPLICANTS"
 msgid "Unassigned Duplicants"
-msgstr ""
+msgstr "Неназначені Дубліканти"
 
 #. STRINGS.UI.ROLES_SCREEN.SLOTS.ASSIGNMENT_PENDING
 msgctxt "STRINGS.UI.ROLES_SCREEN.SLOTS.ASSIGNMENT_PENDING"
 msgid "(Pending)"
-msgstr ""
+msgstr "(В очікуванні)"
 
 #. STRINGS.UI.ROLES_SCREEN.SLOTS.NO_ELIGIBLE_DUPLICANTS
 msgctxt "STRINGS.UI.ROLES_SCREEN.SLOTS.NO_ELIGIBLE_DUPLICANTS"
 msgid "No Duplicants meet the requirements for this job"
-msgstr ""
+msgstr "Жоден з Дублікантів не відповідає вимогам цієї роботи"
 
 #. STRINGS.UI.ROLES_SCREEN.SLOTS.NOSLOTS
 msgctxt "STRINGS.UI.ROLES_SCREEN.SLOTS.NOSLOTS"
 msgid "No slots available"
-msgstr ""
+msgstr "Немає доступних місць"
 
 #. STRINGS.UI.ROLES_SCREEN.SLOTS.PICK_DUPLICANT
 msgctxt "STRINGS.UI.ROLES_SCREEN.SLOTS.PICK_DUPLICANT"
 msgid "None"
-msgstr ""
+msgstr "Ніхто"
 
 #. STRINGS.UI.ROLES_SCREEN.SLOTS.PICK_JOB
 msgctxt "STRINGS.UI.ROLES_SCREEN.SLOTS.PICK_JOB"
@@ -33485,12 +33638,12 @@ msgstr "Рівень 0"
 #. STRINGS.UI.ROLES_SCREEN.WIDGET.NO_MASTERS_TOOLTIP
 msgctxt "STRINGS.UI.ROLES_SCREEN.WIDGET.NO_MASTERS_TOOLTIP"
 msgid "<b>No Duplicants have mastered this job</b>"
-msgstr ""
+msgstr "<b>Немає Дублікантів, які опанували цю роботу</b>"
 
 #. STRINGS.UI.ROLES_SCREEN.WIDGET.NUMBER_OF_MASTERS_TOOLTIP
 msgctxt "STRINGS.UI.ROLES_SCREEN.WIDGET.NUMBER_OF_MASTERS_TOOLTIP"
 msgid "<b>Duplicants who have mastered this job:</b>{0}"
-msgstr ""
+msgstr "<b>Дубліканти, які опанували цю роботу:</b>{0}"
 
 #. STRINGS.UI.SCHEDULE
 msgctxt "STRINGS.UI.SCHEDULE"
