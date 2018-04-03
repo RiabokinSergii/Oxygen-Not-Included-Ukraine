@@ -73,14 +73,14 @@ msgid ""
 "\n"
 "{0}"
 msgstr ""
-"Напружені дубліканти пошкоджують ці будівлі:\n"
+"Стресуючі Дубліканти пошкоджують ці будівлі:\n"
 "\n"
 "{0}"
 
 #. STRINGS.BUILDING.STATUSITEMS.ANGERDAMAGE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ANGERDAMAGE.TOOLTIP"
 msgid "A stressed Duplicant is damaging this building"
-msgstr "Напружений Дублікант руйнує цю споруду"
+msgstr "Стресуючий Дублікант руйнує цю споруду"
 
 #. STRINGS.BUILDING.STATUSITEMS.ASSIGNEDPUBLIC.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ASSIGNEDPUBLIC.NAME"
@@ -6792,17 +6792,17 @@ msgstr "Автоматично ремонтувати цю будівлю, ко�
 #. STRINGS.CODEX.ATMOSPHERE.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.ATMOSPHERE.BODY.CONTAINER1"
 msgid "Description of breath, pressure, and gas"
-msgstr ""
+msgstr "Зображення дихання, тиску та газу"
 
 #. STRINGS.CODEX.ATMOSPHERE.SUBTITLE
 msgctxt "STRINGS.CODEX.ATMOSPHERE.SUBTITLE"
 msgid "Air and other gasses"
-msgstr ""
+msgstr "Повітря та інші гази"
 
 #. STRINGS.CODEX.ATMOSPHERE.TITLE
 msgctxt "STRINGS.CODEX.ATMOSPHERE.TITLE"
 msgid "Atmosphere"
-msgstr ""
+msgstr "Атмосфера"
 
 #. STRINGS.CODEX.BALMLILY.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.BALMLILY.BODY.CONTAINER1"
@@ -6829,11 +6829,17 @@ msgid ""
 "berry it produces emits a rare chemical while decaying that the Briar is "
 "capable of absorbing to supplement its own pheromone production."
 msgstr ""
+"Фальшиві Шипшини мають симбіотичні відносини з тісно пов'язаним рослинним "
+"походженням, Цвітіння Щетини.\n"
+"\n"
+"Вони, як правило, процвітають у районах, де присутнє Цвітіння Щетини, "
+"оскільки ягода, яку вона виробляє, випромінює рідкісні хімічні речовини, а "
+"гниюча Щетина здатна поглинати, щоб доповнити власне виробництво феромонів."
 
 #. STRINGS.CODEX.BLUFFBRIAR.SUBTITLE
 msgctxt "STRINGS.CODEX.BLUFFBRIAR.SUBTITLE"
 msgid "Decorative Plant"
-msgstr ""
+msgstr "Декоративна Рослина"
 
 #. STRINGS.CODEX.BLUFFBRIAR.TITLE
 msgctxt "STRINGS.CODEX.BLUFFBRIAR.TITLE"
@@ -6853,6 +6859,15 @@ msgid ""
 "by botanical definition but an aggregate fruit made up of many smaller "
 "fruitlets."
 msgstr ""
+"Цвітіння Щетини завчасно обробляється за щільну калорійність та порівняно "
+"швидко росте Щетинна Ягода.\n"
+"\n"
+"Споживання ягоди вимагає спеціальної підготовки завдяки товстим зубцям, що "
+"оточують їстівний фрукт.\n"
+"\n"
+"Термін \"Щетинна Ягода\" насправді є неправильним, оскільки це не \"ягода\" "
+"за ботанічним визначенням, а сукупний фрукт, що складається з багатьох "
+"менших плодів."
 
 #. STRINGS.CODEX.BRISTLEBLOSSOM.SUBTITLE
 msgctxt "STRINGS.CODEX.BRISTLEBLOSSOM.SUBTITLE"
@@ -6862,12 +6877,12 @@ msgstr "Їстівні рослини"
 #. STRINGS.CODEX.BRISTLEBLOSSOM.TITLE
 msgctxt "STRINGS.CODEX.BRISTLEBLOSSOM.TITLE"
 msgid "Bristle Blossom"
-msgstr ""
+msgstr "Цвітіння Щетини"
 
 #. STRINGS.CODEX.DECOR.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.DECOR.BODY.CONTAINER1"
 msgid "Description of decor, stress, expectations"
-msgstr ""
+msgstr "Зображення декору, стресу, очікування"
 
 #. STRINGS.CODEX.DECOR.SUBTITLE
 msgctxt "STRINGS.CODEX.DECOR.SUBTITLE"
@@ -6964,22 +6979,22 @@ msgstr "Потреби"
 #. STRINGS.CODEX.HEADERS.DIET
 msgctxt "STRINGS.CODEX.HEADERS.DIET"
 msgid "Diet"
-msgstr ""
+msgstr "Харчування"
 
 #. STRINGS.CODEX.HEADERS.FABRICATIONS
 msgctxt "STRINGS.CODEX.HEADERS.FABRICATIONS"
 msgid "Recipes"
-msgstr ""
+msgstr "Рецепти"
 
 #. STRINGS.CODEX.HEADERS.PREREQUISITE_ROLES
 msgctxt "STRINGS.CODEX.HEADERS.PREREQUISITE_ROLES"
 msgid "Prerequisite Jobs"
-msgstr ""
+msgstr "Необхідні роботи"
 
 #. STRINGS.CODEX.HEADERS.PREREQUISITE_TECH
 msgctxt "STRINGS.CODEX.HEADERS.PREREQUISITE_TECH"
 msgid "Prerequisite Tech"
-msgstr ""
+msgstr "Необхідні технології"
 
 #. STRINGS.CODEX.HEADERS.PRODUCES
 msgctxt "STRINGS.CODEX.HEADERS.PRODUCES"
@@ -6989,22 +7004,22 @@ msgstr "Виробник"
 #. STRINGS.CODEX.HEADERS.RECEPTACLE
 msgctxt "STRINGS.CODEX.HEADERS.RECEPTACLE"
 msgid "Plants"
-msgstr ""
+msgstr "Вирощування"
 
 #. STRINGS.CODEX.HEADERS.ROLE_PERKS
 msgctxt "STRINGS.CODEX.HEADERS.ROLE_PERKS"
 msgid "Role Perks"
-msgstr ""
+msgstr "Службові пільги"
 
 #. STRINGS.CODEX.HEADERS.TECH_UNLOCKS
 msgctxt "STRINGS.CODEX.HEADERS.TECH_UNLOCKS"
 msgid "Unlocks"
-msgstr ""
+msgstr "Розблокує"
 
 #. STRINGS.CODEX.HEADERS.UNLOCK_ROLES
 msgctxt "STRINGS.CODEX.HEADERS.UNLOCK_ROLES"
 msgid "Promotable to Roles"
-msgstr ""
+msgstr "Підвищення по службі"
 
 #. STRINGS.CODEX.HEADERS.USED_IN_RECIPES
 msgctxt "STRINGS.CODEX.HEADERS.USED_IN_RECIPES"
@@ -7122,6 +7137,8 @@ msgid ""
 "The Muckroot reproduces wildly when kept in precise conditions, but it is "
 "wholly incapable of reproducing without direct, natural sunlight."
 msgstr ""
+"Гній-корінь - це агресивно поширений, але надзвичайно делікатний рослинний "
+"корінь, відомий своїм земним смаком та незвичайною текстурою."
 
 #. STRINGS.CODEX.MUCKROOT.SUBTITLE
 msgctxt "STRINGS.CODEX.MUCKROOT.SUBTITLE"
@@ -7131,7 +7148,7 @@ msgstr "Їстівні рослини"
 #. STRINGS.CODEX.MUCKROOT.TITLE
 msgctxt "STRINGS.CODEX.MUCKROOT.TITLE"
 msgid "Muckroot"
-msgstr ""
+msgstr "Гній-корінь"
 
 #. STRINGS.CODEX.PAGENOTFOUND.BODY
 msgctxt "STRINGS.CODEX.PAGENOTFOUND.BODY"
@@ -7299,6 +7316,12 @@ msgid ""
 "Cloth made from the Thimble Reed owes its exceptional softness to the "
 "fineness of its fibers and the unusual length to which they grow."
 msgstr ""
+"Наперстковий Очерет - це рослина водно-болотних угідь, що використовується у "
+"виробництві високоякісних тканин, які цінуються за їх м'якість та "
+"повітропроникність.\n"
+"\n"
+"Тканина виготовлена з Наперсткового Очерету має свою виняткову м'якість до "
+"тонкості його волокон та незвичайно довга, до якої вони ростуть."
 
 #. STRINGS.CODEX.THIMBLEREED.SUBTITLE
 msgctxt "STRINGS.CODEX.THIMBLEREED.SUBTITLE"
@@ -7680,11 +7703,13 @@ msgid ""
 "Muckroots are incapable of propagating but can be harvested for a single "
 "<link=\"FOOD\">Food</link> serving."
 msgstr ""
+"Гній-корінь нездатні до розмноження, але можуть бути зібрані для однієї "
+"порції <link=\"FOOD\">Їжі</link>."
 
 #. STRINGS.CREATURES.SPECIES.BASICFORAGEPLANTPLANTED.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.BASICFORAGEPLANTPLANTED.NAME"
 msgid "<link=\"BASICFORAGEPLANTPLANTED\">Buried Muckroot</link>"
-msgstr ""
+msgstr "<link=\"BASICFORAGEPLANTPLANTED\">Похований Гній-корінь</link>"
 
 #. STRINGS.CREATURES.SPECIES.BASICSINGLEHARVESTPLANT.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.BASICSINGLEHARVESTPLANT.DESC"
@@ -7789,11 +7814,13 @@ msgid ""
 "A massive volcano that periodically erupts with molten <link=\"MAGMA"
 "\">Magma</link>."
 msgstr ""
+"Масивний вулкан, який періодично вивергається, розплавленою <link=\"MAGMA"
+"\">Магмою</link>."
 
 #. STRINGS.CREATURES.SPECIES.GEYSER.BIG_VOLCANO.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.GEYSER.BIG_VOLCANO.NAME"
 msgid "<link=\"GEYSERGENERICBIGVOLCANO\">Volcano</link>"
-msgstr ""
+msgstr "<link=\"GEYSERGENERICBIGVOLCANO\">Вулкан</link>"
 
 #. STRINGS.CREATURES.SPECIES.GEYSER.CHLORINE_GAS.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.GEYSER.CHLORINE_GAS.DESC"
@@ -7801,11 +7828,13 @@ msgid ""
 "A highly pressurized vent that periodically erupts with warm <link="
 "\"CHLORINEGAS\">Chlorine</link>."
 msgstr ""
+"Дренаж з високим тиском, який періодично вивергається, гарячим <link="
+"\"CHLORINEGAS\">Хлором</link>."
 
 #. STRINGS.CREATURES.SPECIES.GEYSER.CHLORINE_GAS.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.GEYSER.CHLORINE_GAS.NAME"
 msgid "<link=\"GEYSERGENERICCHLORINEGAS\">Chlorine Gas Vent</link>"
-msgstr ""
+msgstr "<link=\"GEYSERGENERICCHLORINEGAS\">Дренаж Хлорного Газу</link>"
 
 #. STRINGS.CREATURES.SPECIES.GEYSER.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.GEYSER.DESC"
@@ -7813,6 +7842,8 @@ msgid ""
 "A highly pressurized geyser that periodically erupts, spraying <link=\"STEAM"
 "\">Steam</link> and boiling hot <link=\"WATER\">Water</link>."
 msgstr ""
+"Гейзер з високим тиском, який періодично вивергається, бризками <link=\"STEAM"
+"\">Пару</link> та гарячою кип'ячою <link=\"WATER\">Водою</link>."
 
 #. STRINGS.CREATURES.SPECIES.GEYSER.FILTHY_WATER.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.GEYSER.FILTHY_WATER.DESC"
@@ -7820,11 +7851,13 @@ msgid ""
 "A highly pressurized vent that periodically erupts with boiling <link="
 "\"DIRTYWATER\">Polluted Water</link>."
 msgstr ""
+"Дренаж з високим тиском, який періодично вивергається, кип'ячою <link="
+"\"DIRTYWATER\">Забрудненою Водою</link>."
 
 #. STRINGS.CREATURES.SPECIES.GEYSER.FILTHY_WATER.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.GEYSER.FILTHY_WATER.NAME"
 msgid "<link=\"GEYSERGENERICFILTHYWATER\">Polluted Water Vent</link>"
-msgstr ""
+msgstr "<link=\"GEYSERGENERICFILTHYWATER\">Дренаж Забрудненої Води</link>"
 
 #. STRINGS.CREATURES.SPECIES.GEYSER.HOT_CO2.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.GEYSER.HOT_CO2.DESC"
@@ -7832,11 +7865,13 @@ msgid ""
 "A highly pressurized vent that periodically erupts with hot gaseous <link="
 "\"CARBONDIOXIDE\">Carbon Dioxide</link>."
 msgstr ""
+"Дренаж з високим тиском, який періодично вивергається, гарячим газом <link="
+"\"CARBONDIOXIDE\">Двоокису Вуглецю</link>."
 
 #. STRINGS.CREATURES.SPECIES.GEYSER.HOT_CO2.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.GEYSER.HOT_CO2.NAME"
 msgid "<link=\"GEYSERGENERICHOTCO2\">Carbon Dioxide Vent</link>"
-msgstr ""
+msgstr "<link=\"GEYSERGENERICHOTCO2\">Дренаж Двоокису Вуглецю</link>"
 
 #. STRINGS.CREATURES.SPECIES.GEYSER.HOT_HYDROGEN.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.GEYSER.HOT_HYDROGEN.DESC"
@@ -7844,11 +7879,13 @@ msgid ""
 "A highly pressurized vent that periodically erupts with hot gaseous <link="
 "\"HYDROGEN\">Hydrogen</link>."
 msgstr ""
+"Дренаж з високим тиском, який періодично вивергається, гарячим <link="
+"\"HYDROGEN\">Водневим</link> газом."
 
 #. STRINGS.CREATURES.SPECIES.GEYSER.HOT_HYDROGEN.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.GEYSER.HOT_HYDROGEN.NAME"
 msgid "<link=\"GEYSERGENERICHOTHYDROGEN\">Hydrogen Vent</link>"
-msgstr ""
+msgstr "<link=\"GEYSERGENERICHOTHYDROGEN\">Дренаж Водню</link>"
 
 #. STRINGS.CREATURES.SPECIES.GEYSER.HOT_PO2.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.GEYSER.HOT_PO2.DESC"
@@ -7856,11 +7893,13 @@ msgid ""
 "A highly pressurized vent that periodically erupts with hot <link="
 "\"CONTAMINATEDOXYGEN\">Polluted Oxygen</link>."
 msgstr ""
+"Дренаж з високим тиском, який періодично вивергається, гарячим <link="
+"\"CONTAMINATEDOXYGEN\">Забрудненим Киснем</link>."
 
 #. STRINGS.CREATURES.SPECIES.GEYSER.HOT_PO2.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.GEYSER.HOT_PO2.NAME"
 msgid "<link=\"GEYSERGENERICHOTPO2\">Hot Polluted Oxygen Vent</link>"
-msgstr ""
+msgstr "<link=\"GEYSERGENERICHOTPO2\">Дренаж Забрудненого Кисню</link>"
 
 #. STRINGS.CREATURES.SPECIES.GEYSER.HOT_STEAM.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.GEYSER.HOT_STEAM.DESC"
@@ -7868,11 +7907,13 @@ msgid ""
 "A highly pressurized vent that periodically erupts with scalding <link="
 "\"STEAM\">Steam</link>."
 msgstr ""
+"Дренаж з високим тиском, який періодично вивергається, пекучим <link=\"STEAM"
+"\">Паром</link>."
 
 #. STRINGS.CREATURES.SPECIES.GEYSER.HOT_STEAM.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.GEYSER.HOT_STEAM.NAME"
 msgid "<link=\"GEYSERGENERICHOTSTEAM\">Steam Vent</link>"
-msgstr ""
+msgstr "<link=\"GEYSERGENERICHOTSTEAM\">Дренаж Пару</link>"
 
 #. STRINGS.CREATURES.SPECIES.GEYSER.HOT_WATER.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.GEYSER.HOT_WATER.DESC"
@@ -7880,11 +7921,13 @@ msgid ""
 "A highly pressurized geyser that periodically erupts with hot <link=\"WATER"
 "\">Water</link>."
 msgstr ""
+"Гейзер з високим тиском, який періодично вивергається, гарячу <link=\"WATER"
+"\">Воду</link>."
 
 #. STRINGS.CREATURES.SPECIES.GEYSER.HOT_WATER.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.GEYSER.HOT_WATER.NAME"
 msgid "<link=\"GEYSERGENERICHOTWATER\">Water Geyser</link>"
-msgstr ""
+msgstr "<link=\"GEYSERGENERICHOTWATER\">Гейзер Води</link>"
 
 #. STRINGS.CREATURES.SPECIES.GEYSER.LIQUID_CO2.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.GEYSER.LIQUID_CO2.DESC"
@@ -7892,11 +7935,13 @@ msgid ""
 "A highly pressurized geyser that periodically erupts with boiling liquid "
 "<link=\"LIQUIDCARBONDIOXIDE\">Carbon Dioxide</link>."
 msgstr ""
+"Гейзер з високим тиском, який періодично вивергається, киплячим рідким <link="
+"\"LIQUIDCARBONDIOXIDE\">Двоокисом Вуглецю</link>."
 
 #. STRINGS.CREATURES.SPECIES.GEYSER.LIQUID_CO2.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.GEYSER.LIQUID_CO2.NAME"
 msgid "<link=\"GEYSERGENERICLIQUIDCO2\">Carbon Dioxide Geyser</link>"
-msgstr ""
+msgstr "<link=\"GEYSERGENERICLIQUIDCO2\">Гейзер Двоокису Вуглецю</link>"
 
 #. STRINGS.CREATURES.SPECIES.GEYSER.METHANE.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.GEYSER.METHANE.DESC"
@@ -7904,11 +7949,13 @@ msgid ""
 "A highly pressurized geyser that periodically erupts with hot <link=\"METHANE"
 "\">Natural Gas</link>."
 msgstr ""
+"Гейзер з високим тиском, який періодично вивергається, гарячим <link="
+"\"METHANE\">Природним Газом</link>."
 
 #. STRINGS.CREATURES.SPECIES.GEYSER.METHANE.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.GEYSER.METHANE.NAME"
 msgid "<link=\"GEYSERGENERICMETHANE\">Natural Gas Geyser</link>"
-msgstr ""
+msgstr "<link=\"GEYSERGENERICMETHANE\">Гейзер Природного Газу</link>"
 
 #. STRINGS.CREATURES.SPECIES.GEYSER.MOLTEN_COPPER.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.GEYSER.MOLTEN_COPPER.DESC"
@@ -7916,11 +7963,13 @@ msgid ""
 "A large volcano that periodically erupts with molten <link=\"MOLTENCOPPER"
 "\">Copper</link>."
 msgstr ""
+"Великий вулкан, який періодично вивергається, розплавленою <link="
+"\"MOLTENCOPPER\">Міддю</link>."
 
 #. STRINGS.CREATURES.SPECIES.GEYSER.MOLTEN_COPPER.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.GEYSER.MOLTEN_COPPER.NAME"
 msgid "<link=\"GEYSERGENERICMOLTENCOPPER\">Copper Volcano</link>"
-msgstr ""
+msgstr "<link=\"GEYSERGENERICMOLTENCOPPER\">Мідний Вулкан</link>"
 
 #. STRINGS.CREATURES.SPECIES.GEYSER.MOLTEN_GOLD.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.GEYSER.MOLTEN_GOLD.DESC"
@@ -7928,11 +7977,13 @@ msgid ""
 "A large volcano that periodically erupts with molten <link=\"MOLTENGOLD"
 "\">Gold</link>."
 msgstr ""
+"Великий вулкан, який періодично вивергається, розплавленим <link=\"MOLTENGOLD"
+"\">Золотом</link>."
 
 #. STRINGS.CREATURES.SPECIES.GEYSER.MOLTEN_GOLD.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.GEYSER.MOLTEN_GOLD.NAME"
 msgid "<link=\"GEYSERGENERICMOLTENGOLD\">Gold Volcano</link>"
-msgstr ""
+msgstr "<link=\"GEYSERGENERICMOLTENGOLD\">Золотий Вулкан</link>"
 
 #. STRINGS.CREATURES.SPECIES.GEYSER.MOLTEN_IRON.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.GEYSER.MOLTEN_IRON.DESC"
@@ -7940,16 +7991,18 @@ msgid ""
 "A large volcano that periodically erupts with molten <link=\"MOLTENIRON"
 "\">Iron</link>."
 msgstr ""
+"Великий вулкан, який періодично вивергається, розплавленим <link=\"MOLTENIRON"
+"\">Залізом</link>."
 
 #. STRINGS.CREATURES.SPECIES.GEYSER.MOLTEN_IRON.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.GEYSER.MOLTEN_IRON.NAME"
 msgid "<link=\"GEYSERGENERICMOLTENIRON\">Iron Volcano</link>"
-msgstr ""
+msgstr "<link=\"GEYSERGENERICMOLTENIRON\">Залізний Вулкан</link>"
 
 #. STRINGS.CREATURES.SPECIES.GEYSER.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.GEYSER.NAME"
 msgid "<link=\"GEYSER\">Steam Geyser</link>"
-msgstr ""
+msgstr "<link=\"GEYSER\">Гейзер Пару</link>"
 
 #. STRINGS.CREATURES.SPECIES.GEYSER.OIL_DRIP.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.GEYSER.OIL_DRIP.DESC"
@@ -7957,11 +8010,13 @@ msgid ""
 "A fissure in the asteroid that periodically erupts with boiling <link="
 "\"CRUDEOIL\">Crude Oil</link>."
 msgstr ""
+"Щілина в астероїді, що періодично вивергається, кип'ячою <link=\"CRUDEOIL"
+"\">Сирою Нафтою</link>."
 
 #. STRINGS.CREATURES.SPECIES.GEYSER.OIL_DRIP.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.GEYSER.OIL_DRIP.NAME"
 msgid "<link=\"GEYSERGENERICOILDRIP\">Leaky Oil Fissure</link>"
-msgstr ""
+msgstr "<link=\"GEYSERGENERICOILDRIP\">Щілина Текучої Нафти</link>"
 
 #. STRINGS.CREATURES.SPECIES.GEYSER.SLIMY_PO2.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.GEYSER.SLIMY_PO2.DESC"
@@ -7969,11 +8024,14 @@ msgid ""
 "A highly pressurized vent that periodically erupts with warm <link="
 "\"CONTAMINATEDOXYGEN\">Polluted Oxygen</link>."
 msgstr ""
+"Дренаж з високим тиском, який періодично вивергається, теплим <link="
+"\"CONTAMINATEDOXYGEN\">Забрудненим Киснем</link>."
 
 #. STRINGS.CREATURES.SPECIES.GEYSER.SLIMY_PO2.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.GEYSER.SLIMY_PO2.NAME"
 msgid "<link=\"GEYSERGENERICSLIMYPO2\">Infectious Polluted Oxygen Vent</link>"
 msgstr ""
+"<link=\"GEYSERGENERICSLIMYPO2\">Дренаж Інфекційного Забрудненого Кисню</link>"
 
 #. STRINGS.CREATURES.SPECIES.GEYSER.SLUSH_WATER.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.GEYSER.SLUSH_WATER.DESC"
@@ -7981,11 +8039,13 @@ msgid ""
 "A highly pressurized geyser that periodically erupts with freezing <link="
 "\"CRUSHEDICE\">Crushed Ice</link>."
 msgstr ""
+"Гейзер з високим тиском, який періодично вивергається, крижаним <link="
+"\"CRUSHEDICE\">Зім'ятим Льодом</link>."
 
 #. STRINGS.CREATURES.SPECIES.GEYSER.SLUSH_WATER.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.GEYSER.SLUSH_WATER.NAME"
 msgid "<link=\"GEYSERGENERICSLUSHWATER\">Cool Slush Geyser</link>"
-msgstr ""
+msgstr "<link=\"GEYSERGENERICSLUSHWATER\">Гейзер Холодних Грязей</link>"
 
 #. STRINGS.CREATURES.SPECIES.GEYSER.SMALL_VOLCANO.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.GEYSER.SMALL_VOLCANO.DESC"
@@ -7993,11 +8053,13 @@ msgid ""
 "A miniature volcano that periodically erupts with molten <link=\"MAGMA"
 "\">Magma</link>."
 msgstr ""
+"Мініатюрний вулкан, що періодично вивергається, розплавленою <link=\"MAGMA"
+"\">Магмою</link>."
 
 #. STRINGS.CREATURES.SPECIES.GEYSER.SMALL_VOLCANO.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.GEYSER.SMALL_VOLCANO.NAME"
 msgid "<link=\"GEYSERGENERICSMALLVOLCANO\">Minor Volcano</link>"
-msgstr ""
+msgstr "<link=\"GEYSERGENERICSMALLVOLCANO\">Малий Вулкан</link>"
 
 #. STRINGS.CREATURES.SPECIES.GEYSER.STEAM.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.GEYSER.STEAM.DESC"
@@ -8005,11 +8067,13 @@ msgid ""
 "A highly pressurized vent that periodically erupts with hot <link=\"STEAM"
 "\">Steam</link>."
 msgstr ""
+"Дренаж з високим тиском, який періодично вивергається, гарячим <link=\"STEAM"
+"\">Паром</link>."
 
 #. STRINGS.CREATURES.SPECIES.GEYSER.STEAM.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.GEYSER.STEAM.NAME"
 msgid "<link=\"GEYSERGENERICSTEAM\">Cool Steam Vent</link>"
-msgstr ""
+msgstr "<link=\"GEYSERGENERICSTEAM\">Дренаж Свіжого Пару</link>"
 
 #. STRINGS.CREATURES.SPECIES.GLOM.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.GLOM.DESC"
@@ -8125,11 +8189,13 @@ msgid ""
 "A highly pressurized geyser that periodically erupts with <link=\"METHANE"
 "\">Natural Gas</link>."
 msgstr ""
+"Гейзер з високим тиском, який періодично вивергає <link=\"METHANE"
+"\">Природний Газ</link>."
 
 #. STRINGS.CREATURES.SPECIES.METHANEGEYSER.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.METHANEGEYSER.NAME"
 msgid "<link=\"GEYSERGENERICMETHANEGEYSER\">Natural Gas Geyser</link>"
-msgstr ""
+msgstr "<link=\"GEYSERGENERICMETHANEGEYSER\">Гейзер Природного Газу</link>"
 
 #. STRINGS.CREATURES.SPECIES.MUSHROOMPLANT.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.MUSHROOMPLANT.DESC"
@@ -8168,11 +8234,15 @@ msgid ""
 "\n"
 "Oil can be extracted from a reservoir with sufficient pressure."
 msgstr ""
+"Нафтові Басейни - кам'яні утворення з відкладеною <link=\"CRUDEOIL\">Сирою "
+"Нафтою</link> під їх поверхнею.\n"
+"\n"
+"Нафта може бути викачана із резервуара з достатнім тиском."
 
 #. STRINGS.CREATURES.SPECIES.OIL_WELL.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.OIL_WELL.NAME"
 msgid "<link=\"OILWELL\">Oil Reservoir</link>"
-msgstr ""
+msgstr "<link=\"OILWELL\">Нафтовий Басейн</link>"
 
 #. STRINGS.CREATURES.SPECIES.OILFLOATER.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.OILFLOATER.DESC"
@@ -8335,6 +8405,11 @@ msgid ""
 "Grain can be sown to cultivate more Sleet Wheat, or processed into <link="
 "\"FOOD\">Food</link>."
 msgstr ""
+"<link=\"SEEDS\">Насіння</link> рослини з <link=\"COLDWHEAT\">Морозної "
+"Пшениці</link>.\n"
+"\n"
+"Зерна можна сіяти для вирощування Морозної Пшениці чи перероблення в <link="
+"\"FOOD\">Їжу</link>."
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.COLDWHEAT.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.COLDWHEAT.NAME"
@@ -12189,17 +12264,17 @@ msgstr "{0}: {1} Бактерії"
 #. STRINGS.DUPLICANTS.DISEASES.ALLDISEASES.NAME
 msgctxt "STRINGS.DUPLICANTS.DISEASES.ALLDISEASES.NAME"
 msgid "All Diseases"
-msgstr ""
+msgstr "Всі хвороби"
 
 #. STRINGS.DUPLICANTS.DISEASES.ATTRIBUTE_MODIFIER_SYMPTOMS
 msgctxt "STRINGS.DUPLICANTS.DISEASES.ATTRIBUTE_MODIFIER_SYMPTOMS"
 msgid "{0}: {1}"
-msgstr ""
+msgstr "{0}: {1}"
 
 #. STRINGS.DUPLICANTS.DISEASES.ATTRIBUTE_MODIFIER_SYMPTOMS_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.DISEASES.ATTRIBUTE_MODIFIER_SYMPTOMS_TOOLTIP"
 msgid "Modifies {0} by {1}"
-msgstr ""
+msgstr "Видозмінюються {0} від {1}"
 
 #. STRINGS.DUPLICANTS.DISEASES.COLDBRAIN.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.DISEASES.COLDBRAIN.DESCRIPTION"
@@ -12208,31 +12283,34 @@ msgid ""
 "This Duplicant's thought processes have been slowed to a crawl from extreme "
 "cold exposure"
 msgstr ""
+"\n"
+"Перебіг думок цих Дублікантів були сповільнені, до повзання від надмірного "
+"холодного впливу"
 
 #. STRINGS.DUPLICANTS.DISEASES.COLDBRAIN.LEGEND_HOVERTEXT
 msgctxt "STRINGS.DUPLICANTS.DISEASES.COLDBRAIN.LEGEND_HOVERTEXT"
 msgid "Area Causes Hypothermia\n"
-msgstr ""
+msgstr "Область спричиняє переохолодження\n"
 
 #. STRINGS.DUPLICANTS.DISEASES.COLDBRAIN.NAME
 msgctxt "STRINGS.DUPLICANTS.DISEASES.COLDBRAIN.NAME"
 msgid "<link=\"COLDBRAIN\">Hypothermia</link>"
-msgstr ""
+msgstr "<link=\"COLDBRAIN\">Переохолодження</link>"
 
 #. STRINGS.DUPLICANTS.DISEASES.CURED_POPUP
 msgctxt "STRINGS.DUPLICANTS.DISEASES.CURED_POPUP"
 msgid "Cured of {0}"
-msgstr ""
+msgstr "Вилікувався від {0}"
 
 #. STRINGS.DUPLICANTS.DISEASES.DEATH_SYMPTOM
 msgctxt "STRINGS.DUPLICANTS.DISEASES.DEATH_SYMPTOM"
 msgid "Death in {0}"
-msgstr ""
+msgstr "Помер від {0}"
 
 #. STRINGS.DUPLICANTS.DISEASES.DEATH_SYMPTOM_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.DISEASES.DEATH_SYMPTOM_TOOLTIP"
 msgid "Without medical care, this Duplicant will die of their illness in {0}"
-msgstr ""
+msgstr "Без медичної допомоги цей Дублікант помре від його хвороби {0}"
 
 #. STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.AIRBORNE
 msgctxt "STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.AIRBORNE"
@@ -12247,66 +12325,67 @@ msgstr ""
 msgctxt "STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.AIRBORNE_TOOLTIP"
 msgid "Duplicants contract this disease breathing air containing these germs"
 msgstr ""
+"Дубліканти отримують цю хворобу, через вдихання повітря, яке містить бактерії"
 
 #. STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.DIES
 msgctxt "STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.DIES"
 msgid "Dies"
-msgstr ""
+msgstr "Помирають"
 
 #. STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.DIES_ON
 msgctxt "STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.DIES_ON"
 msgid "Killed by:"
-msgstr ""
+msgstr "Помирають в:"
 
 #. STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.DIES_ON_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.DIES_ON_TOOLTIP"
 msgid "Contact with these substances kills germs over time"
-msgstr ""
+msgstr "Контакт з цими речовинами вбиває бактерії через деякий час"
 
 #. STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.DIES_QUICKLY
 msgctxt "STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.DIES_QUICKLY"
 msgid "Disinfected"
-msgstr ""
+msgstr "Дезінфіковані"
 
 #. STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.DIES_QUICKLY_ON
 msgctxt "STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.DIES_QUICKLY_ON"
 msgid "Disinfected by:"
-msgstr ""
+msgstr "Дезінфікуються в:"
 
 #. STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.DIES_QUICKLY_ON_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.DIES_QUICKLY_ON_TOOLTIP"
 msgid "Contact with these substances will quickly kill these germs"
-msgstr ""
+msgstr "Контакт з цими речовинами швидко вб'є ці бактерії"
 
 #. STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.DIES_QUICKLY_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.DIES_QUICKLY_TOOLTIP"
 msgid "Halves germ count every {0}"
-msgstr ""
+msgstr "Частина бактерій зменшиться кожні {0}"
 
 #. STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.DIES_SLOWLY
 msgctxt "STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.DIES_SLOWLY"
 msgid "Inhibited"
-msgstr ""
+msgstr "Уповільнені"
 
 #. STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.DIES_SLOWLY_ON
 msgctxt "STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.DIES_SLOWLY_ON"
 msgid "Inhibited by:"
-msgstr ""
+msgstr "Уповільнюються в:"
 
 #. STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.DIES_SLOWLY_ON_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.DIES_SLOWLY_ON_TOOLTIP"
 msgid "Contact with these substances will slowly reduce germ numbers"
-msgstr ""
+msgstr "Контакт з цими речовинами повільно зменшить кількість бактерій"
 
 #. STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.DIES_SLOWLY_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.DIES_SLOWLY_TOOLTIP"
 msgid "Halves germ count every {0}"
-msgstr ""
+msgstr "Частина бактерій зменшиться кожні {0}"
 
 #. STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.DIES_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.DIES_TOOLTIP"
 msgid "Halves germ count every {0}"
-msgstr ""
+msgstr "Частина бактерій зменшиться кожні {0}"
 
 #. STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.FOODBORNE
 msgctxt "STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.FOODBORNE"
@@ -12320,58 +12399,60 @@ msgstr ""
 #. STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.FOODBORNE_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.FOODBORNE_TOOLTIP"
 msgid "Duplicants contract this disease by ingesting contaminated food"
-msgstr ""
+msgstr "Дубліканти отримують цю хворобу, через споживання забрудненої їжі"
 
 #. STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.GROWS
 msgctxt "STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.GROWS"
 msgid "Multiplies"
-msgstr ""
+msgstr "Розмножуються"
 
 #. STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.GROWS_ON
 msgctxt "STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.GROWS_ON"
 msgid "Multiplies in:"
-msgstr ""
+msgstr "Розмножуються в:"
 
 #. STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.GROWS_ON_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.GROWS_ON_TOOLTIP"
 msgid "These substances allow germs to spread and reproduce"
-msgstr ""
+msgstr "Ці речовини дозволяють бактеріям поширюватися та розмножуватися"
 
 #. STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.GROWS_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.GROWS_TOOLTIP"
 msgid "Doubles germ count every {0}"
-msgstr ""
+msgstr "Подвоює кількість бактерій кожні {0}"
 
 #. STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.GROWTH_FORMAT
 msgctxt "STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.GROWTH_FORMAT"
 msgid "    • {0}"
-msgstr ""
+msgstr "    • {0}"
 
 #. STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.NEUTRAL
 msgctxt "STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.NEUTRAL"
 msgid "Survives"
-msgstr ""
+msgstr "Виживають"
 
 #. STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.NEUTRAL_ON
 msgctxt "STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.NEUTRAL_ON"
 msgid "Survives in:"
-msgstr ""
+msgstr "Виживають в:"
 
 #. STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.NEUTRAL_ON_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.NEUTRAL_ON_TOOLTIP"
 msgid ""
 "Germs will survive contact with these substances, but will not reproduce"
 msgstr ""
+"Бактерії виживають при контакті з цими речовинами, але не будуть "
+"розмножуватися"
 
 #. STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.NEUTRAL_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.NEUTRAL_TOOLTIP"
 msgid "Germ count remains static"
-msgstr ""
+msgstr "Кількість бактерій залишається статичним"
 
 #. STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.PRESSURE_RANGE
 msgctxt "STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.PRESSURE_RANGE"
 msgid "Pressure range: {0} to {1}\n"
-msgstr ""
+msgstr "Межі тиску: {0} до {1}\n"
 
 #. STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.PRESSURE_RANGE_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.PRESSURE_RANGE_TOOLTIP"
@@ -12380,6 +12461,9 @@ msgid ""
 "------------------\n"
 "They thrive in pressures between {2} and {3}"
 msgstr ""
+"Ці бактерії можуть вижити в тиску від {0} до {1}\n"
+"------------------\n"
+"Вони процвітають в тиску між {2} та {3}"
 
 #. STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.SKINBORNE
 msgctxt "STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.SKINBORNE"
@@ -12387,17 +12471,20 @@ msgid ""
 "Contracted via touch\n"
 "------------------"
 msgstr ""
+"Обумовлений через дотик\n"
+"------------------"
 
 #. STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.SKINBORNE_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.SKINBORNE_TOOLTIP"
 msgid ""
 "Duplicants contract this disease by coming into physical contact with germs"
 msgstr ""
+"Дубліканти отримують цю хворобу, вступаючи в фізичний контакт з бактеріями"
 
 #. STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.TEMPERATURE_RANGE
 msgctxt "STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.TEMPERATURE_RANGE"
 msgid "Temperature range: {0} to {1}"
-msgstr ""
+msgstr "Температурні межі: {0} до {1}"
 
 #. STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.TEMPERATURE_RANGE_TOOLTIP
 msgctxt ""
@@ -12407,6 +12494,9 @@ msgid ""
 "------------------\n"
 "They thrive in temperatures between {2} and {3}"
 msgstr ""
+"Ці бактерії можуть вижити в температурі від {0} до {1}\n"
+"------------------\n"
+"Вони процвітають в температурі між {2} та {3}"
 
 #. STRINGS.DUPLICANTS.DISEASES.FOODPOISONING.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.DISEASES.FOODPOISONING.DESCRIPTION"
@@ -12414,6 +12504,8 @@ msgid ""
 "\n"
 "This Duplicant's last meal wasn't exactly sanitary"
 msgstr ""
+"\n"
+"Остання їжа цих Дублікантів не була повністю гігієнічною"
 
 #. STRINGS.DUPLICANTS.DISEASES.FOODPOISONING.DESCRIPTIVE_SYMPTOMS
 msgctxt "STRINGS.DUPLICANTS.DISEASES.FOODPOISONING.DESCRIPTIVE_SYMPTOMS"
@@ -12422,7 +12514,7 @@ msgid ""
 "fatigue."
 msgstr ""
 "Несмертелно. Шкіра Дубліканта \"покрита\" з обох кінців, викликаючи крайню "
-"втома."
+"втому."
 
 #. STRINGS.DUPLICANTS.DISEASES.FOODPOISONING.DISEASE_SOURCE_DESCRIPTOR
 msgctxt "STRINGS.DUPLICANTS.DISEASES.FOODPOISONING.DISEASE_SOURCE_DESCRIPTOR"
@@ -12431,6 +12523,9 @@ msgid ""
 "\n"
 "This Duplicant will produce {1} when vomiting."
 msgstr ""
+"В даний час інфікований {2}.\n"
+"\n"
+"Цей Дублікант випускає {1}, коли блює."
 
 #. STRINGS.DUPLICANTS.DISEASES.FOODPOISONING.DISEASE_SOURCE_DESCRIPTOR_TOOLTIP
 msgctxt ""
@@ -12440,6 +12535,9 @@ msgid ""
 "------------------\n"
 "Each time they vomit, they will release {1} and lose calories"
 msgstr ""
+"Цей Дублікант приблизно буде блювати кожен {0}\n"
+"------------------\n"
+"Кожного разу, коли вони блюють, вони виділяють {1} та втрачають калорії"
 
 #. STRINGS.DUPLICANTS.DISEASES.FOODPOISONING.LEGEND_HOVERTEXT
 msgctxt "STRINGS.DUPLICANTS.DISEASES.FOODPOISONING.LEGEND_HOVERTEXT"
@@ -12454,7 +12552,7 @@ msgstr "<link=\"FOODPOISONING\">Харчове Отруєння</link>"
 #. STRINGS.DUPLICANTS.DISEASES.FOODPOISONING.VOMIT_SYMPTOM
 msgctxt "STRINGS.DUPLICANTS.DISEASES.FOODPOISONING.VOMIT_SYMPTOM"
 msgid "Vomiting"
-msgstr ""
+msgstr "Блювота"
 
 #. STRINGS.DUPLICANTS.DISEASES.FOODPOISONING.VOMIT_SYMPTOM_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.DISEASES.FOODPOISONING.VOMIT_SYMPTOM_TOOLTIP"
@@ -12462,6 +12560,8 @@ msgid ""
 "Duplicants periodically vomit throughout the day, producing additional germs "
 "and losing calories"
 msgstr ""
+"Дубліканти періодично блюють усюди протягом дня, виробляючи додаткові "
+"бактерії та втрачаючи калорії"
 
 #. STRINGS.DUPLICANTS.DISEASES.GERMS
 msgctxt "STRINGS.DUPLICANTS.DISEASES.GERMS"
@@ -12471,7 +12571,7 @@ msgstr "Бактерії"
 #. STRINGS.DUPLICANTS.DISEASES.GERMS_CONSUMED_DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.DISEASES.GERMS_CONSUMED_DESCRIPTION"
 msgid "A count of the number of germs this Duplicant is host to"
-msgstr ""
+msgstr "Кількість бактерій, для яких цей Дублікант вважається господарем"
 
 #. STRINGS.DUPLICANTS.DISEASES.HEATRASH.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.DISEASES.HEATRASH.DESCRIPTION"
@@ -12480,26 +12580,28 @@ msgid ""
 "This Duplicant's thought processes have short circuited from extreme heat "
 "exposure"
 msgstr ""
+"\n"
+"Перебіг думок цих Дублікантів закорочені, від крайнього впливу тепла"
 
 #. STRINGS.DUPLICANTS.DISEASES.HEATRASH.LEGEND_HOVERTEXT
 msgctxt "STRINGS.DUPLICANTS.DISEASES.HEATRASH.LEGEND_HOVERTEXT"
 msgid "Area Causes Heat Stroke\n"
-msgstr ""
+msgstr "Область спричиняє тепловий удар\n"
 
 #. STRINGS.DUPLICANTS.DISEASES.HEATRASH.NAME
 msgctxt "STRINGS.DUPLICANTS.DISEASES.HEATRASH.NAME"
 msgid "<link=\"HEATRASH\">Heat Stroke</link>"
-msgstr ""
+msgstr "<link=\"HEATRASH\">Тепловий Удар</link>"
 
 #. STRINGS.DUPLICANTS.DISEASES.INFECTED_MODIFIER
 msgctxt "STRINGS.DUPLICANTS.DISEASES.INFECTED_MODIFIER"
 msgid "Suppressed immune system"
-msgstr ""
+msgstr "Пригнічена імунна система"
 
 #. STRINGS.DUPLICANTS.DISEASES.INFECTED_POPUP
 msgctxt "STRINGS.DUPLICANTS.DISEASES.INFECTED_POPUP"
 msgid "Became infected by {0}"
-msgstr ""
+msgstr "Стає інфікованим від {0}"
 
 #. STRINGS.DUPLICANTS.DISEASES.INFECTION_MODIFIER
 msgctxt "STRINGS.DUPLICANTS.DISEASES.INFECTION_MODIFIER"
@@ -20497,11 +20599,16 @@ msgid ""
 "\n"
 "Digging up Buried Objects may uncover a Muckroot."
 msgstr ""
+"Безнасінний фрукт з надзвичайно м'яким присмаком.\n"
+"\n"
+"Не може бути посаджений.\n"
+"\n"
+"Викопування Прихованих Об'єктів можна виявити Гній-корінь"
 
 #. STRINGS.ITEMS.FOOD.BASICFORAGEPLANT.NAME
 msgctxt "STRINGS.ITEMS.FOOD.BASICFORAGEPLANT.NAME"
 msgid "<link=\"BASICFORAGEPLANT\">Muckroot</link>"
-msgstr ""
+msgstr "<link=\"BASICFORAGEPLANT\">Гній-корінь</link>"
 
 #. STRINGS.ITEMS.FOOD.BASICPLANTBAR.DESC
 msgctxt "STRINGS.ITEMS.FOOD.BASICPLANTBAR.DESC"
@@ -20712,6 +20819,10 @@ msgid ""
 "Heat unlocked an exquisite taste in the fruit, though the burnt spines leave "
 "something to be desired."
 msgstr ""
+"Смажений бутон з <link=\"PRICKLEFRUIT\">Щетинної Ягоди</link>.\n"
+"\n"
+"Тепло розкриває витончений смак у фрукті, хоча спалені шипи залишають щось "
+"бажане."
 
 #. STRINGS.ITEMS.FOOD.GRILLEDPRICKLEFRUIT.NAME
 msgctxt "STRINGS.ITEMS.FOOD.GRILLEDPRICKLEFRUIT.NAME"
@@ -20721,7 +20832,7 @@ msgstr "<link=\"GRILLEDPRICKLEFRUIT\">Хрумка Ягода</link>"
 #. STRINGS.ITEMS.FOOD.GRILLEDPRICKLEFRUIT.RECIPEDESC
 msgctxt "STRINGS.ITEMS.FOOD.GRILLEDPRICKLEFRUIT.RECIPEDESC"
 msgid "The grilled bud of a <link=\"PRICKLEFRUIT\">Bristle Berry</link>."
-msgstr ""
+msgstr "Смажений бутон з <link=\"PRICKLEFRUIT\">Щетинної Ягоди</link>."
 
 #. STRINGS.ITEMS.FOOD.HATCHEGG.DESC
 msgctxt "STRINGS.ITEMS.FOOD.HATCHEGG.DESC"
@@ -20756,7 +20867,7 @@ msgstr ""
 #. STRINGS.ITEMS.FOOD.MEAT.DESC
 msgctxt "STRINGS.ITEMS.FOOD.MEAT.DESC"
 msgid "Uncooked meat from a very dead critter. Yum!"
-msgstr ""
+msgstr "Сире м'ясо з дуже мертвої тварини. Ням!"
 
 #. STRINGS.ITEMS.FOOD.MEAT.NAME
 msgctxt "STRINGS.ITEMS.FOOD.MEAT.NAME"
@@ -20786,11 +20897,14 @@ msgid ""
 "\n"
 "Mush Bars are preferable to starvation, but only just barely."
 msgstr ""
+"Їстівний, розкладаюча грязь.\n"
+"\n"
+"Кашовий Брикет преференційний від голодування, але лише ледве."
 
 #. STRINGS.ITEMS.FOOD.MUSHROOM.DESC
 msgctxt "STRINGS.ITEMS.FOOD.MUSHROOM.DESC"
 msgid "An edible, flavorless fungus that grew in the dark."
-msgstr ""
+msgstr "Їстівний, несмачний гриб що росте в темряві."
 
 #. STRINGS.ITEMS.FOOD.MUSHROOM.NAME
 msgctxt "STRINGS.ITEMS.FOOD.MUSHROOM.NAME"
@@ -25771,7 +25885,7 @@ msgstr "Використовуйте прості матеріали, для п�
 #. STRINGS.RESEARCH.TECHS.REFINEDOBJECTS.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.REFINEDOBJECTS.NAME"
 msgid "<link=\"REFINEDOBJECTS\">Refined Objects</link>"
-msgstr "<link=\"REFINEDOBJECTS\">вдосконалені Об'єкти</link>"
+msgstr "<link=\"REFINEDOBJECTS\">Вдосконалені Об'єкти</link>"
 
 #. STRINGS.RESEARCH.TECHS.RENEWABLEENERGY.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.RENEWABLEENERGY.DESC"
@@ -27798,6 +27912,17 @@ msgid ""
 "    • Dormancy duration \n"
 "    • Disease emitted"
 msgstr ""
+"Гейзери та фумароли виділяють елементи за змінними інтервалами. Вони "
+"забезпечують стійкий, однак звичайно низький обсяг джерела матеріалу.\n"
+"\n"
+"Перемінними факторами гейзера є:\n"
+"\n"
+"    • Викиди елементів \n"
+"    • Викиди температури \n"
+"    • Викиди мас \n"
+"    • Тривалість циклу \n"
+"    • Тривалість часу спокою \n"
+"    • Викиди хвороб"
 
 #. STRINGS.UI.CODEX.MANAGEMENT_BUTTON
 msgctxt "STRINGS.UI.CODEX.MANAGEMENT_BUTTON"
@@ -33241,12 +33366,12 @@ msgstr ""
 #. STRINGS.UI.PRODUCTINFO_MISSINGRESOURCES_TITLE
 msgctxt "STRINGS.UI.PRODUCTINFO_MISSINGRESOURCES_TITLE"
 msgid "Requires {0}: {1}"
-msgstr ""
+msgstr "Потребує {0}: {1}"
 
 #. STRINGS.UI.PRODUCTINFO_REQUIRESRESEARCHDESC
 msgctxt "STRINGS.UI.PRODUCTINFO_REQUIRESRESEARCHDESC"
 msgid "Requires {0} Research"
-msgstr ""
+msgstr "Потребує дослідження {0}"
 
 #. STRINGS.UI.PRODUCTINFO_RESEARCHREQUIRED
 msgctxt "STRINGS.UI.PRODUCTINFO_RESEARCHREQUIRED"
@@ -33261,7 +33386,7 @@ msgstr ""
 #. STRINGS.UI.QUEUE
 msgctxt "STRINGS.UI.QUEUE"
 msgid "Queue"
-msgstr ""
+msgstr "Черга"
 
 #. STRINGS.UI.RED_ALERT
 msgctxt "STRINGS.UI.RED_ALERT"
@@ -35402,7 +35527,7 @@ msgstr "Інкубація"
 #. STRINGS.UI.UISIDESCREENS.EGGINCUBATOR.ENTITYDEPOSITED
 msgctxt "STRINGS.UI.UISIDESCREENS.EGGINCUBATOR.ENTITYDEPOSITED"
 msgid "INCUBATING: {0}"
-msgstr ""
+msgstr "ІНКУБАЦІЯ: {0}"
 
 #. STRINGS.UI.UISIDESCREENS.EGGINCUBATOR.REMOVE
 msgctxt "STRINGS.UI.UISIDESCREENS.EGGINCUBATOR.REMOVE"
