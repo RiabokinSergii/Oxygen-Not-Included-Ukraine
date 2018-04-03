@@ -8,7 +8,7 @@ I began to translate a game that I really liked about my native Ukrainian langua
 To translate as much as possible when I have time and strength.
 I work on translation independently.
 The game menu is now translated. The main interface and the main buttons, all overlays. All description of buildings and information in them. The translation is in the Beta stage.
-Currently, 54% of the elements of the game have been translated.
+Currently, 62% of the elements of the game have been translated.
 
 Привіт!
 
@@ -18,4 +18,4 @@ Currently, 54% of the elements of the game have been translated.
 Перекладати по мірі можливого, коли маю час і силу.
 Працюю над перекладом самостійно.
 На даний час перекладено меню гри. Головний інтерфейс та основні кнопки, всі оверлеї. Весь опис будівель та інформації в них. Переклад перебуває на стадії Бета.
-На даний час перекладено 54% елементів гри.
+На даний час перекладено 62% елементів гри.
