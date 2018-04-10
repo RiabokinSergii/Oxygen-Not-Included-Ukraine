@@ -7737,11 +7737,13 @@ msgid ""
 "A highly pressurized geyser that periodically erupts with <link=\"CHLORINEGAS"
 "\">Chlorine</link>."
 msgstr ""
+"Гейзер з високим тиском, який періодично вивергає <link=\"CHLORINEGAS"
+"\">Хлор</link>."
 
 #. STRINGS.CREATURES.SPECIES.CHLORINEGEYSER.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.CHLORINEGEYSER.NAME"
 msgid "<link=\"GEYSERGENERICCHLORINEGAS\">Chlorine Geyser</link>"
-msgstr ""
+msgstr "<link=\"GEYSERGENERICCHLORINEGAS\">Гейзер Хлору</link>"
 
 #. STRINGS.CREATURES.SPECIES.COLDBREATHER.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.COLDBREATHER.DESC"
@@ -10417,7 +10419,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.ATTRIBUTES.STRESSDELTA.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.STRESSDELTA.NAME"
 msgid "Stress Change"
-msgstr ""
+msgstr "Зміна Стресу"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.THERMALCONDUCTIVITYBARRIER.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.THERMALCONDUCTIVITYBARRIER.NAME"
@@ -10445,7 +10447,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.ATTRIBUTES.TOGGLE.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.TOGGLE.NAME"
 msgid "Toggle"
-msgstr ""
+msgstr "Перемикання"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.TOILETEFFICIENCY.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.TOILETEFFICIENCY.DESC"
@@ -10480,7 +10482,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.ATTRIBUTES.VALUE
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.VALUE"
 msgid "{0}: {1}"
-msgstr ""
+msgstr "{0}: {1}"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.WILDNESSDELTA.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.WILDNESSDELTA.DESC"
@@ -10495,7 +10497,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.CHOREGROUPS.ART.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.ART.DESC"
 msgid "Sculpt or paint to improve colony decor."
-msgstr ""
+msgstr "Ліплення чи малювання для підвищення декору колонії."
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.ART.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.ART.NAME"
@@ -10505,67 +10507,67 @@ msgstr "Мистецтво"
 #. STRINGS.DUPLICANTS.CHOREGROUPS.BASEKEEPING.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.BASEKEEPING.DESC"
 msgid "Sweep, mop, and disinfect objects within the colony."
-msgstr ""
+msgstr "Переносити, мити та дезінфікувати об'єкти всередині колонії."
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.BASEKEEPING.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.BASEKEEPING.NAME"
 msgid "Tidy"
-msgstr "Чистий"
+msgstr "Чистота"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.BUILD.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.BUILD.DESC"
 msgid "Construct new buildings."
-msgstr ""
+msgstr "Споруджувати нові будівлі."
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.BUILD.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.BUILD.NAME"
 msgid "Build"
-msgstr "Будувати"
+msgstr "Будування"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.COMBAT.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.COMBAT.DESC"
 msgid "Fight wild critters."
-msgstr ""
+msgstr "Боротьба з дикими тваринами."
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.COMBAT.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.COMBAT.NAME"
 msgid "Combat"
-msgstr ""
+msgstr "Бійка"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.COOK.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.COOK.DESC"
 msgid "Operate food preparation buildings."
-msgstr ""
+msgstr "Керування будівлями з приготування їжі."
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.COOK.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.COOK.NAME"
 msgid "Cook"
-msgstr "Кухар"
+msgstr "Куховарення"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.DIG.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.DIG.DESC"
 msgid "Mine raw resources."
-msgstr ""
+msgstr "Добування сирих ресурсів."
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.DIG.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.DIG.NAME"
 msgid "Dig"
-msgstr "Копач"
+msgstr "Копання"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.FARMING.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.FARMING.DESC"
 msgid "Gather crops from mature plants."
-msgstr ""
+msgstr "Збирання врожаю із зрілих рослин."
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.FARMING.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.FARMING.NAME"
 msgid "Farm"
-msgstr "Ферма"
+msgstr "Фермерство"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.HAULING.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.HAULING.DESC"
 msgid "Run resources to critical buildings and urgent storage."
-msgstr ""
+msgstr "Перенесення ресурсів до важливих будівель та термінових сховищ."
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.HAULING.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.HAULING.NAME"
@@ -10578,17 +10580,21 @@ msgid ""
 "Maintain algae terrariums, deodorizers, and water sieves to support colony "
 "life."
 msgstr ""
+"Утримувати Тераріум Водоростів, Дезодоратори та Водяні Фільтратори для "
+"підтримання життя колонії."
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.LIFESUPPORT.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.LIFESUPPORT.NAME"
 msgid "Life Support"
-msgstr ""
+msgstr "Життєзабезпечення"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.MACHINEOPERATING.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.MACHINEOPERATING.DESC"
 msgid ""
 "Operating heavy machinery for production, fabrication, and utility purposes."
 msgstr ""
+"Керування важкими механізмами для виробництва, виготовлення та корисних "
+"цілей."
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.MACHINEOPERATING.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.MACHINEOPERATING.NAME"
@@ -10598,47 +10604,47 @@ msgstr "Управління"
 #. STRINGS.DUPLICANTS.CHOREGROUPS.MASSAGE.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.MASSAGE.DESC"
 msgid "Take breaks for massages."
-msgstr ""
+msgstr "Взяти перерву для масажу."
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.MASSAGE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.MASSAGE.NAME"
 msgid "Leisure"
-msgstr ""
+msgstr "Дозвілля"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.MEDICALAID.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.MEDICALAID.DESC"
 msgid "Treat sick and injured Duplicants."
-msgstr ""
+msgstr "Лікування хворих та травмованих Дублікантів."
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.MEDICALAID.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.MEDICALAID.NAME"
 msgid "Care"
-msgstr ""
+msgstr "Опіка"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.RANCHING.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.RANCHING.DESC"
 msgid "Tend to domesticated critters."
-msgstr ""
+msgstr "Доглядати за прирученими тваринами."
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.RANCHING.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.RANCHING.NAME"
 msgid "Ranch"
-msgstr ""
+msgstr "Ранчо"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.REPAIR.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.REPAIR.DESC"
 msgid "Repair damaged buildings."
-msgstr ""
+msgstr "Ремонтувати пошкоджені будівлі."
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.REPAIR.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.REPAIR.NAME"
 msgid "Repair"
-msgstr ""
+msgstr "Ремонтування"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.RESEARCH.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.RESEARCH.DESC"
 msgid "Use research stations to unlock new technologies."
-msgstr ""
+msgstr "Використання станцій досліджень для розблокування нових технологій."
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.RESEARCH.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.RESEARCH.NAME"
@@ -10648,37 +10654,37 @@ msgstr "Вивчення"
 #. STRINGS.DUPLICANTS.CHOREGROUPS.STORAGE.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.STORAGE.DESC"
 msgid "Fill non-critical storage buildings with resources."
-msgstr ""
+msgstr "Наповнювати не важливі сховища будівель ресурсами."
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.STORAGE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.STORAGE.NAME"
 msgid "Storage"
-msgstr ""
+msgstr "Зберігання"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.TOGGLE.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.TOGGLE.DESC"
 msgid "Tune machinery and set or flip switches and sensors."
-msgstr ""
+msgstr "Налаштування та призначення механізмів або перемикачів та датчиків."
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.TOGGLE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.TOGGLE.NAME"
 msgid "Toggle"
-msgstr ""
+msgstr "Перемикання"
 
 #. STRINGS.DUPLICANTS.CHORES.ART.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.ART.NAME"
 msgid "Decorate"
-msgstr ""
+msgstr "Декорація"
 
 #. STRINGS.DUPLICANTS.CHORES.ART.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.ART.STATUS"
 msgid "Going to decorate"
-msgstr ""
+msgstr "Хід декорування"
 
 #. STRINGS.DUPLICANTS.CHORES.ART.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.ART.TOOLTIP"
 msgid "This Duplicant is going to work on their art"
-msgstr ""
+msgstr "Цей Дублікант починає роботу над його мистецтвом"
 
 #. STRINGS.DUPLICANTS.CHORES.ATTACK.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.ATTACK.NAME"
@@ -10688,42 +10694,42 @@ msgstr "Атака"
 #. STRINGS.DUPLICANTS.CHORES.ATTACK.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.ATTACK.STATUS"
 msgid "Attacking"
-msgstr ""
+msgstr "Атакувати"
 
 #. STRINGS.DUPLICANTS.CHORES.ATTACK.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.ATTACK.TOOLTIP"
 msgid "Chaaaarge!"
-msgstr ""
+msgstr "Арештуваааати!"
 
 #. STRINGS.DUPLICANTS.CHORES.BEINCAPACITATED.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.BEINCAPACITATED.NAME"
 msgid "Incapacitated"
-msgstr ""
+msgstr "Непридатний"
 
 #. STRINGS.DUPLICANTS.CHORES.BEINCAPACITATED.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.BEINCAPACITATED.STATUS"
 msgid "Dying"
-msgstr ""
+msgstr "Згасання"
 
 #. STRINGS.DUPLICANTS.CHORES.BEINCAPACITATED.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.BEINCAPACITATED.TOOLTIP"
 msgid "This Duplicant will die soon if they do not receive assistance"
-msgstr ""
+msgstr "Цей Дублікант скоро помре, якщо він не отримає допомогу"
 
 #. STRINGS.DUPLICANTS.CHORES.BINGE_EAT.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.BINGE_EAT.NAME"
 msgid "Binge Eat"
-msgstr ""
+msgstr "Їсти їжу"
 
 #. STRINGS.DUPLICANTS.CHORES.BINGE_EAT.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.BINGE_EAT.STATUS"
 msgid "Binge eating"
-msgstr ""
+msgstr "Переїдати"
 
 #. STRINGS.DUPLICANTS.CHORES.BINGE_EAT.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.BINGE_EAT.TOOLTIP"
 msgid "This Duplicant is attempting to eat their emotions due to stress"
-msgstr ""
+msgstr "Цей Дублікант намагається з'їсти свої емоції через стрес"
 
 #. STRINGS.DUPLICANTS.CHORES.BUILD.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.BUILD.NAME"
@@ -10733,162 +10739,166 @@ msgstr "Будувати"
 #. STRINGS.DUPLICANTS.CHORES.BUILD.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.BUILD.STATUS"
 msgid "Going to build"
-msgstr ""
+msgstr "Почати будувати"
 
 #. STRINGS.DUPLICANTS.CHORES.BUILD.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.BUILD.TOOLTIP"
 msgid "This Duplicant is constructing a new building"
-msgstr ""
+msgstr "Цей Дублікант будує нову будівлю"
 
 #. STRINGS.DUPLICANTS.CHORES.BUILDDIG.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.BUILDDIG.NAME"
 msgid "Construction Dig"
-msgstr ""
+msgstr "Конання для будівництва"
 
 #. STRINGS.DUPLICANTS.CHORES.BUILDDIG.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.BUILDDIG.STATUS"
 msgid "Going to construction dig"
-msgstr ""
+msgstr "Почати копання для будівництва"
 
 #. STRINGS.DUPLICANTS.CHORES.BUILDDIG.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.BUILDDIG.TOOLTIP"
 msgid "This dig will make room for a planned building to be constructed"
-msgstr ""
+msgstr "Це копання створить кімнату для розміщення будівлі для будівництва"
 
 #. STRINGS.DUPLICANTS.CHORES.BUILDFETCH.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.BUILDFETCH.NAME"
 msgid "Construction Deliver"
-msgstr ""
+msgstr "Будівельна доставка"
 
 #. STRINGS.DUPLICANTS.CHORES.BUILDFETCH.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.BUILDFETCH.STATUS"
 msgid "Construction Delivering"
-msgstr ""
+msgstr "Будівельна доставка"
 
 #. STRINGS.DUPLICANTS.CHORES.BUILDFETCH.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.BUILDFETCH.TOOLTIP"
 msgid "This delivery will provide materials to a planned construction site"
 msgstr ""
+"Ця доставка буде забеспечувати матеріали на запланований будівельний "
+"майданчик"
 
 #. STRINGS.DUPLICANTS.CHORES.CAPTURE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.CAPTURE.NAME"
 msgid "Wrangle"
-msgstr ""
+msgstr "Впіймати"
 
 #. STRINGS.DUPLICANTS.CHORES.CAPTURE.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.CAPTURE.STATUS"
 msgid "Wrangling"
-msgstr ""
+msgstr "Впіймання"
 
 #. STRINGS.DUPLICANTS.CHORES.CAPTURE.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.CAPTURE.TOOLTIP"
 msgid "Duplicants employed as Ranchers can wrangle most critters without traps"
 msgstr ""
+"Дубліканти, які мають роботу Ковбоя, можуть впіймати більшість тварин без "
+"пасток"
 
 #. STRINGS.DUPLICANTS.CHORES.CHECKPOINT.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.CHECKPOINT.NAME"
 msgid "Wait at Checkpoint"
-msgstr ""
+msgstr "Очікуйте орієнтира"
 
 #. STRINGS.DUPLICANTS.CHORES.CHECKPOINT.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.CHECKPOINT.STATUS"
 msgid "Waiting at Checkpoint"
-msgstr ""
+msgstr "Очікування орієнтира"
 
 #. STRINGS.DUPLICANTS.CHORES.CHECKPOINT.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.CHECKPOINT.TOOLTIP"
 msgid "This Duplicant is waiting for permission to pass"
-msgstr ""
+msgstr "Цей Дублікант очікує дозволу для проходу"
 
 #. STRINGS.DUPLICANTS.CHORES.CLEANTOILET.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.CLEANTOILET.NAME"
 msgid "Clean"
-msgstr ""
+msgstr "Чистити"
 
 #. STRINGS.DUPLICANTS.CHORES.CLEANTOILET.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.CLEANTOILET.STATUS"
 msgid "Going to clean"
-msgstr ""
+msgstr "Йти чистити"
 
 #. STRINGS.DUPLICANTS.CHORES.CLEANTOILET.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.CLEANTOILET.TOOLTIP"
 msgid "This Duplicant is cleaning out the Outhouse"
-msgstr ""
+msgstr "Цей Дублікант чистить убиральню"
 
 #. STRINGS.DUPLICANTS.CHORES.COMPOSTWORKABLE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.COMPOSTWORKABLE.NAME"
 msgid "Compost"
-msgstr ""
+msgstr "Компост"
 
 #. STRINGS.DUPLICANTS.CHORES.COMPOSTWORKABLE.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.COMPOSTWORKABLE.STATUS"
 msgid "Going to compost"
-msgstr ""
+msgstr "Йти компостувати"
 
 #. STRINGS.DUPLICANTS.CHORES.COMPOSTWORKABLE.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.COMPOSTWORKABLE.TOOLTIP"
 msgid "This Duplicant is dropping off organic material at the compost"
-msgstr ""
+msgstr "Цей Дублікант скидає органічний матеріал на компост"
 
 #. STRINGS.DUPLICANTS.CHORES.COOK.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.COOK.NAME"
 msgid "Cook"
-msgstr "Кухар"
+msgstr "Куховарить"
 
 #. STRINGS.DUPLICANTS.CHORES.COOK.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.COOK.STATUS"
 msgid "Going to cook"
-msgstr ""
+msgstr "Йти куховарити"
 
 #. STRINGS.DUPLICANTS.CHORES.COOK.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.COOK.TOOLTIP"
 msgid "This Duplicant is cooking food"
-msgstr ""
+msgstr "Цей Дублікант готує їжу"
 
 #. STRINGS.DUPLICANTS.CHORES.COOLDOWN.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.COOLDOWN.NAME"
 msgid "Cool Off"
-msgstr ""
+msgstr "Охолоджуватися"
 
 #. STRINGS.DUPLICANTS.CHORES.COOLDOWN.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.COOLDOWN.STATUS"
 msgid "Going to cool off"
-msgstr ""
+msgstr "Йти охолонути"
 
 #. STRINGS.DUPLICANTS.CHORES.COOLDOWN.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.COOLDOWN.TOOLTIP"
 msgid "This Duplicant got too hot and is going to cool off"
-msgstr ""
+msgstr "Цьому Дубліканту було занадто жарко та збирається охолонути"
 
 #. STRINGS.DUPLICANTS.CHORES.COUGH.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.COUGH.NAME"
 msgid "Cough"
-msgstr ""
+msgstr "Кашель"
 
 #. STRINGS.DUPLICANTS.CHORES.COUGH.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.COUGH.STATUS"
 msgid "Coughing"
-msgstr ""
+msgstr "Кашляти"
 
 #. STRINGS.DUPLICANTS.CHORES.COUGH.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.COUGH.TOOLTIP"
 msgid "Coughing is a symptom of illness and spreads airborne Germs"
-msgstr ""
+msgstr "Кашель - це симптом хвороби та поширення повітряних бактерій"
 
 #. STRINGS.DUPLICANTS.CHORES.CROP_TEND.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.CROP_TEND.NAME"
 msgid "Tend"
-msgstr ""
+msgstr "Догляд"
 
 #. STRINGS.DUPLICANTS.CHORES.CROP_TEND.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.CROP_TEND.STATUS"
 msgid "Tending plant"
-msgstr ""
+msgstr "Доглядання рослини"
 
 #. STRINGS.DUPLICANTS.CHORES.CROP_TEND.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.CROP_TEND.TOOLTIP"
 msgid "Tending plants increases their growth rate"
-msgstr ""
+msgstr "Доглядання рослин підвищує темп їх росту"
 
 #. STRINGS.DUPLICANTS.CHORES.DEBUGGOTO.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.DEBUGGOTO.NAME"
@@ -10903,148 +10913,153 @@ msgstr ""
 #. STRINGS.DUPLICANTS.CHORES.DECONSTRUCT.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.DECONSTRUCT.NAME"
 msgid "Deconstruct"
-msgstr "Руйнувати"
+msgstr "Руйнує"
 
 #. STRINGS.DUPLICANTS.CHORES.DECONSTRUCT.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.DECONSTRUCT.STATUS"
 msgid "Going to deconstruct"
-msgstr ""
+msgstr "Йде руйнувати"
 
 #. STRINGS.DUPLICANTS.CHORES.DECONSTRUCT.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.DECONSTRUCT.TOOLTIP"
 msgid "This Duplicant is demolishing a building"
-msgstr ""
+msgstr "Цей Дублікант руйнує будівлю"
 
 #. STRINGS.DUPLICANTS.CHORES.DELIVERFOOD.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.DELIVERFOOD.NAME"
 msgid "Deliver Food"
-msgstr ""
+msgstr "Доставка їжі"
 
 #. STRINGS.DUPLICANTS.CHORES.DELIVERFOOD.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.DELIVERFOOD.STATUS"
 msgid "Delivering food"
-msgstr ""
+msgstr "Доставляє їжу"
 
 #. STRINGS.DUPLICANTS.CHORES.DELIVERFOOD.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.DELIVERFOOD.TOOLTIP"
 msgid "Under thirty minutes or it's free"
-msgstr ""
+msgstr "Через тридцять хвилин або це безкоштовно"
 
 #. STRINGS.DUPLICANTS.CHORES.DEPRESSURIZE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.DEPRESSURIZE.NAME"
 msgid "Depressurize Well"
-msgstr ""
+msgstr "Знижує тиск свердловини"
 
 #. STRINGS.DUPLICANTS.CHORES.DEPRESSURIZE.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.DEPRESSURIZE.STATUS"
 msgid "Going to depressurize well"
-msgstr ""
+msgstr "Йде знижувати тиск свердловини"
 
 #. STRINGS.DUPLICANTS.CHORES.DEPRESSURIZE.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.DEPRESSURIZE.TOOLTIP"
 msgid "Oil Wells need to be periodically depressurized to function"
 msgstr ""
+"В Нафтовій Свердловині необхідно періодично знижувати тиск для функціонування"
 
 #. STRINGS.DUPLICANTS.CHORES.DIE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.DIE.NAME"
 msgid "Die"
-msgstr ""
+msgstr "Помер"
 
 #. STRINGS.DUPLICANTS.CHORES.DIE.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.DIE.STATUS"
 msgid "Dying"
-msgstr ""
+msgstr "Помирає"
 
 #. STRINGS.DUPLICANTS.CHORES.DIE.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.DIE.TOOLTIP"
 msgid "Fare thee well, brave soul"
-msgstr ""
+msgstr "Добре прощай, хороша душа"
 
 #. STRINGS.DUPLICANTS.CHORES.DIG.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.DIG.NAME"
 msgid "Dig"
-msgstr "Копач"
+msgstr "Копання"
 
 #. STRINGS.DUPLICANTS.CHORES.DIG.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.DIG.STATUS"
 msgid "Going to dig"
-msgstr ""
+msgstr "Йде копати"
 
 #. STRINGS.DUPLICANTS.CHORES.DIG.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.DIG.TOOLTIP"
 msgid "Digging produces usable ores and materials and makes space"
-msgstr ""
+msgstr "Копання приносить корисні руди та матеріали, а також створює простір"
 
 #. STRINGS.DUPLICANTS.CHORES.DISINFECT.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.DISINFECT.NAME"
 msgid "Disinfect"
-msgstr "Дезінфікувати"
+msgstr "Дезінфікує"
 
 #. STRINGS.DUPLICANTS.CHORES.DISINFECT.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.DISINFECT.STATUS"
 msgid "Going to disinfect"
-msgstr ""
+msgstr "Йде дезінфікувати"
 
 #. STRINGS.DUPLICANTS.CHORES.DISINFECT.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.DISINFECT.TOOLTIP"
 msgid ""
 "Buildings can be disinfected to remove contagious Germs on their surfaces"
 msgstr ""
+"Будівлі необхідно дезінфікувати для видалення інфекційних бактерій на їх "
+"поверхні"
 
 #. STRINGS.DUPLICANTS.CHORES.DOCTOR.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.DOCTOR.NAME"
 msgid "Treat Patient"
-msgstr ""
+msgstr "Лікувати хворого"
 
 #. STRINGS.DUPLICANTS.CHORES.DOCTOR.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.DOCTOR.STATUS"
 msgid "Treating patient"
-msgstr ""
+msgstr "Лікує хворого"
 
 #. STRINGS.DUPLICANTS.CHORES.DOCTOR.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.DOCTOR.TOOLTIP"
 msgid "This Duplicant is trying to make one of their peers feel better"
 msgstr ""
+"Цей Дублікант намагається зробити одного собі подібного, відчувати себе краще"
 
 #. STRINGS.DUPLICANTS.CHORES.DROPUNUSEDINVENTORY.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.DROPUNUSEDINVENTORY.NAME"
 msgid "Drop Inventory"
-msgstr ""
+msgstr "Викинути з інвентаря"
 
 #. STRINGS.DUPLICANTS.CHORES.DROPUNUSEDINVENTORY.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.DROPUNUSEDINVENTORY.STATUS"
 msgid "Dropping unused inventory"
-msgstr ""
+msgstr "Викидає непотрібне з інвентаря"
 
 #. STRINGS.DUPLICANTS.CHORES.DROPUNUSEDINVENTORY.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.DROPUNUSEDINVENTORY.TOOLTIP"
 msgid "This Duplicant is dropping carried items they no longer need"
 msgstr ""
+"Цей Дублікант викидає предмети, що носить при собі, які більше не потрібні"
 
 #. STRINGS.DUPLICANTS.CHORES.EAT.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.EAT.NAME"
 msgid "Eat"
-msgstr ""
+msgstr "Їсть"
 
 #. STRINGS.DUPLICANTS.CHORES.EAT.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.EAT.STATUS"
 msgid "Going to eat"
-msgstr ""
+msgstr "Йде їсти"
 
 #. STRINGS.DUPLICANTS.CHORES.EAT.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.EAT.TOOLTIP"
 msgid "Duplicants eat to replenish their calorie stores"
-msgstr ""
+msgstr "Дублікант їсть та поповнює сховище його калорій"
 
 #. STRINGS.DUPLICANTS.CHORES.EMOTEHIGHPRIORITY.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.EMOTEHIGHPRIORITY.NAME"
 msgid "Express Themselves"
-msgstr ""
+msgstr "Виражати себе"
 
 #. STRINGS.DUPLICANTS.CHORES.EMOTEHIGHPRIORITY.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.EMOTEHIGHPRIORITY.STATUS"
 msgid "Expressing themselves"
-msgstr ""
+msgstr "Виражає себе"
 
 #. STRINGS.DUPLICANTS.CHORES.EMOTEHIGHPRIORITY.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.EMOTEHIGHPRIORITY.TOOLTIP"
@@ -11052,31 +11067,33 @@ msgid ""
 "This Duplicant needs a moment to express their feelings, then they'll be on "
 "their way"
 msgstr ""
+"Цей Дублікант потребує певного моменту, щоб виразити свої почуття, тоді він "
+"буде на своєму шляху"
 
 #. STRINGS.DUPLICANTS.CHORES.EMPTYSTORAGE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.EMPTYSTORAGE.NAME"
 msgid "Empty Storage"
-msgstr ""
+msgstr "Спорожнити сховище"
 
 #. STRINGS.DUPLICANTS.CHORES.EMPTYSTORAGE.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.EMPTYSTORAGE.STATUS"
 msgid "Going to empty storage"
-msgstr ""
+msgstr "Йде спорожнювати сховище"
 
 #. STRINGS.DUPLICANTS.CHORES.EMPTYSTORAGE.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.EMPTYSTORAGE.TOOLTIP"
 msgid "This Duplicant is taking items out of storage"
-msgstr ""
+msgstr "Цей Дублікант забирає предмети із сховища"
 
 #. STRINGS.DUPLICANTS.CHORES.ENTOMBED.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.ENTOMBED.NAME"
 msgid "Entombed"
-msgstr ""
+msgstr "Похований"
 
 #. STRINGS.DUPLICANTS.CHORES.ENTOMBED.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.ENTOMBED.STATUS"
 msgid "Entombed"
-msgstr ""
+msgstr "Похований"
 
 #. STRINGS.DUPLICANTS.CHORES.ENTOMBED.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.ENTOMBED.TOOLTIP"
@@ -11084,131 +11101,134 @@ msgid ""
 "Entombed Duplicants are at risk of suffocating and must be dug out by others "
 "in the colony"
 msgstr ""
+"Поховані Дубліканти знаходяться під загрозою задихання та повинні бути "
+"викопані іншими колоністами"
 
 #. STRINGS.DUPLICANTS.CHORES.EQUIP.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.EQUIP.NAME"
 msgid "Equip"
-msgstr ""
+msgstr "Сорядити"
 
 #. STRINGS.DUPLICANTS.CHORES.EQUIP.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.EQUIP.STATUS"
 msgid "Moving to equip"
-msgstr ""
+msgstr "Переносить спорядження"
 
 #. STRINGS.DUPLICANTS.CHORES.EQUIP.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.EQUIP.TOOLTIP"
 msgid "This Duplicant is putting on a piece of equipment"
-msgstr ""
+msgstr "Цей Дублікант постачає шматочок обладнання"
 
 #. STRINGS.DUPLICANTS.CHORES.EQUIPPINGSUIT.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.EQUIPPINGSUIT.NAME"
 msgid "Equip Exosuit"
-msgstr ""
+msgstr "Споряджає екзо костюм"
 
 #. STRINGS.DUPLICANTS.CHORES.EQUIPPINGSUIT.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.EQUIPPINGSUIT.STATUS"
 msgid "Equipping exosuit"
-msgstr ""
+msgstr "Споряджатиме екзо костюм"
 
 #. STRINGS.DUPLICANTS.CHORES.EQUIPPINGSUIT.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.EQUIPPINGSUIT.TOOLTIP"
 msgid "This Duplicant is putting on protective gear"
-msgstr ""
+msgstr "Цей Дублікант постачає захисне обладнання"
 
 #. STRINGS.DUPLICANTS.CHORES.FABRICATE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.FABRICATE.NAME"
 msgid "Fabricate"
-msgstr ""
+msgstr "Виробництво"
 
 #. STRINGS.DUPLICANTS.CHORES.FABRICATE.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.FABRICATE.STATUS"
 msgid "Going to fabricate"
-msgstr ""
+msgstr "Йде на виробництво"
 
 #. STRINGS.DUPLICANTS.CHORES.FABRICATE.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.FABRICATE.TOOLTIP"
 msgid "This Duplicant is crafting something"
-msgstr ""
+msgstr "Цей Дублікант щось створює"
 
 #. STRINGS.DUPLICANTS.CHORES.FETCH.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.FETCH.NAME"
 msgid "Deliver"
-msgstr ""
+msgstr "Доставка"
 
 #. STRINGS.DUPLICANTS.CHORES.FETCH.REPORT_NAME
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.CHORES.FETCH.REPORT_NAME"
 msgid "Deliver to {0}"
-msgstr ""
+msgstr "Доставив {0}"
 
 #. STRINGS.DUPLICANTS.CHORES.FETCH.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.FETCH.STATUS"
 msgid "Delivering"
-msgstr ""
+msgstr "Доставляє"
 
 #. STRINGS.DUPLICANTS.CHORES.FETCH.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.FETCH.TOOLTIP"
 msgid "This Duplicant is delivering materials to where they'll be needed"
-msgstr ""
+msgstr "Цей Дублікант доставляє матеріали, де вони будуть необхідні"
 
 #. STRINGS.DUPLICANTS.CHORES.FETCHCREATURE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.FETCHCREATURE.NAME"
 msgid "Relocate Critter"
-msgstr ""
+msgstr "Перенести тварину"
 
 #. STRINGS.DUPLICANTS.CHORES.FETCHCREATURE.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.FETCHCREATURE.STATUS"
 msgid "Relocating Critter"
-msgstr ""
+msgstr "Переносить тварину"
 
 #. STRINGS.DUPLICANTS.CHORES.FETCHCREATURE.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.FETCHCREATURE.TOOLTIP"
 msgid "This Rancher Duplicant is moving a critter"
-msgstr "Цей Дублікант Ковбой переносить тварин"
+msgstr "Цей Дублікант Ковбой переносить тварину"
 
 #. STRINGS.DUPLICANTS.CHORES.FLEE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.FLEE.NAME"
 msgid "Flee"
-msgstr ""
+msgstr "Бігти"
 
 #. STRINGS.DUPLICANTS.CHORES.FLEE.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.FLEE.STATUS"
 msgid "Fleeing"
-msgstr ""
+msgstr "Втікає"
 
 #. STRINGS.DUPLICANTS.CHORES.FLEE.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.FLEE.TOOLTIP"
 msgid "Run away!"
-msgstr ""
+msgstr "Біжи одразу!"
 
 #. STRINGS.DUPLICANTS.CHORES.FLIPCOMPOST.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.FLIPCOMPOST.NAME"
 msgid "Flip"
-msgstr ""
+msgstr "Перекидати"
 
 #. STRINGS.DUPLICANTS.CHORES.FLIPCOMPOST.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.FLIPCOMPOST.STATUS"
 msgid "Going to flip compost"
-msgstr ""
+msgstr "Йде перекидати компост"
 
 #. STRINGS.DUPLICANTS.CHORES.FLIPCOMPOST.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.FLIPCOMPOST.TOOLTIP"
 msgid "Composts need to be flipped to produce Fertilizer"
-msgstr ""
+msgstr "Компост потрібно перекидати, щоб виробляти Добрива"
 
 #. STRINGS.DUPLICANTS.CHORES.GENERATEPOWER.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.GENERATEPOWER.NAME"
 msgid "Generate Power"
-msgstr ""
+msgstr "Виробляє енергію"
 
 #. STRINGS.DUPLICANTS.CHORES.GENERATEPOWER.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.GENERATEPOWER.STATUS"
 msgid "Going to generate power"
-msgstr ""
+msgstr "Йде виробляти енергію"
 
 #. STRINGS.DUPLICANTS.CHORES.GENERATEPOWER.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.GENERATEPOWER.TOOLTIP"
 msgid "This Duplicant is producing electrical power"
-msgstr ""
+msgstr "Цей Дублікант виробляє електричну енергію"
 
 #. STRINGS.DUPLICANTS.CHORES.GENESHUFFLE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.GENESHUFFLE.NAME"
@@ -11223,7 +11243,7 @@ msgstr "Використовувати Нейровий Вакцинатор"
 #. STRINGS.DUPLICANTS.CHORES.GENESHUFFLE.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.GENESHUFFLE.TOOLTIP"
 msgid "This Duplicant is being experimented on!"
-msgstr ""
+msgstr "Цей Дублікант зараз розпочав експеримент!"
 
 #. STRINGS.DUPLICANTS.CHORES.HARVEST.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.HARVEST.NAME"
@@ -11233,7 +11253,7 @@ msgstr "Жнива"
 #. STRINGS.DUPLICANTS.CHORES.HARVEST.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.HARVEST.STATUS"
 msgid "Going to harvest"
-msgstr ""
+msgstr "Йде на жнива"
 
 #. STRINGS.DUPLICANTS.CHORES.HARVEST.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.HARVEST.TOOLTIP"
@@ -11243,62 +11263,62 @@ msgstr "Цей Дублікант збирає корисні матеріали
 #. STRINGS.DUPLICANTS.CHORES.HATCHCREATURE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.HATCHCREATURE.NAME"
 msgid "Assist Newborn Critter"
-msgstr ""
+msgstr "Допомагає новонародженій тварині"
 
 #. STRINGS.DUPLICANTS.CHORES.HATCHCREATURE.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.HATCHCREATURE.STATUS"
 msgid "Assisting Newborn Critter"
-msgstr ""
+msgstr "Допомагати новонародженій тварині"
 
 #. STRINGS.DUPLICANTS.CHORES.HATCHCREATURE.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.HATCHCREATURE.TOOLTIP"
 msgid "This Rancher Duplicant is welcoming a newborn critter into the colony"
-msgstr ""
+msgstr "Цей Дублікант Ковбой вітає новонароджену тварину в колонії"
 
 #. STRINGS.DUPLICANTS.CHORES.HEAL.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.HEAL.NAME"
 msgid "Heal"
-msgstr ""
+msgstr "Лікується"
 
 #. STRINGS.DUPLICANTS.CHORES.HEAL.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.HEAL.STATUS"
 msgid "Healing"
-msgstr ""
+msgstr "Лікуватися"
 
 #. STRINGS.DUPLICANTS.CHORES.HEAL.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.HEAL.TOOLTIP"
 msgid "This Duplicant is taking some time to recover from their wounds"
-msgstr ""
+msgstr "Цьому Дубліканту необхідно час, щоб відновитися від його поранень"
 
 #. STRINGS.DUPLICANTS.CHORES.IDLE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.IDLE.NAME"
 msgid "Idle"
-msgstr ""
+msgstr "Байдикує"
 
 #. STRINGS.DUPLICANTS.CHORES.IDLE.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.IDLE.STATUS"
 msgid "Idle"
-msgstr ""
+msgstr "Байдикувати"
 
 #. STRINGS.DUPLICANTS.CHORES.IDLE.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.IDLE.TOOLTIP"
 msgid "This Duplicant cannot reach any pending errands"
-msgstr ""
+msgstr "Цей Дублікант не може досягати будь-яких незакінчених завдань"
 
 #. STRINGS.DUPLICANTS.CHORES.LIQUIDCOOLEDFAN.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.LIQUIDCOOLEDFAN.NAME"
 msgid "Use Fan"
-msgstr ""
+msgstr "Використовує вентилятор"
 
 #. STRINGS.DUPLICANTS.CHORES.LIQUIDCOOLEDFAN.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.LIQUIDCOOLEDFAN.STATUS"
 msgid "Going to use fan"
-msgstr ""
+msgstr "Йде використовувати вентилятор"
 
 #. STRINGS.DUPLICANTS.CHORES.LIQUIDCOOLEDFAN.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.LIQUIDCOOLEDFAN.TOOLTIP"
 msgid "This Duplicant is attempting to cool down the area"
-msgstr ""
+msgstr "Цей Дублікант намагається охолодити територію"
 
 #. STRINGS.DUPLICANTS.CHORES.MOP.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.MOP.NAME"
@@ -11308,37 +11328,37 @@ msgstr "Мити"
 #. STRINGS.DUPLICANTS.CHORES.MOP.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.MOP.STATUS"
 msgid "Going to mop"
-msgstr ""
+msgstr "Йде мити"
 
 #. STRINGS.DUPLICANTS.CHORES.MOP.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.MOP.TOOLTIP"
 msgid "Mopping removes liquids from the floor and bottles them for transport"
-msgstr ""
+msgstr "Миття прибирає рідини з підлоги до пляшок для їх транспортування"
 
 #. STRINGS.DUPLICANTS.CHORES.MOVETO.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.MOVETO.NAME"
 msgid "Move to"
-msgstr ""
+msgstr "Йти до"
 
 #. STRINGS.DUPLICANTS.CHORES.MOVETO.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.MOVETO.STATUS"
 msgid "Moving to location"
-msgstr ""
+msgstr "Йти до локації"
 
 #. STRINGS.DUPLICANTS.CHORES.MOVETO.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.MOVETO.TOOLTIP"
 msgid "This Duplicant was manually directed to move to a specific location"
-msgstr ""
+msgstr "Цей Дублікант був вручну скерований, до певного місця"
 
 #. STRINGS.DUPLICANTS.CHORES.MOVETOQUARANTINE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.MOVETOQUARANTINE.NAME"
 msgid "Move to Quarantine"
-msgstr ""
+msgstr "Йти до ізолятора"
 
 #. STRINGS.DUPLICANTS.CHORES.MOVETOQUARANTINE.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.MOVETOQUARANTINE.STATUS"
 msgid "Moving to quarantine"
-msgstr ""
+msgstr "Йде до ізолятора"
 
 #. STRINGS.DUPLICANTS.CHORES.MOVETOQUARANTINE.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.MOVETOQUARANTINE.TOOLTIP"
@@ -11346,123 +11366,124 @@ msgid ""
 "This Duplicant will isolate themselves to keep their illness away from the "
 "colony"
 msgstr ""
+"Цей Дублікант буде ізолювати себе, щоб утримати свою хворобу від колонії"
 
 #. STRINGS.DUPLICANTS.CHORES.MOVETOSAFETY.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.MOVETOSAFETY.NAME"
 msgid "Move to Safety"
-msgstr ""
+msgstr "Йти в безпеку"
 
 #. STRINGS.DUPLICANTS.CHORES.MOVETOSAFETY.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.MOVETOSAFETY.STATUS"
 msgid "Moving to safety"
-msgstr ""
+msgstr "Йде в безпеку"
 
 #. STRINGS.DUPLICANTS.CHORES.MOVETOSAFETY.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.MOVETOSAFETY.TOOLTIP"
 msgid "This Duplicant's getting out of here!"
-msgstr ""
+msgstr "Ці Дубліканти, вийдіть звідси!"
 
 #. STRINGS.DUPLICANTS.CHORES.MUSH.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.MUSH.NAME"
 msgid "Mush"
-msgstr ""
+msgstr "Змішує"
 
 #. STRINGS.DUPLICANTS.CHORES.MUSH.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.MUSH.STATUS"
 msgid "Going to mush"
-msgstr ""
+msgstr "Йде змішувати"
 
 #. STRINGS.DUPLICANTS.CHORES.MUSH.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.MUSH.TOOLTIP"
 msgid "This Duplicant is producing food"
-msgstr ""
+msgstr "Цей Дублікант виготовляє їжу"
 
 #. STRINGS.DUPLICANTS.CHORES.NARCOLEPSY.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.NARCOLEPSY.NAME"
 msgid "Narcoleptic Nap"
-msgstr ""
+msgstr "Нарколептичний Сон"
 
 #. STRINGS.DUPLICANTS.CHORES.NARCOLEPSY.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.NARCOLEPSY.STATUS"
 msgid "Narcolepsy Napping"
-msgstr ""
+msgstr "Нарколептичне дрімання"
 
 #. STRINGS.DUPLICANTS.CHORES.NARCOLEPSY.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.NARCOLEPSY.TOOLTIP"
 msgid "Zzzzzz..."
-msgstr ""
+msgstr "Zzzzzz..."
 
 #. STRINGS.DUPLICANTS.CHORES.PEE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.PEE.NAME"
 msgid "Relieve Self"
-msgstr ""
+msgstr "Звільняє себе"
 
 #. STRINGS.DUPLICANTS.CHORES.PEE.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.PEE.STATUS"
 msgid "Relieving self"
-msgstr ""
+msgstr "Звільнити себе"
 
 #. STRINGS.DUPLICANTS.CHORES.PEE.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.PEE.TOOLTIP"
 msgid "This Duplicant didn't find a toilet in time. Oops"
-msgstr ""
+msgstr "Цей Дублікант не знайшов убиральню вчасно. Ой!"
 
 #. STRINGS.DUPLICANTS.CHORES.POWER_TINKER.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.POWER_TINKER.NAME"
 msgid "Tinker"
-msgstr ""
+msgstr "Піклується"
 
 #. STRINGS.DUPLICANTS.CHORES.POWER_TINKER.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.POWER_TINKER.STATUS"
 msgid "Tinkering"
-msgstr ""
+msgstr "Післуватися"
 
 #. STRINGS.DUPLICANTS.CHORES.POWER_TINKER.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.POWER_TINKER.TOOLTIP"
 msgid "Tinkering with buildings improves their functionality"
-msgstr ""
+msgstr "Піклування за будівлями поліпшує їх функціонування"
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.ALLOWED_TO_DEPRESSURIZE
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.ALLOWED_TO_DEPRESSURIZE"
 msgid "Not currently overpressure"
-msgstr ""
+msgstr "В даний час не під надлишковим тиском"
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.CAN_CHAT
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.CAN_CHAT"
 msgid "Unreachable"
-msgstr ""
+msgstr "Недосяжний"
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.CAN_CURE
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.CAN_CURE"
 msgid "No applicable diseases"
-msgstr ""
+msgstr "Немає відповідних хвороб"
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.CAN_MOVE_TO
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.CAN_MOVE_TO"
 msgid "Unreachable"
-msgstr ""
+msgstr "Недосяжний"
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.CAN_PICKUP
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.CAN_PICKUP"
 msgid "Cannot pickup"
-msgstr ""
+msgstr "Неможливо підняти"
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.CHORE_DRIVER_IS_NULL
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.CHORE_DRIVER_IS_NULL"
 msgid "Assigned to: {Assignee}"
-msgstr ""
+msgstr "Призначений: {Assignee}"
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.DOES_SUIT_NEED_RECHARGING_IDLE
 msgctxt ""
 "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.DOES_SUIT_NEED_RECHARGING_IDLE"
 msgid "Suit is currently charged"
-msgstr ""
+msgstr "Костюм в даний час заряджається"
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.DOES_SUIT_NEED_RECHARGING_URGENT
 msgctxt ""
 "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.DOES_SUIT_NEED_RECHARGING_URGENT"
 msgid "Suit is currently charged"
-msgstr ""
+msgstr "Костюм в даний час заряджається"
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.EDIBLE_IS_NOT_NULL
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.EDIBLE_IS_NOT_NULL"
@@ -11472,47 +11493,47 @@ msgstr ""
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.HAS_ROLE_PERK
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.HAS_ROLE_PERK"
 msgid "Requires job perk"
-msgstr ""
+msgstr "Необхідні робочі привілеї"
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.HAS_SUIT_MARKER
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.HAS_SUIT_MARKER"
 msgid "No Suit Checkpoint"
-msgstr ""
+msgstr "Немає орієнтира костюмів"
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.HAS_TRAIT
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.HAS_TRAIT"
 msgid "Missing required trait"
-msgstr ""
+msgstr "Відсутня необхідна риса"
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.HAS_URGE
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.HAS_URGE"
 msgid "No current need"
-msgstr ""
+msgstr "Немає необхідності"
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.HEADER
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.HEADER"
 msgid "The selected {Selected} could:"
-msgstr ""
+msgstr "Обраний {Selected} може:"
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_ALLOWED_BY_AUTOMATION
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_ALLOWED_BY_AUTOMATION"
 msgid "Automated"
-msgstr ""
+msgstr "Автоматично"
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_ASSIGNED_TO_ME
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_ASSIGNED_TO_ME"
 msgid "Not assigned to {Selected}"
-msgstr ""
+msgstr "Не призначений до {Selected}"
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_AWAKE
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_AWAKE"
 msgid "{Selected} is sleeping"
-msgstr ""
+msgstr "{Selected} спить"
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_CONSUMPTION_PERMITTED
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_CONSUMPTION_PERMITTED"
 msgid "Disallowed by consumable permissions"
-msgstr ""
+msgstr "Дозвіл на споживання недозволений"
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_CREATURE_AVAILABLE_FOR_RANCHING
 msgctxt ""
@@ -11523,32 +11544,32 @@ msgstr "Немає наявних тварин"
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_FETCH_TARGET_AVAILABLE
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_FETCH_TARGET_AVAILABLE"
 msgid "No pending deliveries"
-msgstr ""
+msgstr "Немає очікуючих доставок"
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_FUNCTIONAL
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_FUNCTIONAL"
 msgid "Not functioning"
-msgstr ""
+msgstr "Не функціонує"
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_GETTING_MORE_STRESSED
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_GETTING_MORE_STRESSED"
 msgid "{Selected}'s stress is decreasing"
-msgstr ""
+msgstr "{Selected} стрес зменшується"
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_IN_MY_ROOM
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_IN_MY_ROOM"
 msgid "Outside {Selected}'s room"
-msgstr ""
+msgstr "За межами кімнати: {Selected}"
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_MARKED_FOR_DECONSTRUCTION
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_MARKED_FOR_DECONSTRUCTION"
 msgid "Being deconstructed"
-msgstr ""
+msgstr "Почато демонтування"
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_MARKED_FOR_DISABLE
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_MARKED_FOR_DISABLE"
 msgid "Being disabled"
-msgstr ""
+msgstr "Почато вимкнення"
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_MORE_SATISFYING
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_MORE_SATISFYING"
@@ -11558,47 +11579,47 @@ msgstr "Низька терміновість"
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_MOVING
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_MOVING"
 msgid "{Selected} is not moving"
-msgstr ""
+msgstr "{Selected} не рухається"
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_NARCOLEPSING
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_NARCOLEPSING"
 msgid "{Selected} is currently napping"
-msgstr ""
+msgstr "{Selected} зараз дрімає"
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_NOT_ANGRY
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_NOT_ANGRY"
 msgid "{Selected} is too angry"
-msgstr ""
+msgstr "{Selected} дуже лютий"
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_NOT_BEING_ATTACKED
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_NOT_BEING_ATTACKED"
 msgid "{Selected} is in combat"
-msgstr ""
+msgstr "{Selected} перебуває в бою"
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_NOT_BURROWED
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_NOT_BURROWED"
 msgid "Is not burrowed"
-msgstr ""
+msgstr "Не захований"
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_NOT_RED_ALERT
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_NOT_RED_ALERT"
 msgid "Unavailable in Red Alert"
-msgstr ""
+msgstr "Недоступно в Червоній Тривозі"
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_OFF_LADDER
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_OFF_LADDER"
 msgid "{Selected} is busy climbing"
-msgstr ""
+msgstr "{Selected} зайнятий сходженням"
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_OKAY_TIME_TO_SLEEP
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_OKAY_TIME_TO_SLEEP"
 msgid "No current need"
-msgstr ""
+msgstr "Немає необхідності"
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_OPERATIONAL
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_OPERATIONAL"
 msgid "Not operational"
-msgstr ""
+msgstr "Не працюючий"
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_OVERRIDE_TARGET_NULL_OR_ME
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_OVERRIDE_TARGET_NULL_OR_ME"
@@ -11608,45 +11629,47 @@ msgstr ""
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_PERMITTED
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_PERMITTED"
 msgid "Not permitted"
-msgstr ""
+msgstr "Не дозволено"
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_PREFERRED_ASSIGNABLE
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_PREFERRED_ASSIGNABLE"
 msgid "Not preferred assignment"
-msgstr ""
+msgstr "Не надає перевагу"
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_PREFERRED_ASSIGNABLE_OR_URGENT_BLADDER
+#, fuzzy
 msgctxt ""
 "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS."
 "IS_PREFERRED_ASSIGNABLE_OR_URGENT_BLADDER"
 msgid "Not preferred assignment"
-msgstr ""
+msgstr "Не надає перевагу"
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_ROLE
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_ROLE"
 msgid "Incorrect job assignment"
-msgstr ""
+msgstr "Некоректна призначена робота"
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_SCHEDULED_TIME
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_SCHEDULED_TIME"
 msgid "Not allowed by schedule"
-msgstr ""
+msgstr "Не дозволено розкладом"
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_STANDING
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_STANDING"
 msgid "{Selected} must stand"
-msgstr ""
+msgstr "{Selected} повинен стояти"
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_STRESS_ABOVE_ACTIVATION_RANGE
 msgctxt ""
 "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_STRESS_ABOVE_ACTIVATION_RANGE"
 msgid "{Selected} is not stressed right now"
-msgstr ""
+msgstr "{Selected} зараз не піддається стресу"
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_VALID
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_VALID"
 msgid "Invalid"
-msgstr ""
+msgstr "Недійсний"
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.NOT_CHORE_CREATOR
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.NOT_CHORE_CREATOR"
@@ -11656,52 +11679,52 @@ msgstr ""
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.NOT_IN_TUBE
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.NOT_IN_TUBE"
 msgid "{Selected} is busy in transit"
-msgstr ""
+msgstr "{Selected} зайнятий транзитом"
 
 #. STRINGS.DUPLICANTS.CHORES.RANCH.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.RANCH.NAME"
 msgid "Ranch"
-msgstr ""
+msgstr "Догляд"
 
 #. STRINGS.DUPLICANTS.CHORES.RANCH.REPORT_NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.RANCH.REPORT_NAME"
 msgid "Deliver to {0}"
-msgstr ""
+msgstr "Доставляє {0}"
 
 #. STRINGS.DUPLICANTS.CHORES.RANCH.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.RANCH.STATUS"
 msgid "Ranching"
-msgstr ""
+msgstr "Доглядає"
 
 #. STRINGS.DUPLICANTS.CHORES.RANCH.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.RANCH.TOOLTIP"
 msgid "This Duplicant is tending to a critter's wellbeing"
-msgstr "Цей Дублікант має тенденцію до добробуту тварин"
+msgstr "Цей Дублікант піклується про добробут тварин"
 
 #. STRINGS.DUPLICANTS.CHORES.RECHARGE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.RECHARGE.NAME"
 msgid "Recharge Equipment"
-msgstr ""
+msgstr "Перезарядка спорядження"
 
 #. STRINGS.DUPLICANTS.CHORES.RECHARGE.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.RECHARGE.STATUS"
 msgid "Recharging equipment"
-msgstr ""
+msgstr "Спорядження перезараджається"
 
 #. STRINGS.DUPLICANTS.CHORES.RECHARGE.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.RECHARGE.TOOLTIP"
 msgid "This Duplicant is recharging their equipment"
-msgstr ""
+msgstr "Цей Дублікант перезаряджає своє спорядження"
 
 #. STRINGS.DUPLICANTS.CHORES.RECOVERBREATH.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.RECOVERBREATH.NAME"
 msgid "Recover Breath"
-msgstr ""
+msgstr "Відновання дихання"
 
 #. STRINGS.DUPLICANTS.CHORES.RECOVERBREATH.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.RECOVERBREATH.STATUS"
 msgid "Recovering breath"
-msgstr ""
+msgstr "Відновлює дихання"
 
 #. STRINGS.DUPLICANTS.CHORES.RECOVERBREATH.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.RECOVERBREATH.TOOLTIP"
@@ -11711,63 +11734,63 @@ msgstr ""
 #. STRINGS.DUPLICANTS.CHORES.RELAX.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.RELAX.NAME"
 msgid "Relax"
-msgstr ""
+msgstr "Відпочивати"
 
 #. STRINGS.DUPLICANTS.CHORES.RELAX.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.RELAX.STATUS"
 msgid "Relaxing"
-msgstr ""
+msgstr "Відпочиває"
 
 #. STRINGS.DUPLICANTS.CHORES.RELAX.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.RELAX.TOOLTIP"
 msgid "This Duplicant is taking it easy"
-msgstr ""
+msgstr "Цей Дублікант взяв перепочинок"
 
 #. STRINGS.DUPLICANTS.CHORES.RELOCATE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.RELOCATE.NAME"
 msgid "Relocate"
-msgstr ""
+msgstr "Переміщати"
 
 #. STRINGS.DUPLICANTS.CHORES.RELOCATE.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.RELOCATE.STATUS"
 msgid "Going to relocate"
-msgstr ""
+msgstr "Йде переміщати"
 
 #. STRINGS.DUPLICANTS.CHORES.RELOCATE.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.RELOCATE.TOOLTIP"
 msgid "This Duplicant is moving a building to a new location"
-msgstr ""
+msgstr "Цей Дублікант переміщує будівлю на нове мосце"
 
 #. STRINGS.DUPLICANTS.CHORES.REPAIR.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.REPAIR.NAME"
 msgid "Repair"
-msgstr ""
+msgstr "Лагодить"
 
 #. STRINGS.DUPLICANTS.CHORES.REPAIR.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.REPAIR.STATUS"
 msgid "Going to repair"
-msgstr ""
+msgstr "Йде лагодити"
 
 #. STRINGS.DUPLICANTS.CHORES.REPAIR.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.REPAIR.TOOLTIP"
 msgid "This Duplicant is fixing a broken building"
-msgstr ""
+msgstr "Цей Дублікант лагодить зруйновану будівлю"
 
 #. STRINGS.DUPLICANTS.CHORES.RESCUEINCAPACITATED.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.RESCUEINCAPACITATED.NAME"
 msgid "Rescue Friend"
-msgstr ""
+msgstr "Рятує друга"
 
 #. STRINGS.DUPLICANTS.CHORES.RESCUEINCAPACITATED.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.RESCUEINCAPACITATED.STATUS"
 msgid "Rescuing friend"
-msgstr ""
+msgstr "Рятувати друга"
 
 #. STRINGS.DUPLICANTS.CHORES.RESCUEINCAPACITATED.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.RESCUEINCAPACITATED.TOOLTIP"
 msgid ""
 "This Duplicant is rescuing another Duplicant that has been incapacitated"
-msgstr ""
+msgstr "Цей Дублікант рятує іншого Дубліканта, який не дієздатний"
 
 #. STRINGS.DUPLICANTS.CHORES.RESEARCH.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.RESEARCH.NAME"
@@ -11777,329 +11800,334 @@ msgstr "Вивчення"
 #. STRINGS.DUPLICANTS.CHORES.RESEARCH.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.RESEARCH.STATUS"
 msgid "Going to research"
-msgstr ""
+msgstr "Йде вивчати"
 
 #. STRINGS.DUPLICANTS.CHORES.RESEARCH.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.RESEARCH.TOOLTIP"
 msgid "This Duplicant is working on the currently selected research focus"
-msgstr ""
+msgstr "Цей Дублікант нині працює над обраним дослідженням"
 
 #. STRINGS.DUPLICANTS.CHORES.RESTDUETODISEASE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.RESTDUETODISEASE.NAME"
 msgid "Rest"
-msgstr ""
+msgstr "Відпочиває"
 
 #. STRINGS.DUPLICANTS.CHORES.RESTDUETODISEASE.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.RESTDUETODISEASE.STATUS"
 msgid "Resting"
-msgstr ""
+msgstr "Відпочиває"
 
 #. STRINGS.DUPLICANTS.CHORES.RESTDUETODISEASE.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.RESTDUETODISEASE.TOOLTIP"
 msgid "This Duplicant isn't feeling well and is taking a rest"
-msgstr ""
+msgstr "Цей Дублікант відчуває себе недобре та відпочиває"
 
 #. STRINGS.DUPLICANTS.CHORES.RETURNSUIT.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.RETURNSUIT.NAME"
 msgid "Dock Exosuit"
-msgstr ""
+msgstr "Повертає екзо костюм"
 
 #. STRINGS.DUPLICANTS.CHORES.RETURNSUIT.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.RETURNSUIT.STATUS"
 msgid "Docking exosuit"
-msgstr ""
+msgstr "Повертає екзо костюм"
 
 #. STRINGS.DUPLICANTS.CHORES.RETURNSUIT.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.RETURNSUIT.TOOLTIP"
 msgid "This Duplicant is plugging an exosuit in for refilling"
-msgstr ""
+msgstr "Цей Дублікант підключає екзо костюм для наповнення заново"
 
 #. STRINGS.DUPLICANTS.CHORES.SCRUBORE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.SCRUBORE.NAME"
 msgid "Scrub Ore"
-msgstr ""
+msgstr "Очищає руду"
 
 #. STRINGS.DUPLICANTS.CHORES.SCRUBORE.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.SCRUBORE.STATUS"
 msgid "Scrubbing ore"
-msgstr ""
+msgstr "Очистити руду"
 
 #. STRINGS.DUPLICANTS.CHORES.SCRUBORE.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.SCRUBORE.TOOLTIP"
 msgid "Material ore can be scrubbed to remove Germs present on its surface"
 msgstr ""
+"Мінеральну руду можна очистити, щоб видалити присутні на її поверхні бактерії"
 
 #. STRINGS.DUPLICANTS.CHORES.SHOWER.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.SHOWER.NAME"
 msgid "Shower"
-msgstr "Душ"
+msgstr "Приймає душ"
 
 #. STRINGS.DUPLICANTS.CHORES.SHOWER.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.SHOWER.STATUS"
 msgid "Showering"
-msgstr ""
+msgstr "Приймати душ"
 
 #. STRINGS.DUPLICANTS.CHORES.SHOWER.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.SHOWER.TOOLTIP"
 msgid "This Duplicant is having a refreshing shower"
-msgstr ""
+msgstr "Цей Дублікант приймає освіжаючий душ"
 
 #. STRINGS.DUPLICANTS.CHORES.SIGH.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.SIGH.NAME"
 msgid "Sigh"
-msgstr ""
+msgstr "Зітхання"
 
 #. STRINGS.DUPLICANTS.CHORES.SIGH.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.SIGH.STATUS"
 msgid "Sighing"
-msgstr ""
+msgstr "Зітхає"
 
 #. STRINGS.DUPLICANTS.CHORES.SIGH.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.SIGH.TOOLTIP"
 msgid "Ho-hum."
-msgstr ""
+msgstr "Нудно."
 
 #. STRINGS.DUPLICANTS.CHORES.SLEEP.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.SLEEP.NAME"
 msgid "Sleep"
-msgstr ""
+msgstr "Спить"
 
 #. STRINGS.DUPLICANTS.CHORES.SLEEP.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.SLEEP.STATUS"
 msgid "Sleeping"
-msgstr ""
+msgstr "Йде спати"
 
 #. STRINGS.DUPLICANTS.CHORES.SLEEP.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.SLEEP.TOOLTIP"
 msgid "Zzzzzz..."
-msgstr ""
+msgstr "Zzzzzz..."
 
 #. STRINGS.DUPLICANTS.CHORES.STRESSACTINGOUT.NAME
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.CHORES.STRESSACTINGOUT.NAME"
 msgid "Lash Out"
-msgstr ""
+msgstr "На межі зриву"
 
 #. STRINGS.DUPLICANTS.CHORES.STRESSACTINGOUT.STATUS
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.CHORES.STRESSACTINGOUT.STATUS"
 msgid "Lashing out"
-msgstr ""
+msgstr "Випускає пар"
 
 #. STRINGS.DUPLICANTS.CHORES.STRESSACTINGOUT.TOOLTIP
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.CHORES.STRESSACTINGOUT.TOOLTIP"
 msgid "This Duplicant is having a stress-induced tantrum"
-msgstr ""
+msgstr "Цей Дублікант має стрес, викликаний роздратуванням"
 
 #. STRINGS.DUPLICANTS.CHORES.STRESSIDLE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.STRESSIDLE.NAME"
 msgid "Antsy"
-msgstr ""
+msgstr "Неспокійний"
 
 #. STRINGS.DUPLICANTS.CHORES.STRESSIDLE.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.STRESSIDLE.STATUS"
 msgid "Antsy"
-msgstr ""
+msgstr "Неспокійний"
 
 #. STRINGS.DUPLICANTS.CHORES.STRESSIDLE.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.STRESSIDLE.TOOLTIP"
 msgid ""
 "This Duplicant is a workaholic and gets stressed when they have nothing to do"
 msgstr ""
+"Цей Дублікант трудоголік та піддається стресу, коли йому нема чого робити"
 
 #. STRINGS.DUPLICANTS.CHORES.STRESSVOMIT.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.STRESSVOMIT.NAME"
 msgid "Stress Vomit"
-msgstr ""
+msgstr "Блює від стресу"
 
 #. STRINGS.DUPLICANTS.CHORES.STRESSVOMIT.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.STRESSVOMIT.STATUS"
 msgid "Stress vomiting"
-msgstr ""
+msgstr "Блювотний стрес"
 
 #. STRINGS.DUPLICANTS.CHORES.STRESSVOMIT.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.STRESSVOMIT.TOOLTIP"
 msgid "Some people deal with stress better than others"
-msgstr ""
+msgstr "Деякі люди впораються зі стресом краще, ніж інші"
 
 #. STRINGS.DUPLICANTS.CHORES.SWITCHROLE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.SWITCHROLE.NAME"
 msgid "Start Job"
-msgstr ""
+msgstr "Починає працювати"
 
 #. STRINGS.DUPLICANTS.CHORES.SWITCHROLE.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.SWITCHROLE.STATUS"
 msgid "Starting job assignment"
-msgstr ""
+msgstr "Починає назначену роботу"
 
 #. STRINGS.DUPLICANTS.CHORES.SWITCHROLE.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.SWITCHROLE.TOOLTIP"
 msgid "This Duplicant is preparing for their new job assignment"
-msgstr ""
+msgstr "Цей Дублікант приготувався до його нової назначеної роботи"
 
 #. STRINGS.DUPLICANTS.CHORES.TAKEMEDICINE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.TAKEMEDICINE.NAME"
 msgid "Take Medicine"
-msgstr ""
+msgstr "Приймає ліки"
 
 #. STRINGS.DUPLICANTS.CHORES.TAKEMEDICINE.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.TAKEMEDICINE.STATUS"
 msgid "Taking medicine"
-msgstr ""
+msgstr "Прийматиме ліки"
 
 #. STRINGS.DUPLICANTS.CHORES.TAKEMEDICINE.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.TAKEMEDICINE.TOOLTIP"
 msgid "This Duplicant is taking a dose of medicine to keep disease at bay"
-msgstr ""
+msgstr "Цей Дублікант приймає порцію ліків, щоб запобігти "
 
 #. STRINGS.DUPLICANTS.CHORES.TOGGLE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.TOGGLE.NAME"
 msgid "Change Setting"
-msgstr ""
+msgstr "Змінює налаштування"
 
 #. STRINGS.DUPLICANTS.CHORES.TOGGLE.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.TOGGLE.STATUS"
 msgid "Going to change setting"
-msgstr ""
+msgstr "Йде змінювати налаштування"
 
 #. STRINGS.DUPLICANTS.CHORES.TOGGLE.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.TOGGLE.TOOLTIP"
 msgid "This Duplicant is going to change the settings on a building"
-msgstr ""
+msgstr "Цей Дублікант йде змінювати налаштування в будівлі"
 
 #. STRINGS.DUPLICANTS.CHORES.TRANSPORT.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.TRANSPORT.NAME"
 msgid "Sweep"
-msgstr "Нести"
+msgstr "Переносить"
 
 #. STRINGS.DUPLICANTS.CHORES.TRANSPORT.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.TRANSPORT.STATUS"
 msgid "Going to sweep"
-msgstr ""
+msgstr "Йде переносити"
 
 #. STRINGS.DUPLICANTS.CHORES.TRANSPORT.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.TRANSPORT.TOOLTIP"
 msgid "Sweeping debris from the ground improves colony decor"
-msgstr ""
+msgstr "Прибирання сміття з землі покращує декор колонії"
 
 #. STRINGS.DUPLICANTS.CHORES.TRAVELTUBEENTRANCE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.TRAVELTUBEENTRANCE.NAME"
 msgid "Enter Transit Tube"
-msgstr ""
+msgstr "Увійшов до транзитної трубки"
 
 #. STRINGS.DUPLICANTS.CHORES.TRAVELTUBEENTRANCE.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.TRAVELTUBEENTRANCE.STATUS"
 msgid "Entering Transit Tube"
-msgstr ""
+msgstr "Входить до транзитної трубки"
 
 #. STRINGS.DUPLICANTS.CHORES.TRAVELTUBEENTRANCE.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.TRAVELTUBEENTRANCE.TOOLTIP"
 msgid "Nyoooom!"
-msgstr ""
+msgstr "Нуоооом!"
 
 #. STRINGS.DUPLICANTS.CHORES.UGLY_CRY.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.UGLY_CRY.NAME"
 msgid "Ugly Cry"
-msgstr ""
+msgstr "Гидко плаче"
 
 #. STRINGS.DUPLICANTS.CHORES.UGLY_CRY.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.UGLY_CRY.STATUS"
 msgid "Ugly crying"
-msgstr ""
+msgstr "Гидкий плач"
 
 #. STRINGS.DUPLICANTS.CHORES.UGLY_CRY.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.UGLY_CRY.TOOLTIP"
 msgid ""
 "This Duplicant is having a healthy cry to alleviate their negative emotions"
-msgstr ""
+msgstr "Цей Дублікант сильно плаче, щоб полегшити його негативні емоції"
 
 #. STRINGS.DUPLICANTS.CHORES.UNEQUIP.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.UNEQUIP.NAME"
 msgid "Unequip"
-msgstr ""
+msgstr "Розспоряджається"
 
 #. STRINGS.DUPLICANTS.CHORES.UNEQUIP.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.UNEQUIP.STATUS"
 msgid "Moving to unequip"
-msgstr ""
+msgstr "Йде розспоряджатися"
 
 #. STRINGS.DUPLICANTS.CHORES.UNEQUIP.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.UNEQUIP.TOOLTIP"
 msgid "This Duplicant is removing a piece of their equipment"
-msgstr ""
+msgstr "Цей Дублікант прибирає частину його спорядження"
 
 #. STRINGS.DUPLICANTS.CHORES.UPROOT.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.UPROOT.NAME"
 msgid "Uproot"
-msgstr ""
+msgstr "Корчує"
 
 #. STRINGS.DUPLICANTS.CHORES.UPROOT.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.UPROOT.STATUS"
 msgid "Going to uproot"
-msgstr ""
+msgstr "Йде корчувати"
 
 #. STRINGS.DUPLICANTS.CHORES.UPROOT.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.UPROOT.TOOLTIP"
 msgid "This Duplicant is uprooting a plant for a seed"
-msgstr ""
+msgstr "Цей Дублікант корчує рослину за для насіння"
 
 #. STRINGS.DUPLICANTS.CHORES.USETOILET.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.USETOILET.NAME"
 msgid "Use Toilet"
-msgstr ""
+msgstr "Користується убиральнею"
 
 #. STRINGS.DUPLICANTS.CHORES.USETOILET.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.USETOILET.STATUS"
 msgid "Going to use toilet"
-msgstr ""
+msgstr "Йде користуватися убиральнею"
 
 #. STRINGS.DUPLICANTS.CHORES.USETOILET.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.USETOILET.TOOLTIP"
 msgid "Duplicants have to use the toilet at least once per day"
-msgstr ""
+msgstr "Дубліканти повинні користуватися убиральнею принаймні один раз на день"
 
 #. STRINGS.DUPLICANTS.CHORES.VOMIT.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.VOMIT.NAME"
 msgid "Vomit"
-msgstr ""
+msgstr "Блює"
 
 #. STRINGS.DUPLICANTS.CHORES.VOMIT.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.VOMIT.STATUS"
 msgid "Vomiting"
-msgstr ""
+msgstr "Блюватиме"
 
 #. STRINGS.DUPLICANTS.CHORES.VOMIT.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.VOMIT.TOOLTIP"
 msgid "Vomiting produces Polluted Water and can spread disease"
-msgstr ""
+msgstr "Блювота приносить забруднену воду та може поширювати хворобу"
 
 #. STRINGS.DUPLICANTS.CHORES.WARMUP.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.WARMUP.NAME"
 msgid "Warm Up"
-msgstr ""
+msgstr "Зігрівається"
 
 #. STRINGS.DUPLICANTS.CHORES.WARMUP.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.WARMUP.STATUS"
 msgid "Going to warm up"
-msgstr ""
+msgstr "Йде зігріватися"
 
 #. STRINGS.DUPLICANTS.CHORES.WARMUP.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.WARMUP.TOOLTIP"
 msgid "This Duplicant got too cold and is going to warm up"
-msgstr ""
+msgstr "Цей Дублікант надто охолонув та йде зігріватися"
 
 #. STRINGS.DUPLICANTS.CHORES.WASHHANDS.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.WASHHANDS.NAME"
 msgid "Wash Hands"
-msgstr ""
+msgstr "Миє руки"
 
 #. STRINGS.DUPLICANTS.CHORES.WASHHANDS.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.WASHHANDS.STATUS"
 msgid "Washing hands"
-msgstr ""
+msgstr "Мити руки"
 
 #. STRINGS.DUPLICANTS.CHORES.WASHHANDS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.WASHHANDS.TOOLTIP"
 msgid "Good hygiene removes germs and prevents the spread of disease"
-msgstr ""
+msgstr "Хороша гігієна вбиває бактерії та запобігає поширенню хвороб"
 
 #. STRINGS.DUPLICANTS.CONGENITALTRAITS.BANHI.DESC
 msgctxt "STRINGS.DUPLICANTS.CONGENITALTRAITS.BANHI.DESC"
@@ -12114,142 +12142,142 @@ msgstr ""
 #. STRINGS.DUPLICANTS.CONGENITALTRAITS.ELLIE.DESC
 msgctxt "STRINGS.DUPLICANTS.CONGENITALTRAITS.ELLIE.DESC"
 msgid "This Duplicant needs things done in a very particular way"
-msgstr ""
+msgstr "Цьому Дубліканту потрібні речі, зроблені в дуже особливий спосіб"
 
 #. STRINGS.DUPLICANTS.CONGENITALTRAITS.ELLIE.NAME
 msgctxt "STRINGS.DUPLICANTS.CONGENITALTRAITS.ELLIE.NAME"
 msgid "Fastidious"
-msgstr ""
+msgstr "Вибагливий"
 
 #. STRINGS.DUPLICANTS.CONGENITALTRAITS.JOSHUA.DESC
 msgctxt "STRINGS.DUPLICANTS.CONGENITALTRAITS.JOSHUA.DESC"
 msgid "This Duplicant brightens others' days wherever he goes"
-msgstr ""
+msgstr "Цей Дублікант освітлює інші дні, де б він не йшов"
 
 #. STRINGS.DUPLICANTS.CONGENITALTRAITS.JOSHUA.NAME
 msgctxt "STRINGS.DUPLICANTS.CONGENITALTRAITS.JOSHUA.NAME"
 msgid "Cheery Disposition"
-msgstr ""
+msgstr "Бадьорий настрій"
 
 #. STRINGS.DUPLICANTS.CONGENITALTRAITS.LIAM.DESC
 msgctxt "STRINGS.DUPLICANTS.CONGENITALTRAITS.LIAM.DESC"
 msgid "This Duplicant has an all-consuming fear of bacteria"
-msgstr ""
+msgstr "Цей Дублікант має всебічний страх перед бактеріями"
 
 #. STRINGS.DUPLICANTS.CONGENITALTRAITS.LIAM.NAME
 msgctxt "STRINGS.DUPLICANTS.CONGENITALTRAITS.LIAM.NAME"
 msgid "Germaphobe"
-msgstr ""
+msgstr "Бактеро-фобія"
 
 #. STRINGS.DUPLICANTS.CONGENITALTRAITS.NONE.DESC
 msgctxt "STRINGS.DUPLICANTS.CONGENITALTRAITS.NONE.DESC"
 msgid "This Duplicant seems pretty average overall"
-msgstr ""
+msgstr "Цей Дублікант видається досить середнім в цілому"
 
 #. STRINGS.DUPLICANTS.CONGENITALTRAITS.NONE.NAME
 msgctxt "STRINGS.DUPLICANTS.CONGENITALTRAITS.NONE.NAME"
 msgid "None"
-msgstr ""
+msgstr "Ніякий"
 
 #. STRINGS.DUPLICANTS.CONGENITALTRAITS.STINKY.DESC
 msgctxt "STRINGS.DUPLICANTS.CONGENITALTRAITS.STINKY.DESC"
 msgid "This Duplicant is genetically cursed by a pungent bodily odor"
-msgstr ""
+msgstr "Цей Дублікант генетично проклятий різким запахом тіла"
 
 #. STRINGS.DUPLICANTS.CONGENITALTRAITS.STINKY.NAME
 msgctxt "STRINGS.DUPLICANTS.CONGENITALTRAITS.STINKY.NAME"
 msgid "Stinkiness"
-msgstr ""
+msgstr "Смердючий"
 
 #. STRINGS.DUPLICANTS.DEATHS.COMBAT.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.DEATHS.COMBAT.DESCRIPTION"
 msgid "{Target} was slain in combat."
-msgstr ""
+msgstr "{Target} був вбитий в бійці."
 
 #. STRINGS.DUPLICANTS.DEATHS.COMBAT.NAME
 msgctxt "STRINGS.DUPLICANTS.DEATHS.COMBAT.NAME"
 msgid "Slain"
-msgstr ""
+msgstr "Вбитий"
 
 #. STRINGS.DUPLICANTS.DEATHS.DROWNED.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.DEATHS.DROWNED.DESCRIPTION"
 msgid "{Target} has drowned."
-msgstr ""
+msgstr "{Target} потонув."
 
 #. STRINGS.DUPLICANTS.DEATHS.DROWNED.NAME
 msgctxt "STRINGS.DUPLICANTS.DEATHS.DROWNED.NAME"
 msgid "Drowned"
-msgstr ""
+msgstr "Потонув"
 
 #. STRINGS.DUPLICANTS.DEATHS.EXPLOSION.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.DEATHS.EXPLOSION.DESCRIPTION"
 msgid "{Target} has died in an explosion."
-msgstr ""
+msgstr "{Target} помер від вибуху."
 
 #. STRINGS.DUPLICANTS.DEATHS.EXPLOSION.NAME
 msgctxt "STRINGS.DUPLICANTS.DEATHS.EXPLOSION.NAME"
 msgid "Explosion"
-msgstr ""
+msgstr "Вибухнув"
 
 #. STRINGS.DUPLICANTS.DEATHS.FATALDISEASE.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.DEATHS.FATALDISEASE.DESCRIPTION"
 msgid "{Target} has died of a fatal illness."
-msgstr ""
+msgstr "{Target} помер від смертельної хвороби."
 
 #. STRINGS.DUPLICANTS.DEATHS.FATALDISEASE.NAME
 msgctxt "STRINGS.DUPLICANTS.DEATHS.FATALDISEASE.NAME"
 msgid "Succumbed to Disease"
-msgstr ""
+msgstr "Загинув від хвороби"
 
 #. STRINGS.DUPLICANTS.DEATHS.FROZEN.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.DEATHS.FROZEN.DESCRIPTION"
 msgid "{Target} has frozen to death."
-msgstr ""
+msgstr "{Target} помер від замерзання."
 
 #. STRINGS.DUPLICANTS.DEATHS.FROZEN.NAME
 msgctxt "STRINGS.DUPLICANTS.DEATHS.FROZEN.NAME"
 msgid "Frozen"
-msgstr ""
+msgstr "Змерз"
 
 #. STRINGS.DUPLICANTS.DEATHS.GENERIC.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.DEATHS.GENERIC.DESCRIPTION"
 msgid "{Target} has died."
-msgstr ""
+msgstr "{Target} помер."
 
 #. STRINGS.DUPLICANTS.DEATHS.GENERIC.NAME
 msgctxt "STRINGS.DUPLICANTS.DEATHS.GENERIC.NAME"
 msgid "Death"
-msgstr ""
+msgstr "Помер"
 
 #. STRINGS.DUPLICANTS.DEATHS.OVERHEATING.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.DEATHS.OVERHEATING.DESCRIPTION"
 msgid "{Target} has overheated to death."
-msgstr ""
+msgstr "{Target} помер від перегріву."
 
 #. STRINGS.DUPLICANTS.DEATHS.OVERHEATING.NAME
 msgctxt "STRINGS.DUPLICANTS.DEATHS.OVERHEATING.NAME"
 msgid "Overheated"
-msgstr ""
+msgstr "Перегрівся"
 
 #. STRINGS.DUPLICANTS.DEATHS.STARVATION.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.DEATHS.STARVATION.DESCRIPTION"
 msgid "{Target} has starved to death."
-msgstr ""
+msgstr "{Target} помер від голоду."
 
 #. STRINGS.DUPLICANTS.DEATHS.STARVATION.NAME
 msgctxt "STRINGS.DUPLICANTS.DEATHS.STARVATION.NAME"
 msgid "Starvation"
-msgstr ""
+msgstr "Голодна смерть"
 
 #. STRINGS.DUPLICANTS.DEATHS.SUFFOCATION.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.DEATHS.SUFFOCATION.DESCRIPTION"
 msgid "{Target} has suffocated to death."
-msgstr ""
+msgstr "{Target} помер від задушення."
 
 #. STRINGS.DUPLICANTS.DEATHS.SUFFOCATION.NAME
 msgctxt "STRINGS.DUPLICANTS.DEATHS.SUFFOCATION.NAME"
 msgid "Suffocation"
-msgstr ""
+msgstr "Задушився"
 
 #. STRINGS.DUPLICANTS.DESC_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.DESC_TOOLTIP"
@@ -12823,6 +12851,8 @@ msgid ""
 "\n"
 "Remedies taken: {0}"
 msgstr ""
+"\n"
+"Надано лікування: {0}"
 
 #. STRINGS.DUPLICANTS.DISEASES.STATUS_ITEM_TOOLTIP.DESCRIPTOR
 msgctxt "STRINGS.DUPLICANTS.DISEASES.STATUS_ITEM_TOOLTIP.DESCRIPTOR"
@@ -12836,6 +12866,9 @@ msgid ""
 "\n"
 "Medical care needed"
 msgstr ""
+"\n"
+"\n"
+"Необхідна медична допомога"
 
 #. STRINGS.DUPLICANTS.DISEASES.STATUS_ITEM_TOOLTIP.DOCTORED
 msgctxt "STRINGS.DUPLICANTS.DISEASES.STATUS_ITEM_TOOLTIP.DOCTORED"
@@ -12844,6 +12877,9 @@ msgid ""
 "\n"
 "Received medical care"
 msgstr ""
+"\n"
+"\n"
+"Отримано медичну допомогу"
 
 #. STRINGS.DUPLICANTS.DISEASES.STATUS_ITEM_TOOLTIP.DURATION
 msgctxt "STRINGS.DUPLICANTS.DISEASES.STATUS_ITEM_TOOLTIP.DURATION"
@@ -12851,6 +12887,8 @@ msgid ""
 "\n"
 "Duration remaining: {0}"
 msgstr ""
+"\n"
+"Решта часу: {0}"
 
 #. STRINGS.DUPLICANTS.DISEASES.STATUS_ITEM_TOOLTIP.FATALITY
 msgctxt "STRINGS.DUPLICANTS.DISEASES.STATUS_ITEM_TOOLTIP.FATALITY"
@@ -12858,6 +12896,8 @@ msgid ""
 "\n"
 "Fatal if untreated in: {0}"
 msgstr ""
+"\n"
+"Фатальний, якщо не лікувати: {0}"
 
 #. STRINGS.DUPLICANTS.DISEASES.STATUS_ITEM_TOOLTIP.INFECTION_SOURCE
 msgctxt "STRINGS.DUPLICANTS.DISEASES.STATUS_ITEM_TOOLTIP.INFECTION_SOURCE"
@@ -12865,6 +12905,8 @@ msgid ""
 "\n"
 "Contracted {0}"
 msgstr ""
+"\n"
+"Контактував {0}"
 
 #. STRINGS.DUPLICANTS.DISEASES.STATUS_ITEM_TOOLTIP.NOMEDICINETAKEN
 msgctxt "STRINGS.DUPLICANTS.DISEASES.STATUS_ITEM_TOOLTIP.NOMEDICINETAKEN"
@@ -12872,6 +12914,8 @@ msgid ""
 "\n"
 "Remedies taken: None"
 msgstr ""
+"\n"
+"Засоби захисту: Ніяких"
 
 #. STRINGS.DUPLICANTS.DISEASES.STATUS_ITEM_TOOLTIP.SYMPTOMS
 msgctxt "STRINGS.DUPLICANTS.DISEASES.STATUS_ITEM_TOOLTIP.SYMPTOMS"
@@ -12888,81 +12932,83 @@ msgid ""
 "{Descriptor}{Symptoms}\n"
 "{InfectionSource}{Doctor}{Duration}{Fatality}{Cures}{Bedrest}"
 msgstr ""
+"{Descriptor}{Symptoms}\n"
+"{InfectionSource}{Doctor}{Duration}{Fatality}{Cures}{Bedrest}"
 
 #. STRINGS.DUPLICANTS.DISEASES.TRIGGERS.EATCOMPLETEEDIBLE
 msgctxt "STRINGS.DUPLICANTS.DISEASES.TRIGGERS.EATCOMPLETEEDIBLE"
 msgid "May cause {Diseases}"
-msgstr ""
+msgstr "Може спричинити {Diseases}"
 
 #. STRINGS.DUPLICANTS.DISEASES.TRIGGERS.TOOLTIPS.EATCOMPLETEEDIBLE
 msgctxt "STRINGS.DUPLICANTS.DISEASES.TRIGGERS.TOOLTIPS.EATCOMPLETEEDIBLE"
 msgid "May cause {Diseases}"
-msgstr ""
+msgstr "Може спричинити {Diseases}"
 
 #. STRINGS.DUPLICANTS.DISEASES.TYPE.AILMENT
 msgctxt "STRINGS.DUPLICANTS.DISEASES.TYPE.AILMENT"
 msgid "Ailment"
-msgstr ""
+msgstr "Нездужання"
 
 #. STRINGS.DUPLICANTS.DISEASES.TYPE.INJURY
 msgctxt "STRINGS.DUPLICANTS.DISEASES.TYPE.INJURY"
 msgid "Injury"
-msgstr ""
+msgstr "Травма"
 
 #. STRINGS.DUPLICANTS.DISEASES.TYPE.PATHOGEN
 msgctxt "STRINGS.DUPLICANTS.DISEASES.TYPE.PATHOGEN"
 msgid "Illness"
-msgstr ""
+msgstr "Хвороба"
 
 #. STRINGS.DUPLICANTS.GENDER.FEMALE.NAME
 msgctxt "STRINGS.DUPLICANTS.GENDER.FEMALE.NAME"
 msgid "F"
-msgstr ""
+msgstr "Ж"
 
 #. STRINGS.DUPLICANTS.GENDER.FEMALE.PLURALS.ONE
 msgctxt "STRINGS.DUPLICANTS.GENDER.FEMALE.PLURALS.ONE"
 msgid "she"
-msgstr ""
+msgstr "вона"
 
 #. STRINGS.DUPLICANTS.GENDER.FEMALE.PLURALS.TWO
 msgctxt "STRINGS.DUPLICANTS.GENDER.FEMALE.PLURALS.TWO"
 msgid "her"
-msgstr ""
+msgstr "її"
 
 #. STRINGS.DUPLICANTS.GENDER.MALE.NAME
 msgctxt "STRINGS.DUPLICANTS.GENDER.MALE.NAME"
 msgid "M"
-msgstr ""
+msgstr "Ч"
 
 #. STRINGS.DUPLICANTS.GENDER.MALE.PLURALS.ONE
 msgctxt "STRINGS.DUPLICANTS.GENDER.MALE.PLURALS.ONE"
 msgid "he"
-msgstr ""
+msgstr "він"
 
 #. STRINGS.DUPLICANTS.GENDER.MALE.PLURALS.TWO
 msgctxt "STRINGS.DUPLICANTS.GENDER.MALE.PLURALS.TWO"
 msgid "his"
-msgstr ""
+msgstr "його"
 
 #. STRINGS.DUPLICANTS.GENDER.NB.NAME
 msgctxt "STRINGS.DUPLICANTS.GENDER.NB.NAME"
 msgid "X"
-msgstr ""
+msgstr "Х"
 
 #. STRINGS.DUPLICANTS.GENDER.NB.PLURALS.ONE
 msgctxt "STRINGS.DUPLICANTS.GENDER.NB.PLURALS.ONE"
 msgid "they"
-msgstr ""
+msgstr "вони"
 
 #. STRINGS.DUPLICANTS.GENDER.NB.PLURALS.TWO
 msgctxt "STRINGS.DUPLICANTS.GENDER.NB.PLURALS.TWO"
 msgid "their"
-msgstr ""
+msgstr "їх"
 
 #. STRINGS.DUPLICANTS.GENDERTITLE
 msgctxt "STRINGS.DUPLICANTS.GENDERTITLE"
 msgid "Gender: "
-msgstr ""
+msgstr "Рід: "
 
 #. STRINGS.DUPLICANTS.MODIFIERS.ANEWHOPE.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.ANEWHOPE.NAME"
@@ -13602,7 +13648,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.MODIFIERS.POPPEDEARDRUMS.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.POPPEDEARDRUMS.NAME"
 msgid "Popped Eardrums"
-msgstr ""
+msgstr "Тріск у вухах"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.POPPEDEARDRUMS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.POPPEDEARDRUMS.TOOLTIP"
@@ -13610,6 +13656,8 @@ msgid ""
 "This Duplicant was exposed to an overpressurized area that popped their "
 "eardrums"
 msgstr ""
+"Цей Дублікант був під дією високого тиску, що тиснув на його барабанні "
+"перетинки"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.POSTDISEASERECOVERY.ADDITIONAL_EFFECTS
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.POSTDISEASERECOVERY.ADDITIONAL_EFFECTS"
@@ -13967,7 +14015,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.MODIFIERS.UNCLEAN.CAUSE
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.UNCLEAN.CAUSE"
 msgid "Obtained by coming into contact with polluted substances"
-msgstr "Отримано шляхом контакту з забрудненими речовинами."
+msgstr "Отримано шляхом контакту з забрудненими речовинами"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.UNCLEAN.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.UNCLEAN.NAME"
@@ -14996,7 +15044,7 @@ msgstr "<link=\"MINER\">Шахтар</link>"
 #. STRINGS.DUPLICANTS.ROLES.NO_ROLE.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.NO_ROLE.DESCRIPTION"
 msgid "No job assignment."
-msgstr "Немає назначеної роботи"
+msgstr "Немає назначеної роботи."
 
 #. STRINGS.DUPLICANTS.ROLES.NO_ROLE.NAME
 msgctxt "STRINGS.DUPLICANTS.ROLES.NO_ROLE.NAME"
@@ -15008,7 +15056,7 @@ msgctxt "STRINGS.DUPLICANTS.ROLES.OIL_TECHNICIAN.DESCRIPTION"
 msgid "Oil Technicians can extract and refine crude oil"
 msgstr ""
 "Нафтові техніки можуть витягувати та очищували\n"
-"сиру нафту."
+"сиру нафту"
 
 #. STRINGS.DUPLICANTS.ROLES.OIL_TECHNICIAN.NAME
 msgctxt "STRINGS.DUPLICANTS.ROLES.OIL_TECHNICIAN.NAME"
@@ -15369,7 +15417,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.STATUSITEMS.BEDUNREACHABLE.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.BEDUNREACHABLE.NAME"
 msgid "Cannot reach bed"
-msgstr ""
+msgstr "Не може добратися до ліжка"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.BEDUNREACHABLE.NOTIFICATION_NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.BEDUNREACHABLE.NOTIFICATION_NAME"
@@ -15432,12 +15480,12 @@ msgstr ""
 #. STRINGS.DUPLICANTS.STATUSITEMS.BREATHINGO2.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.BREATHINGO2.NAME"
 msgid "Inhaling {ConsumptionRate} O<sub>2</sub>"
-msgstr ""
+msgstr "Вдихає {ConsumptionRate} O<sub>2</sub>"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.BREATHINGO2.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.BREATHINGO2.TOOLTIP"
 msgid "Duplicants require oxygen to live"
-msgstr ""
+msgstr "Дублікант вимагає кисень, щоб жити"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.BUILDDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.BUILDDELIVERSTATUS.NAME"
@@ -15539,12 +15587,12 @@ msgstr ""
 #. STRINGS.DUPLICANTS.STATUSITEMS.COOKING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.COOKING.NAME"
 msgid "Cooking {Item}"
-msgstr ""
+msgstr "Готує {Item}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.COOKING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.COOKING.TOOLTIP"
 msgid "This Duplicant is cooking up a tasty {Item}"
-msgstr ""
+msgstr "Цей Дублікант готує смачний {Item}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.DAILYRATIONLIMITREACHED.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.DAILYRATIONLIMITREACHED.NAME"
@@ -15665,7 +15713,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.STATUSITEMS.EATING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.EATING.NAME"
 msgid "Eating {Target}"
-msgstr ""
+msgstr "Їсть {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.EATING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.EATING.TOOLTIP"
@@ -15675,12 +15723,12 @@ msgstr ""
 #. STRINGS.DUPLICANTS.STATUSITEMS.EMITTINGCO2.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.EMITTINGCO2.NAME"
 msgid "Exhaling {EmittingRate} CO<sub>2</sub>"
-msgstr ""
+msgstr "Видихає {EmittingRate} CO<sub>2</sub>"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.EMITTINGCO2.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.EMITTINGCO2.TOOLTIP"
 msgid "Duplicants breathe out carbon dioxide"
-msgstr ""
+msgstr "Дублікант видихає двоокис вуглецю"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.EMPTYING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.EMPTYING.NAME"
@@ -15912,12 +15960,12 @@ msgstr ""
 #. STRINGS.DUPLICANTS.STATUSITEMS.HUNGRY.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.HUNGRY.NAME"
 msgid "Hungry"
-msgstr ""
+msgstr "Голодний"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.HUNGRY.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.HUNGRY.TOOLTIP"
 msgid "This Duplicant would really like something to eat"
-msgstr ""
+msgstr "Цей Дублікант дуже хоче щось з'їсти"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.IDLE.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.IDLE.NAME"
@@ -16242,12 +16290,12 @@ msgstr ""
 #. STRINGS.DUPLICANTS.STATUSITEMS.PICKINGUP.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.PICKINGUP.NAME"
 msgid "Picking up {Target}"
-msgstr ""
+msgstr "Підбирає {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.PICKINGUP.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.PICKINGUP.TOOLTIP"
 msgid "This Duplicant is retrieving {Target}"
-msgstr ""
+msgstr "Цей Дублікант дістав {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.PICKUPDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.PICKUPDELIVERSTATUS.NAME"
@@ -16490,12 +16538,12 @@ msgstr ""
 #. STRINGS.DUPLICANTS.STATUSITEMS.SLEEPING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.SLEEPING.NAME"
 msgid "Sleeping"
-msgstr ""
+msgstr "Спить"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.SLEEPING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.SLEEPING.TOOLTIP"
 msgid "This Duplicant is recovering stamina"
-msgstr ""
+msgstr "Цей Дублікант відновлює витривалість"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.SLEEPING.TOOLTIP_DISTURBER
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.SLEEPING.TOOLTIP_DISTURBER"
@@ -21485,13 +21533,13 @@ msgid ""
 "• <color=#F44A47><b>[SPACE]</b></color> will pause or resume your game."
 msgstr ""
 "• Використовуйте <link=\"CONTROLS\">WASD</link> клавіші, для управління "
-"камерою та <link=\"CONTROLS\">КОЛІЩАТКО МИШІ</link>,\n"
-"   для приближення чи віддалення. <color=#F44A47><b>[H]</b></color> повертає "
-"ваш екран до Друкарської Підставки.\n"
+"камерою та <link=\"CONTROLS\">КОЛІЩАТКО МИШІ</link>, для приближення чи "
+"віддалення. <color=#F44A47><b>[H]</b></color> повертає ваш екран до "
+"Друкарської Підставки.\n"
 "\n"
 "• Ви можете імітувати швидкість на швидшу чи повільнішу за допомогою кнопок "
-"швидкості у верхньому лівому кутку\n"
-"   або натиснувши <color=#F44A47><b>[TAB]</b></color>.\n"
+"швидкості у верхньому лівому кутку або натиснувши <color=#F44A47><b>[TAB]</"
+"b></color>.\n"
 "\n"
 "• <color=#F44A47><b>[SPACE]</b></color> може зупиняти та продовжувати вашу "
 "гру."
@@ -23064,42 +23112,42 @@ msgstr ""
 #. STRINGS.MISC.STATUSITEMS.PENDINGCLEAR.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.PENDINGCLEAR.NAME"
 msgid "Sweep Errand Assigned"
-msgstr ""
+msgstr "Завдання перенесення призначене"
 
 #. STRINGS.MISC.STATUSITEMS.PENDINGCLEAR.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.PENDINGCLEAR.TOOLTIP"
 msgid "Awaiting a Duplicant to sweep"
-msgstr ""
+msgstr "Очікує Дубліканта для перенесення"
 
 #. STRINGS.MISC.STATUSITEMS.PENDINGHARVEST.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.PENDINGHARVEST.NAME"
 msgid "Harvest Errand Assigned"
-msgstr ""
+msgstr "Завдання жнивів призначене"
 
 #. STRINGS.MISC.STATUSITEMS.PENDINGHARVEST.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.PENDINGHARVEST.TOOLTIP"
 msgid "Awaiting a Duplicant to harvest"
-msgstr ""
+msgstr "Очікує Дубліканта для збирання врожаю"
 
 #. STRINGS.MISC.STATUSITEMS.PENDINGUPROOT.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.PENDINGUPROOT.NAME"
 msgid "Uproot Errand Assigned"
-msgstr ""
+msgstr "Завдання корчування призначене"
 
 #. STRINGS.MISC.STATUSITEMS.PENDINGUPROOT.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.PENDINGUPROOT.TOOLTIP"
 msgid "Awaiting a Duplicant to uproot"
-msgstr ""
+msgstr "Очікує Дубліканта для корчування"
 
 #. STRINGS.MISC.STATUSITEMS.PICKUPABLEUNREACHABLE.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.PICKUPABLEUNREACHABLE.NAME"
 msgid "Unreachable"
-msgstr ""
+msgstr "Недосяжний"
 
 #. STRINGS.MISC.STATUSITEMS.PICKUPABLEUNREACHABLE.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.PICKUPABLEUNREACHABLE.TOOLTIP"
 msgid "Duplicants cannot reach this object"
-msgstr ""
+msgstr "Дубліканти  не можуть досягти цього об'єкта"
 
 #. STRINGS.MISC.STATUSITEMS.PRIORITIZED.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.PRIORITIZED.NAME"
@@ -23126,7 +23174,7 @@ msgstr ""
 #. STRINGS.MISC.STATUSITEMS.SPOUTDORMANT.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.SPOUTDORMANT.NAME"
 msgid "Dormant"
-msgstr ""
+msgstr "Бездіяльний"
 
 #. STRINGS.MISC.STATUSITEMS.SPOUTDORMANT.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.SPOUTDORMANT.TOOLTIP"
@@ -23135,31 +23183,34 @@ msgid ""
 "------------------\n"
 "It won't erupt again for some time"
 msgstr ""
+"Геоактивність цього гейзера зупинилася\n"
+"------------------\n"
+"Він не буде вивергатися протягом деякого часу"
 
 #. STRINGS.MISC.STATUSITEMS.SPOUTEMITTING.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.SPOUTEMITTING.NAME"
 msgid "Venting {StudiedDetails}"
-msgstr ""
+msgstr "Виверження {StudiedDetails}"
 
 #. STRINGS.MISC.STATUSITEMS.SPOUTEMITTING.STUDIED
 msgctxt "STRINGS.MISC.STATUSITEMS.SPOUTEMITTING.STUDIED"
 msgid "(idle in {Time})"
-msgstr "(idle in {Time})"
+msgstr "(байдикує {Time})"
 
 #. STRINGS.MISC.STATUSITEMS.SPOUTEMITTING.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.SPOUTEMITTING.TOOLTIP"
 msgid "This geyser is erupting"
-msgstr ""
+msgstr "Цей гейзер вивергається"
 
 #. STRINGS.MISC.STATUSITEMS.SPOUTIDLE.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.SPOUTIDLE.NAME"
 msgid "Idle {StudiedDetails}"
-msgstr ""
+msgstr "Байдикує {StudiedDetails}"
 
 #. STRINGS.MISC.STATUSITEMS.SPOUTIDLE.STUDIED
 msgctxt "STRINGS.MISC.STATUSITEMS.SPOUTIDLE.STUDIED"
 msgid "(erupts in {Time})"
-msgstr ""
+msgstr "(виверження через {Time})"
 
 #. STRINGS.MISC.STATUSITEMS.SPOUTIDLE.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.SPOUTIDLE.TOOLTIP"
@@ -23169,82 +23220,83 @@ msgstr "Цей гейзер не вивергається зараз"
 #. STRINGS.MISC.STATUSITEMS.SPOUTOVERPRESSURE.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.SPOUTOVERPRESSURE.NAME"
 msgid "Over pressure {StudiedDetails}"
-msgstr ""
+msgstr "Надлишковий тиск {StudiedDetails}"
 
 #. STRINGS.MISC.STATUSITEMS.SPOUTOVERPRESSURE.STUDIED
 msgctxt "STRINGS.MISC.STATUSITEMS.SPOUTOVERPRESSURE.STUDIED"
 msgid "(idle in {Time})"
-msgstr ""
+msgstr "(байдикує {Time})"
 
 #. STRINGS.MISC.STATUSITEMS.SPOUTOVERPRESSURE.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.SPOUTOVERPRESSURE.TOOLTIP"
 msgid "Spout cannot vent due to high environmental pressure"
 msgstr ""
+"Горловина не може випускати, через високий тиск навколишнього середовища"
 
 #. STRINGS.MISC.STATUSITEMS.SPOUTPRESSUREBUILDING.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.SPOUTPRESSUREBUILDING.NAME"
 msgid "Rising pressure {StudiedDetails}"
-msgstr ""
+msgstr "Підвищення тиску {StudiedDetails}"
 
 #. STRINGS.MISC.STATUSITEMS.SPOUTPRESSUREBUILDING.STUDIED
 msgctxt "STRINGS.MISC.STATUSITEMS.SPOUTPRESSUREBUILDING.STUDIED"
 msgid "(erupts in {Time})"
-msgstr ""
+msgstr "(виверження через {Time})"
 
 #. STRINGS.MISC.STATUSITEMS.SPOUTPRESSUREBUILDING.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.SPOUTPRESSUREBUILDING.TOOLTIP"
 msgid "This geyser's internal pressure is steadily building"
-msgstr ""
+msgstr "Внутрішній тиск цього гейзера постійно росте"
 
 #. STRINGS.MISC.STATUSITEMS.STUDIED.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.STUDIED.NAME"
 msgid "Analysis Complete"
-msgstr ""
+msgstr "Аналіз завершений"
 
 #. STRINGS.MISC.STATUSITEMS.STUDIED.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.STUDIED.TOOLTIP"
 msgid "Information on this Natural Feature has been compiled below."
-msgstr ""
+msgstr "Інформація про цю Природну Ознаку була зібрана нижче."
 
 #. STRINGS.MISC.STATUSITEMS.TREEFILTERABLETAGS.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.TREEFILTERABLETAGS.NAME"
 msgid "{Tags}"
-msgstr ""
+msgstr "{Tags}"
 
 #. STRINGS.MISC.STATUSITEMS.TREEFILTERABLETAGS.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.TREEFILTERABLETAGS.TOOLTIP"
 msgid "{Tags}"
-msgstr ""
+msgstr "{Tags}"
 
 #. STRINGS.MISC.STATUSITEMS.USING.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.USING.NAME"
 msgid "Using {Target}"
-msgstr ""
+msgstr "Використовує {Target}"
 
 #. STRINGS.MISC.STATUSITEMS.USING.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.USING.TOOLTIP"
 msgid "{Target} is currently in use"
-msgstr ""
+msgstr "{Target} зараз у використанні"
 
 #. STRINGS.MISC.STATUSITEMS.WAITINGFORDIG.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.WAITINGFORDIG.NAME"
 msgid "Dig Errand Assigned"
-msgstr ""
+msgstr "Завдання копання призначене"
 
 #. STRINGS.MISC.STATUSITEMS.WAITINGFORDIG.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.WAITINGFORDIG.TOOLTIP"
 msgid "Awaiting a Duplicant to dig"
-msgstr ""
+msgstr "Очікує Дубліканта для копання"
 
 #. STRINGS.MISC.STATUSITEMS.WAITINGFORMOP.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.WAITINGFORMOP.NAME"
 msgid "Mop Errand Assigned"
-msgstr ""
+msgstr "Завдання миття призначене"
 
 #. STRINGS.MISC.STATUSITEMS.WAITINGFORMOP.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.WAITINGFORMOP.TOOLTIP"
 msgid "Awaiting a Duplicant to mop"
-msgstr ""
+msgstr "Очікує Дубліканта для миття"
 
 #. STRINGS.MISC.TAGS.AGRICULTURE
 msgctxt "STRINGS.MISC.TAGS.AGRICULTURE"
@@ -27005,7 +27057,7 @@ msgstr "Бактерії: {0}"
 #. STRINGS.UI.BUILDINGEFFECTS.GEYSER_PERIOD
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.GEYSER_PERIOD"
 msgid "Eruption Period: {0} every {1}"
-msgstr ""
+msgstr "Період виверження: {0}, кожні {1}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.GEYSER_PRODUCTION
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.GEYSER_PRODUCTION"
@@ -27020,17 +27072,17 @@ msgstr "Наступна активність: {0}"
 #. STRINGS.UI.BUILDINGEFFECTS.GEYSER_YEAR_NEXT_DORMANT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.GEYSER_YEAR_NEXT_DORMANT"
 msgid "Next Dormancy: {0}"
-msgstr ""
+msgstr "Наступний стан спокою: {0}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.GEYSER_YEAR_PERIOD
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.GEYSER_YEAR_PERIOD"
 msgid "Active Period: {0} every {1}"
-msgstr ""
+msgstr "Період Активності: {0}, кожні {1}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.GEYSER_YEAR_UNSTUDIED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.GEYSER_YEAR_UNSTUDIED"
 msgid "Active Period: (Requires Analysis)"
-msgstr ""
+msgstr "Період Активності: (Requires Analysis)"
 
 #. STRINGS.UI.BUILDINGEFFECTS.HEATCONSUMED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.HEATCONSUMED"
@@ -27409,12 +27461,12 @@ msgstr "Знижує температуру в газових трубах на 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.GEYSER_DISEASE
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.GEYSER_DISEASE"
 msgid "{0} germs are present in the output of this geyser."
-msgstr ""
+msgstr "{0} бактерій присутніх на виході цього гейзера."
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.GEYSER_PERIOD
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.GEYSER_PERIOD"
 msgid "This geyser will produce for {0} of every {1}"
-msgstr ""
+msgstr "Цей гейзер випускає протягом {0} кожні {1}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.GEYSER_PRODUCTION
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.GEYSER_PRODUCTION"
@@ -27422,29 +27474,33 @@ msgid ""
 "While erupting, this geyser will produce {0} at a rate of {1}, and at a "
 "temperature of {2}."
 msgstr ""
+"Під час виверження, цей гейзер випускає {0} в розмірі {1} та температурою "
+"{2}."
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.GEYSER_YEAR_NEXT_ACTIVE
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.GEYSER_YEAR_NEXT_ACTIVE"
 msgid "This geyser will become active in {0}."
-msgstr ""
+msgstr "Цей гейзер стане активним через {0}."
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.GEYSER_YEAR_NEXT_DORMANT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.GEYSER_YEAR_NEXT_DORMANT"
 msgid "This geyser will become dormant in {0}."
-msgstr ""
+msgstr "Цей гейзер стане сплячим через {0}."
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.GEYSER_YEAR_PERIOD
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.GEYSER_YEAR_PERIOD"
 msgid ""
 "This geyser will be active for {0} out of every {1}. It will be dormant the "
 "rest of the time."
-msgstr ""
+msgstr "Цей гейзер є діючим протягом {0} кожні {1}. Решту часу він буде спати."
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.GEYSER_YEAR_UNSTUDIED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.GEYSER_YEAR_UNSTUDIED"
 msgid ""
 "A researcher must analyze this geyser to determine its geoactive period."
 msgstr ""
+"Науковець повинен аналізувати цей гейзер, щоб визначити періоди активного "
+"стану."
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.HEATCONSUMED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.HEATCONSUMED"
@@ -29063,7 +29119,7 @@ msgstr ""
 #. STRINGS.UI.DETAILTABS.PERSONALITY.EQUIPMENT.GROUPNAME_OWNABLE
 msgctxt "STRINGS.UI.DETAILTABS.PERSONALITY.EQUIPMENT.GROUPNAME_OWNABLE"
 msgid "EQUIPMENT"
-msgstr ""
+msgstr "СПОРЯДЖЕННЯ"
 
 #. STRINGS.UI.DETAILTABS.PERSONALITY.EQUIPMENT.GROUPNAME_ROOMS
 msgctxt "STRINGS.UI.DETAILTABS.PERSONALITY.EQUIPMENT.GROUPNAME_ROOMS"
@@ -29108,7 +29164,7 @@ msgstr "ПРО"
 #. STRINGS.UI.DETAILTABS.PERSONALITY.GROUPNAME_RESUME
 msgctxt "STRINGS.UI.DETAILTABS.PERSONALITY.GROUPNAME_RESUME"
 msgid "{0}'S RESUME"
-msgstr "{0} ЗДОБУТКИ"
+msgstr "ЗДОБУТКИ {0}"
 
 #. STRINGS.UI.DETAILTABS.PERSONALITY.NAME
 msgctxt "STRINGS.UI.DETAILTABS.PERSONALITY.NAME"
@@ -29512,7 +29568,7 @@ msgstr ""
 msgctxt ""
 "STRINGS.UI.ELEMENTAL.THERMALCONDUCTIVITY.ADJECTIVES.VALUE_WITH_ADJECTIVE"
 msgid "{0} ({1})"
-msgstr ""
+msgstr "{0} ({1})"
 
 #. STRINGS.UI.ELEMENTAL.THERMALCONDUCTIVITY.ADJECTIVES.VERY_HIGH_CONDUCTIVITY
 msgctxt ""
@@ -31535,7 +31591,7 @@ msgstr "Відхилити Всіх"
 #. STRINGS.UI.IMMIGRANTSCREEN.SELECTDUPLICANTS
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.SELECTDUPLICANTS"
 msgid "Select {0} Duplicants"
-msgstr ""
+msgstr "Обрати {0} Дубліканта"
 
 #. STRINGS.UI.IMMIGRANTSCREEN.SELECTYOURCREW
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.SELECTYOURCREW"
@@ -31585,32 +31641,32 @@ msgstr ""
 #. STRINGS.UI.JOBSCREEN_PRIORITY
 msgctxt "STRINGS.UI.JOBSCREEN_PRIORITY"
 msgid "Priority"
-msgstr ""
+msgstr "Пріоритет"
 
 #. STRINGS.UI.JOBSSCREEN.DECREASE_PRIORITY_TUTORIAL
 msgctxt "STRINGS.UI.JOBSSCREEN.DECREASE_PRIORITY_TUTORIAL"
 msgid "{Key} Decrease priority"
-msgstr ""
+msgstr "{Key} Зменшити пріоритет"
 
 #. STRINGS.UI.JOBSSCREEN.DECREASE_ROW_PRIORITY_MINION_TOOLTIP
 msgctxt "STRINGS.UI.JOBSSCREEN.DECREASE_ROW_PRIORITY_MINION_TOOLTIP"
 msgid "Depriotize <b>All Errands</b> for <b>{Name}</b>"
-msgstr ""
+msgstr "Понизити пріоритет на <b>Всі Доручення</b> для <b>{Name}</b>"
 
 #. STRINGS.UI.JOBSSCREEN.DECREASE_ROW_PRIORITY_NEW_MINION_TOOLTIP
 msgctxt "STRINGS.UI.JOBSSCREEN.DECREASE_ROW_PRIORITY_NEW_MINION_TOOLTIP"
 msgid "Deprioritize <b>All Errands</b> for <b>New Duplicants</b>"
-msgstr "Нищий пріоритет на <b>Всі Завдання</b> для <b>Нових Дублікантів</b>"
+msgstr "Нищий пріоритет на <b>Всі Доручення</b> для <b>Нових Дублікантів</b>"
 
 #. STRINGS.UI.JOBSSCREEN.DISABLED_TOOLTIP
 msgctxt "STRINGS.UI.JOBSSCREEN.DISABLED_TOOLTIP"
 msgid "{Name} may not perform {Job} Errands"
-msgstr ""
+msgstr "{Name} не може виконувати Доручення {Job}"
 
 #. STRINGS.UI.JOBSSCREEN.HEADER_CHANGE_TOOLTIP
 msgctxt "STRINGS.UI.JOBSSCREEN.HEADER_CHANGE_TOOLTIP"
 msgid "Set the priority for <b>{Job} Errands</b> colonywide\n"
-msgstr ""
+msgstr "Задати пріоритет для <b>{Job} Доручення</b> всій колонії\n"
 
 #. STRINGS.UI.JOBSSCREEN.HEADER_DETAILS_TOOLTIP
 msgctxt "STRINGS.UI.JOBSSCREEN.HEADER_DETAILS_TOOLTIP"
@@ -31619,6 +31675,9 @@ msgid ""
 "\n"
 "Affected errands: {ChoreList}"
 msgstr ""
+"{Description}\n"
+"\n"
+"Схильний до доручення: {ChoreList}"
 
 #. STRINGS.UI.JOBSSCREEN.HEADER_TOOLTIP
 msgctxt "STRINGS.UI.JOBSSCREEN.HEADER_TOOLTIP"
@@ -31629,36 +31688,41 @@ msgid ""
 "\n"
 "Duplicant priorities supercede colony priorities"
 msgstr ""
+"<size=16>Пріоритети {Job}</size>\n"
+"------------------\n"
+"{Details}\n"
+"\n"
+"Пріоритети Дублікантів заміняють пріоритети колонії"
 
 #. STRINGS.UI.JOBSSCREEN.INCREASE_PRIORITY_TUTORIAL
 msgctxt "STRINGS.UI.JOBSSCREEN.INCREASE_PRIORITY_TUTORIAL"
 msgid "{Key} Increase priority"
-msgstr ""
+msgstr "{Key} Збільшити пріоритет"
 
 #. STRINGS.UI.JOBSSCREEN.INCREASE_ROW_PRIORITY_MINION_TOOLTIP
 msgctxt "STRINGS.UI.JOBSSCREEN.INCREASE_ROW_PRIORITY_MINION_TOOLTIP"
 msgid "Prioritize <b>All Errands</b> for <b>{Name}</b>"
-msgstr ""
+msgstr "Підвищити пріоритет на <b>Всі Доручення</b> для <b>{Name}</b>"
 
 #. STRINGS.UI.JOBSSCREEN.INCREASE_ROW_PRIORITY_NEW_MINION_TOOLTIP
 msgctxt "STRINGS.UI.JOBSSCREEN.INCREASE_ROW_PRIORITY_NEW_MINION_TOOLTIP"
 msgid "Prioritize <b>All Errands</b> for <b>New Duplicants</b>"
-msgstr "Вищий пріоритет на <b>Всі Завдання</b> для <b>Нових Дублікантів</b>"
+msgstr "Вищий пріоритет на <b>Всі Доручення</b> для <b>Нових Дублікантів</b>"
 
 #. STRINGS.UI.JOBSSCREEN.ITEM_AUTO_ASSIGNED_TOOLTIP
 msgctxt "STRINGS.UI.JOBSSCREEN.ITEM_AUTO_ASSIGNED_TOOLTIP"
 msgid "As a {Role}, {Name} considers {Job} Errands to be a {Priority} Priority"
-msgstr ""
+msgstr "{Role}, {Name} враховуватиме доручення {Job} з {Priority} пріоритетом"
 
 #. STRINGS.UI.JOBSSCREEN.ITEM_TOOLTIP
 msgctxt "STRINGS.UI.JOBSSCREEN.ITEM_TOOLTIP"
 msgid "{Job} Errands are a {Priority} Priority for <b>{Name}</b>"
-msgstr ""
+msgstr "Доручення {Job} на {Priority} Пріоритет для <b>{Name}</b>"
 
 #. STRINGS.UI.JOBSSCREEN.MINION_SKILL_TOOLTIP
 msgctxt "STRINGS.UI.JOBSSCREEN.MINION_SKILL_TOOLTIP"
 msgid "{Name}'s {Attribute} skill: "
-msgstr ""
+msgstr "{Name} уміння {Attribute}: "
 
 #. STRINGS.UI.JOBSSCREEN.NEW_MINION_ITEM_TOOLTIP
 msgctxt "STRINGS.UI.JOBSSCREEN.NEW_MINION_ITEM_TOOLTIP"
@@ -31666,6 +31730,8 @@ msgid ""
 "{Job} Errands are automatically a {Priority} Priority for <b>Arriving "
 "Duplicants</b>"
 msgstr ""
+"Доручення {Job} автоматично встановлюють {Priority} Пріоритет для <b>Завдань "
+"Дублікантів</b>"
 
 #. STRINGS.UI.JOBSSCREEN.OPTIONS
 msgctxt "STRINGS.UI.JOBSSCREEN.OPTIONS"
@@ -31675,7 +31741,7 @@ msgstr "Налаштування"
 #. STRINGS.UI.JOBSSCREEN.PRIORITY.DISABLED
 msgctxt "STRINGS.UI.JOBSSCREEN.PRIORITY.DISABLED"
 msgid "Disabled"
-msgstr ""
+msgstr "Відключений"
 
 #. STRINGS.UI.JOBSSCREEN.PRIORITY.HIGH
 msgctxt "STRINGS.UI.JOBSSCREEN.PRIORITY.HIGH"
@@ -31717,11 +31783,17 @@ msgid ""
 "Advanced Mode: Priorities will be adjusted high-to-low for normal base "
 "operation."
 msgstr ""
+"Скинути всі пріоритетні значення за замовчуванням для цього режиму.\n"
+"\n"
+"Звичайний Режим: Всі пріоритети будуть скинуті на нейтральні.\n"
+"\n"
+"Розширений Режим: Пріоритети будуть налаштовані від високого до низького для "
+"звичайної діяльності бази."
 
 #. STRINGS.UI.JOBSSCREEN.SORT_TOOLTIP
 msgctxt "STRINGS.UI.JOBSSCREEN.SORT_TOOLTIP"
 msgid "Sort by {Job} Errand priorities"
-msgstr ""
+msgstr "Сортувати по пріоритетністю завдань {Job}"
 
 #. STRINGS.UI.JOBSSCREEN.TITLE
 msgctxt "STRINGS.UI.JOBSSCREEN.TITLE"
@@ -31731,7 +31803,7 @@ msgstr "УПРАВЛІННЯ ПРІОРИТЕТАМИ ЗАВДАНЬ"
 #. STRINGS.UI.JOBSSCREEN.TOGGLE_ADVANCED_MODE
 msgctxt "STRINGS.UI.JOBSSCREEN.TOGGLE_ADVANCED_MODE"
 msgid "Advanced Mode"
-msgstr ""
+msgstr "Розширений Режим"
 
 #. STRINGS.UI.JOBSSCREEN.TOGGLE_ADVANCED_MODE_TOOLTIP
 msgctxt "STRINGS.UI.JOBSSCREEN.TOGGLE_ADVANCED_MODE_TOOLTIP"
@@ -31756,6 +31828,24 @@ msgid ""
 "This mode is ideal for large bases and for players who have heavily "
 "customized Duplicant Priorities."
 msgstr ""
+"<b>Звичайний Режим</b> (неперевірено):\n"
+"\n"
+"Дубліканти обирають першими завдання базуючися на їх Пріоритетах та потім на "
+"Суб-Пріоритетах. Якщо кілька доступних доручень мають такий же пріоритет, "
+"вони будуть вибирати з урахуванням прихованого пріоритету, який допомагає "
+"новим базам працювати більш гладко.\n"
+"\n"
+"Цей режим ідеально підходить для нових гравців та для невеликих баз.\n"
+"\n"
+"<b>Розширений Режим</b> (перевірено):\n"
+"\n"
+"Дубліканти обирають першими завдання базуючися на їх Пріоритетах та потім на "
+"Суб-Пріоритетах. Прихований пріоритет вимикається, тому у разі зобов'язання, "
+"Дублікант обере найближче завдання. Це допомагає їм залишатися поблизу "
+"деяких територій в колонії, доки вся їхня робота є з найвищим пріоритетом.\n"
+"\n"
+"Цей режим ідеальний для великих баз та для гравців, які мають важкі "
+"індивідуальні пріоритети Дублікантів."
 
 #. STRINGS.UI.JOBSSCREEN.TOOLTIP_TOGGLE_ALL
 msgctxt "STRINGS.UI.JOBSSCREEN.TOOLTIP_TOGGLE_ALL"
@@ -31765,7 +31855,7 @@ msgstr "Встановити всі пріоритетну завдання в �
 #. STRINGS.UI.JOBSSCREEN.TRAIT_DISABLED
 msgctxt "STRINGS.UI.JOBSSCREEN.TRAIT_DISABLED"
 msgid "{Name} is unable to do {Job} errands because of the {Trait} trait"
-msgstr ""
+msgstr "{Name} нездібний до завдання {Job} тому що має рису {Trait}"
 
 #. STRINGS.UI.LISTENTRYSTRING
 msgctxt "STRINGS.UI.LISTENTRYSTRING"
@@ -31795,7 +31885,7 @@ msgstr "<link=\"LOGIC\">Авто Входи</link>: {0}"
 #. STRINGS.UI.MESSAGES
 msgctxt "STRINGS.UI.MESSAGES"
 msgid "MESSAGES"
-msgstr ""
+msgstr "ПОВІДОМЛЕННЯ"
 
 #. STRINGS.UI.METERS.BREATH.TOOLTIP
 msgctxt "STRINGS.UI.METERS.BREATH.TOOLTIP"
@@ -31815,17 +31905,18 @@ msgstr "Дублікант"
 #. STRINGS.UI.MINION_IDENTITY_SORT.PERMISSION
 msgctxt "STRINGS.UI.MINION_IDENTITY_SORT.PERMISSION"
 msgid "Permission"
-msgstr ""
+msgstr "Дозволи"
 
 #. STRINGS.UI.MINION_IDENTITY_SORT.ROLE
+#, fuzzy
 msgctxt "STRINGS.UI.MINION_IDENTITY_SORT.ROLE"
 msgid "Role"
-msgstr ""
+msgstr "Роль"
 
 #. STRINGS.UI.MINION_IDENTITY_SORT.TITLE
 msgctxt "STRINGS.UI.MINION_IDENTITY_SORT.TITLE"
 msgid "Sort By"
-msgstr ""
+msgstr "Сортувати за"
 
 #. STRINGS.UI.NAME_WITH_UNITS
 msgctxt "STRINGS.UI.NAME_WITH_UNITS"
@@ -31840,7 +31931,7 @@ msgstr "-{0}"
 #. STRINGS.UI.NEUTRONIUMMASS
 msgctxt "STRINGS.UI.NEUTRONIUMMASS"
 msgid "Immeasurable"
-msgstr ""
+msgstr "Невимірний"
 
 #. STRINGS.UI.OVERLAYS.CONVEYOR.BUTTON
 msgctxt "STRINGS.UI.OVERLAYS.CONVEYOR.BUTTON"
@@ -31957,7 +32048,7 @@ msgstr "Оверлей Декору"
 #. STRINGS.UI.OVERLAYS.DECOR.CLOTHING
 msgctxt "STRINGS.UI.OVERLAYS.DECOR.CLOTHING"
 msgid "{0}'s Outfit"
-msgstr ""
+msgstr "Спорядження {0}"
 
 #. STRINGS.UI.OVERLAYS.DECOR.CLUTTER
 msgctxt "STRINGS.UI.OVERLAYS.DECOR.CLUTTER"
@@ -32600,11 +32691,14 @@ msgid "Building Intake"
 msgstr "Вхід Будинку"
 
 #. STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.TOOLTIPS.CONNECTED
+#, fuzzy
 msgctxt "STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.TOOLTIPS.CONNECTED"
 msgid ""
 "Connected to a <link=\"<LINK=\"LIQUIDCONDUIT\">LIQUID PIPE</LINK>\">Liquid "
 "Pipe</link>"
 msgstr ""
+"Підключено до <link=\"<LINK=\"LIQUIDCONDUIT\">LIQUID PIPE</LINK>\">Рідинної "
+"Труби</link>"
 
 #. STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.TOOLTIPS.CONSUMER
 msgctxt "STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.TOOLTIPS.CONSUMER"
@@ -32618,15 +32712,18 @@ msgstr ""
 "<b>Вихід Труби</b>\n"
 "Вихід відправляє рідини до труб\n"
 "------------------\n"
-"Потрібно, щоб в цій мережі був хоча би один <link=\"LIQUIDPIPING\">Intake</"
+"Потрібно, щоб в цій мережі був хоча би один <link=\"LIQUIDPIPING\">Вхід</"
 "link>"
 
 #. STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.TOOLTIPS.DISCONNECTED
+#, fuzzy
 msgctxt "STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.TOOLTIPS.DISCONNECTED"
 msgid ""
 "Not connected to a <link=\"<LINK=\"LIQUIDCONDUIT\">LIQUID PIPE</LINK>"
 "\">Liquid Pipe</link>"
 msgstr ""
+"Не підключено до <link=\"<LINK=\"LIQUIDCONDUIT\">LIQUID PIPE</LINK>"
+"\">Рідинної Труби</link>"
 
 #. STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.TOOLTIPS.FILTERED
 msgctxt "STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.TOOLTIPS.FILTERED"
@@ -32761,7 +32858,7 @@ msgstr "Очікування"
 #. STRINGS.UI.OVERLAYS.NOISE_POLLUTION.BUTTON
 msgctxt "STRINGS.UI.OVERLAYS.NOISE_POLLUTION.BUTTON"
 msgid "Acoustics Overlay"
-msgstr ""
+msgstr "Оверлей Акустики"
 
 #. STRINGS.UI.OVERLAYS.NOISE_POLLUTION.DESCRIPTION
 msgctxt "STRINGS.UI.OVERLAYS.NOISE_POLLUTION.DESCRIPTION"
@@ -32772,66 +32869,72 @@ msgid ""
 "<b>+0.5 dB</b> to the total signal.\n"
 "Anything more than 10 dB quieter will be inaudible."
 msgstr ""
+"Два <link=\"SOUND\">Звуки</link> з однаковими дБ, буде сумою за збільшення "
+"<b>+3 дБ</b>.\n"
+"<link=\"SOUND\">Звук</link>, що на 10 дБ тихіше додає приблизно <b>+0.5 дБ</"
+"b> до загального сигналу.\n"
+"Все, що більш ніж на 10 дБ тихіше, буде нечутно."
 
 #. STRINGS.UI.OVERLAYS.NOISE_POLLUTION.HOVERTITLE
 msgctxt "STRINGS.UI.OVERLAYS.NOISE_POLLUTION.HOVERTITLE"
 msgid "Acoustics"
-msgstr ""
+msgstr "Акустика"
 
 #. STRINGS.UI.OVERLAYS.NOISE_POLLUTION.LOUDNESS_STRING
 msgctxt "STRINGS.UI.OVERLAYS.NOISE_POLLUTION.LOUDNESS_STRING"
 msgid " <color=#{0}>({1})</color>"
-msgstr ""
+msgstr " <color=#{0}>({1})</color>"
 
 #. STRINGS.UI.OVERLAYS.NOISE_POLLUTION.NAME
 msgctxt "STRINGS.UI.OVERLAYS.NOISE_POLLUTION.NAME"
 msgid "ACOUSTICS OVERLAY"
-msgstr ""
+msgstr "ОВЕРЛЕЙ АКУСТИКИ"
 
 #. STRINGS.UI.OVERLAYS.NOISE_POLLUTION.NAMES.ACTIVE
 msgctxt "STRINGS.UI.OVERLAYS.NOISE_POLLUTION.NAMES.ACTIVE"
 msgid "Cacophonous"
-msgstr ""
+msgstr "Немилозвучний"
 
 #. STRINGS.UI.OVERLAYS.NOISE_POLLUTION.NAMES.EXTREME
 msgctxt "STRINGS.UI.OVERLAYS.NOISE_POLLUTION.NAMES.EXTREME"
 msgid "Painful"
-msgstr ""
+msgstr "Болісний"
 
 #. STRINGS.UI.OVERLAYS.NOISE_POLLUTION.NAMES.PASSIVE
 msgctxt "STRINGS.UI.OVERLAYS.NOISE_POLLUTION.NAMES.PASSIVE"
 msgid "Loud"
-msgstr ""
+msgstr "Голосний"
 
 #. STRINGS.UI.OVERLAYS.NOISE_POLLUTION.NAMES.PEACEFUL
 msgctxt "STRINGS.UI.OVERLAYS.NOISE_POLLUTION.NAMES.PEACEFUL"
 msgid "Peaceful"
-msgstr ""
+msgstr "Спокійний"
 
 #. STRINGS.UI.OVERLAYS.NOISE_POLLUTION.NAMES.QUIET
 msgctxt "STRINGS.UI.OVERLAYS.NOISE_POLLUTION.NAMES.QUIET"
 msgid "Quiet"
-msgstr ""
+msgstr "Безшумний"
 
 #. STRINGS.UI.OVERLAYS.NOISE_POLLUTION.NAMES.TOSSANDTURN
 msgctxt "STRINGS.UI.OVERLAYS.NOISE_POLLUTION.NAMES.TOSSANDTURN"
 msgid "Moderate"
-msgstr ""
+msgstr "Помірний"
 
 #. STRINGS.UI.OVERLAYS.NOISE_POLLUTION.NAMES.WAKEUP
 msgctxt "STRINGS.UI.OVERLAYS.NOISE_POLLUTION.NAMES.WAKEUP"
 msgid "Noisy"
-msgstr ""
+msgstr "Гучний"
 
 #. STRINGS.UI.OVERLAYS.NOISE_POLLUTION.NOTAFFECTING
+#, fuzzy
 msgctxt "STRINGS.UI.OVERLAYS.NOISE_POLLUTION.NOTAFFECTING"
 msgid "Drowned out:"
-msgstr ""
+msgstr "Пересилювати:"
 
 #. STRINGS.UI.OVERLAYS.NOISE_POLLUTION.RANGE
 msgctxt "STRINGS.UI.OVERLAYS.NOISE_POLLUTION.RANGE"
 msgid "{0} dB"
-msgstr ""
+msgstr "{0} дБ"
 
 #. STRINGS.UI.OVERLAYS.NOISE_POLLUTION.TOOLTIPS.ACTIVE
 msgctxt "STRINGS.UI.OVERLAYS.NOISE_POLLUTION.TOOLTIPS.ACTIVE"
@@ -32844,6 +32947,13 @@ msgid ""
 "Duplicant foot traffic, generators, and powered buildings can create high "
 "noise levels."
 msgstr ""
+"[>{0} дБ]\n"
+"------------------\n"
+"Немилозвучний шум викликає суттєвий стрес та перешкоджає Дублікантам спати "
+"чи досліджувати.\n"
+"\n"
+"Пересування Дублікантів ногами, генератори та працюючі будинки можуть "
+"створювати високий рівень шуму."
 
 #. STRINGS.UI.OVERLAYS.NOISE_POLLUTION.TOOLTIPS.EXTREME
 msgctxt "STRINGS.UI.OVERLAYS.NOISE_POLLUTION.TOOLTIPS.EXTREME"
@@ -32856,6 +32966,13 @@ msgid ""
 "Duplicant foot traffic, generators, and powered buildings can create high "
 "noise levels."
 msgstr ""
+"[>{0} дБ]\n"
+"------------------\n"
+"Болісний рівень шуму надзвичайно Напружує Дублікантів та призводить до "
+"фізичного страждань.\n"
+"\n"
+"Пересування Дублікантів ногами, генератори та працюючі будинки можуть "
+"створювати високий рівень шуму."
 
 #. STRINGS.UI.OVERLAYS.NOISE_POLLUTION.TOOLTIPS.HIGH_NOISE_POLLUTION
 msgctxt "STRINGS.UI.OVERLAYS.NOISE_POLLUTION.TOOLTIPS.HIGH_NOISE_POLLUTION"
@@ -32865,6 +32982,11 @@ msgid ""
 "------------------\n"
 "High Duplicant traffic and powered buildings can create noisy areas"
 msgstr ""
+"Вплив гучних шумів спричиняє стрес в Дублікантів з часом та ускладнює сон чи "
+"зосередження\n"
+"------------------\n"
+"Високий трафік Дублікантів та працюючі будівлі можуть створювати шумні "
+"області"
 
 #. STRINGS.UI.OVERLAYS.NOISE_POLLUTION.TOOLTIPS.LOW_NOISE_POLLUTION
 msgctxt "STRINGS.UI.OVERLAYS.NOISE_POLLUTION.TOOLTIPS.LOW_NOISE_POLLUTION"
@@ -32875,6 +32997,11 @@ msgid ""
 "Soundproofed rooms and areas free of buildings and critters will generally "
 "be quieter."
 msgstr ""
+"Тихі ділянки знижують Стрес, забезпечуючи Дублікантам мати якісний сон та "
+"допомагають їм зосереджуватися\n"
+"------------------\n"
+"Звукоізоляційні кімнати та зони, вільні від будівель та тварин, зазвичай "
+"стають тихішими."
 
 #. STRINGS.UI.OVERLAYS.NOISE_POLLUTION.TOOLTIPS.PASSIVE
 msgctxt "STRINGS.UI.OVERLAYS.NOISE_POLLUTION.TOOLTIPS.PASSIVE"
@@ -32887,6 +33014,13 @@ msgid ""
 "Duplicant foot traffic, generators, and powered buildings can create high "
 "noise levels."
 msgstr ""
+"[>{0} дБ]\n"
+"------------------\n"
+"Голосні області зменшують дослідницькі навички в Дублікантів та можуть "
+"викликати незначний стрес.\n"
+"\n"
+"Пересування Дублікантів ногами, генератори та працюючі будинки можуть "
+"створювати високий рівень шуму."
 
 #. STRINGS.UI.OVERLAYS.NOISE_POLLUTION.TOOLTIPS.PEACEFUL
 msgctxt "STRINGS.UI.OVERLAYS.NOISE_POLLUTION.TOOLTIPS.PEACEFUL"
@@ -32898,6 +33032,13 @@ msgid ""
 "Soundproofed rooms and areas free of buildings and critters will generally "
 "be quieter."
 msgstr ""
+"[{0} дБ]\n"
+"------------------\n"
+"Спокійні області покращують якість сну Дублікантів та здатність до "
+"навчання.\n"
+"\n"
+"Звукоізоляційні кімнати та зони, вільні від будівель та тварин, зазвичай "
+"стають тихішими."
 
 #. STRINGS.UI.OVERLAYS.NOISE_POLLUTION.TOOLTIPS.QUIET
 msgctxt "STRINGS.UI.OVERLAYS.NOISE_POLLUTION.TOOLTIPS.QUIET"
@@ -32909,6 +33050,12 @@ msgid ""
 "Soundproofed rooms and areas free of buildings and critters will generally "
 "be quieter."
 msgstr ""
+"[>{0} дБ]\n"
+"------------------\n"
+"Безшумні області необхідні Дублікантам, щоб заснули.\n"
+"\n"
+"Звукоізоляційні кімнати та зони, вільні від будівель та тварин, зазвичай "
+"стають тихішими."
 
 #. STRINGS.UI.OVERLAYS.NOISE_POLLUTION.TOOLTIPS.TOSSANDTURN
 msgctxt "STRINGS.UI.OVERLAYS.NOISE_POLLUTION.TOOLTIPS.TOSSANDTURN"
@@ -32920,6 +33067,13 @@ msgid ""
 "Soundproofed rooms and areas free of buildings and critters will generally "
 "be quieter."
 msgstr ""
+"[>{0} дБ]\n"
+"------------------\n"
+"Дубліканти почуватимуться незайманими, якщо змушений спати в Помірному "
+"шумі.\n"
+"\n"
+"Звукоізоляційні кімнати та зони, вільні від будівель та тварин, зазвичай "
+"стають тихішими."
 
 #. STRINGS.UI.OVERLAYS.NOISE_POLLUTION.TOOLTIPS.WAKEUP
 msgctxt "STRINGS.UI.OVERLAYS.NOISE_POLLUTION.TOOLTIPS.WAKEUP"
@@ -32932,16 +33086,24 @@ msgid ""
 "Duplicant foot traffic, generators, and powered buildings can create high "
 "noise levels."
 msgstr ""
+"[>{0} дБ]\n"
+"------------------\n"
+"Гучні області будять Дублікантів протягом ночі, але терпимі для них протягом "
+"дня.\n"
+"\n"
+"Пересування Дублікантів ногами, генератори та працюючі будинки можуть "
+"створювати високий рівень шуму."
 
 #. STRINGS.UI.OVERLAYS.NOISE_POLLUTION.TOTAL
+#, fuzzy
 msgctxt "STRINGS.UI.OVERLAYS.NOISE_POLLUTION.TOTAL"
 msgid "Total"
-msgstr ""
+msgstr "Всього"
 
 #. STRINGS.UI.OVERLAYS.NOISE_POLLUTION.VALUE
 msgctxt "STRINGS.UI.OVERLAYS.NOISE_POLLUTION.VALUE"
 msgid "<color=#{0}>{1} dB</color>"
-msgstr ""
+msgstr "<color=#{0}>{1} дБ</color>"
 
 #. STRINGS.UI.OVERLAYS.OXYGEN.BUTTON
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.BUTTON"
@@ -33054,102 +33216,102 @@ msgstr "Генератор Потужності"
 #. STRINGS.UI.OVERLAYS.PRIORITIES.BUTTON
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.BUTTON"
 msgid "Sub-Priority Overlay"
-msgstr ""
+msgstr "Оверлей Суб-Пріоритету"
 
 #. STRINGS.UI.OVERLAYS.PRIORITIES.EIGHT
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.EIGHT"
 msgid "8"
-msgstr ""
+msgstr "8"
 
 #. STRINGS.UI.OVERLAYS.PRIORITIES.EIGHT_TOOLTIP
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.EIGHT_TOOLTIP"
 msgid "Sub-Priority 8"
-msgstr ""
+msgstr "Суб-Пріоритет 8"
 
 #. STRINGS.UI.OVERLAYS.PRIORITIES.FIVE
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.FIVE"
 msgid "5"
-msgstr ""
+msgstr "5"
 
 #. STRINGS.UI.OVERLAYS.PRIORITIES.FIVE_TOOLTIP
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.FIVE_TOOLTIP"
 msgid "Sub-Priority 5"
-msgstr ""
+msgstr "Суб-Пріоритет 5"
 
 #. STRINGS.UI.OVERLAYS.PRIORITIES.FOUR
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.FOUR"
 msgid "4"
-msgstr ""
+msgstr "4"
 
 #. STRINGS.UI.OVERLAYS.PRIORITIES.FOUR_TOOLTIP
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.FOUR_TOOLTIP"
 msgid "Sub-Priority 4"
-msgstr ""
+msgstr "Суб-Пріоритет 4"
 
 #. STRINGS.UI.OVERLAYS.PRIORITIES.NAME
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.NAME"
 msgid "SUB-PRIORITY OVERLAY"
-msgstr ""
+msgstr "ОВЕРЛЕЙ СУБ-ПРІОРИТЕТУ"
 
 #. STRINGS.UI.OVERLAYS.PRIORITIES.NINE
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.NINE"
 msgid "9 (High Urgency)"
-msgstr ""
+msgstr "9 (Висока Терміновість)"
 
 #. STRINGS.UI.OVERLAYS.PRIORITIES.NINE_TOOLTIP
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.NINE_TOOLTIP"
 msgid "Sub-Priority 9"
-msgstr ""
+msgstr "Суб-Пріоритет 9"
 
 #. STRINGS.UI.OVERLAYS.PRIORITIES.ONE
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.ONE"
 msgid "1 (Low Urgency)"
-msgstr ""
+msgstr "1 (Низька Терміновість)"
 
 #. STRINGS.UI.OVERLAYS.PRIORITIES.ONE_TOOLTIP
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.ONE_TOOLTIP"
 msgid "Sub-Priority 1"
-msgstr ""
+msgstr "Суб-Пріоритет 1"
 
 #. STRINGS.UI.OVERLAYS.PRIORITIES.SEVEN
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.SEVEN"
 msgid "7"
-msgstr ""
+msgstr "7"
 
 #. STRINGS.UI.OVERLAYS.PRIORITIES.SEVEN_TOOLTIP
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.SEVEN_TOOLTIP"
 msgid "Sub-Priority 7"
-msgstr ""
+msgstr "Суб-Пріоритет 7"
 
 #. STRINGS.UI.OVERLAYS.PRIORITIES.SIX
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.SIX"
 msgid "6"
-msgstr ""
+msgstr "6"
 
 #. STRINGS.UI.OVERLAYS.PRIORITIES.SIX_TOOLTIP
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.SIX_TOOLTIP"
 msgid "Sub-Priority 6"
-msgstr ""
+msgstr "Суб-Пріоритет 6"
 
 #. STRINGS.UI.OVERLAYS.PRIORITIES.THREE
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.THREE"
 msgid "3"
-msgstr ""
+msgstr "3"
 
 #. STRINGS.UI.OVERLAYS.PRIORITIES.THREE_TOOLTIP
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.THREE_TOOLTIP"
 msgid "Sub-Priority 3"
-msgstr ""
+msgstr "Суб-Пріоритет 3"
 
 #. STRINGS.UI.OVERLAYS.PRIORITIES.TWO
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.TWO"
 msgid "2"
-msgstr ""
+msgstr "2"
 
 #. STRINGS.UI.OVERLAYS.PRIORITIES.TWO_TOOLTIP
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.TWO_TOOLTIP"
 msgid "Sub-Priority 2"
-msgstr ""
+msgstr "Суб-Пріоритет 2"
 
 #. STRINGS.UI.OVERLAYS.ROOMS.BUTTON
 msgctxt "STRINGS.UI.OVERLAYS.ROOMS.BUTTON"
@@ -33278,12 +33440,12 @@ msgstr "ОВЕРЛЕЇ"
 #. STRINGS.UI.PICKEDUP
 msgctxt "STRINGS.UI.PICKEDUP"
 msgid "Picked Up: {0} {1}"
-msgstr ""
+msgstr "Піднали: {0} {1}"
 
 #. STRINGS.UI.PLACEINRECEPTACLE
 msgctxt "STRINGS.UI.PLACEINRECEPTACLE"
 msgid "Plant"
-msgstr ""
+msgstr "Саджати"
 
 #. STRINGS.UI.POSITIVE_FORMAT
 msgctxt "STRINGS.UI.POSITIVE_FORMAT"
@@ -33347,21 +33509,25 @@ msgid ""
 "Duplicants will pick errands according to their Priorities first, and then "
 "based on Sub-Priority."
 msgstr ""
+"Натисніть щоб відкрити вікно пріоритетів Дубліканта\n"
+"\n"
+"Дублікант обирає завдання обумовлені перш за все його Пріоритетами та потім "
+"базується на Суб-Пріоритетах."
 
 #. STRINGS.UI.PRODUCTINFO_APPLICABLERESOURCES
 msgctxt "STRINGS.UI.PRODUCTINFO_APPLICABLERESOURCES"
 msgid "Required resources:"
-msgstr ""
+msgstr "Необхідні ресурси:"
 
 #. STRINGS.UI.PRODUCTINFO_MISSINGRESOURCES_DESC
 msgctxt "STRINGS.UI.PRODUCTINFO_MISSINGRESOURCES_DESC"
 msgid "{0} has yet to be discovered."
-msgstr ""
+msgstr "{0} ще не відкрито."
 
 #. STRINGS.UI.PRODUCTINFO_MISSINGRESOURCES_HOVER
 msgctxt "STRINGS.UI.PRODUCTINFO_MISSINGRESOURCES_HOVER"
 msgid "Missing resource(s)"
-msgstr ""
+msgstr "Відсутні ресурси"
 
 #. STRINGS.UI.PRODUCTINFO_MISSINGRESOURCES_TITLE
 msgctxt "STRINGS.UI.PRODUCTINFO_MISSINGRESOURCES_TITLE"
@@ -33376,12 +33542,12 @@ msgstr "Потребує дослідження {0}"
 #. STRINGS.UI.PRODUCTINFO_RESEARCHREQUIRED
 msgctxt "STRINGS.UI.PRODUCTINFO_RESEARCHREQUIRED"
 msgid "Research required..."
-msgstr ""
+msgstr "Необхідне дослідження..."
 
 #. STRINGS.UI.PRODUCTINFO_SELECTMATERIAL
 msgctxt "STRINGS.UI.PRODUCTINFO_SELECTMATERIAL"
 msgid "Select {0}:"
-msgstr ""
+msgstr "Обрати {0}:"
 
 #. STRINGS.UI.QUEUE
 msgctxt "STRINGS.UI.QUEUE"
@@ -33396,7 +33562,7 @@ msgstr "ЧЕРВОНА ТРЕВОГА"
 #. STRINGS.UI.REMOVEFROMRECEPTACLE
 msgctxt "STRINGS.UI.REMOVEFROMRECEPTACLE"
 msgid "Uproot"
-msgstr ""
+msgstr "Корчувати"
 
 #. STRINGS.UI.REPORT
 msgctxt "STRINGS.UI.REPORT"
@@ -33654,7 +33820,7 @@ msgctxt "STRINGS.UI.ROLES_SCREEN.EXPECTATIONS.DECOR.HIGH.DESCRIPTION"
 msgid ""
 "Duplicants employed in this Tier desire a decent increase in colony decor"
 msgstr ""
-"Дублканти задіяні на цьому Рівні, бажають пристойно полібшений декор колонії"
+"Дубліканти задіяні на цьому Рівні, бажають пристойно полібшений декор колонії"
 
 #. STRINGS.UI.ROLES_SCREEN.EXPECTATIONS.DECOR.HIGH.NAME
 msgctxt "STRINGS.UI.ROLES_SCREEN.EXPECTATIONS.DECOR.HIGH.NAME"
@@ -33666,7 +33832,7 @@ msgctxt "STRINGS.UI.ROLES_SCREEN.EXPECTATIONS.DECOR.MEDIUM.DESCRIPTION"
 msgid ""
 "Duplicants employed in this Tier desire reasonably improved colony decor"
 msgstr ""
-"Дублканти задіяні на цьому Рівні, бажають досить полібшений декор колонії"
+"Дубліканти задіяні на цьому Рівні, бажають досить полібшений декор колонії"
 
 #. STRINGS.UI.ROLES_SCREEN.EXPECTATIONS.DECOR.MEDIUM.NAME
 msgctxt "STRINGS.UI.ROLES_SCREEN.EXPECTATIONS.DECOR.MEDIUM.NAME"
@@ -33677,7 +33843,7 @@ msgstr "Середній Декор"
 msgctxt "STRINGS.UI.ROLES_SCREEN.EXPECTATIONS.DECOR.MINOR.DESCRIPTION"
 msgid "Duplicants employed in this Tier desire slightly improved colony decor"
 msgstr ""
-"Дублканти задіяні на цьому Рівні, бажають злегка полібшений декор колонії"
+"Дубліканти задіяні на цьому Рівні, бажають злегка полібшений декор колонії"
 
 #. STRINGS.UI.ROLES_SCREEN.EXPECTATIONS.DECOR.MINOR.NAME
 msgctxt "STRINGS.UI.ROLES_SCREEN.EXPECTATIONS.DECOR.MINOR.NAME"
@@ -33690,37 +33856,40 @@ msgid ""
 "Duplicants employed in this Tier desire unrealistically luxurious "
 "improvements to decor"
 msgstr ""
+"Дубліканти задіяні на цьому Рівні, бажають нереально розкішних удосконалень "
+"у декорі"
 
 #. STRINGS.UI.ROLES_SCREEN.EXPECTATIONS.DECOR.UNREASONABLE.NAME
 msgctxt "STRINGS.UI.ROLES_SCREEN.EXPECTATIONS.DECOR.UNREASONABLE.NAME"
 msgid "Decadent Decor"
-msgstr ""
+msgstr "Нереальний Декор"
 
 #. STRINGS.UI.ROLES_SCREEN.EXPECTATIONS.DECOR.VERY_HIGH.DESCRIPTION
 msgctxt "STRINGS.UI.ROLES_SCREEN.EXPECTATIONS.DECOR.VERY_HIGH.DESCRIPTION"
 msgid "Duplicants employed in this Tier desire majorly improved colony decor"
 msgstr ""
+"Дубліканти задіяні на цьому Рівні, бажають значно покращений декор колонії"
 
 #. STRINGS.UI.ROLES_SCREEN.EXPECTATIONS.DECOR.VERY_HIGH.NAME
 msgctxt "STRINGS.UI.ROLES_SCREEN.EXPECTATIONS.DECOR.VERY_HIGH.NAME"
 msgid "Superb Decor"
-msgstr ""
+msgstr "Величний Декор"
 
 #. STRINGS.UI.ROLES_SCREEN.EXPECTATIONS.FOOD_QUALITY.EXCEPTIONAL.DESCRIPTION
 msgctxt ""
 "STRINGS.UI.ROLES_SCREEN.EXPECTATIONS.FOOD_QUALITY.EXCEPTIONAL.DESCRIPTION"
 msgid "Duplicants employed in this Tier expect only the best cuisine"
-msgstr ""
+msgstr "Дубліканти задіяні на цьому Рівні, чикають тільки кращих страв"
 
 #. STRINGS.UI.ROLES_SCREEN.EXPECTATIONS.FOOD_QUALITY.EXCEPTIONAL.NAME
 msgctxt "STRINGS.UI.ROLES_SCREEN.EXPECTATIONS.FOOD_QUALITY.EXCEPTIONAL.NAME"
 msgid "Ambrosial Food"
-msgstr ""
+msgstr "Неземна Їжа"
 
 #. STRINGS.UI.ROLES_SCREEN.EXPECTATIONS.FOOD_QUALITY.HIGH.DESCRIPTION
 msgctxt "STRINGS.UI.ROLES_SCREEN.EXPECTATIONS.FOOD_QUALITY.HIGH.DESCRIPTION"
 msgid "Duplicants employed in this Tier desire better than average food"
-msgstr "Дублканти задіяні на цьому Рівні, хочуть кращої, ніж гарна їжа"
+msgstr "Дубліканти задіяні на цьому Рівні, хочуть кращої, ніж гарна їжа"
 
 #. STRINGS.UI.ROLES_SCREEN.EXPECTATIONS.FOOD_QUALITY.HIGH.NAME
 msgctxt "STRINGS.UI.ROLES_SCREEN.EXPECTATIONS.FOOD_QUALITY.HIGH.NAME"
@@ -33730,7 +33899,7 @@ msgstr "Велична Їжа"
 #. STRINGS.UI.ROLES_SCREEN.EXPECTATIONS.FOOD_QUALITY.MEDIUM.DESCRIPTION
 msgctxt "STRINGS.UI.ROLES_SCREEN.EXPECTATIONS.FOOD_QUALITY.MEDIUM.DESCRIPTION"
 msgid "Duplicants employed in this Tier desire decent food for their efforts"
-msgstr "Дублканти задіяні на цьому Рівні, хочуть гарної їжі за свої зусилля"
+msgstr "Дубліканти задіяні на цьому Рівні, хочуть гарної їжі за свої зусилля"
 
 #. STRINGS.UI.ROLES_SCREEN.EXPECTATIONS.FOOD_QUALITY.MEDIUM.NAME
 msgctxt "STRINGS.UI.ROLES_SCREEN.EXPECTATIONS.FOOD_QUALITY.MEDIUM.NAME"
@@ -33743,7 +33912,7 @@ msgid ""
 "Duplicants employed in this Tier desire food that meets basic living "
 "standards"
 msgstr ""
-"Дублканти задіяні на цьому Рівні хочуть їжу, яка відповідає основним "
+"Дубліканти задіяні на цьому Рівні хочуть їжу, яка відповідає основним "
 "стандартам життя"
 
 #. STRINGS.UI.ROLES_SCREEN.EXPECTATIONS.FOOD_QUALITY.MINOR.NAME
@@ -33755,22 +33924,23 @@ msgstr "Стандартна Їжа"
 msgctxt ""
 "STRINGS.UI.ROLES_SCREEN.EXPECTATIONS.FOOD_QUALITY.VERY_HIGH.DESCRIPTION"
 msgid "Duplicants employed in this Tier have a refined taste for food"
-msgstr ""
+msgstr "Дубліканти задіяні на цьому Рівні, мають вишуканий смак до їжі"
 
 #. STRINGS.UI.ROLES_SCREEN.EXPECTATIONS.FOOD_QUALITY.VERY_HIGH.NAME
 msgctxt "STRINGS.UI.ROLES_SCREEN.EXPECTATIONS.FOOD_QUALITY.VERY_HIGH.NAME"
 msgid "Superb Food"
-msgstr ""
+msgstr "Розкішна Їжа"
 
 #. STRINGS.UI.ROLES_SCREEN.EXPECTATIONS.NO_EXPECTATIONS
 msgctxt "STRINGS.UI.ROLES_SCREEN.EXPECTATIONS.NO_EXPECTATIONS"
 msgid "No additional provisions are required to perform this job"
-msgstr ""
+msgstr "Для виконання цієї роботи додаткових затрат не потрібно"
 
 #. STRINGS.UI.ROLES_SCREEN.EXPECTATIONS.PRIVATE_ROOM.DESCRIPTION
 msgctxt "STRINGS.UI.ROLES_SCREEN.EXPECTATIONS.PRIVATE_ROOM.DESCRIPTION"
 msgid "Duplicants in this job would appreciate their own place to unwind"
 msgstr ""
+"Дубліканти на цій роботі будуть цінувати своє власне місце для відпочинку"
 
 #. STRINGS.UI.ROLES_SCREEN.EXPECTATIONS.PRIVATE_ROOM.NAME
 msgctxt "STRINGS.UI.ROLES_SCREEN.EXPECTATIONS.PRIVATE_ROOM.NAME"
@@ -33853,10 +34023,9 @@ msgid "Trait: Geographical Feature <link=\"ANALYSIS\">Analysis</link>"
 msgstr "Особливості: Географічні показники <link=\"ANALYSIS\">Аналізу</link>"
 
 #. STRINGS.UI.ROLES_SCREEN.PERKS.CAN_USE_RANCH_STATION.DESCRIPTION
-#, fuzzy
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.CAN_USE_RANCH_STATION.DESCRIPTION"
 msgid "Trait: Grooming Station Training"
-msgstr "Особливості: Учбова Станція Догляду"
+msgstr "Особливості: Станція Догляду"
 
 #. STRINGS.UI.ROLES_SCREEN.PERKS.CAN_WRANGLE_CREATURES.DESCRIPTION
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.CAN_WRANGLE_CREATURES.DESCRIPTION"
@@ -33938,7 +34107,7 @@ msgstr "+{0} до Сили"
 #. STRINGS.UI.ROLES_SCREEN.PERKS.MANAGED_COLONY.DESCRIPTION
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.MANAGED_COLONY.DESCRIPTION"
 msgid "Colony Stress Alleviater"
-msgstr ""
+msgstr "Пом'якшення стресу колонії"
 
 #. STRINGS.UI.ROLES_SCREEN.PERKS.MANAGERIAL_DUTIES.DESCRIPTION
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.MANAGERIAL_DUTIES.DESCRIPTION"
@@ -33948,7 +34117,7 @@ msgstr "Стресове навантаження"
 #. STRINGS.UI.ROLES_SCREEN.PERKS.NO_PERKS
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.NO_PERKS"
 msgid "This job comes with no training"
-msgstr ""
+msgstr "Ця робота не підходить без підготовки"
 
 #. STRINGS.UI.ROLES_SCREEN.PERKS.TITLE_BASICTRAINING
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.TITLE_BASICTRAINING"
@@ -33963,27 +34132,27 @@ msgstr "Допоміжні навчання праці"
 #. STRINGS.UI.ROLES_SCREEN.PRIORITY.DESCRIPTION
 msgctxt "STRINGS.UI.ROLES_SCREEN.PRIORITY.DESCRIPTION"
 msgid "{0}s prioritize these work errands: "
-msgstr ""
+msgstr "{0} визначити пріоритетність цих завдань:"
 
 #. STRINGS.UI.ROLES_SCREEN.PRIORITY.NO_EFFECT
 msgctxt "STRINGS.UI.ROLES_SCREEN.PRIORITY.NO_EFFECT"
 msgid "This job does not affect errand prioritization"
-msgstr ""
+msgstr "Ця робота не впливає на пріоритетність завдань"
 
 #. STRINGS.UI.ROLES_SCREEN.PRIORITY.TITLE
 msgctxt "STRINGS.UI.ROLES_SCREEN.PRIORITY.TITLE"
 msgid "Job Priorities"
-msgstr ""
+msgstr "Пріоритет роботи"
 
 #. STRINGS.UI.ROLES_SCREEN.RESUME.NO_SELECTION
 msgctxt "STRINGS.UI.ROLES_SCREEN.RESUME.NO_SELECTION"
 msgid "No Duplicant selected"
-msgstr ""
+msgstr "Дублікант не обраний"
 
 #. STRINGS.UI.ROLES_SCREEN.RESUME.PREVIOUS_ROLES
 msgctxt "STRINGS.UI.ROLES_SCREEN.RESUME.PREVIOUS_ROLES"
 msgid "PREVIOUS DUTIES"
-msgstr ""
+msgstr "ПОПЕРЕДНІ ОБОВ'ЯЗКИ"
 
 #. STRINGS.UI.ROLES_SCREEN.RESUME.TITLE
 msgctxt "STRINGS.UI.ROLES_SCREEN.RESUME.TITLE"
@@ -34054,7 +34223,7 @@ msgstr "Вакантна Позиція"
 #. STRINGS.UI.ROLES_SCREEN.SLOTS.UNASSIGNED_TOOLTIP
 msgctxt "STRINGS.UI.ROLES_SCREEN.SLOTS.UNASSIGNED_TOOLTIP"
 msgid "Click to assign a Duplicant to this job opening"
-msgstr ""
+msgstr "Натисніть, щоб призначити Дубліканта на цю вакантну роботу"
 
 #. STRINGS.UI.ROLES_SCREEN.TIER_NAMES.FIVE
 msgctxt "STRINGS.UI.ROLES_SCREEN.TIER_NAMES.FIVE"
@@ -34109,7 +34278,7 @@ msgstr "<b>Дубліканти, які опанували цю роботу:</b
 #. STRINGS.UI.SCHEDULE
 msgctxt "STRINGS.UI.SCHEDULE"
 msgid "SCHEDULE"
-msgstr ""
+msgstr "РОЗКЛАД"
 
 #. STRINGS.UI.SCHEDULEBLOCKTYPES.EAT.DESCRIPTION
 msgctxt "STRINGS.UI.SCHEDULEBLOCKTYPES.EAT.DESCRIPTION"
@@ -34117,11 +34286,14 @@ msgid ""
 "EAT:\n"
 "During Mealtime Duplicants will head to their assigned mess halls and eat."
 msgstr ""
+"ЇЖА:\n"
+"Під час приймання їжі Дубліканти вирушають до призначених для них місць та "
+"їдять."
 
 #. STRINGS.UI.SCHEDULEBLOCKTYPES.EAT.NAME
 msgctxt "STRINGS.UI.SCHEDULEBLOCKTYPES.EAT.NAME"
 msgid "Mealtime"
-msgstr ""
+msgstr "Час приймання їжі"
 
 #. STRINGS.UI.SCHEDULEBLOCKTYPES.HYGIENE.DESCRIPTION
 msgctxt "STRINGS.UI.SCHEDULEBLOCKTYPES.HYGIENE.DESCRIPTION"
@@ -34130,13 +34302,17 @@ msgid ""
 "During <link=\"HYGIENE\">Hygiene</link> hours Duplicants will head to their "
 "assigned washrooms to get cleaned up."
 msgstr ""
+"ГІГІЄНА:\n"
+"Під час години <link=\"HYGIENE\">Гігієни</link> Дубліканти вирушають до "
+"призначених для них ванних кімнат, щоб очиститися."
 
 #. STRINGS.UI.SCHEDULEBLOCKTYPES.HYGIENE.NAME
 msgctxt "STRINGS.UI.SCHEDULEBLOCKTYPES.HYGIENE.NAME"
 msgid "Hygiene"
-msgstr ""
+msgstr "Гігієна"
 
 #. STRINGS.UI.SCHEDULEBLOCKTYPES.RECREATION.DESCRIPTION
+#, fuzzy
 msgctxt "STRINGS.UI.SCHEDULEBLOCKTYPES.RECREATION.DESCRIPTION"
 msgid ""
 "HAMMER TIME:\n"
@@ -34144,11 +34320,15 @@ msgid ""
 "link> through dance. Please be aware that no matter how hard your Duplicants "
 "try, they will absolutely not be able to touch this."
 msgstr ""
+"ЧАС ГАМСЕЛИТИ:\n"
+"Під час гамсеління, Дубліканти зменшують їхній <link=\"STRESS\">Стрес</link> "
+"через танці. Будь ласка, пам'ятайте, що незалежно від того, наскільки важко "
+"спробувати вашим Дублікантам, вони абсолютно не зможуть торкнутися цього."
 
 #. STRINGS.UI.SCHEDULEBLOCKTYPES.RECREATION.NAME
 msgctxt "STRINGS.UI.SCHEDULEBLOCKTYPES.RECREATION.NAME"
 msgid "Recreation"
-msgstr ""
+msgstr "Відпочинок"
 
 #. STRINGS.UI.SCHEDULEBLOCKTYPES.SLEEP.DESCRIPTION
 msgctxt "STRINGS.UI.SCHEDULEBLOCKTYPES.SLEEP.DESCRIPTION"
@@ -34157,11 +34337,14 @@ msgid ""
 "When it's time to sleep, Duplicants will head to their assigned rooms and "
 "rest."
 msgstr ""
+"СОН:\n"
+"Коли час спати, Дубліканти підуть на призначені їм кімнати та "
+"відпочиватимуть."
 
 #. STRINGS.UI.SCHEDULEBLOCKTYPES.SLEEP.NAME
 msgctxt "STRINGS.UI.SCHEDULEBLOCKTYPES.SLEEP.NAME"
 msgid "Sleep"
-msgstr ""
+msgstr "Сон"
 
 #. STRINGS.UI.SCHEDULEBLOCKTYPES.WORK.DESCRIPTION
 msgctxt "STRINGS.UI.SCHEDULEBLOCKTYPES.WORK.DESCRIPTION"
@@ -34169,46 +34352,49 @@ msgid ""
 "WORK:\n"
 "During Work hours Duplicants will perform any pending errands in the colony."
 msgstr ""
+"РОБОТА:\n"
+"Під час робочих годин Дубліканти виконують будь-яке незакінчене завдання в "
+"колонії"
 
 #. STRINGS.UI.SCHEDULEBLOCKTYPES.WORK.NAME
 msgctxt "STRINGS.UI.SCHEDULEBLOCKTYPES.WORK.NAME"
 msgid "Work"
-msgstr ""
+msgstr "Робота"
 
 #. STRINGS.UI.SCHEDULESCREEN.ALLOWED
 msgctxt "STRINGS.UI.SCHEDULESCREEN.ALLOWED"
 msgid "Allowed"
-msgstr ""
+msgstr "Дозволено"
 
 #. STRINGS.UI.SCHEDULESCREEN.BLOCKS
 msgctxt "STRINGS.UI.SCHEDULESCREEN.BLOCKS"
 msgid "BLOCKS:"
-msgstr ""
+msgstr "БЛОКИ:"
 
 #. STRINGS.UI.SCHEDULESCREEN.CLICKTOCHANGE
 msgctxt "STRINGS.UI.SCHEDULESCREEN.CLICKTOCHANGE"
 msgid "Click to change block type."
-msgstr ""
+msgstr "Натисніть, для зміни типу блока. "
 
 #. STRINGS.UI.SCHEDULESCREEN.CLICKTOSELECT
 msgctxt "STRINGS.UI.SCHEDULESCREEN.CLICKTOSELECT"
 msgid "Click to select."
-msgstr ""
+msgstr "Натисніть, щоб обрати."
 
 #. STRINGS.UI.SCHEDULESCREEN.DENIED
 msgctxt "STRINGS.UI.SCHEDULESCREEN.DENIED"
 msgid "Denied"
-msgstr ""
+msgstr "Відмовлено"
 
 #. STRINGS.UI.SCHEDULESCREEN.SCHEDULE
 msgctxt "STRINGS.UI.SCHEDULESCREEN.SCHEDULE"
 msgid "SCHEDULE:"
-msgstr ""
+msgstr "РОЗКЛАД"
 
 #. STRINGS.UI.SCHEDULESCREEN.SELECTBLOCKTYPETOOLTIP
 msgctxt "STRINGS.UI.SCHEDULESCREEN.SELECTBLOCKTYPETOOLTIP"
 msgid "Select a block type to adjust the colony's schedule"
-msgstr ""
+msgstr "Оберіть тип блоку, щоб регулювати розкладом колонії"
 
 #. STRINGS.UI.SCHEDULESCREEN.SELECTHELP
 msgctxt "STRINGS.UI.SCHEDULESCREEN.SELECTHELP"
@@ -34216,26 +34402,28 @@ msgid ""
 "Select an option and then click or drag on the timetable to adjust the "
 "Duplicant's schedule."
 msgstr ""
+"Оберіть параметр і потім натисніть або перетягніть графік, щоб налаштувати "
+"розклад Дублікантів."
 
 #. STRINGS.UI.SCHEDULESCREEN.TIMESLOT
 msgctxt "STRINGS.UI.SCHEDULESCREEN.TIMESLOT"
 msgid "Time Slot"
-msgstr ""
+msgstr "Часовий інтервал"
 
 #. STRINGS.UI.SPEED_FAST
 msgctxt "STRINGS.UI.SPEED_FAST"
 msgid "FAST"
-msgstr ""
+msgstr "ШВИДКО"
 
 #. STRINGS.UI.SPEED_MEDIUM
 msgctxt "STRINGS.UI.SPEED_MEDIUM"
 msgid "MEDIUM"
-msgstr ""
+msgstr "СЕРЕДНЬО"
 
 #. STRINGS.UI.SPEED_SLOW
 msgctxt "STRINGS.UI.SPEED_SLOW"
 msgid "SLOW"
-msgstr ""
+msgstr "НОВІЛЬНО"
 
 #. STRINGS.UI.TABLESCREENS.COLUMN_SORT_BY_EATEN_TODAY
 msgctxt "STRINGS.UI.TABLESCREENS.COLUMN_SORT_BY_EATEN_TODAY"
@@ -34285,7 +34473,7 @@ msgstr "Двічі клацніть, щоб перейти до <b>{0}</b>"
 #. STRINGS.UI.TABLESCREENS.SELECT_DUPLICANT_BUTTON
 msgctxt "STRINGS.UI.TABLESCREENS.SELECT_DUPLICANT_BUTTON"
 msgid "Click to select <b>{0}</b>"
-msgstr ""
+msgstr "Натисніть, щоб виділити <b>{0}</b>"
 
 #. STRINGS.UI.TOOLS.ATTACK.NAME
 msgctxt "STRINGS.UI.TOOLS.ATTACK.NAME"
@@ -34305,12 +34493,12 @@ msgstr "Знаряддя: Атака"
 #. STRINGS.UI.TOOLS.BUILD.NAME
 msgctxt "STRINGS.UI.TOOLS.BUILD.NAME"
 msgid "Build {0}"
-msgstr ""
+msgstr "Будувати {0}"
 
 #. STRINGS.UI.TOOLS.BUILD.TOOLACTION
 msgctxt "STRINGS.UI.TOOLS.BUILD.TOOLACTION"
 msgid "CLICK TO BUILD"
-msgstr ""
+msgstr "НАТИСНІТЬ ДЛЯ БУДІВНИЦТВА"
 
 #. STRINGS.UI.TOOLS.BUILD.TOOLACTION_DRAG
 msgctxt "STRINGS.UI.TOOLS.BUILD.TOOLACTION_DRAG"
@@ -34340,47 +34528,47 @@ msgstr "Знаряддя: Скасувати"
 #. STRINGS.UI.TOOLS.CAPTURE.NAME
 msgctxt "STRINGS.UI.TOOLS.CAPTURE.NAME"
 msgid "Wrangle"
-msgstr "Wrangle"
+msgstr "Впіймати"
 
 #. STRINGS.UI.TOOLS.CAPTURE.NOT_CAPTURABLE
 msgctxt "STRINGS.UI.TOOLS.CAPTURE.NOT_CAPTURABLE"
 msgid "Cannot Wrangle"
-msgstr ""
+msgstr "Не може впіймати"
 
 #. STRINGS.UI.TOOLS.CAPTURE.TOOLACTION
 msgctxt "STRINGS.UI.TOOLS.CAPTURE.TOOLACTION"
 msgid "DRAG TO WRANGLE CRITTERS"
-msgstr ""
+msgstr "ТЯГНИ, ЩОБ ВПІЙМАТИ ТВАРИН"
 
 #. STRINGS.UI.TOOLS.CAPTURE.TOOLNAME
 msgctxt "STRINGS.UI.TOOLS.CAPTURE.TOOLNAME"
 msgid "Wrangle tool"
-msgstr ""
+msgstr "Знаряддя: Впіймати"
 
 #. STRINGS.UI.TOOLS.CLEANUPCATEGORY.NAME
 msgctxt "STRINGS.UI.TOOLS.CLEANUPCATEGORY.NAME"
 msgid "Clean"
-msgstr ""
+msgstr "Чищення"
 
 #. STRINGS.UI.TOOLS.CLEANUPCATEGORY.TOOLNAME
 msgctxt "STRINGS.UI.TOOLS.CLEANUPCATEGORY.TOOLNAME"
 msgid "Clean Up tools"
-msgstr ""
+msgstr "Знаряддя: Чищення"
 
 #. STRINGS.UI.TOOLS.COPYSETTINGS.NAME
 msgctxt "STRINGS.UI.TOOLS.COPYSETTINGS.NAME"
 msgid "Paste Settings"
-msgstr ""
+msgstr "Вставити налаштування"
 
 #. STRINGS.UI.TOOLS.COPYSETTINGS.TOOLACTION
 msgctxt "STRINGS.UI.TOOLS.COPYSETTINGS.TOOLACTION"
 msgid "DRAG TO PASTE SETTINGS"
-msgstr ""
+msgstr "ТЯГНИ, ЩОБ ВСТАВИТИ НАЛАШТУВАННЯ"
 
 #. STRINGS.UI.TOOLS.COPYSETTINGS.TOOLNAME
 msgctxt "STRINGS.UI.TOOLS.COPYSETTINGS.TOOLNAME"
 msgid "Paste Settings Tool"
-msgstr ""
+msgstr "Знаряддя: Вставлення Налаштувань"
 
 #. STRINGS.UI.TOOLS.DECONSTRUCT.NAME
 msgctxt "STRINGS.UI.TOOLS.DECONSTRUCT.NAME"
@@ -34490,7 +34678,7 @@ msgstr "Конвеєрні Рейки"
 #. STRINGS.UI.TOOLS.FILTERLAYERS.TILES
 msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.TILES"
 msgid "Tiles"
-msgstr ""
+msgstr "Кахелі"
 
 #. STRINGS.UI.TOOLS.FILTERLAYERS.WIRES
 msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.WIRES"
@@ -34510,7 +34698,7 @@ msgstr "Назад"
 #. STRINGS.UI.TOOLS.GENERIC.UNKNOWN
 msgctxt "STRINGS.UI.TOOLS.GENERIC.UNKNOWN"
 msgid "UNKNOWN"
-msgstr ""
+msgstr "НЕВІДОМО"
 
 #. STRINGS.UI.TOOLS.HARVEST.NAME
 msgctxt "STRINGS.UI.TOOLS.HARVEST.NAME"
@@ -34570,22 +34758,22 @@ msgstr "Знаряддя: Мити"
 #. STRINGS.UI.TOOLS.MOVETOLOCATION.NAME
 msgctxt "STRINGS.UI.TOOLS.MOVETOLOCATION.NAME"
 msgid "Move"
-msgstr ""
+msgstr "Перемістити"
 
 #. STRINGS.UI.TOOLS.MOVETOLOCATION.TOOLACTION
 msgctxt "STRINGS.UI.TOOLS.MOVETOLOCATION.TOOLACTION"
 msgid "CLICK TO MOVE"
-msgstr ""
+msgstr "НАТИСНІТЬ, ДЛЯ ПЕРЕМІЩЕННЯ"
 
 #. STRINGS.UI.TOOLS.MOVETOLOCATION.TOOLNAME
 msgctxt "STRINGS.UI.TOOLS.MOVETOLOCATION.TOOLNAME"
 msgid "Move Here"
-msgstr ""
+msgstr "Перемістити сюди"
 
 #. STRINGS.UI.TOOLS.MOVETOLOCATION.UNREACHABLE
 msgctxt "STRINGS.UI.TOOLS.MOVETOLOCATION.UNREACHABLE"
 msgid "UNREACHABLE"
-msgstr ""
+msgstr "НЕДОСЯЖНИЙ"
 
 #. STRINGS.UI.TOOLS.PRIORITIESCATEGORY.NAME
 msgctxt "STRINGS.UI.TOOLS.PRIORITIESCATEGORY.NAME"
@@ -34618,6 +34806,8 @@ msgid ""
 "Alerts provide important information about what's happening to your colony "
 "right now"
 msgstr ""
+"Сповіщення надають важливу інформацію про те, що відбувається у вашій "
+"колонії прямо зараз"
 
 #. STRINGS.UI.TOOLTIPS.ATTACKBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.ATTACKBUTTON"
@@ -34627,7 +34817,7 @@ msgstr "Потягніть для атаки бідних, диких твари
 #. STRINGS.UI.TOOLTIPS.BASE_VALUE
 msgctxt "STRINGS.UI.TOOLTIPS.BASE_VALUE"
 msgid "Base Value"
-msgstr ""
+msgstr "Базове значення"
 
 #. STRINGS.UI.TOOLTIPS.CANCELBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.CANCELBUTTON"
@@ -34637,17 +34827,17 @@ msgstr "Потягніть для скасування завдань"
 #. STRINGS.UI.TOOLTIPS.CANCELDECONSTRUCTIONBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.CANCELDECONSTRUCTIONBUTTON"
 msgid "Cancel queued orders or deconstruct existing buildings"
-msgstr ""
+msgstr "Скасуйте чергові замовлення або демонтуйте існуючі будівлі"
 
 #. STRINGS.UI.TOOLTIPS.CAPTUREBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.CAPTUREBUTTON"
 msgid "Drag to capture live critters"
-msgstr ""
+msgstr "Потягніть, щоб впіймати тварин живими"
 
 #. STRINGS.UI.TOOLTIPS.CLEANUPMAINBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.CLEANUPMAINBUTTON"
 msgid "Mop and sweep messy floors"
-msgstr ""
+msgstr "Мити та витирати брудну підлогу"
 
 #. STRINGS.UI.TOOLTIPS.CLEARBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.CLEARBUTTON"
@@ -34697,27 +34887,27 @@ msgstr "Потягніть для дезінфекції будівель від
 #. STRINGS.UI.TOOLTIPS.DISMISSMESSAGE
 msgctxt "STRINGS.UI.TOOLTIPS.DISMISSMESSAGE"
 msgid "Dismiss message"
-msgstr ""
+msgstr "Відхилити повідомлення"
 
 #. STRINGS.UI.TOOLTIPS.EDITCREATURENAME
 msgctxt "STRINGS.UI.TOOLTIPS.EDITCREATURENAME"
 msgid "Give this lil' critter a new name"
-msgstr ""
+msgstr "Дати цій тварині нове ім'я"
 
 #. STRINGS.UI.TOOLTIPS.EDITNAME
 msgctxt "STRINGS.UI.TOOLTIPS.EDITNAME"
 msgid "Give this Duplicant a new name"
-msgstr ""
+msgstr "Дати цьому Дубліканту нове ім'я"
 
 #. STRINGS.UI.TOOLTIPS.ENERGYGENERATED
 msgctxt "STRINGS.UI.TOOLTIPS.ENERGYGENERATED"
 msgid "<link=\"POWER\">Power</link> Produced"
-msgstr ""
+msgstr "Виробництво <link=\"POWER\">Енергії</link>"
 
 #. STRINGS.UI.TOOLTIPS.ENERGYREQUIRED
 msgctxt "STRINGS.UI.TOOLTIPS.ENERGYREQUIRED"
 msgid "<link=\"POWER\">Power</link> Required"
-msgstr ""
+msgstr "Необхідна <link=\"POWER\">Енергія</link>"
 
 #. STRINGS.UI.TOOLTIPS.GASVENTOVERLAYSTRING
 msgctxt "STRINGS.UI.TOOLTIPS.GASVENTOVERLAYSTRING"
@@ -34737,57 +34927,57 @@ msgstr "Відображає території з комфортною темп
 #. STRINGS.UI.TOOLTIPS.HELP_BUILDLOCATION_ATTACHPOINT
 msgctxt "STRINGS.UI.TOOLTIPS.HELP_BUILDLOCATION_ATTACHPOINT"
 msgid "Must be built overlapping an {0}"
-msgstr ""
+msgstr "Потрібно будувати в перекритті з {0}"
 
 #. STRINGS.UI.TOOLTIPS.HELP_BUILDLOCATION_CEILING
 msgctxt "STRINGS.UI.TOOLTIPS.HELP_BUILDLOCATION_CEILING"
 msgid "Must be built on the ceiling"
-msgstr ""
+msgstr "Потрібно будувати на стелі"
 
 #. STRINGS.UI.TOOLTIPS.HELP_BUILDLOCATION_FLOOR
 msgctxt "STRINGS.UI.TOOLTIPS.HELP_BUILDLOCATION_FLOOR"
 msgid "Must be built on solid ground"
-msgstr ""
+msgstr "Потрібно будувати на твердій землі"
 
 #. STRINGS.UI.TOOLTIPS.HELP_BUILDLOCATION_GASPORTS_OBSTRUCTED
 msgctxt "STRINGS.UI.TOOLTIPS.HELP_BUILDLOCATION_GASPORTS_OBSTRUCTED"
 msgid "Gas ports are obstructed"
-msgstr ""
+msgstr "Газовий порт заблокований"
 
 #. STRINGS.UI.TOOLTIPS.HELP_BUILDLOCATION_INSIDEGROUND
 msgctxt "STRINGS.UI.TOOLTIPS.HELP_BUILDLOCATION_INSIDEGROUND"
 msgid "Must be built in the ground"
-msgstr ""
+msgstr "Потрібно будувати в землі"
 
 #. STRINGS.UI.TOOLTIPS.HELP_BUILDLOCATION_INVALID_CELL
 msgctxt "STRINGS.UI.TOOLTIPS.HELP_BUILDLOCATION_INVALID_CELL"
 msgid "Invalid Cell"
-msgstr ""
+msgstr "Недійсна клітинка"
 
 #. STRINGS.UI.TOOLTIPS.HELP_BUILDLOCATION_LIQUIDPORTS_OBSTRUCTED
 msgctxt "STRINGS.UI.TOOLTIPS.HELP_BUILDLOCATION_LIQUIDPORTS_OBSTRUCTED"
 msgid "Liquid ports are obstructed"
-msgstr ""
+msgstr "Рідинний порт заблокований"
 
 #. STRINGS.UI.TOOLTIPS.HELP_BUILDLOCATION_NOT_IN_TILES
 msgctxt "STRINGS.UI.TOOLTIPS.HELP_BUILDLOCATION_NOT_IN_TILES"
 msgid "Cannot be built inside tile"
-msgstr ""
+msgstr "Не можна будувати в середині кахелю"
 
 #. STRINGS.UI.TOOLTIPS.HELP_BUILDLOCATION_OCCUPIED
 msgctxt "STRINGS.UI.TOOLTIPS.HELP_BUILDLOCATION_OCCUPIED"
 msgid "Must be built in unoccupied space"
-msgstr ""
+msgstr "Потрібно будувати на вільному місці"
 
 #. STRINGS.UI.TOOLTIPS.HELP_BUILDLOCATION_WIRE_OBSTRUCTION
 msgctxt "STRINGS.UI.TOOLTIPS.HELP_BUILDLOCATION_WIRE_OBSTRUCTION"
 msgid "Obstructed by wire"
-msgstr ""
+msgstr "Дріт похований"
 
 #. STRINGS.UI.TOOLTIPS.HELP_REQUIRES_ROOM
 msgctxt "STRINGS.UI.TOOLTIPS.HELP_REQUIRES_ROOM"
 msgid "Must be in a room"
-msgstr ""
+msgstr "Потрібно бути в кімнаті"
 
 #. STRINGS.UI.TOOLTIPS.HELP_ROTATE_KEY
 msgctxt "STRINGS.UI.TOOLTIPS.HELP_ROTATE_KEY"
@@ -34797,12 +34987,12 @@ msgstr "Натисніть <color=#F44A47>[{Key}]</color> для Обертан�
 #. STRINGS.UI.TOOLTIPS.HELP_TUBELOCATION_NO_UTURNS
 msgctxt "STRINGS.UI.TOOLTIPS.HELP_TUBELOCATION_NO_UTURNS"
 msgid "Can't U-Turn"
-msgstr ""
+msgstr "Не можна повернутися"
 
 #. STRINGS.UI.TOOLTIPS.HELP_TUBELOCATION_STRAIGHT_BRIDGES
 msgctxt "STRINGS.UI.TOOLTIPS.HELP_TUBELOCATION_STRAIGHT_BRIDGES"
 msgid "Can't Turn Here"
-msgstr ""
+msgstr "Не можна повернутися тут"
 
 #. STRINGS.UI.TOOLTIPS.INFOPANEL
 msgctxt "STRINGS.UI.TOOLTIPS.INFOPANEL"
@@ -34810,22 +35000,25 @@ msgid ""
 "The Info Panel contains an overview of the basic information about your "
 "Duplicant"
 msgstr ""
+"Панель інформації містить загальне уявлення про базову інформацію про вашого "
+"Дубліканта"
 
 #. STRINGS.UI.TOOLTIPS.ITEMSPANEL
 msgctxt "STRINGS.UI.TOOLTIPS.ITEMSPANEL"
 msgid "The Items Panel displays everything your Duplicant is in possession of"
-msgstr ""
+msgstr "Панель предметів відображає все, що є у вашого Дубліканта"
 
 #. STRINGS.UI.TOOLTIPS.JOBSSCREEN_ATTRIBUTES
 msgctxt "STRINGS.UI.TOOLTIPS.JOBSSCREEN_ATTRIBUTES"
 msgid ""
 "The following attributes affect a Duplicant's efficiency at this errand:"
 msgstr ""
+"Наступні атрибути впливають на ефективність Дублікантів в цих завданнях:"
 
 #. STRINGS.UI.TOOLTIPS.JOBSSCREEN_CANNOTPERFORMTASK
 msgctxt "STRINGS.UI.TOOLTIPS.JOBSSCREEN_CANNOTPERFORMTASK"
 msgid "{0} cannot perform this errand."
-msgstr ""
+msgstr "{0} не може виконувати це завдання."
 
 #. STRINGS.UI.TOOLTIPS.JOBSSCREEN_PRIORITY
 msgctxt "STRINGS.UI.TOOLTIPS.JOBSSCREEN_PRIORITY"
@@ -34835,16 +35028,20 @@ msgid ""
 "However, a busy Duplicant will continue to work on their current errand "
 "until it's complete, even if a more urgent errand becomes available."
 msgstr ""
+"Термінові завдання завжди виконуються перед невідкладними завданнями.\n"
+"\n"
+"Однак, зайнятий Дублікант продовжуватиме працювати над поточним завданням, "
+"доки не буде завершено, навіть якщо стане доступним більш термінове завдання."
 
 #. STRINGS.UI.TOOLTIPS.JOBSSCREEN_RELEVANT_ATTRIBUTES
 msgctxt "STRINGS.UI.TOOLTIPS.JOBSSCREEN_RELEVANT_ATTRIBUTES"
 msgid "Relevant Attributes:"
-msgstr ""
+msgstr "Відповідні атрибути:"
 
 #. STRINGS.UI.TOOLTIPS.JOULESOVERLAYSTRING
 msgctxt "STRINGS.UI.TOOLTIPS.JOULESOVERLAYSTRING"
 msgid "Displays the thermal energy in each cell"
-msgstr ""
+msgstr "Відображає теплову енергію в кожній комірці"
 
 #. STRINGS.UI.TOOLTIPS.LIGHTSOVERLAYSTRING
 msgctxt "STRINGS.UI.TOOLTIPS.LIGHTSOVERLAYSTRING"
@@ -34889,6 +35086,10 @@ msgid ""
 "Research buildings can be found in the Stations Tab <color=#F44A47>[0]</"
 "color> of the Build Menu"
 msgstr ""
+"Побудуйте Станцію Досліджень, щоб розблокувати\n"
+"------------------\n"
+"Дослідницька будівля може бути знайдена у Вкладці Станції "
+"<color=#F44A47>[0]</color> Меню Будівництва"
 
 #. STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_REQUIRES_ROLES_STATION
 msgctxt "STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_REQUIRES_ROLES_STATION"
@@ -34898,6 +35099,10 @@ msgid ""
 "The Jobs Board can be found in the Stations Tab <color=#F44A47>[0]</color> "
 "of the Build Menu"
 msgstr ""
+"Побудуйте Дошку Роботи, щоб розблокувати\n"
+"------------------\n"
+"Дошка Роботи може бути знайдена у Вкладці Станції <color=#F44A47>[0]</color> "
+"Меню Будівництва"
 
 #. STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_RESEARCH
 msgctxt "STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_RESEARCH"
@@ -34912,7 +35117,7 @@ msgstr "Керування пріоритетами та призначеним�
 #. STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_SCHEDULE
 msgctxt "STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_SCHEDULE"
 msgid "Adjust colony timetable"
-msgstr ""
+msgstr "Керуйте розкладом колонії"
 
 #. STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_VITALS
 msgctxt "STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_VITALS"
@@ -34922,7 +35127,7 @@ msgstr "Перегляд показників Дублікантів"
 #. STRINGS.UI.TOOLTIPS.MATIERIAL_MOD
 msgctxt "STRINGS.UI.TOOLTIPS.MATIERIAL_MOD"
 msgid "Made out of {0}"
-msgstr ""
+msgstr "Зроблено з {0}"
 
 #. STRINGS.UI.TOOLTIPS.MESSAGESTOOLTIP
 msgctxt "STRINGS.UI.TOOLTIPS.MESSAGESTOOLTIP"
@@ -34930,6 +35135,8 @@ msgid ""
 "Messages are events that have happened and tips to help you manage your "
 "colony"
 msgstr ""
+"Повідомлення - це події, що сталися та поради, які допоможуть вам керувати "
+"вашою колонією"
 
 #. STRINGS.UI.TOOLTIPS.METERSCREEN_AVGSTRESS
 msgctxt "STRINGS.UI.TOOLTIPS.METERSCREEN_AVGSTRESS"
@@ -34969,17 +35176,17 @@ msgstr "Немає записів в базі даних"
 #. STRINGS.UI.TOOLTIPS.NOISE_POLLUTION_OVERLAY_STRING
 msgctxt "STRINGS.UI.TOOLTIPS.NOISE_POLLUTION_OVERLAY_STRING"
 msgid "Displays ambient noise levels"
-msgstr ""
+msgstr "Відображає навколишній рівень шуму"
 
 #. STRINGS.UI.TOOLTIPS.NOMATERIAL
 msgctxt "STRINGS.UI.TOOLTIPS.NOMATERIAL"
 msgid "Not enough materials"
-msgstr ""
+msgstr "Не достатні матеріали"
 
 #. STRINGS.UI.TOOLTIPS.OPEN_CODEX_ENTRY
 msgctxt "STRINGS.UI.TOOLTIPS.OPEN_CODEX_ENTRY"
 msgid "View full entry in database"
-msgstr ""
+msgstr "Переглянути повний запис у базі даних"
 
 #. STRINGS.UI.TOOLTIPS.OXYGENOVERLAYSTRING
 msgctxt "STRINGS.UI.TOOLTIPS.OXYGENOVERLAYSTRING"
@@ -34994,12 +35201,12 @@ msgstr "Пауза"
 #. STRINGS.UI.TOOLTIPS.PAUSEBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.PAUSEBUTTON"
 msgid "Pause"
-msgstr ""
+msgstr "Зупинити"
 
 #. STRINGS.UI.TOOLTIPS.PLAYBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.PLAYBUTTON"
 msgid "Start"
-msgstr ""
+msgstr "Почати"
 
 #. STRINGS.UI.TOOLTIPS.POWEROVERLAYSTRING
 msgctxt "STRINGS.UI.TOOLTIPS.POWEROVERLAYSTRING"
@@ -35009,7 +35216,7 @@ msgstr "Відображає компоненти електричної мер�
 #. STRINGS.UI.TOOLTIPS.PRIORITIESOVERLAYSTRING
 msgctxt "STRINGS.UI.TOOLTIPS.PRIORITIESOVERLAYSTRING"
 msgid "Displays errand sub-priority values"
-msgstr ""
+msgstr "Відображає значення суб-пріоритетних завдань"
 
 #. STRINGS.UI.TOOLTIPS.PRIORITIZEBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.PRIORITIZEBUTTON"
@@ -35029,22 +35236,22 @@ msgstr "Випадкове ім'я цієї тварини"
 #. STRINGS.UI.TOOLTIPS.RANDOMIZENAME
 msgctxt "STRINGS.UI.TOOLTIPS.RANDOMIZENAME"
 msgid "Randomize this Duplicant's name"
-msgstr ""
+msgstr "Випадкове ім'я цих Дублікантів"
 
 #. STRINGS.UI.TOOLTIPS.REACHABILITYOVERLAYSTRING
 msgctxt "STRINGS.UI.TOOLTIPS.REACHABILITYOVERLAYSTRING"
 msgid "Displays areas accessible by Duplicants"
-msgstr ""
+msgstr "Відображає доступні території для Дублікантів"
 
 #. STRINGS.UI.TOOLTIPS.RECIPE_QUEUE
 msgctxt "STRINGS.UI.TOOLTIPS.RECIPE_QUEUE"
 msgid "Queue 1 {0} for fabrication"
-msgstr ""
+msgstr "+1 {0} в чергу виробництва"
 
 #. STRINGS.UI.TOOLTIPS.RECIPE_QUEUE_INFINITE
 msgctxt "STRINGS.UI.TOOLTIPS.RECIPE_QUEUE_INFINITE"
 msgid "Continuously fabricate {0} if resources are available"
-msgstr ""
+msgstr "Постійно виготовляє {0}, якщо є наявні ресурси"
 
 #. STRINGS.UI.TOOLTIPS.RED_ALERT_BUTTON_OFF
 msgctxt "STRINGS.UI.TOOLTIPS.RED_ALERT_BUTTON_OFF"
@@ -35078,12 +35285,12 @@ msgstr "Відображає повністю завершені кімнати"
 #. STRINGS.UI.TOOLTIPS.SELECTAMATERIAL
 msgctxt "STRINGS.UI.TOOLTIPS.SELECTAMATERIAL"
 msgid "There are insufficient materials to construct this building"
-msgstr ""
+msgstr "Для будівництва цієї будівлі недостатньо матеріалів"
 
 #. STRINGS.UI.TOOLTIPS.SORTCOLUMN
 msgctxt "STRINGS.UI.TOOLTIPS.SORTCOLUMN"
 msgid "Click to sort"
-msgstr ""
+msgstr "Натисніть, щоб сортувати"
 
 #. STRINGS.UI.TOOLTIPS.SPEEDBUTTON_FAST
 msgctxt "STRINGS.UI.TOOLTIPS.SPEEDBUTTON_FAST"
@@ -35103,7 +35310,7 @@ msgstr "Повільна швидкість {0}"
 #. STRINGS.UI.TOOLTIPS.STATSPANEL
 msgctxt "STRINGS.UI.TOOLTIPS.STATSPANEL"
 msgid "The Stats Panel gives an overview of your Duplicant's individual stats"
-msgstr ""
+msgstr "Панель Умінь дає можливість переглянути особисті якості Дублікантів"
 
 #. STRINGS.UI.TOOLTIPS.STRESSDESCRIPTION
 msgctxt "STRINGS.UI.TOOLTIPS.STRESSDESCRIPTION"
@@ -35115,6 +35322,12 @@ msgid ""
 "high <link=\"STRESS\">Stress</link> can impair production or even lead to a "
 "nervous breakdown."
 msgstr ""
+"Пристосуйте ваших Дублікантів, щоб мали потребу керувати їхнім <link=\"STRESS"
+"\">Стресом</link>.\n"
+"\n"
+"Низький <link=\"STRESS\">Стрес</link> забезпечує продуктивне підвищення, в "
+"той час як високий <link=\"STRESS\">Стрес</link> зменшує продуктивність чи "
+"навіть призводить до нервового зриву."
 
 #. STRINGS.UI.TOOLTIPS.STRESSPANEL
 msgctxt "STRINGS.UI.TOOLTIPS.STRESSPANEL"
@@ -35122,6 +35335,8 @@ msgid ""
 "The Stress Panel offers an in detail look at what is affecting your "
 "Duplicant psychologically"
 msgstr ""
+"Панель Стресу пропонує детально поглянути, що психологічно впливає на вашого "
+"Дубліканта"
 
 #. STRINGS.UI.TOOLTIPS.SUITOVERLAYSTRING
 msgctxt "STRINGS.UI.TOOLTIPS.SUITOVERLAYSTRING"
