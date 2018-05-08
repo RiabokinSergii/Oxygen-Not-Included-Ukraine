@@ -4,18 +4,20 @@ Hello!
 
 My name is Sergii.
 
-I began to translate a game that I really liked about my native Ukrainian language.
-To translate as much as possible when I have time and strength.
-I work on translation independently.
-The game menu is now translated. The main interface and the main buttons, all overlays. All description of buildings and information in them. The translation is in the Beta stage.
-Currently, 74% of the elements of the game have been translated.
+I started translating a game that I really liked about the Ukrainian language.
+To translate as much as possible when I have time and strength. I work on translation independently.
+The game menu is now translated. The main interface and the main buttons, all overlays. 
+All description of buildings and information in them. The Knowledge Base has been translated, but there are some possible shortcomings that I am correcting. 
+The translation is in the Beta stage.
+At the moment, 81% of the content of the game has been translated.
 
 Привіт!
 
 Мене звати Сергій.
 
-Я почав переводити гру, яка мені дуже сподобалася на мою рідну Українську мову.
-Перекладати по мірі можливого, коли маю час і силу.
-Працюю над перекладом самостійно.
-На даний час перекладено меню гри. Головний інтерфейс та основні кнопки, всі оверлеї. Весь опис будівель та інформації в них. Переклад перебуває на стадії Бета.
-На даний час перекладено 74% елементів гри.
+Я почав перекладати гру, яка мені дуже сподобалася на Українську мову.
+Перекладаю по мірі можливого, коли маю час і силу. Працюю над перекладом самостійно.
+На даний час перекладено меню гри. Головний інтерфейс та основні кнопки, всі оверлеї. 
+Весь опис будівель та інформації в них. Базу Знань перекладено, але можливі деякі недоліки, які виправляю. 
+Переклад перебуває на стадії Бета.
+Зараз перекладено 81% вмісту гри.

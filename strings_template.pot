@@ -5348,6 +5348,31 @@ msgctxt "STRINGS.CODEX.BRISTLEBLOSSOM.TITLE"
 msgid "Bristle Blossom"
 msgstr ""
 
+#. STRINGS.CODEX.CLEANER.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.CLEANER.BODY.CONTAINER1"
+msgid ""
+msgstr ""
+
+#. STRINGS.CODEX.CLEANER.SUBTITLE
+msgctxt "STRINGS.CODEX.CLEANER.SUBTITLE"
+msgid "Critter Morph"
+msgstr ""
+
+#. STRINGS.CODEX.CLEANER.TITLE
+msgctxt "STRINGS.CODEX.CLEANER.TITLE"
+msgid "Gulp Fish"
+msgstr ""
+
+#. STRINGS.CODEX.CREATURE_DESCRIPTORS.TEMPERATURE.COMFORT_RANGE
+msgctxt "STRINGS.CODEX.CREATURE_DESCRIPTORS.TEMPERATURE.COMFORT_RANGE"
+msgid "Comfort range: {0}"
+msgstr ""
+
+#. STRINGS.CODEX.CREATURE_DESCRIPTORS.TEMPERATURE.NON_LETHAL_RANGE
+msgctxt "STRINGS.CODEX.CREATURE_DESCRIPTORS.TEMPERATURE.NON_LETHAL_RANGE"
+msgid "Liveable range: {0}"
+msgstr ""
+
 #. STRINGS.CODEX.CRYSTAL.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.CRYSTAL.BODY.CONTAINER1"
 msgid ""
@@ -5488,9 +5513,19 @@ msgctxt "STRINGS.CODEX.HEADERS.BUILDINGREQUIREMENTS"
 msgid "Requirements"
 msgstr ""
 
+#. STRINGS.CODEX.HEADERS.COMFORTRANGE
+msgctxt "STRINGS.CODEX.HEADERS.COMFORTRANGE"
+msgid "Temperature Range"
+msgstr ""
+
 #. STRINGS.CODEX.HEADERS.DIET
 msgctxt "STRINGS.CODEX.HEADERS.DIET"
 msgid "Diet"
+msgstr ""
+
+#. STRINGS.CODEX.HEADERS.ELEMENTTRANSITIONS
+msgctxt "STRINGS.CODEX.HEADERS.ELEMENTTRANSITIONS"
+msgid "Transitions"
 msgstr ""
 
 #. STRINGS.CODEX.HEADERS.FABRICATIONS
@@ -5531,6 +5566,11 @@ msgstr ""
 #. STRINGS.CODEX.HEADERS.ROLE_PERKS
 msgctxt "STRINGS.CODEX.HEADERS.ROLE_PERKS"
 msgid "Role Perks"
+msgstr ""
+
+#. STRINGS.CODEX.HEADERS.SUBENTRIES
+msgctxt "STRINGS.CODEX.HEADERS.SUBENTRIES"
+msgid "Contents"
 msgstr ""
 
 #. STRINGS.CODEX.HEADERS.TECH_UNLOCKS
@@ -6203,6 +6243,41 @@ msgctxt "STRINGS.CREATURES.FAMILY.PUFT"
 msgid "<link=\"PUFTSPECIES\">Puft</link>"
 msgstr ""
 
+#. STRINGS.CREATURES.FAMILY_PLURAL.DRECKOSPECIES
+msgctxt "STRINGS.CREATURES.FAMILY_PLURAL.DRECKOSPECIES"
+msgid "<link=\"DRECKOSPECIES\">Dreckos</link>"
+msgstr ""
+
+#. STRINGS.CREATURES.FAMILY_PLURAL.GLOMSPECIES
+msgctxt "STRINGS.CREATURES.FAMILY_PLURAL.GLOMSPECIES"
+msgid "<link=\"GLOMSPECIES\">Morbs</link>"
+msgstr ""
+
+#. STRINGS.CREATURES.FAMILY_PLURAL.HATCHSPECIES
+msgctxt "STRINGS.CREATURES.FAMILY_PLURAL.HATCHSPECIES"
+msgid "<link=\"HATCHSPECIES\">Hatches</link>"
+msgstr ""
+
+#. STRINGS.CREATURES.FAMILY_PLURAL.LIGHTBUGSPECIES
+msgctxt "STRINGS.CREATURES.FAMILY_PLURAL.LIGHTBUGSPECIES"
+msgid "<link=\"LIGHTBUGSPECIES\">Shine Bugs</link>"
+msgstr ""
+
+#. STRINGS.CREATURES.FAMILY_PLURAL.OILFLOATERSPECIES
+msgctxt "STRINGS.CREATURES.FAMILY_PLURAL.OILFLOATERSPECIES"
+msgid "<link=\"OILFLOATERSPECIES\">Slicksters</link>"
+msgstr ""
+
+#. STRINGS.CREATURES.FAMILY_PLURAL.PACUSPECIES
+msgctxt "STRINGS.CREATURES.FAMILY_PLURAL.PACUSPECIES"
+msgid "<link=\"PACUSPECIES\">Pacus</link>"
+msgstr ""
+
+#. STRINGS.CREATURES.FAMILY_PLURAL.PUFTSPECIES
+msgctxt "STRINGS.CREATURES.FAMILY_PLURAL.PUFTSPECIES"
+msgid "<link=\"PUFTSPECIES\">Pufts</link>"
+msgstr ""
+
 #. STRINGS.CREATURES.FERTILITY_MODIFIERS.DIET.DESC
 msgctxt "STRINGS.CREATURES.FERTILITY_MODIFIERS.DIET.DESC"
 msgid "Eats any: {0}"
@@ -6490,17 +6565,17 @@ msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.DRECKO.BABY.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.DRECKO.BABY.NAME"
-msgid "<link=\"HATCHLING\">Drecklet</link>"
+msgid "<link=\"DRECKO\">Drecklet</link>"
 msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.DRECKO.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.DRECKO.DESC"
-msgid "Dreckos are slinking creatures that can clamber up walls with unexpected speed.\n\nTheir backsides are covered in thick woolly fibers that only grow in <link=\"CHLORINE\">Chlorine</link> climates."
+msgid "Dreckos are slinking creatures that can clamber up walls with unexpected speed.\n\nTheir backsides are covered in thick woolly fibers that only grow in <link=\"HYDROGEN\">Hydrogen</link> climates."
 msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.DRECKO.EGG_NAME
 msgctxt "STRINGS.CREATURES.SPECIES.DRECKO.EGG_NAME"
-msgid "<link=\"DRECKOEGG\">Drecklet Egg</link>"
+msgid "<link=\"DRECKO\">Drecklet Egg</link>"
 msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.DRECKO.NAME
@@ -6515,22 +6590,22 @@ msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.DRECKO.VARIANT_PLASTIC.BABY.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.DRECKO.VARIANT_PLASTIC.BABY.NAME"
-msgid "<link=\"HATCHLING\">Glossy Hatchling</link>"
+msgid "<link=\"DRECKOPLASTIC\">Glossy Drecklet</link>"
 msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.DRECKO.VARIANT_PLASTIC.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.DRECKO.VARIANT_PLASTIC.DESC"
-msgid "Glossy Dreckos are slinking creatures that can clamber up walls with unexpected speed.\n\nTheir backsides are covered in bioplastic scales that only grow in <link=\"CHLORINE\">Chlorine</link> climates."
+msgid "Glossy Dreckos are slinking creatures that can clamber up walls with unexpected speed.\n\nTheir backsides are covered in bioplastic scales that only grow in <link=\"HYDROGEN\">Hydrogen</link> climates."
 msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.DRECKO.VARIANT_PLASTIC.EGG_NAME
 msgctxt "STRINGS.CREATURES.SPECIES.DRECKO.VARIANT_PLASTIC.EGG_NAME"
-msgid "<link=\"PLASTICDRECKOEGG\">Glossy Drecklet Egg</link>"
+msgid "<link=\"DRECKOPLASTIC\">Glossy Drecklet Egg</link>"
 msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.DRECKO.VARIANT_PLASTIC.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.DRECKO.VARIANT_PLASTIC.NAME"
-msgid "<link=\"PLASTICDRECKO\">Glossy Drecko</link>"
+msgid "<link=\"DRECKOPLASTIC\">Glossy Drecko</link>"
 msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.GEYSER.BIG_VOLCANO.DESC
@@ -6755,7 +6830,7 @@ msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.HATCH.BABY.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.HATCH.BABY.NAME"
-msgid "<link=\"HATCHLING\">Hatchling</link>"
+msgid "<link=\"HATCH\">Hatchling</link>"
 msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.HATCH.DESC
@@ -6765,7 +6840,7 @@ msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.HATCH.EGG_NAME
 msgctxt "STRINGS.CREATURES.SPECIES.HATCH.EGG_NAME"
-msgid "<link=\"HATCHEGG\">Hatchling Egg</link>"
+msgid "<link=\"HATCH\">Hatchling Egg</link>"
 msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.HATCH.NAME
@@ -6780,7 +6855,7 @@ msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.HATCH.VARIANT_HARD.BABY.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.HATCH.VARIANT_HARD.BABY.NAME"
-msgid "<link=\"HATCHLING\">Stone Hatchling</link>"
+msgid "<link=\"HATCHHARD\">Stone Hatchling</link>"
 msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.HATCH.VARIANT_HARD.DESC
@@ -6790,22 +6865,22 @@ msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.HATCH.VARIANT_HARD.EGG_NAME
 msgctxt "STRINGS.CREATURES.SPECIES.HATCH.VARIANT_HARD.EGG_NAME"
-msgid "<link=\"HATCHEGG\">Stone Hatchling Egg</link>"
+msgid "<link=\"HATCHHARD\">Stone Hatchling Egg</link>"
 msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.HATCH.VARIANT_HARD.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.HATCH.VARIANT_HARD.NAME"
-msgid "<link=\"HATCH\">Stone Hatch</link>"
+msgid "<link=\"HATCHHARD\">Stone Hatch</link>"
 msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.HATCH.VARIANT_METAL.BABY.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.HATCH.VARIANT_METAL.BABY.DESC"
-msgid "An innocent baby <link=\"HATCH\">Hatch</link>.\n\nThis one is a Smooth morph, and loves nibbling on different types of metals."
+msgid "An innocent baby <link=\"HATCHMETAL\">Hatch</link>.\n\nThis one is a Smooth morph, and loves nibbling on different types of metals."
 msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.HATCH.VARIANT_METAL.BABY.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.HATCH.VARIANT_METAL.BABY.NAME"
-msgid "<link=\"HATCHLING\">Smooth Hatchling</link>"
+msgid "<link=\"HATCHMETAL\">Smooth Hatchling</link>"
 msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.HATCH.VARIANT_METAL.DESC
@@ -6815,12 +6890,12 @@ msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.HATCH.VARIANT_METAL.EGG_NAME
 msgctxt "STRINGS.CREATURES.SPECIES.HATCH.VARIANT_METAL.EGG_NAME"
-msgid "<link=\"HATCHEGG\">Smooth Hatchling Egg</link>"
+msgid "<link=\"HATCHMETAL\">Smooth Hatchling Egg</link>"
 msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.HATCH.VARIANT_METAL.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.HATCH.VARIANT_METAL.NAME"
-msgid "<link=\"HATCH\">Smooth Hatch</link>"
+msgid "<link=\"HATCHMETAL\">Smooth Hatch</link>"
 msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.HATCH.VARIANT_VEGGIE.BABY.DESC
@@ -6830,7 +6905,7 @@ msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.HATCH.VARIANT_VEGGIE.BABY.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.HATCH.VARIANT_VEGGIE.BABY.NAME"
-msgid "<link=\"HATCHLING\">Sage Hatchling</link>"
+msgid "<link=\"HATCHVEGGIE\">Sage Hatchling</link>"
 msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.HATCH.VARIANT_VEGGIE.DESC
@@ -6840,12 +6915,12 @@ msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.HATCH.VARIANT_VEGGIE.EGG_NAME
 msgctxt "STRINGS.CREATURES.SPECIES.HATCH.VARIANT_VEGGIE.EGG_NAME"
-msgid "<link=\"HATCHEGG\">Sage Hatchling Egg</link>"
+msgid "<link=\"HATCHVEGGIE\">Sage Hatchling Egg</link>"
 msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.HATCH.VARIANT_VEGGIE.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.HATCH.VARIANT_VEGGIE.NAME"
-msgid "<link=\"HATCH\">Sage Hatch</link>"
+msgid "<link=\"HATCHVEGGIE\">Sage Hatch</link>"
 msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.HEATBULB.DESC
@@ -6900,7 +6975,7 @@ msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.LIGHTBUG.EGG_NAME
 msgctxt "STRINGS.CREATURES.SPECIES.LIGHTBUG.EGG_NAME"
-msgid "<link=\"LIGHTBUGEGG\">Shine Nymph Egg</link>"
+msgid "<link=\"LIGHTBUG\">Shine Nymph Egg</link>"
 msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.LIGHTBUG.NAME
@@ -6910,12 +6985,12 @@ msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.LIGHTBUG.VARIANT_BLACK.BABY.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.LIGHTBUG.VARIANT_BLACK.BABY.DESC"
-msgid "A chubby baby <link=\"LIGHTBUG\">Shine Bug</link>.\n\nThis one is a black Nega morph."
+msgid "A chubby baby <link=\"LIGHTBUGBLACK\">Shine Bug</link>.\n\nThis one is a black Nega morph."
 msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.LIGHTBUG.VARIANT_BLACK.BABY.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.LIGHTBUG.VARIANT_BLACK.BABY.NAME"
-msgid "<link=\"LIGHTBUG\">Nega Shine Nymph</link>"
+msgid "<link=\"LIGHTBUGBLACK\">Nega Shine Nymph</link>"
 msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.LIGHTBUG.VARIANT_BLACK.DESC
@@ -6925,22 +7000,22 @@ msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.LIGHTBUG.VARIANT_BLACK.EGG_NAME
 msgctxt "STRINGS.CREATURES.SPECIES.LIGHTBUG.VARIANT_BLACK.EGG_NAME"
-msgid "<link=\"LIGHTBUGEGG\">Nega Shine Nymph Egg</link>"
+msgid "<link=\"LIGHTBUGBLACK\">Nega Shine Nymph Egg</link>"
 msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.LIGHTBUG.VARIANT_BLACK.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.LIGHTBUG.VARIANT_BLACK.NAME"
-msgid "<link=\"LIGHTBUG\">Nega Shine Bug</link>"
+msgid "<link=\"LIGHTBUGBLACK\">Nega Shine Bug</link>"
 msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.LIGHTBUG.VARIANT_BLUE.BABY.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.LIGHTBUG.VARIANT_BLUE.BABY.DESC"
-msgid "A chubby baby <link=\"LIGHTBUG\">Shine Bug</link>.\n\nThis one is a blue Placid morph."
+msgid "A chubby baby <link=\"LIGHTBUGBLUE\">Shine Bug</link>.\n\nThis one is a blue Placid morph."
 msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.LIGHTBUG.VARIANT_BLUE.BABY.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.LIGHTBUG.VARIANT_BLUE.BABY.NAME"
-msgid "<link=\"LIGHTBUG\">Placid Shine Nymph</link>"
+msgid "<link=\"LIGHTBUGBLUE\">Placid Shine Nymph</link>"
 msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.LIGHTBUG.VARIANT_BLUE.DESC
@@ -6950,22 +7025,22 @@ msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.LIGHTBUG.VARIANT_BLUE.EGG_NAME
 msgctxt "STRINGS.CREATURES.SPECIES.LIGHTBUG.VARIANT_BLUE.EGG_NAME"
-msgid "<link=\"LIGHTBUGEGG\">Placid Shine Nymph Egg</link>"
+msgid "<link=\"LIGHTBUGBLUE\">Placid Shine Nymph Egg</link>"
 msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.LIGHTBUG.VARIANT_BLUE.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.LIGHTBUG.VARIANT_BLUE.NAME"
-msgid "<link=\"LIGHTBUG\">Placid Shine Bug</link>"
+msgid "<link=\"LIGHTBUGBLUE\">Placid Shine Bug</link>"
 msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.LIGHTBUG.VARIANT_CRYSTAL.BABY.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.LIGHTBUG.VARIANT_CRYSTAL.BABY.DESC"
-msgid "A chubby baby <link=\"LIGHTBUG\">Shine Bug</link>.\n\nThis one is a bright Crystal morph."
+msgid "A chubby baby <link=\"LIGHTBUGCRYSTAL\">Shine Bug</link>.\n\nThis one is a bright Crystal morph."
 msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.LIGHTBUG.VARIANT_CRYSTAL.BABY.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.LIGHTBUG.VARIANT_CRYSTAL.BABY.NAME"
-msgid "<link=\"LIGHTBUG\">Crystal Shine Nymph</link>"
+msgid "<link=\"LIGHTBUGCRYSTAL\">Crystal Shine Nymph</link>"
 msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.LIGHTBUG.VARIANT_CRYSTAL.DESC
@@ -6975,22 +7050,22 @@ msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.LIGHTBUG.VARIANT_CRYSTAL.EGG_NAME
 msgctxt "STRINGS.CREATURES.SPECIES.LIGHTBUG.VARIANT_CRYSTAL.EGG_NAME"
-msgid "<link=\"LIGHTBUGEGG\">Crystal Shine Nymph Egg</link>"
+msgid "<link=\"LIGHTBUGCRYSTAL\">Crystal Shine Nymph Egg</link>"
 msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.LIGHTBUG.VARIANT_CRYSTAL.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.LIGHTBUG.VARIANT_CRYSTAL.NAME"
-msgid "<link=\"LIGHTBUG\">Crystal Shine Bug</link>"
+msgid "<link=\"LIGHTBUGCRYSTAL\">Crystal Shine Bug</link>"
 msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.LIGHTBUG.VARIANT_ORANGE.BABY.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.LIGHTBUG.VARIANT_ORANGE.BABY.DESC"
-msgid "A chubby baby <link=\"LIGHTBUG\">Shine Bug</link>.\n\nThis one is an orange Sunny morph."
+msgid "A chubby baby <link=\"LIGHTBUGORANGE\">Shine Bug</link>.\n\nThis one is an orange Sunny morph."
 msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.LIGHTBUG.VARIANT_ORANGE.BABY.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.LIGHTBUG.VARIANT_ORANGE.BABY.NAME"
-msgid "<link=\"LIGHTBUG\">Sunny Shine Nymph</link>"
+msgid "<link=\"LIGHTBUGORANGE\">Sunny Shine Nymph</link>"
 msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.LIGHTBUG.VARIANT_ORANGE.DESC
@@ -7000,22 +7075,22 @@ msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.LIGHTBUG.VARIANT_ORANGE.EGG_NAME
 msgctxt "STRINGS.CREATURES.SPECIES.LIGHTBUG.VARIANT_ORANGE.EGG_NAME"
-msgid "<link=\"LIGHTBUGEGG\">Sunny Shine Nymph Egg</link>"
+msgid "<link=\"LIGHTBUGORANGE\">Sunny Shine Nymph Egg</link>"
 msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.LIGHTBUG.VARIANT_ORANGE.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.LIGHTBUG.VARIANT_ORANGE.NAME"
-msgid "<link=\"LIGHTBUG\">Sunny Shine Bug</link>"
+msgid "<link=\"LIGHTBUGORANGE\">Sunny Shine Bug</link>"
 msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.LIGHTBUG.VARIANT_PINK.BABY.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.LIGHTBUG.VARIANT_PINK.BABY.DESC"
-msgid "A chubby baby <link=\"LIGHTBUG\">Shine Bug</link>.\n\nThis one is a pink Vital morph."
+msgid "A chubby baby <link=\"LIGHTBUGPINK\">Shine Bug</link>.\n\nThis one is a pink Vital morph."
 msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.LIGHTBUG.VARIANT_PINK.BABY.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.LIGHTBUG.VARIANT_PINK.BABY.NAME"
-msgid "<link=\"LIGHTBUG\">Vital Shine Nymph</link>"
+msgid "<link=\"LIGHTBUGPINK\">Vital Shine Nymph</link>"
 msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.LIGHTBUG.VARIANT_PINK.DESC
@@ -7025,22 +7100,22 @@ msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.LIGHTBUG.VARIANT_PINK.EGG_NAME
 msgctxt "STRINGS.CREATURES.SPECIES.LIGHTBUG.VARIANT_PINK.EGG_NAME"
-msgid "<link=\"LIGHTBUGEGG\">Vital Shine Nymph Egg</link>"
+msgid "<link=\"LIGHTBUGPINK\">Vital Shine Nymph Egg</link>"
 msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.LIGHTBUG.VARIANT_PINK.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.LIGHTBUG.VARIANT_PINK.NAME"
-msgid "<link=\"LIGHTBUG\">Vital Shine Bug</link>"
+msgid "<link=\"LIGHTBUGPINK\">Vital Shine Bug</link>"
 msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.LIGHTBUG.VARIANT_PURPLE.BABY.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.LIGHTBUG.VARIANT_PURPLE.BABY.DESC"
-msgid "A chubby baby <link=\"LIGHTBUG\">Shine Bug</link>.\n\nThis one is a purple Royal morph."
+msgid "A chubby baby <link=\"LIGHTBUGPURPLE\">Shine Bug</link>.\n\nThis one is a purple Royal morph."
 msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.LIGHTBUG.VARIANT_PURPLE.BABY.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.LIGHTBUG.VARIANT_PURPLE.BABY.NAME"
-msgid "<link=\"LIGHTBUG\">Royal Shine Nymph</link>"
+msgid "<link=\"LIGHTBUGPURPLE\">Royal Shine Nymph</link>"
 msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.LIGHTBUG.VARIANT_PURPLE.DESC
@@ -7050,12 +7125,12 @@ msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.LIGHTBUG.VARIANT_PURPLE.EGG_NAME
 msgctxt "STRINGS.CREATURES.SPECIES.LIGHTBUG.VARIANT_PURPLE.EGG_NAME"
-msgid "<link=\"LIGHTBUGEGG\">Royal Shine Nymph Egg</link>"
+msgid "<link=\"LIGHTBUGPURPLE\">Royal Shine Nymph Egg</link>"
 msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.LIGHTBUG.VARIANT_PURPLE.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.LIGHTBUG.VARIANT_PURPLE.NAME"
-msgid "<link=\"LIGHTBUG\">Royal Shine Bug</link>"
+msgid "<link=\"LIGHTBUGPURPLE\">Royal Shine Bug</link>"
 msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.METHANEGEYSER.DESC
@@ -7105,12 +7180,12 @@ msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.OILFLOATER.BABY.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.OILFLOATER.BABY.DESC"
-msgid "A goopy little <link=\"OILFLOATERBABY\">Slickster Larva</link>.\n\nOne day it will grow into an adult<link=\"OILFLOATER\">Slickster</link>."
+msgid "A goopy little <link=\"OILFLOATER\">Slickster Larva</link>.\n\nOne day it will grow into an adult<link=\"OILFLOATER\">Slickster</link>."
 msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.OILFLOATER.BABY.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.OILFLOATER.BABY.NAME"
-msgid "<link=\"OILFLOATERBABY\">Slickster Larva</link>"
+msgid "<link=\"OILFLOATER\">Slickster Larva</link>"
 msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.OILFLOATER.DESC
@@ -7120,7 +7195,7 @@ msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.OILFLOATER.EGG_NAME
 msgctxt "STRINGS.CREATURES.SPECIES.OILFLOATER.EGG_NAME"
-msgid "<link=\"OILFLOATEREGG\">Slickster Larva Egg</link>"
+msgid "<link=\"OILFLOATER\">Slickster Larva Egg</link>"
 msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.OILFLOATER.NAME
@@ -7130,12 +7205,12 @@ msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.OILFLOATER.VARIANT_DECOR.BABY.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.OILFLOATER.VARIANT_DECOR.BABY.DESC"
-msgid "A goopy baby <link=\"OILFLOATER\">Slickster</link>.\n\nThis one is a Longhair morph."
+msgid "A goopy baby <link=\"OILFLOATERDECOR\">Slickster</link>.\n\nThis one is a Longhair morph."
 msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.OILFLOATER.VARIANT_DECOR.BABY.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.OILFLOATER.VARIANT_DECOR.BABY.NAME"
-msgid "<link=\"OILFLOATERBABY\">Longhair Slickster Larva</link>"
+msgid "<link=\"OILFLOATERDECOR\">Longhair Slickster Larva</link>"
 msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.OILFLOATER.VARIANT_DECOR.DESC
@@ -7145,22 +7220,22 @@ msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.OILFLOATER.VARIANT_DECOR.EGG_NAME
 msgctxt "STRINGS.CREATURES.SPECIES.OILFLOATER.VARIANT_DECOR.EGG_NAME"
-msgid "<link=\"OILFLOATEREGG\">Longhair Slickster Larva Egg</link>"
+msgid "<link=\"OILFLOATERDECOR\">Longhair Slickster Larva Egg</link>"
 msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.OILFLOATER.VARIANT_DECOR.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.OILFLOATER.VARIANT_DECOR.NAME"
-msgid "<link=\"OILFLOATER\">Longhair Slickster</link>"
+msgid "<link=\"OILFLOATERDECOR\">Longhair Slickster</link>"
 msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.OILFLOATER.VARIANT_HIGHTEMP.BABY.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.OILFLOATER.VARIANT_HIGHTEMP.BABY.DESC"
-msgid "A goopy baby <link=\"OILFLOATER\">Slickster</link>.\n\nThis one is a Molten morph."
+msgid "A goopy baby <link=\"OILFLOATERHIGHTEMP\">Slickster</link>.\n\nThis one is a Molten morph."
 msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.OILFLOATER.VARIANT_HIGHTEMP.BABY.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.OILFLOATER.VARIANT_HIGHTEMP.BABY.NAME"
-msgid "<link=\"OILFLOATERBABY\">Molten Slickster Larva</link>"
+msgid "<link=\"OILFLOATERHIGHTEMP\">Molten Slickster Larva</link>"
 msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.OILFLOATER.VARIANT_HIGHTEMP.DESC
@@ -7170,12 +7245,12 @@ msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.OILFLOATER.VARIANT_HIGHTEMP.EGG_NAME
 msgctxt "STRINGS.CREATURES.SPECIES.OILFLOATER.VARIANT_HIGHTEMP.EGG_NAME"
-msgid "<link=\"OILFLOATEREGG\">Molten Slickster Larva Egg</link>"
+msgid "<link=\"OILFLOATERHIGHTEMP\">Molten Slickster Larva Egg</link>"
 msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.OILFLOATER.VARIANT_HIGHTEMP.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.OILFLOATER.VARIANT_HIGHTEMP.NAME"
-msgid "<link=\"OILFLOATER\">Molten Slickster</link>"
+msgid "<link=\"OILFLOATERHIGHTEMP\">Molten Slickster</link>"
 msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.OILSPOUT.DESC
@@ -7285,12 +7360,12 @@ msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.PUFT.BABY.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.PUFT.BABY.DESC"
-msgid "A gassy little <link=\"PUFTLET\">Puftlet</link>.\n\nIn time it will grow into an adult <link=\"PUFT\">Puft</link>."
+msgid "A gassy little <link=\"PUFT\">Puftlet</link>.\n\nIn time it will grow into an adult <link=\"PUFT\">Puft</link>."
 msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.PUFT.BABY.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.PUFT.BABY.NAME"
-msgid "<link=\"PUFTLET\">Puftlet</link>"
+msgid "<link=\"PUFT\">Puftlet</link>"
 msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.PUFT.DESC
@@ -7300,7 +7375,7 @@ msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.PUFT.EGG_NAME
 msgctxt "STRINGS.CREATURES.SPECIES.PUFT.EGG_NAME"
-msgid "<link=\"PUFTEGG\">Puftlet Egg</link>"
+msgid "<link=\"PUFT\">Puftlet Egg</link>"
 msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.PUFT.NAME
@@ -7310,12 +7385,12 @@ msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.PUFT.VARIANT_ALPHA.BABY.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.PUFT.VARIANT_ALPHA.BABY.DESC"
-msgid "A gassy baby <link=\"PUFT\">Puft</link>.\n\nThis one seems a bit snobby..."
+msgid "A gassy baby <link=\"PUFTALPHA\">Puft</link>.\n\nThis one seems a bit snobby..."
 msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.PUFT.VARIANT_ALPHA.BABY.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.PUFT.VARIANT_ALPHA.BABY.NAME"
-msgid "<link=\"PUFTLET\">Puftlet Prince</link>"
+msgid "<link=\"PUFTALPHA\">Puftlet Prince</link>"
 msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.PUFT.VARIANT_ALPHA.DESC
@@ -7325,22 +7400,22 @@ msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.PUFT.VARIANT_ALPHA.EGG_NAME
 msgctxt "STRINGS.CREATURES.SPECIES.PUFT.VARIANT_ALPHA.EGG_NAME"
-msgid "<link=\"PUFTEGG\">Puftlet Prince Egg</link>"
+msgid "<link=\"PUFTALPHA\">Puftlet Prince Egg</link>"
 msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.PUFT.VARIANT_ALPHA.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.PUFT.VARIANT_ALPHA.NAME"
-msgid "<link=\"PUFT\">Puft Prince</link>"
+msgid "<link=\"PUFTALPHA\">Puft Prince</link>"
 msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.PUFT.VARIANT_BLEACHSTONE.BABY.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.PUFT.VARIANT_BLEACHSTONE.BABY.DESC"
-msgid "A gassy baby <link=\"PUFT\">Puft</link>.\n\nThis one is a Squeaky morph."
+msgid "A gassy baby <link=\"PUFTBLEACHSTONE\">Puft</link>.\n\nThis one is a Squeaky morph."
 msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.PUFT.VARIANT_BLEACHSTONE.BABY.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.PUFT.VARIANT_BLEACHSTONE.BABY.NAME"
-msgid "<link=\"PUFTLET\">Squeaky Puftlet</link>"
+msgid "<link=\"PUFTBLEACHSTONE\">Squeaky Puftlet</link>"
 msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.PUFT.VARIANT_BLEACHSTONE.DESC
@@ -7350,22 +7425,22 @@ msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.PUFT.VARIANT_BLEACHSTONE.EGG_NAME
 msgctxt "STRINGS.CREATURES.SPECIES.PUFT.VARIANT_BLEACHSTONE.EGG_NAME"
-msgid "<link=\"PUFTEGG\">Squeaky Puftlet Egg</link>"
+msgid "<link=\"PUFTBLEACHSTONE\">Squeaky Puftlet Egg</link>"
 msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.PUFT.VARIANT_BLEACHSTONE.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.PUFT.VARIANT_BLEACHSTONE.NAME"
-msgid "<link=\"PUFT\">Squeaky Puft</link>"
+msgid "<link=\"PUFTBLEACHSTONE\">Squeaky Puft</link>"
 msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.PUFT.VARIANT_OXYLITE.BABY.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.PUFT.VARIANT_OXYLITE.BABY.DESC"
-msgid "A gassy baby <link=\"PUFT\">Puft</link>.\n\nThis one is a Dense morph."
+msgid "A gassy baby <link=\"PUFTOXYLITE\">Puft</link>.\n\nThis one is a Dense morph."
 msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.PUFT.VARIANT_OXYLITE.BABY.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.PUFT.VARIANT_OXYLITE.BABY.NAME"
-msgid "<link=\"PUFTLET\">Dense Puftlet</link>"
+msgid "<link=\"PUFTOXYLITE\">Dense Puftlet</link>"
 msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.PUFT.VARIANT_OXYLITE.DESC
@@ -7375,12 +7450,12 @@ msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.PUFT.VARIANT_OXYLITE.EGG_NAME
 msgctxt "STRINGS.CREATURES.SPECIES.PUFT.VARIANT_OXYLITE.EGG_NAME"
-msgid "<link=\"PUFTEGG\">Dense Puftlet Egg</link>"
+msgid "<link=\"PUFTOXYLITE\">Dense Puftlet Egg</link>"
 msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.PUFT.VARIANT_OXYLITE.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.PUFT.VARIANT_OXYLITE.NAME"
-msgid "<link=\"PUFT\">Dense Puft</link>"
+msgid "<link=\"PUFTOXYLITE\">Dense Puft</link>"
 msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.BASICFABRICMATERIALPLANT.DESC
@@ -14628,6 +14703,26 @@ msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.QUARANTINED.TOOLTIP"
 msgid "This Duplicant has been isolated from the colony"
 msgstr ""
 
+#. STRINGS.DUPLICANTS.STATUSITEMS.RATIONSNOTPERMITTED.NAME
+msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.RATIONSNOTPERMITTED.NAME"
+msgid "Food Not Permitted"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.STATUSITEMS.RATIONSNOTPERMITTED.NOTIFICATION_NAME
+msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.RATIONSNOTPERMITTED.NOTIFICATION_NAME"
+msgid "Unpermitted food"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.STATUSITEMS.RATIONSNOTPERMITTED.NOTIFICATION_TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.RATIONSNOTPERMITTED.NOTIFICATION_TOOLTIP"
+msgid "These Duplicants are not allowed to eat any of the <link=\"FOOD\">Food</link> within their reach:"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.STATUSITEMS.RATIONSNOTPERMITTED.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.RATIONSNOTPERMITTED.TOOLTIP"
+msgid "This Duplicant is not allowed to eat any of the food they can reach."
+msgstr ""
+
 #. STRINGS.DUPLICANTS.STATUSITEMS.RATIONSUNREACHABLE.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.RATIONSUNREACHABLE.NAME"
 msgid "Cannot reach food"
@@ -18360,7 +18455,7 @@ msgstr ""
 
 #. STRINGS.ITEMS.FOOD.DRECKOEGG.NAME
 msgctxt "STRINGS.ITEMS.FOOD.DRECKOEGG.NAME"
-msgid "<link=\"DRECKOEGG\">Drecklet Egg</link>"
+msgid "<link=\"DRECKO\">Drecklet Egg</link>"
 msgstr ""
 
 #. STRINGS.ITEMS.FOOD.DRECKOEGG.RECIPEDESC
@@ -18440,12 +18535,12 @@ msgstr ""
 
 #. STRINGS.ITEMS.FOOD.HATCHEGG.DESC
 msgctxt "STRINGS.ITEMS.FOOD.HATCHEGG.DESC"
-msgid "An egg laid by a <link=\"HATCH\">Hatch</link>\n\nIf incubated, it will hatch into a <link=\"HATCHLING\">Hatchling</link>"
+msgid "An egg laid by a <link=\"HATCH\">Hatch</link>\n\nIf incubated, it will hatch into a <link=\"HATCH\">Hatchling</link>"
 msgstr ""
 
 #. STRINGS.ITEMS.FOOD.HATCHEGG.NAME
 msgctxt "STRINGS.ITEMS.FOOD.HATCHEGG.NAME"
-msgid "<link=\"HATCHEGG\">Hatchling Egg</link>"
+msgid "<link=\"HATCH\">Hatchling Egg</link>"
 msgstr ""
 
 #. STRINGS.ITEMS.FOOD.HATCHEGG.RECIPEDESC
@@ -18460,7 +18555,7 @@ msgstr ""
 
 #. STRINGS.ITEMS.FOOD.LIGHTBUGEGG.NAME
 msgctxt "STRINGS.ITEMS.FOOD.LIGHTBUGEGG.NAME"
-msgid "<link=\"LIGHTBUGEGG\">Shine Nymph Egg</link>"
+msgid "<link=\"LIGHTBUG\">Shine Nymph Egg</link>"
 msgstr ""
 
 #. STRINGS.ITEMS.FOOD.LIGHTBUGEGG.RECIPEDESC
@@ -18505,12 +18600,12 @@ msgstr ""
 
 #. STRINGS.ITEMS.FOOD.OILFLOATEREGG.DESC
 msgctxt "STRINGS.ITEMS.FOOD.OILFLOATEREGG.DESC"
-msgid "An egg laid by a <link=\"OILFLOATER\">Slickster</link>\n\nIf incubated, it will hatch into a <link=\"OILFLOATERBABY\">Slickster Larva</link>"
+msgid "An egg laid by a <link=\"OILFLOATER\">Slickster</link>\n\nIf incubated, it will hatch into a <link=\"OILFLOATER\">Slickster Larva</link>"
 msgstr ""
 
 #. STRINGS.ITEMS.FOOD.OILFLOATEREGG.NAME
 msgctxt "STRINGS.ITEMS.FOOD.OILFLOATEREGG.NAME"
-msgid "<link=\"OILFLOATEREGG\">Slickster Larva Egg</link>"
+msgid "<link=\"OILFLOATER\">Slickster Larva Egg</link>"
 msgstr ""
 
 #. STRINGS.ITEMS.FOOD.OILFLOATEREGG.RECIPEDESC
@@ -18545,12 +18640,12 @@ msgstr ""
 
 #. STRINGS.ITEMS.FOOD.PUFTEGG.DESC
 msgctxt "STRINGS.ITEMS.FOOD.PUFTEGG.DESC"
-msgid "An egg laid by a <link=\"PUFT\">Puft</link>\n\nIf incubated, it will hatch into a <link=\"PUFTLET\">Puftlet</link>"
+msgid "An egg laid by a <link=\"PUFT\">Puft</link>\n\nIf incubated, it will hatch into a <link=\"PUFT\">Puftlet</link>"
 msgstr ""
 
 #. STRINGS.ITEMS.FOOD.PUFTEGG.NAME
 msgctxt "STRINGS.ITEMS.FOOD.PUFTEGG.NAME"
-msgid "<link=\"PUFTEGG\">Puftlet Egg</link>"
+msgid "<link=\"PUFT\">Puftlet Egg</link>"
 msgstr ""
 
 #. STRINGS.ITEMS.FOOD.PUFTEGG.RECIPEDESC
@@ -24138,6 +24233,16 @@ msgctxt "STRINGS.UI.BUILDINGEFFECTS.RESEARCH_MATERIALS"
 msgid "{0}: {1} per <link=\"RESEARCH\">Research</link> point"
 msgstr ""
 
+#. STRINGS.UI.BUILDINGEFFECTS.SCALE_GROWTH
+msgctxt "STRINGS.UI.BUILDINGEFFECTS.SCALE_GROWTH"
+msgid "Shearable {Item}: {Amount} per {Time}"
+msgstr ""
+
+#. STRINGS.UI.BUILDINGEFFECTS.SCALE_GROWTH_ATMO
+msgctxt "STRINGS.UI.BUILDINGEFFECTS.SCALE_GROWTH_ATMO"
+msgid "Shearable {Item}: {Amount} per {Time} ({Atmosphere})"
+msgstr ""
+
 #. STRINGS.UI.BUILDINGEFFECTS.STORAGECAPACITY
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.STORAGECAPACITY"
 msgid "Storage capacity: {0}"
@@ -24538,6 +24643,16 @@ msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.RESEARCH_MATERIALS"
 msgid "This research station consumes {1} of {0} for each research point produced"
 msgstr ""
 
+#. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.SCALE_GROWTH
+msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.SCALE_GROWTH"
+msgid "This critter can be sheared every {Time} to produce {Amount} {Item}"
+msgstr ""
+
+#. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.SCALE_GROWTH_ATMO
+msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.SCALE_GROWTH_ATMO"
+msgid "This critter can be sheared every {Time} to produce {Amount} {Item}\n\nAn atmosphere of {Atmosphere} is required to stimulate growth"
+msgstr ""
+
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.STORAGECAPACITY
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.STORAGECAPACITY"
 msgid "Holds up to {0} of material"
@@ -24706,6 +24821,11 @@ msgstr ""
 #. STRINGS.UI.CODEX.DETAILS
 msgctxt "STRINGS.UI.CODEX.DETAILS"
 msgid "Details"
+msgstr ""
+
+#. STRINGS.UI.CODEX.FOOD.NON_PERISHABLE
+msgctxt "STRINGS.UI.CODEX.FOOD.NON_PERISHABLE"
+msgid "Spoil time: Infinite"
 msgstr ""
 
 #. STRINGS.UI.CODEX.FOOD.QUALITY
@@ -27053,6 +27173,11 @@ msgctxt "STRINGS.UI.FRONTEND.MAINMENU.TRANSLATIONS"
 msgid "TRANSLATIONS"
 msgstr ""
 
+#. STRINGS.UI.FRONTEND.METRICS_OPTIONS_SCREEN.DESCRIPTION
+msgctxt "STRINGS.UI.FRONTEND.METRICS_OPTIONS_SCREEN.DESCRIPTION"
+msgid "We require the collection of user data to assist in improving game operations. Players who opt out of data collection will no longer send crash reports and user data to the game team.\n\nFor more details on our privacy policy and how we use the data we collect, please visit our <color=blue><u><b>privacy policy</u></b></color>."
+msgstr ""
+
 #. STRINGS.UI.FRONTEND.METRICS_OPTIONS_SCREEN.DONE_BUTTON
 msgctxt "STRINGS.UI.FRONTEND.METRICS_OPTIONS_SCREEN.DONE_BUTTON"
 msgid "Done"
@@ -27060,17 +27185,17 @@ msgstr ""
 
 #. STRINGS.UI.FRONTEND.METRICS_OPTIONS_SCREEN.ENABLE_BUTTON
 msgctxt "STRINGS.UI.FRONTEND.METRICS_OPTIONS_SCREEN.ENABLE_BUTTON"
-msgid "Send Metrics Data: "
+msgid "Opt-In to Data Collection: "
 msgstr ""
 
 #. STRINGS.UI.FRONTEND.METRICS_OPTIONS_SCREEN.TITLE
 msgctxt "STRINGS.UI.FRONTEND.METRICS_OPTIONS_SCREEN.TITLE"
-msgid "METRICS OPTIONS"
+msgid "DATA COLLECTION OPTIONS"
 msgstr ""
 
 #. STRINGS.UI.FRONTEND.METRICS_OPTIONS_SCREEN.TOOLTIP
 msgctxt "STRINGS.UI.FRONTEND.METRICS_OPTIONS_SCREEN.TOOLTIP"
-msgid "If enabled, metrics data will be sent for the purpose of improving the game."
+msgid "Toggle data collection."
 msgstr ""
 
 #. STRINGS.UI.FRONTEND.MINSPECSCREEN.BODY
@@ -27155,7 +27280,7 @@ msgstr ""
 
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.METRICS
 msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.METRICS"
-msgid "Send Metrics Data"
+msgid "Data Collection"
 msgstr ""
 
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.RESET_TUTORIAL
@@ -27215,7 +27340,7 @@ msgstr ""
 
 #. STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.BODY
 msgctxt "STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.BODY"
-msgid "<b>Welcome to the Ranching Upgrade Mark I!</b>\n\n{0}"
+msgid "<b>Welcome to the Ranching Upgrade Mark II!</b>\n\n{0}"
 msgstr ""
 
 #. STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.OK_BUTTON
@@ -27225,12 +27350,12 @@ msgstr ""
 
 #. STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.PATCHNOTES
 msgctxt "STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.PATCHNOTES"
-msgid "<b>Update Features:</b>\n\n• Creatures now have lifecycles and can be raised from eggs\n• Rancher job and buildings to take care of all your new creatures\n• New Duplicant Priority system for broad control of Dupe errands\n• Learn about buildings, creatures and more with the Database screen\n• Tons of bug fixes, performance enhancements, QOL additions, and more!\n\nPlease view the full patch notes for further details!"
+msgid "<b>Update Features:</b>\n\n• New \"Critter Morphs\" can be hatched through careful breeding\n• Two new creatures, Drecko and Pacu, can be found in new worlds\n• Sandbox Mode lets you become master of the asteroid\n• New automation controls, pipes and buildings\n\nPlease view the full patch notes for further details!"
 msgstr ""
 
 #. STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.TITLE
 msgctxt "STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.TITLE"
-msgid "RANCHING UPGRADE MARK I"
+msgid "RANCHING UPGRADE MARK II"
 msgstr ""
 
 #. STRINGS.UI.FRONTEND.PAUSE_SCREEN.DESKTOPQUIT
@@ -27396,6 +27521,11 @@ msgstr ""
 #. STRINGS.UI.FRONTEND.TRANSLATIONS_SCREEN.PREINSTALLED_LANGUAGES.KO_KLEI
 msgctxt "STRINGS.UI.FRONTEND.TRANSLATIONS_SCREEN.PREINSTALLED_LANGUAGES.KO_KLEI"
 msgid "Korean (Klei)"
+msgstr ""
+
+#. STRINGS.UI.FRONTEND.TRANSLATIONS_SCREEN.PREINSTALLED_LANGUAGES.RU_KLEI
+msgctxt "STRINGS.UI.FRONTEND.TRANSLATIONS_SCREEN.PREINSTALLED_LANGUAGES.RU_KLEI"
+msgid "Russian (Klei)"
 msgstr ""
 
 #. STRINGS.UI.FRONTEND.TRANSLATIONS_SCREEN.PREINSTALLED_LANGUAGES.ZH_KLEI
@@ -30143,6 +30273,16 @@ msgctxt "STRINGS.UI.SANDBOXTOOLS.FILTERS.ENTITIES.PLANTS"
 msgid "Plants"
 msgstr ""
 
+#. STRINGS.UI.SANDBOXTOOLS.FILTERS.ENTITIES.SEEDS
+msgctxt "STRINGS.UI.SANDBOXTOOLS.FILTERS.ENTITIES.SEEDS"
+msgid "Seeds"
+msgstr ""
+
+#. STRINGS.UI.SANDBOXTOOLS.FILTERS.ENTITIES.SPECIAL
+msgctxt "STRINGS.UI.SANDBOXTOOLS.FILTERS.ENTITIES.SPECIAL"
+msgid "Special"
+msgstr ""
+
 #. STRINGS.UI.SANDBOXTOOLS.FILTERS.GAS
 msgctxt "STRINGS.UI.SANDBOXTOOLS.FILTERS.GAS"
 msgid "Gasses"
@@ -30236,6 +30376,16 @@ msgstr ""
 #. STRINGS.UI.SANDBOXTOOLS.SETTINGS.HEATGUN.TOOLTIP
 msgctxt "STRINGS.UI.SANDBOXTOOLS.SETTINGS.HEATGUN.TOOLTIP"
 msgid "Inject thermal energy into the world simulation"
+msgstr ""
+
+#. STRINGS.UI.SANDBOXTOOLS.SETTINGS.INSTANT_BUILD.NAME
+msgctxt "STRINGS.UI.SANDBOXTOOLS.SETTINGS.INSTANT_BUILD.NAME"
+msgid "Instant build mode"
+msgstr ""
+
+#. STRINGS.UI.SANDBOXTOOLS.SETTINGS.INSTANT_BUILD.TOOLTIP
+msgctxt "STRINGS.UI.SANDBOXTOOLS.SETTINGS.INSTANT_BUILD.TOOLTIP"
+msgid "Toggle between placing construction plans and fully built buildings"
 msgstr ""
 
 #. STRINGS.UI.SANDBOXTOOLS.SETTINGS.MASS.NAME
@@ -31036,6 +31186,11 @@ msgstr ""
 #. STRINGS.UI.TOOLTIPS.HELP_BUILDLOCATION_OCCUPIED
 msgctxt "STRINGS.UI.TOOLTIPS.HELP_BUILDLOCATION_OCCUPIED"
 msgid "Must be built in unoccupied space"
+msgstr ""
+
+#. STRINGS.UI.TOOLTIPS.HELP_BUILDLOCATION_SOLIDPORTS_OBSTRUCTED
+msgctxt "STRINGS.UI.TOOLTIPS.HELP_BUILDLOCATION_SOLIDPORTS_OBSTRUCTED"
+msgid "Solid ports are obstructed"
 msgstr ""
 
 #. STRINGS.UI.TOOLTIPS.HELP_BUILDLOCATION_WIRE_OBSTRUCTION
