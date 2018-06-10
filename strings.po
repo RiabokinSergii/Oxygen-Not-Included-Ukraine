@@ -3129,18 +3129,9 @@ msgstr "<link=\"BOTTLEEMPTIER\">Осушувач Пляшок</link>"
 #. STRINGS.BUILDINGS.PREFABS.BUNKERDOOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.BUNKERDOOR.DESC"
 msgid "A massive, slow-moving door which is nearly indestructible."
-msgstr ""
+msgstr "Масивні, повільно-рухомі двері, які майже не руйнуються."
 
 #. STRINGS.BUILDINGS.PREFABS.BUNKERDOOR.EFFECT
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.MANUALPRESSUREDOOR.EFFECT"
-#| msgid ""
-#| "Blocks <link=\"ELEMENTSLIQUID\">Liquid</link> and <link=\"ELEMENTSGAS"
-#| "\">Gas</link> flow, maintaining pressure between areas.\n"
-#| "\n"
-#| "Sets Duplicant Access Permissions for area restriction.\n"
-#| "\n"
-#| "Wild critters cannot pass through doors."
 msgctxt "STRINGS.BUILDINGS.PREFABS.BUNKERDOOR.EFFECT"
 msgid ""
 "Blocks <link=\"ELEMENTSLIQUID\">Liquid</link> and <link=\"ELEMENTSGAS\">Gas</"
@@ -3150,16 +3141,14 @@ msgid ""
 "\n"
 "Has very high impact and pressure resistance."
 msgstr ""
-"Блокує проходженню <link=\"ELEMENTSLIQUID\">Рідини</link> та <link="
-"\"ELEMENTSGAS\">Газу</link>, підтримує тиск між зонами.\n"
+"Блокує проходження <link=\"ELEMENTSLIQUID\">Рідини</link> та <link="
+"\"ELEMENTSGAS\">Газів</link>, підтримує тиск між зонами.\n"
 "\n"
 "Встановлює Дублікантам дозвіл на прохід для зони обмеження.\n"
 "\n"
-"Дикі тварини не можуть проходити через двері."
+"Має дуже високий опір до удару та тиску."
 
 #. STRINGS.BUILDINGS.PREFABS.BUNKERDOOR.NAME
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.BURNER.NAME"
-#| msgid "<link=\"BURNER\">Burner</link>"
 msgctxt "STRINGS.BUILDINGS.PREFABS.BUNKERDOOR.NAME"
 msgid "<link=\"BUNKERDOOR\">Bunker Door</link>"
 msgstr "<link=\"BUNKERDOOR\">Двері Бункера</link>"
@@ -3167,10 +3156,9 @@ msgstr "<link=\"BUNKERDOOR\">Двері Бункера</link>"
 #. STRINGS.BUILDINGS.PREFABS.BUNKERTILE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.BUNKERTILE.DESC"
 msgid "Extremely resilient to pressure and impact."
-msgstr ""
+msgstr "Надзвичайно стійкий до тиску та удару."
 
 #. STRINGS.BUILDINGS.PREFABS.BUNKERTILE.EFFECT
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.BUNKERTILE.EFFECT"
 msgid ""
 "Used as floor and wall tile to build rooms.\n"
@@ -3180,7 +3168,7 @@ msgstr ""
 "Використовується, як підлоговий та стіновий кахель для будівництва "
 "приміщень.\n"
 "\n"
-"Істотно збільшує швидкість пересування Дублікантів."
+"Може витримати надзвичайні тиски та удари."
 
 #. STRINGS.BUILDINGS.PREFABS.BUNKERTILE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.BUNKERTILE.NAME"
@@ -3358,8 +3346,6 @@ msgid "Produces a logic signal before a meteor shower begins."
 msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.COMETDETECTOR.NAME
-#| msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.COLDBREATHER.NAME"
-#| msgid "<link=\"COLDBREATHER\">Wort Seed</link>"
 msgctxt "STRINGS.BUILDINGS.PREFABS.COMETDETECTOR.NAME"
 msgid "<link=\"COMETDETECTOR\">Meteor Scanner</link>"
 msgstr "<link=\"COMETDETECTOR\">Сканер Метеоритів</link>"
@@ -3374,10 +3360,15 @@ msgstr ""
 "удобрювати домашні рослини."
 
 #. STRINGS.BUILDINGS.PREFABS.COMPOST.EFFECT
+#, fuzzy
+#| msgctxt "STRINGS.BUILDINGS.PREFABS.COMPOST.EFFECT"
+#| msgid ""
+#| "<link=\"TOXICSAND\">Polluted Dirt</link> down into <link=\"FERTILIZER"
+#| "\">Fertilizer</link>."
 msgctxt "STRINGS.BUILDINGS.PREFABS.COMPOST.EFFECT"
 msgid ""
-"<link=\"TOXICSAND\">Polluted Dirt</link> down into <link=\"FERTILIZER"
-"\">Fertilizer</link>."
+"Reduces <link=\"TOXICSAND\">Polluted Dirt</link> and other compostables down "
+"into <link=\"DIRT\">Dirt</link>."
 msgstr ""
 "<link=\"TOXICSAND\">Забруднену Землю</link> в <link=\"FERTILIZER\">Добрива</"
 "link>."
@@ -3628,8 +3619,8 @@ msgid ""
 "\n"
 "Wild critters cannot pass through doors."
 msgstr ""
-"Обмежує зону, не блокуючи потоку <link=\"ELEMENTSLIQUID\">Рідини</link> чи "
-"<link=\"ELEMENTSGAS\">Газу</link>.\n"
+"Обмежує зону, не блокуючи потік <link=\"ELEMENTSLIQUID\">Рідини</link> чи "
+"<link=\"ELEMENTSGAS\">Газів</link>.\n"
 "\n"
 "Встановлює Дублікантам дозвіл на прохід для зони обмеження.\n"
 "\n"
@@ -3667,7 +3658,7 @@ msgstr "На право"
 
 #. STRINGS.BUILDINGS.PREFABS.EGGCRACKER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.EGGCRACKER.DESC"
-msgid "Or you can eat them raw... if you really want to."
+msgid "It's little-endian."
 msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.EGGCRACKER.EFFECT
@@ -3676,8 +3667,6 @@ msgid "Cracks open a critter egg for use as a cooking ingredient."
 msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.EGGCRACKER.NAME
-#| msgctxt "STRINGS.DUPLICANTS.ROLES.RANCHER.NAME"
-#| msgid "<link=\"RANCHER\">Rancher</link>"
 msgctxt "STRINGS.BUILDINGS.PREFABS.EGGCRACKER.NAME"
 msgid "<link=\"EGGCRACKER\">Egg Cracker</link>"
 msgstr "<link=\"EGGCRACKER\">Яйце Дробарка</link>"
@@ -3752,6 +3741,44 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.ELECTROLYZER.NAME"
 msgid "<link=\"ELECTROLYZER\">Electrolyzer</link>"
 msgstr "<link=\"ELECTROLYZER\">Електролізер</link>"
 
+# правильно чи ні переклад?
+#. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.DESC
+#, fuzzy
+msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.DESC"
+msgid "You'd be surprised how much research went into making this wall."
+msgstr ""
+"Ви здивуєтеся, як багато потрібно вивчити, щоб дійти до створення стін."
+
+# правильно чи ні переклад?
+#. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.EFFECT
+#, fuzzy
+msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.EFFECT"
+msgid "A key element to building rooms on the surface of the asteroid."
+msgstr "Ключовий елемент при будівництві кімнат на поверхні астероїда."
+
+#. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.NAME"
+msgid "<link=\"EXTERIORWALL\">Wall</link>"
+msgstr "<link=\"WATER\">Стіна</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.FACILITYBACKWALLWINDOW.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.FACILITYBACKWALLWINDOW.DESC"
+msgid "Window"
+msgstr "Вікно"
+
+#. STRINGS.BUILDINGS.PREFABS.FACILITYBACKWALLWINDOW.EFFECT
+#| msgid ""
+msgctxt "STRINGS.BUILDINGS.PREFABS.FACILITYBACKWALLWINDOW.EFFECT"
+msgid ""
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.FACILITYBACKWALLWINDOW.NAME
+#| msgctxt "STRINGS.ELEMENTS.SNOW.NAME"
+#| msgid "<link=\"SNOW\">Snow</link>"
+msgctxt "STRINGS.BUILDINGS.PREFABS.FACILITYBACKWALLWINDOW.NAME"
+msgid "<link=\"\">Window</link>"
+msgstr "<link=\"\">Вікно</link>"
+
 #. STRINGS.BUILDINGS.PREFABS.FARMSTATION.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.FARMSTATION.DESC"
 msgid "This station only has an effect on crops grown within the same room."
@@ -3804,10 +3831,12 @@ msgstr ""
 "\n"
 "Може бути використаний як підлога та обернути до будівництва."
 
+# або Блок Ферми, або просто Ферма
 #. STRINGS.BUILDINGS.PREFABS.FARMTILE.NAME
+#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.FARMTILE.NAME"
 msgid "<link=\"FARMTILE\">Farm Tile</link>"
-msgstr "<link=\"FARMTILE\">Блок Ферми</link>"
+msgstr "<link=\"FARMTILE\">Кахель Ферми</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.FERTILIZERMAKER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.FERTILIZERMAKER.DESC"
@@ -4822,21 +4851,6 @@ msgstr ""
 msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATIONTILE.NAME"
 msgid "<link=\"INSULATIONTILE\">Insulated Tile</link>"
 msgstr "<link=\"INSULATIONTILE\">Ізоляційний Кахель</link>"
-
-#. STRINGS.BUILDINGS.PREFABS.INSULATIONWALL.DESC
-msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATIONWALL.DESC"
-msgid "You'd be surprised how much research went into making warm wallpaper."
-msgstr "Ви здивовані, як багато потрібно досягти, для створення теплих шпалер."
-
-#. STRINGS.BUILDINGS.PREFABS.INSULATIONWALL.EFFECT
-msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATIONWALL.EFFECT"
-msgid "Reduces <link=\"HEAT\">Heat</link> loss through colony walls."
-msgstr "Зменшує втрати <link=\"HEAT\">Тепла</link> стінами колонії."
-
-#. STRINGS.BUILDINGS.PREFABS.INSULATIONWALL.NAME
-msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATIONWALL.NAME"
-msgid "<link=\"INSULATIONWALL\">Insulation</link>"
-msgstr "<link=\"INSULATIONWALL\">Тепло Ізоляція</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.KILN.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.KILN.DESC"
@@ -5942,8 +5956,8 @@ msgid ""
 "\n"
 "Wild critters cannot pass through doors."
 msgstr ""
-"Блокує проходженню <link=\"ELEMENTSLIQUID\">Рідини</link> та <link="
-"\"ELEMENTSGAS\">Газу</link>, підтримує тиск між зонами.\n"
+"Блокує проходження <link=\"ELEMENTSLIQUID\">Рідини</link> та <link="
+"\"ELEMENTSGAS\">Газів</link>, підтримує тиск між зонами.\n"
 "\n"
 "Встановлює Дублікантам дозвіл на прохід для зони обмеження.\n"
 "\n"
@@ -6513,8 +6527,8 @@ msgid ""
 "Functions as a Manual Airlock when no <link=\"POWER\">Power</link> is "
 "available."
 msgstr ""
-"Блокує проходженню <link=\"ELEMENTSLIQUID\">Рідини</link> та <link="
-"\"ELEMENTSGAS\">Газу</link>, підтримує тиск між зонами.\n"
+"Блокує проходження <link=\"ELEMENTSLIQUID\">Рідини</link> та <link="
+"\"ELEMENTSGAS\">Газів</link>, підтримує тиск між зонами.\n"
 "\n"
 "Встановлює Дублікантам дозвіл на прохід для зони обмеження.\n"
 "\n"
@@ -7002,6 +7016,25 @@ msgstr "Випромінює невелику кількість <link=\"HEAT\">
 msgctxt "STRINGS.BUILDINGS.PREFABS.SPACEHEATER.NAME"
 msgid "<link=\"SPACEHEATER\">Space Heater</link>"
 msgstr "<link=\"SPACEHEATER\">Електро Камін</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.SPACEWALL.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.SPACEWALL.DESC"
+msgid "Keeps the space out and the atmosphere in"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.SPACEWALL.EFFECT
+#, fuzzy
+msgctxt "STRINGS.BUILDINGS.PREFABS.SPACEWALL.EFFECT"
+msgid "..."
+msgstr "..."
+
+#. STRINGS.BUILDINGS.PREFABS.SPACEWALL.NAME
+#, fuzzy
+#| msgctxt "STRINGS.BUILDINGS.PREFABS.SPACEHEATER.NAME"
+#| msgid "<link=\"SPACEHEATER\">Space Heater</link>"
+msgctxt "STRINGS.BUILDINGS.PREFABS.SPACEWALL.NAME"
+msgid "<link=\"SPACEWALL\">Space Wall</link>"
+msgstr "<link=\"SPACEWALL\">Космічна Стіна</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.STEAMTURBINE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.STEAMTURBINE.DESC"
@@ -7889,8 +7922,6 @@ msgid "Ease of digging"
 msgstr "Базове копання"
 
 #. STRINGS.CODEX.ELEMENTHARDNESS.TITLE
-#| msgctxt "STRINGS.ELEMENTS.GLASS.NAME"
-#| msgid "<link=\"GLASS\">Glass</link>"
 msgctxt "STRINGS.CODEX.ELEMENTHARDNESS.TITLE"
 msgid "<link=\"HARDNESS\">Hardness</link>"
 msgstr "<link=\"HARDNESS\">Твердість</link>"
@@ -8621,201 +8652,6 @@ msgstr "Цей {0} був впійманий та зараз в безпеці �
 msgctxt "STRINGS.CREATURES.BAGGED_NAME_FMT"
 msgid "Bagged {0}"
 msgstr "Вмішку {0}"
-
-#. STRINGS.CREATURES.DOMESTICATION.CRITERIA.ATMOSPHERE_OK.NAME
-msgctxt "STRINGS.CREATURES.DOMESTICATION.CRITERIA.ATMOSPHERE_OK.NAME"
-msgid "Acceptable Atmosphere"
-msgstr "Прийнятна атмосфера"
-
-#. STRINGS.CREATURES.DOMESTICATION.CRITERIA.ATMOSPHERE_OK.TOOLTIP
-msgctxt "STRINGS.CREATURES.DOMESTICATION.CRITERIA.ATMOSPHERE_OK.TOOLTIP"
-msgid "It's breathable."
-msgstr "Він придатний для дихання"
-
-#. STRINGS.CREATURES.DOMESTICATION.CRITERIA.HAS_FOOD_SOURCE.NAME
-msgctxt "STRINGS.CREATURES.DOMESTICATION.CRITERIA.HAS_FOOD_SOURCE.NAME"
-msgid "Fed"
-msgstr "Харчування"
-
-#. STRINGS.CREATURES.DOMESTICATION.CRITERIA.HAS_FOOD_SOURCE.TOOLTIP
-msgctxt "STRINGS.CREATURES.DOMESTICATION.CRITERIA.HAS_FOOD_SOURCE.TOOLTIP"
-msgid "Has enough food to eat."
-msgstr "Має достатньо їжі для харчування."
-
-#. STRINGS.CREATURES.DOMESTICATION.CRITERIA.IN_PEN.NAME
-msgctxt "STRINGS.CREATURES.DOMESTICATION.CRITERIA.IN_PEN.NAME"
-msgid "Critter Pen"
-msgstr "Тваринний загін"
-
-#. STRINGS.CREATURES.DOMESTICATION.CRITERIA.IN_PEN.TOOLTIP
-msgctxt "STRINGS.CREATURES.DOMESTICATION.CRITERIA.IN_PEN.TOOLTIP"
-msgid "Has a pen to live in."
-msgstr "Загін для життя."
-
-#. STRINGS.CREATURES.DOMESTICATION.CRITERIA.TEMPERATURE_OK.NAME
-msgctxt "STRINGS.CREATURES.DOMESTICATION.CRITERIA.TEMPERATURE_OK.NAME"
-msgid "Comfortable Temperature"
-msgstr "Зручна температура"
-
-#. STRINGS.CREATURES.DOMESTICATION.CRITERIA.TEMPERATURE_OK.TOOLTIP
-msgctxt "STRINGS.CREATURES.DOMESTICATION.CRITERIA.TEMPERATURE_OK.TOOLTIP"
-msgid "Not too hot, not too cold."
-msgstr "Не дуже спекотно, не дуже прохолодно."
-
-#. STRINGS.CREATURES.DOMESTICATION.CRITERIA.WELL_FED.NAME
-msgctxt "STRINGS.CREATURES.DOMESTICATION.CRITERIA.WELL_FED.NAME"
-msgid "Well Fed"
-msgstr "Добре поїв"
-
-#. STRINGS.CREATURES.DOMESTICATION.CRITERIA.WELL_FED.TOOLTIP
-msgctxt "STRINGS.CREATURES.DOMESTICATION.CRITERIA.WELL_FED.TOOLTIP"
-msgid "This critter has recently dined on its favorite food."
-msgstr "Ця тварина недавно обідала її улюбленою їжею."
-
-#. STRINGS.CREATURES.DOMESTICATION.CRITERIA.WELL_GROOMED.NAME
-msgctxt "STRINGS.CREATURES.DOMESTICATION.CRITERIA.WELL_GROOMED.NAME"
-msgid "Well Groomed"
-msgstr "Добрий догляд"
-
-#. STRINGS.CREATURES.DOMESTICATION.CRITERIA.WELL_GROOMED.TOOLTIP
-msgctxt "STRINGS.CREATURES.DOMESTICATION.CRITERIA.WELL_GROOMED.TOOLTIP"
-msgid "Getting plenty of personal attention from a Rancher."
-msgstr "Отримав неабияку особисту увагу від Пастуха."
-
-#. STRINGS.CREATURES.DOMESTICATION.EFFECTS.DESTRUCTIVE.NAME
-msgctxt "STRINGS.CREATURES.DOMESTICATION.EFFECTS.DESTRUCTIVE.NAME"
-msgid "Destructive"
-msgstr "Руйнівний"
-
-#. STRINGS.CREATURES.DOMESTICATION.EFFECTS.DESTRUCTIVE.TOOLTIP
-msgctxt "STRINGS.CREATURES.DOMESTICATION.EFFECTS.DESTRUCTIVE.TOOLTIP"
-msgid "Likely to mess up the place"
-msgstr "Імовірно, влаштує безлад"
-
-#. STRINGS.CREATURES.DOMESTICATION.EFFECTS.GAIN_FERTILITY.NAME
-msgctxt "STRINGS.CREATURES.DOMESTICATION.EFFECTS.GAIN_FERTILITY.NAME"
-msgid "Increased Reproduction"
-msgstr "Підвищене розмноження"
-
-#. STRINGS.CREATURES.DOMESTICATION.EFFECTS.GAIN_FERTILITY.TOOLTIP
-msgctxt "STRINGS.CREATURES.DOMESTICATION.EFFECTS.GAIN_FERTILITY.TOOLTIP"
-msgid "This critter will produce an egg soon if conditions remain favorable"
-msgstr "Ця тварина з часом відкладе яйце, якщо умови залишаться сприятливими"
-
-#. STRINGS.CREATURES.DOMESTICATION.EFFECTS.GOOD_PRODUCTIVITY.NAME
-msgctxt "STRINGS.CREATURES.DOMESTICATION.EFFECTS.GOOD_PRODUCTIVITY.NAME"
-msgid "Good Productivity"
-msgstr "Добра продуктивність"
-
-#. STRINGS.CREATURES.DOMESTICATION.EFFECTS.GOOD_PRODUCTIVITY.TOOLTIP
-msgctxt "STRINGS.CREATURES.DOMESTICATION.EFFECTS.GOOD_PRODUCTIVITY.TOOLTIP"
-msgid "Producing at a normal level"
-msgstr "Виробництво на звичайному рівні"
-
-#. STRINGS.CREATURES.DOMESTICATION.EFFECTS.INCREASED_CRITERIA_PENALTY.NAME
-msgctxt ""
-"STRINGS.CREATURES.DOMESTICATION.EFFECTS.INCREASED_CRITERIA_PENALTY.NAME"
-msgid "Sensitive"
-msgstr "Чутливість"
-
-#. STRINGS.CREATURES.DOMESTICATION.EFFECTS.INCREASED_CRITERIA_PENALTY.TOOLTIP
-msgctxt ""
-"STRINGS.CREATURES.DOMESTICATION.EFFECTS.INCREASED_CRITERIA_PENALTY.TOOLTIP"
-msgid "Loses happiness faster than normal under poor conditions"
-msgstr "Втрачає щастя швидше, в поганих пригнічених умовах, ніж звичайно"
-
-#. STRINGS.CREATURES.DOMESTICATION.EFFECTS.LOSE_FERTILITY.NAME
-msgctxt "STRINGS.CREATURES.DOMESTICATION.EFFECTS.LOSE_FERTILITY.NAME"
-msgid "Decreased Reproduction"
-msgstr "Зниження розмноження"
-
-#. STRINGS.CREATURES.DOMESTICATION.EFFECTS.LOSE_FERTILITY.TOOLTIP
-msgctxt "STRINGS.CREATURES.DOMESTICATION.EFFECTS.LOSE_FERTILITY.TOOLTIP"
-msgid "This creature is holding off on laying eggs due to bad conditions"
-msgstr "Ця тварина непоспішає з відкладанням яйець, через погані умови"
-
-#. STRINGS.CREATURES.DOMESTICATION.EFFECTS.LOSE_HAPPINESS.NAME
-msgctxt "STRINGS.CREATURES.DOMESTICATION.EFFECTS.LOSE_HAPPINESS.NAME"
-msgid "Downward Spiral"
-msgstr "Спадна спіраль"
-
-#. STRINGS.CREATURES.DOMESTICATION.EFFECTS.LOSE_HAPPINESS.TOOLTIP
-msgctxt "STRINGS.CREATURES.DOMESTICATION.EFFECTS.LOSE_HAPPINESS.TOOLTIP"
-msgid "Losing happiness until conditions improve"
-msgstr "Втрачає щастя, доки умови не покращаться"
-
-#. STRINGS.CREATURES.DOMESTICATION.EFFECTS.LOW_PRODUCTIVITY.NAME
-msgctxt "STRINGS.CREATURES.DOMESTICATION.EFFECTS.LOW_PRODUCTIVITY.NAME"
-msgid "Low Productivity"
-msgstr "Низька продуктивність"
-
-#. STRINGS.CREATURES.DOMESTICATION.EFFECTS.LOW_PRODUCTIVITY.TOOLTIP
-msgctxt "STRINGS.CREATURES.DOMESTICATION.EFFECTS.LOW_PRODUCTIVITY.TOOLTIP"
-msgid "Producing at a reduced level"
-msgstr "Виробництво на зниженому рівні"
-
-#. STRINGS.CREATURES.DOMESTICATION.EFFECTS.UNPRODUCTIVE.NAME
-msgctxt "STRINGS.CREATURES.DOMESTICATION.EFFECTS.UNPRODUCTIVE.NAME"
-msgid "Unproductive"
-msgstr "Непродуктивність"
-
-#. STRINGS.CREATURES.DOMESTICATION.EFFECTS.UNPRODUCTIVE.TOOLTIP
-msgctxt "STRINGS.CREATURES.DOMESTICATION.EFFECTS.UNPRODUCTIVE.TOOLTIP"
-msgid ""
-"Without improved conditions, this critter will not provide any useful "
-"products"
-msgstr ""
-"З відсутністю покращених умов, ця тварина не бажає давати будь-які корисні "
-"продукти"
-
-#. STRINGS.CREATURES.DOMESTICATION.LEVELS.HAPPY.NAME
-msgctxt "STRINGS.CREATURES.DOMESTICATION.LEVELS.HAPPY.NAME"
-msgid "Tame"
-msgstr "Прирученість"
-
-#. STRINGS.CREATURES.DOMESTICATION.LEVELS.HAPPY.TOOLTIP
-msgctxt "STRINGS.CREATURES.DOMESTICATION.LEVELS.HAPPY.TOOLTIP"
-msgid ""
-"This critter is well taken care of and fully trusts its Duplicant caregivers"
-msgstr ""
-"Ця тварина отримує гарне піклування та повністю довіряє своїм Дублікантам "
-"доглядачам"
-
-#. STRINGS.CREATURES.DOMESTICATION.LEVELS.NEUTRAL.NAME
-msgctxt "STRINGS.CREATURES.DOMESTICATION.LEVELS.NEUTRAL.NAME"
-msgid "Skittish"
-msgstr "Упертість"
-
-#. STRINGS.CREATURES.DOMESTICATION.LEVELS.NEUTRAL.TOOLTIP
-msgctxt "STRINGS.CREATURES.DOMESTICATION.LEVELS.NEUTRAL.TOOLTIP"
-msgid ""
-"This critter's most basic needs are being met, but it's still wary of "
-"Duplicants"
-msgstr ""
-"Більшість основних вимог цих тварин були виконані, але вони однак "
-"насторожено відносяться до Дублікантів"
-
-#. STRINGS.CREATURES.DOMESTICATION.LEVELS.SPOILED.NAME
-msgctxt "STRINGS.CREATURES.DOMESTICATION.LEVELS.SPOILED.NAME"
-msgid "Affectionate"
-msgstr "Лагідність"
-
-#. STRINGS.CREATURES.DOMESTICATION.LEVELS.SPOILED.TOOLTIP
-msgctxt "STRINGS.CREATURES.DOMESTICATION.LEVELS.SPOILED.TOOLTIP"
-msgid ""
-"This critter loves its Duplicant caregivers and is spoiled absolutely rotten"
-msgstr ""
-"Ця тварина любить свого Дубліканта, доглядача та розбещена саме зіпсованим"
-
-#. STRINGS.CREATURES.DOMESTICATION.LEVELS.UNHAPPY.NAME
-msgctxt "STRINGS.CREATURES.DOMESTICATION.LEVELS.UNHAPPY.NAME"
-msgid "Wild"
-msgstr "Дикий"
-
-#. STRINGS.CREATURES.DOMESTICATION.LEVELS.UNHAPPY.TOOLTIP
-msgctxt "STRINGS.CREATURES.DOMESTICATION.LEVELS.UNHAPPY.TOOLTIP"
-msgid "This critter is fending for itself and does not trust Duplicants"
-msgstr "Ця тварина піклується про себе сама та не довіряє Дублікантам"
 
 #. STRINGS.CREATURES.FAMILY.DRECKO
 msgctxt "STRINGS.CREATURES.FAMILY.DRECKO"
@@ -10280,29 +10116,20 @@ msgid "<link=\"OILSPOUT\">Oil Spout</link>"
 msgstr "<link=\"OILSPOUT\">Горловина Найти</link>"
 
 #. STRINGS.CREATURES.SPECIES.PACU.BABY.DESC
-#, fuzzy
-#| msgctxt "STRINGS.CREATURES.SPECIES.HATCH.BABY.DESC"
-#| msgid ""
-#| "An innocent little <link=\"HATCHLING\">Hatchling</link>.\n"
-#| "\n"
-#| "In time, it will mature into an adult <link=\"HATCH\">Hatch</link>."
 msgctxt "STRINGS.CREATURES.SPECIES.PACU.BABY.DESC"
 msgid ""
 "An innocent little <link=\"PACU\">Pacu Fry</link>.\n"
 "\n"
 "In time, it will mature into an adult <link=\"PACU\">Pacu</link>."
 msgstr ""
-"Невинний, маленький <link=\"HATCHLING\">Хатчлінг</link>.\n"
+"Невинний, маленький <link=\"PACU\">Мальок Паку</link>.\n"
 "\n"
-"З часом він виросте до дорослого <link=\"HATCH\">Хачта</link>."
+"З часом він виросте до дорослого <link=\"PACU\">Паку</link>."
 
 #. STRINGS.CREATURES.SPECIES.PACU.BABY.NAME
-#, fuzzy
-#| msgctxt "STRINGS.CREATURES.SPECIES.PACU.NAME"
-#| msgid "<link=\"PACU\">Pacu</link>"
 msgctxt "STRINGS.CREATURES.SPECIES.PACU.BABY.NAME"
 msgid "<link=\"PACU\">Pacu Fry</link>"
-msgstr "<link=\"PACU\">Паку</link>"
+msgstr "<link=\"PACU\">Мальок Паку</link>"
 
 #. STRINGS.CREATURES.SPECIES.PACU.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.PACU.DESC"
@@ -10328,29 +10155,20 @@ msgid "<link=\"PACU\">Pacu</link>"
 msgstr "<link=\"PACU\">Паку</link>"
 
 #. STRINGS.CREATURES.SPECIES.PACU.VARIANT_CLEANER.BABY.DESC
-#, fuzzy
-#| msgctxt "STRINGS.CREATURES.SPECIES.HATCH.BABY.DESC"
-#| msgid ""
-#| "An innocent little <link=\"HATCHLING\">Hatchling</link>.\n"
-#| "\n"
-#| "In time, it will mature into an adult <link=\"HATCH\">Hatch</link>."
 msgctxt "STRINGS.CREATURES.SPECIES.PACU.VARIANT_CLEANER.BABY.DESC"
 msgid ""
 "An innocent little <link=\"GULPFISH\">Gulp Fish Fry</link>.\n"
 "\n"
 "In time, it will mature into an adult <link=\"GULPFISH\">Gulp Fish</link>."
 msgstr ""
-"Невинний, маленький <link=\"HATCHLING\">Хатчлінг</link>.\n"
+"Невинний, маленький <link=\"GULPFISH\">Мальок Риби Галп</link>.\n"
 "\n"
-"З часом він виросте до дорослого <link=\"HATCH\">Хачта</link>."
+"З часом він виросте до дорослої <link=\"GULPFISH\">Риби Галп</link>."
 
 #. STRINGS.CREATURES.SPECIES.PACU.VARIANT_CLEANER.BABY.NAME
-#, fuzzy
-#| msgctxt "STRINGS.CREATURES.SPECIES.PACU.VARIANT_CLEANER.NAME"
-#| msgid "<link=\"GULPFISH\">Gulp Fish</link>"
 msgctxt "STRINGS.CREATURES.SPECIES.PACU.VARIANT_CLEANER.BABY.NAME"
 msgid "<link=\"GULPFISH\">Gulp Fish Fry</link>"
-msgstr "<link=\"GULPFISH\">Риба Галп</link>"
+msgstr "<link=\"GULPFISH\">Мальок Риби Галп</link>"
 
 #. STRINGS.CREATURES.SPECIES.PACU.VARIANT_CLEANER.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.PACU.VARIANT_CLEANER.DESC"
@@ -10369,30 +10187,22 @@ msgid "<link=\"GULPFISH\">Gulp Fish</link>"
 msgstr "<link=\"GULPFISH\">Риба Галп</link>"
 
 #. STRINGS.CREATURES.SPECIES.PACU.VARIANT_TROPICAL.BABY.DESC
-#, fuzzy
-#| msgctxt "STRINGS.CREATURES.SPECIES.HATCH.BABY.DESC"
-#| msgid ""
-#| "An innocent little <link=\"HATCHLING\">Hatchling</link>.\n"
-#| "\n"
-#| "In time, it will mature into an adult <link=\"HATCH\">Hatch</link>."
 msgctxt "STRINGS.CREATURES.SPECIES.PACU.VARIANT_TROPICAL.BABY.DESC"
 msgid ""
-"An innocent little <link=\"TROPICALPACU\">Tropical Pacu Fry</link>.\n"
+"An innocent little <link=\"PACUTROPICAL\">Tropical Pacu Fry</link>.\n"
 "\n"
-"In time, it will mature into an adult <link=\"TROPICALPACU\">Tropical Pacu</"
+"In time, it will mature into an adult <link=\"PACUTROPICAL\">Tropical Pacu</"
 "link>."
 msgstr ""
-"Невинний, маленький <link=\"HATCHLING\">Хатчлінг</link>.\n"
+"Невинний, маленький <link=\"PACUTROPICAL\">Мальок Тропічного Паку</link>.\n"
 "\n"
-"З часом він виросте до дорослого <link=\"HATCH\">Хачта</link>."
+"З часом він виросте до дорослого <link=\"PACUTROPICAL\">Тропічного Паку</"
+"link>."
 
 #. STRINGS.CREATURES.SPECIES.PACU.VARIANT_TROPICAL.BABY.NAME
-#, fuzzy
-#| msgctxt "STRINGS.CREATURES.SPECIES.PACU.VARIANT_TROPICAL.NAME"
-#| msgid "<link=\"TROPICALPACU\">Tropical Pacu</link>"
 msgctxt "STRINGS.CREATURES.SPECIES.PACU.VARIANT_TROPICAL.BABY.NAME"
-msgid "<link=\"TROPICALPACU\">Tropical Pacu Fry</link>"
-msgstr "<link=\"TROPICALPACU\">Тропічний Паку</link>"
+msgid "<link=\"PACUTROPICAL\">Tropical Pacu Fry</link>"
+msgstr "<link=\"PACUTROPICAL\">Мальок Тропічного Паку</link>"
 
 #. STRINGS.CREATURES.SPECIES.PACU.VARIANT_TROPICAL.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.PACU.VARIANT_TROPICAL.DESC"
@@ -10402,13 +10212,13 @@ msgstr "Кожен організм Паку у відомих всесвіта�
 
 #. STRINGS.CREATURES.SPECIES.PACU.VARIANT_TROPICAL.EGG_NAME
 msgctxt "STRINGS.CREATURES.SPECIES.PACU.VARIANT_TROPICAL.EGG_NAME"
-msgid "<link=\"TROPICALPACUEGG\">Tropical Pacu Egg</link>"
-msgstr "<link=\"TROPICALPACUEGG\">Яйце Тропічного Паку</link>"
+msgid "<link=\"PACUTROPICALEGG\">Tropical Pacu Egg</link>"
+msgstr "<link=\"PACUTROPICALEGG\">Яйце Тропічного Паку</link>"
 
 #. STRINGS.CREATURES.SPECIES.PACU.VARIANT_TROPICAL.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.PACU.VARIANT_TROPICAL.NAME"
-msgid "<link=\"TROPICALPACU\">Tropical Pacu</link>"
-msgstr "<link=\"TROPICALPACU\">Тропічний Паку</link>"
+msgid "<link=\"PACUTROPICAL\">Tropical Pacu</link>"
+msgstr "<link=\"PACUTROPICAL\">Тропічний Паку</link>"
 
 #. STRINGS.CREATURES.SPECIES.PACUEGG.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.PACUEGG.DESC"
@@ -11898,6 +11708,19 @@ msgstr ""
 "Зручні умови дозволяють цій рослині давати кращий врожай\n"
 "{Effects}"
 
+#. STRINGS.CREATURES.STATUSITEMS.OLD.NAME
+#, fuzzy
+#| msgctxt "STRINGS.NAMEGEN.DUPLICANT.PREFIX.NB.OLD"
+#| msgid "Old"
+msgctxt "STRINGS.CREATURES.STATUSITEMS.OLD.NAME"
+msgid "Old"
+msgstr "Старий"
+
+#. STRINGS.CREATURES.STATUSITEMS.OLD.TOOLTIP
+msgctxt "STRINGS.CREATURES.STATUSITEMS.OLD.TOOLTIP"
+msgid "This critter is getting old and only has {TimeUntilDeath} left to live."
+msgstr ""
+
 #. STRINGS.CREATURES.STATUSITEMS.PERFECTATMOSPHERICPRESSURE.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.PERFECTATMOSPHERICPRESSURE.NAME"
 msgid "Ideal Air Pressure"
@@ -13004,7 +12827,6 @@ msgid "{0}: {1}"
 msgstr "{0}: {1}"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.VIABILITYDELTA.DESC
-#| msgid ""
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.VIABILITYDELTA.DESC"
 msgid ""
 msgstr ""
@@ -13742,8 +13564,8 @@ msgstr "Йде перекидати компост"
 
 #. STRINGS.DUPLICANTS.CHORES.FLIPCOMPOST.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.FLIPCOMPOST.TOOLTIP"
-msgid "Composts need to be flipped to produce Fertilizer"
-msgstr "Компост потрібно перекидати, щоб виробляти Добрива"
+msgid "Composts need to be flipped in order for their contents to compost"
+msgstr "Компост потрібно час від часу перевертати, щоб він компостувався"
 
 #. STRINGS.DUPLICANTS.CHORES.GENERATEPOWER.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.GENERATEPOWER.NAME"
@@ -20611,7 +20433,6 @@ msgid "<link=\"CEMENTMIX\">Cement Mix</link>"
 msgstr "<link=\"CEMENTMIX\">Цементна Суміш</link>"
 
 #. STRINGS.ELEMENTS.CERAMIC.BUILD_DESC
-#| msgid ""
 msgctxt "STRINGS.ELEMENTS.CERAMIC.BUILD_DESC"
 msgid ""
 msgstr ""
@@ -20630,8 +20451,6 @@ msgstr ""
 "Це надійний Будівельний Матеріал."
 
 #. STRINGS.ELEMENTS.CERAMIC.NAME
-#| msgctxt "STRINGS.ELEMENTS.BRICK.NAME"
-#| msgid "<link=\"BRICK\">Ceramic</link>"
 msgctxt "STRINGS.ELEMENTS.CERAMIC.NAME"
 msgid "<link=\"CERAMIC\">Ceramic</link>"
 msgstr "<link=\"CERAMIC\">Кераміка</link>"
@@ -21305,8 +21124,6 @@ msgstr ""
 "Він використовується, як Будівельний Матеріал."
 
 #. STRINGS.ELEMENTS.LIME.NAME
-#| msgctxt "STRINGS.ELEMENTS.SLIMEMOLD.NAME"
-#| msgid "<link=\"SLIMEMOLD\">Slime</link>"
 msgctxt "STRINGS.ELEMENTS.LIME.NAME"
 msgid "<link=\"LIME\">Lime</link>"
 msgstr "<link=\"LIME\">Вапно</link>"
@@ -21422,7 +21239,6 @@ msgid "<link=\"LIQUIDPROPANE\">Propane</link>"
 msgstr "<link=\"LIQUIDPROPANE\">Пропан</link>"
 
 #. STRINGS.ELEMENTS.MAFICROCK.BUILD_DESC
-#| msgid ""
 msgctxt "STRINGS.ELEMENTS.MAFICROCK.BUILD_DESC"
 msgid ""
 msgstr ""
@@ -21987,7 +21803,6 @@ msgid "<link=\"RADIUM\">Radium</link>"
 msgstr "<link=\"RADIUM\">Радій</link>"
 
 #. STRINGS.ELEMENTS.REFINEDCARBON.BUILD_DESC
-#| msgid ""
 msgctxt "STRINGS.ELEMENTS.REFINEDCARBON.BUILD_DESC"
 msgid ""
 msgstr ""
@@ -26290,12 +26105,12 @@ msgstr ""
 #. STRINGS.MISC.STATUSITEMS.MARKEDFORCOMPOST.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.MARKEDFORCOMPOST.NAME"
 msgid "Marked For Compost"
-msgstr ""
+msgstr "Призначено для компостування"
 
 #. STRINGS.MISC.STATUSITEMS.MARKEDFORCOMPOST.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.MARKEDFORCOMPOST.TOOLTIP"
 msgid "Awaiting a Duplicant to compost"
-msgstr ""
+msgstr "Очікує Дубліканта для компостування"
 
 #. STRINGS.MISC.STATUSITEMS.MARKEDFORDISINFECTION.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.MARKEDFORDISINFECTION.NAME"
@@ -26498,6 +26313,18 @@ msgstr ""
 #. STRINGS.MISC.STATUSITEMS.REGIONISBLOCKED.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.REGIONISBLOCKED.TOOLTIP"
 msgid "Undug material is blocking off an essential tile"
+msgstr ""
+
+#. STRINGS.MISC.STATUSITEMS.SPACE.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.SPACE.NAME"
+msgid "Exposed to Space"
+msgstr ""
+
+#. STRINGS.MISC.STATUSITEMS.SPACE.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.SPACE.TOOLTIP"
+msgid ""
+"This region is exposed to the vacuum of space and will result in the loss of "
+"gas and liquid resources."
 msgstr ""
 
 #. STRINGS.MISC.STATUSITEMS.SPOUTDORMANT.NAME
@@ -26712,6 +26539,11 @@ msgctxt "STRINGS.MISC.TAGS.COAL"
 msgid "Coal"
 msgstr "Вугілля"
 
+#. STRINGS.MISC.TAGS.COMPOST_FORMAT
+msgctxt "STRINGS.MISC.TAGS.COMPOST_FORMAT"
+msgid "{Item}"
+msgstr "{Item}"
+
 #. STRINGS.MISC.TAGS.COMPOSTABLE
 msgctxt "STRINGS.MISC.TAGS.COMPOSTABLE"
 msgid "Compostable"
@@ -26852,10 +26684,16 @@ msgctxt "STRINGS.MISC.TAGS.MACHINE_SHOP"
 msgid "Machine Shop"
 msgstr "Машинна Крамниця"
 
+#. STRINGS.MISC.TAGS.MANUFACTUREDMATERIAL
+msgctxt "STRINGS.MISC.TAGS.MANUFACTUREDMATERIAL"
+msgid "Manufactured Material"
+msgstr "Промислові Матеріали"
+
+# або Відмічено для компостування
 #. STRINGS.MISC.TAGS.MARKEDFORCOMPOST
 msgctxt "STRINGS.MISC.TAGS.MARKEDFORCOMPOST"
-msgid "Compost Edibles"
-msgstr "Компостний Їстівний"
+msgid "Marked For Compost"
+msgstr ""
 
 #. STRINGS.MISC.TAGS.MASSAGE_TABLE
 msgctxt "STRINGS.MISC.TAGS.MASSAGE_TABLE"
@@ -26984,6 +26822,11 @@ msgctxt "STRINGS.MISC.TAGS.SPECIAL"
 msgid "Special"
 msgstr "Спеціальний"
 
+#. STRINGS.MISC.TAGS.STEEL
+msgctxt "STRINGS.MISC.TAGS.STEEL"
+msgid "Steel"
+msgstr "Сталь"
+
 #. STRINGS.MISC.TAGS.SUIT
 msgctxt "STRINGS.MISC.TAGS.SUIT"
 msgid "Suit"
@@ -27013,6 +26856,11 @@ msgstr "Нестійкий"
 msgctxt "STRINGS.MISC.TAGS.WIRING"
 msgid "Wire Build-Delivery"
 msgstr "Дротяна Буд-Доставка"
+
+#. STRINGS.MISC.TUTORIAL.DONT_SHOW_AGAIN
+msgctxt "STRINGS.MISC.TUTORIAL.DONT_SHOW_AGAIN"
+msgid "Don't Show Again"
+msgstr "Не показувати знову"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.ACIDIC
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.ACIDIC"
@@ -30043,6 +29891,16 @@ msgctxt "STRINGS.SETITEMS.BREAKROOM_TABLE.NAME"
 msgid "Table"
 msgstr "Стіл"
 
+#. STRINGS.SETITEMS.CHAIR.DESC
+msgctxt "STRINGS.SETITEMS.CHAIR.DESC"
+msgid "A chair"
+msgstr ""
+
+#. STRINGS.SETITEMS.CHAIR.NAME
+msgctxt "STRINGS.SETITEMS.CHAIR.NAME"
+msgid "Chair"
+msgstr ""
+
 #. STRINGS.SETITEMS.DESK.DESC
 msgctxt "STRINGS.SETITEMS.DESK.DESC"
 msgid ""
@@ -30063,12 +29921,107 @@ msgid "An elevator"
 msgstr ""
 
 #. STRINGS.SETITEMS.ELEVATOR.NAME
-#, fuzzy
 #| msgctxt "STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.NAME"
 #| msgid "Lavatory"
 msgctxt "STRINGS.SETITEMS.ELEVATOR.NAME"
 msgid "Elevator"
-msgstr "Убиральня"
+msgstr ""
+
+#. STRINGS.SETITEMS.FACILITY_CENTERPEICE.DESC
+msgctxt "STRINGS.SETITEMS.FACILITY_CENTERPEICE.DESC"
+msgid "A big statue"
+msgstr ""
+
+#. STRINGS.SETITEMS.FACILITY_CENTERPEICE.NAME
+#| msgctxt "STRINGS.UI.DETAILTABS.SIMPLEINFO.NAME"
+#| msgid "Status"
+msgctxt "STRINGS.SETITEMS.FACILITY_CENTERPEICE.NAME"
+msgid "Statue"
+msgstr ""
+
+#. STRINGS.SETITEMS.FACILITY_CHANDELIER.DESC
+msgctxt "STRINGS.SETITEMS.FACILITY_CHANDELIER.DESC"
+msgid "A light that is too big"
+msgstr ""
+
+#. STRINGS.SETITEMS.FACILITY_CHANDELIER.NAME
+msgctxt "STRINGS.SETITEMS.FACILITY_CHANDELIER.NAME"
+msgid "Chandelier"
+msgstr ""
+
+#. STRINGS.SETITEMS.FACILITY_COUCH.DESC
+msgctxt "STRINGS.SETITEMS.FACILITY_COUCH.DESC"
+msgid "A couch"
+msgstr ""
+
+#. STRINGS.SETITEMS.FACILITY_COUCH.NAME
+msgctxt "STRINGS.SETITEMS.FACILITY_COUCH.NAME"
+msgid "Couch"
+msgstr ""
+
+#. STRINGS.SETITEMS.FACILITY_DESK.DESC
+msgctxt "STRINGS.SETITEMS.FACILITY_DESK.DESC"
+msgid "A desk"
+msgstr ""
+
+#. STRINGS.SETITEMS.FACILITY_DESK.NAME
+#| msgctxt "STRINGS.UI.SCHEDULEBLOCKTYPES.RECREATION.NAME"
+#| msgid "Recreation"
+msgctxt "STRINGS.SETITEMS.FACILITY_DESK.NAME"
+msgid "Director's Desk"
+msgstr ""
+
+#. STRINGS.SETITEMS.FACILITY_DISPLAY.DESC
+msgctxt "STRINGS.SETITEMS.FACILITY_DISPLAY.DESC"
+msgid "An electronic display"
+msgstr ""
+
+#. STRINGS.SETITEMS.FACILITY_DISPLAY.NAME
+#| msgctxt "STRINGS.BUILDINGS.PREFABS.COOKINGSTATION.NAME"
+#| msgid "Electric Grill"
+msgctxt "STRINGS.SETITEMS.FACILITY_DISPLAY.NAME"
+msgid "Electronic Display"
+msgstr ""
+
+#. STRINGS.SETITEMS.FACILITY_GLOBE_DROORS.DESC
+#| msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGBAITDELIVERY.NAME"
+#| msgid "Awaiting Bait"
+msgctxt "STRINGS.SETITEMS.FACILITY_GLOBE_DROORS.DESC"
+msgid "A filing cabinet"
+msgstr ""
+
+#. STRINGS.SETITEMS.FACILITY_GLOBE_DROORS.NAME
+#| msgctxt "STRINGS.MISC.TAGS.MESSSTATION"
+#| msgid "Dining Table"
+msgctxt "STRINGS.SETITEMS.FACILITY_GLOBE_DROORS.NAME"
+msgid "Filing Cabinet"
+msgstr ""
+
+#. STRINGS.SETITEMS.FACILITY_LAMP.DESC
+msgctxt "STRINGS.SETITEMS.FACILITY_LAMP.DESC"
+msgid "A lamp"
+msgstr ""
+
+#. STRINGS.SETITEMS.FACILITY_LAMP.NAME
+#| msgctxt "STRINGS.BUILDINGS.PREFABS.FLOORLAMP.NAME"
+#| msgid "Lamp"
+msgctxt "STRINGS.SETITEMS.FACILITY_LAMP.NAME"
+msgid "Lamp"
+msgstr ""
+
+#. STRINGS.SETITEMS.FACILITY_TALLPLANT.DESC
+#| msgctxt "STRINGS.CODEX.WHEEZEWORT.SUBTITLE"
+#| msgid "Plant"
+msgctxt "STRINGS.SETITEMS.FACILITY_TALLPLANT.DESC"
+msgid "A plant"
+msgstr ""
+
+#. STRINGS.SETITEMS.FACILITY_TALLPLANT.NAME
+#| msgctxt "STRINGS.CODEX.WHEEZEWORT.SUBTITLE"
+#| msgid "Plant"
+msgctxt "STRINGS.SETITEMS.FACILITY_TALLPLANT.NAME"
+msgid "Plant"
+msgstr ""
 
 #. STRINGS.SETITEMS.GENESHUFFLER.DESC
 msgctxt "STRINGS.SETITEMS.GENESHUFFLER.DESC"
@@ -30185,6 +30138,29 @@ msgstr ""
 msgctxt "STRINGS.SETITEMS.WALL_CLOCK.NAME"
 msgid "Clock"
 msgstr "Годинник"
+
+#. STRINGS.SETITEMS.WALL_DEGREE.DESC
+msgctxt "STRINGS.SETITEMS.WALL_DEGREE.DESC"
+msgid "Someone is proud of this"
+msgstr ""
+
+#. STRINGS.SETITEMS.WALL_DEGREE.NAME
+msgctxt "STRINGS.SETITEMS.WALL_DEGREE.NAME"
+msgid "Fancy Degree"
+msgstr ""
+
+#. STRINGS.SETITEMS.WALL_PAINTING.DESC
+msgctxt "STRINGS.SETITEMS.WALL_PAINTING.DESC"
+msgid "A painting of an expensive thing which belongs to an expensive person"
+msgstr ""
+
+#. STRINGS.SETITEMS.WALL_PAINTING.NAME
+#, fuzzy
+#| msgctxt "STRINGS.UI.DEBUG_TOOLS.PAINT_ELEMENTS_SCREEN.PAINT"
+#| msgid "Paint"
+msgctxt "STRINGS.SETITEMS.WALL_PAINTING.NAME"
+msgid "Painting"
+msgstr "Малювати"
 
 #. STRINGS.UI.ACTIONS
 msgctxt "STRINGS.UI.ACTIONS"
@@ -33082,6 +33058,13 @@ msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.WATERMARK"
 msgid "DEVELOPMENT BUILD: {0}"
 msgstr "БІЛД В РОЗРОБЦІ: {0}"
 
+#. STRINGS.UI.DROPDOWN.NONE
+#| msgctxt "STRINGS.BUILDING.STATUSITEMS.UNASSIGNED.NAME"
+#| msgid "Unassigned"
+msgctxt "STRINGS.UI.DROPDOWN.NONE"
+msgid "Unassigned"
+msgstr ""
+
 #. STRINGS.UI.DUPLICANTPRINTING
 msgctxt "STRINGS.UI.DUPLICANTPRINTING"
 msgid "Duplicant Printing"
@@ -35840,8 +35823,8 @@ msgstr "<link=\"LOGIC\">Авто Входи</link>: {0}"
 
 #. STRINGS.UI.LOGIC_PORTS.OUTPUT_PORTS
 msgctxt "STRINGS.UI.LOGIC_PORTS.OUTPUT_PORTS"
-msgid "<link=\"LOGIC\">Auto Inputs</link>: {0}"
-msgstr "<link=\"LOGIC\">Авто Входи</link>: {0}"
+msgid "<link=\"LOGIC\">Auto Outputs</link>: {0}"
+msgstr "<link=\"LOGIC\">Авто Виходи</link>: {0}"
 
 #. STRINGS.UI.MESSAGES
 msgctxt "STRINGS.UI.MESSAGES"
@@ -41011,6 +40994,13 @@ msgid ""
 "Duplicants will immediately deliver and dock the nearest unequipped suit"
 msgstr "Дубліканти негайно доставлять найблищого, неоснащеного костюма в доки"
 
+#. STRINGS.UI.UISIDESCREENS.SUIT_SIDE_SCREEN.CONFIGURATION_REQUIRED
+#| msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDBORINGMACHINE.NAME"
+#| msgid "Multitool Required"
+msgctxt "STRINGS.UI.UISIDESCREENS.SUIT_SIDE_SCREEN.CONFIGURATION_REQUIRED"
+msgid "Configuration Required:"
+msgstr ""
+
 #. STRINGS.UI.UISIDESCREENS.SUIT_SIDE_SCREEN.TITLE
 msgctxt "STRINGS.UI.UISIDESCREENS.SUIT_SIDE_SCREEN.TITLE"
 msgid "Dock Inventory"
@@ -42285,6 +42275,12 @@ msgid ""
 "\n"
 "I'll need to help the Duplicants survive if we're going to find answers."
 msgstr ""
+"Я прокинувся в пастці, в середині астероїда з командою з трьох Дублікантів.\n"
+"\n"
+"Ресурсів недостатньо. Я не можу пригадати, як ми тут опинилися.\n"
+"\n"
+"Мені доведеться допомогти Дублікантам вціліти, якщо ми збираємося знайти "
+"відповіді."
 
 #. STRINGS.UI.WELCOMEMESSAGETITLE
 msgctxt "STRINGS.UI.WELCOMEMESSAGETITLE"
@@ -42791,6 +42787,180 @@ msgctxt "STRINGS.UI.WORLDGEN.WORLDLAYOUT9"
 msgid "Sprinkling sand..."
 msgstr "Посипання піску..."
 
+#~ msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATIONWALL.EFFECT"
+#~ msgid "Reduces <link=\"HEAT\">Heat</link> loss through colony walls."
+#~ msgstr "Зменшує втрати <link=\"HEAT\">Тепла</link> стінами колонії."
+
+#~ msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATIONWALL.NAME"
+#~ msgid "<link=\"INSULATIONWALL\">Insulation</link>"
+#~ msgstr "<link=\"INSULATIONWALL\">Тепло Ізоляція</link>"
+
+#~ msgctxt "STRINGS.CREATURES.DOMESTICATION.CRITERIA.ATMOSPHERE_OK.NAME"
+#~ msgid "Acceptable Atmosphere"
+#~ msgstr "Прийнятна атмосфера"
+
+#~ msgctxt "STRINGS.CREATURES.DOMESTICATION.CRITERIA.ATMOSPHERE_OK.TOOLTIP"
+#~ msgid "It's breathable."
+#~ msgstr "Він придатний для дихання"
+
+#~ msgctxt "STRINGS.CREATURES.DOMESTICATION.CRITERIA.HAS_FOOD_SOURCE.NAME"
+#~ msgid "Fed"
+#~ msgstr "Харчування"
+
+#~ msgctxt "STRINGS.CREATURES.DOMESTICATION.CRITERIA.HAS_FOOD_SOURCE.TOOLTIP"
+#~ msgid "Has enough food to eat."
+#~ msgstr "Має достатньо їжі для харчування."
+
+#~ msgctxt "STRINGS.CREATURES.DOMESTICATION.CRITERIA.IN_PEN.NAME"
+#~ msgid "Critter Pen"
+#~ msgstr "Тваринний загін"
+
+#~ msgctxt "STRINGS.CREATURES.DOMESTICATION.CRITERIA.IN_PEN.TOOLTIP"
+#~ msgid "Has a pen to live in."
+#~ msgstr "Загін для життя."
+
+#~ msgctxt "STRINGS.CREATURES.DOMESTICATION.CRITERIA.TEMPERATURE_OK.NAME"
+#~ msgid "Comfortable Temperature"
+#~ msgstr "Зручна температура"
+
+#~ msgctxt "STRINGS.CREATURES.DOMESTICATION.CRITERIA.TEMPERATURE_OK.TOOLTIP"
+#~ msgid "Not too hot, not too cold."
+#~ msgstr "Не дуже спекотно, не дуже прохолодно."
+
+#~ msgctxt "STRINGS.CREATURES.DOMESTICATION.CRITERIA.WELL_FED.NAME"
+#~ msgid "Well Fed"
+#~ msgstr "Добре поїв"
+
+#~ msgctxt "STRINGS.CREATURES.DOMESTICATION.CRITERIA.WELL_FED.TOOLTIP"
+#~ msgid "This critter has recently dined on its favorite food."
+#~ msgstr "Ця тварина недавно обідала її улюбленою їжею."
+
+#~ msgctxt "STRINGS.CREATURES.DOMESTICATION.CRITERIA.WELL_GROOMED.NAME"
+#~ msgid "Well Groomed"
+#~ msgstr "Добрий догляд"
+
+#~ msgctxt "STRINGS.CREATURES.DOMESTICATION.CRITERIA.WELL_GROOMED.TOOLTIP"
+#~ msgid "Getting plenty of personal attention from a Rancher."
+#~ msgstr "Отримав неабияку особисту увагу від Пастуха."
+
+#~ msgctxt "STRINGS.CREATURES.DOMESTICATION.EFFECTS.DESTRUCTIVE.NAME"
+#~ msgid "Destructive"
+#~ msgstr "Руйнівний"
+
+#~ msgctxt "STRINGS.CREATURES.DOMESTICATION.EFFECTS.DESTRUCTIVE.TOOLTIP"
+#~ msgid "Likely to mess up the place"
+#~ msgstr "Імовірно, влаштує безлад"
+
+#~ msgctxt "STRINGS.CREATURES.DOMESTICATION.EFFECTS.GAIN_FERTILITY.NAME"
+#~ msgid "Increased Reproduction"
+#~ msgstr "Підвищене розмноження"
+
+#~ msgctxt "STRINGS.CREATURES.DOMESTICATION.EFFECTS.GAIN_FERTILITY.TOOLTIP"
+#~ msgid "This critter will produce an egg soon if conditions remain favorable"
+#~ msgstr ""
+#~ "Ця тварина з часом відкладе яйце, якщо умови залишаться сприятливими"
+
+#~ msgctxt "STRINGS.CREATURES.DOMESTICATION.EFFECTS.GOOD_PRODUCTIVITY.NAME"
+#~ msgid "Good Productivity"
+#~ msgstr "Добра продуктивність"
+
+#~ msgctxt "STRINGS.CREATURES.DOMESTICATION.EFFECTS.GOOD_PRODUCTIVITY.TOOLTIP"
+#~ msgid "Producing at a normal level"
+#~ msgstr "Виробництво на звичайному рівні"
+
+#~ msgctxt ""
+#~ "STRINGS.CREATURES.DOMESTICATION.EFFECTS.INCREASED_CRITERIA_PENALTY.NAME"
+#~ msgid "Sensitive"
+#~ msgstr "Чутливість"
+
+#~ msgctxt ""
+#~ "STRINGS.CREATURES.DOMESTICATION.EFFECTS.INCREASED_CRITERIA_PENALTY.TOOLTIP"
+#~ msgid "Loses happiness faster than normal under poor conditions"
+#~ msgstr "Втрачає щастя швидше, в поганих пригнічених умовах, ніж звичайно"
+
+#~ msgctxt "STRINGS.CREATURES.DOMESTICATION.EFFECTS.LOSE_FERTILITY.NAME"
+#~ msgid "Decreased Reproduction"
+#~ msgstr "Зниження розмноження"
+
+#~ msgctxt "STRINGS.CREATURES.DOMESTICATION.EFFECTS.LOSE_FERTILITY.TOOLTIP"
+#~ msgid "This creature is holding off on laying eggs due to bad conditions"
+#~ msgstr "Ця тварина непоспішає з відкладанням яйець, через погані умови"
+
+#~ msgctxt "STRINGS.CREATURES.DOMESTICATION.EFFECTS.LOSE_HAPPINESS.NAME"
+#~ msgid "Downward Spiral"
+#~ msgstr "Спадна спіраль"
+
+#~ msgctxt "STRINGS.CREATURES.DOMESTICATION.EFFECTS.LOSE_HAPPINESS.TOOLTIP"
+#~ msgid "Losing happiness until conditions improve"
+#~ msgstr "Втрачає щастя, доки умови не покращаться"
+
+#~ msgctxt "STRINGS.CREATURES.DOMESTICATION.EFFECTS.LOW_PRODUCTIVITY.NAME"
+#~ msgid "Low Productivity"
+#~ msgstr "Низька продуктивність"
+
+#~ msgctxt "STRINGS.CREATURES.DOMESTICATION.EFFECTS.LOW_PRODUCTIVITY.TOOLTIP"
+#~ msgid "Producing at a reduced level"
+#~ msgstr "Виробництво на зниженому рівні"
+
+#~ msgctxt "STRINGS.CREATURES.DOMESTICATION.EFFECTS.UNPRODUCTIVE.NAME"
+#~ msgid "Unproductive"
+#~ msgstr "Непродуктивність"
+
+#~ msgctxt "STRINGS.CREATURES.DOMESTICATION.EFFECTS.UNPRODUCTIVE.TOOLTIP"
+#~ msgid ""
+#~ "Without improved conditions, this critter will not provide any useful "
+#~ "products"
+#~ msgstr ""
+#~ "З відсутністю покращених умов, ця тварина не бажає давати будь-які "
+#~ "корисні продукти"
+
+#~ msgctxt "STRINGS.CREATURES.DOMESTICATION.LEVELS.HAPPY.NAME"
+#~ msgid "Tame"
+#~ msgstr "Прирученість"
+
+#~ msgctxt "STRINGS.CREATURES.DOMESTICATION.LEVELS.HAPPY.TOOLTIP"
+#~ msgid ""
+#~ "This critter is well taken care of and fully trusts its Duplicant "
+#~ "caregivers"
+#~ msgstr ""
+#~ "Ця тварина отримує гарне піклування та повністю довіряє своїм Дублікантам "
+#~ "доглядачам"
+
+#~ msgctxt "STRINGS.CREATURES.DOMESTICATION.LEVELS.NEUTRAL.NAME"
+#~ msgid "Skittish"
+#~ msgstr "Упертість"
+
+#~ msgctxt "STRINGS.CREATURES.DOMESTICATION.LEVELS.NEUTRAL.TOOLTIP"
+#~ msgid ""
+#~ "This critter's most basic needs are being met, but it's still wary of "
+#~ "Duplicants"
+#~ msgstr ""
+#~ "Більшість основних вимог цих тварин були виконані, але вони однак "
+#~ "насторожено відносяться до Дублікантів"
+
+#~ msgctxt "STRINGS.CREATURES.DOMESTICATION.LEVELS.SPOILED.NAME"
+#~ msgid "Affectionate"
+#~ msgstr "Лагідність"
+
+#~ msgctxt "STRINGS.CREATURES.DOMESTICATION.LEVELS.SPOILED.TOOLTIP"
+#~ msgid ""
+#~ "This critter loves its Duplicant caregivers and is spoiled absolutely "
+#~ "rotten"
+#~ msgstr ""
+#~ "Ця тварина любить свого Дубліканта, доглядача та розбещена саме зіпсованим"
+
+#~ msgctxt "STRINGS.CREATURES.DOMESTICATION.LEVELS.UNHAPPY.NAME"
+#~ msgid "Wild"
+#~ msgstr "Дикий"
+
+#~ msgctxt "STRINGS.CREATURES.DOMESTICATION.LEVELS.UNHAPPY.TOOLTIP"
+#~ msgid "This critter is fending for itself and does not trust Duplicants"
+#~ msgstr "Ця тварина піклується про себе сама та не довіряє Дублікантам"
+
+#~ msgctxt "STRINGS.MISC.TAGS.MARKEDFORCOMPOST"
+#~ msgid "Compost Edibles"
+#~ msgstr "Компостний Їстівний"
+
 #~ msgctxt "STRINGS.BUILDING.STATUSITEMS.NEWDUPLICANTSAVAILABLE.TOOLTIP"
 #~ msgid "A new colony member is ready to be printed"
 #~ msgstr "Новий член колонії готовий до друку"
@@ -43060,10 +43230,6 @@ msgstr "Посипання піску..."
 #~ msgid "Compost"
 #~ msgstr "Компост"
 
-#~ msgctxt "STRINGS.BUILDINGS.PREFABS.COOKINGSTATION.NAME"
-#~ msgid "Electric Grill"
-#~ msgstr "Електричний Гриль"
-
 #~ msgctxt "STRINGS.BUILDINGS.PREFABS.DININGTABLE.NAME"
 #~ msgid "Mess Table"
 #~ msgstr "Стіл Їдальні"
@@ -43087,10 +43253,6 @@ msgstr "Посипання піску..."
 #~ msgctxt "STRINGS.BUILDINGS.PREFABS.FIREPOLE.NAME"
 #~ msgid "Fire Pole"
 #~ msgstr "Пожежний стовп"
-
-#~ msgctxt "STRINGS.BUILDINGS.PREFABS.FLOORLAMP.NAME"
-#~ msgid "Lamp"
-#~ msgstr "Лампа"
 
 #~ msgctxt "STRINGS.BUILDINGS.PREFABS.FLOORSWITCH.NAME"
 #~ msgid "Weight Plate"
@@ -43959,10 +44121,6 @@ msgstr "Посипання піску..."
 #~ msgctxt "STRINGS.ELEMENTS.MOLTENIRON.NAME"
 #~ msgid "Iron"
 #~ msgstr "Залізо"
-
-#~ msgctxt "STRINGS.ELEMENTS.MOLTENSTEEL.NAME"
-#~ msgid "Steel"
-#~ msgstr "Сталь"
 
 #~ msgctxt "STRINGS.ELEMENTS.MOLTENTUNGSTEN.NAME"
 #~ msgid "Tungsten"
