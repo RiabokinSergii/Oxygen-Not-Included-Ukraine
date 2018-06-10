@@ -12,7 +12,7 @@ msgstr ""
 "Application: Oxygen Not IncludedPOT Version: 2.0Language: ua\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Poedit 2.0.8\n"
+"X-Generator: Poedit 2.0.1\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
 #. STRINGS.BUILDING.DETAILS.USE_COUNT
@@ -584,12 +584,9 @@ msgid ""
 msgstr ""
 
 #. STRINGS.BUILDING.STATUSITEMS.DETECTORSCANNING.NAME
-#, fuzzy
-#| msgctxt "STRINGS.BUILDING.STATUSITEMS.TURBINE_SPINNING_UP.NAME"
-#| msgid "Spinning Up"
 msgctxt "STRINGS.BUILDING.STATUSITEMS.DETECTORSCANNING.NAME"
 msgid "Scanning"
-msgstr "Обертається"
+msgstr "Сканування"
 
 #. STRINGS.BUILDING.STATUSITEMS.DETECTORSCANNING.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.DETECTORSCANNING.TOOLTIP"
@@ -13283,7 +13280,7 @@ msgstr "Цей Дублікант будує нову будівлю"
 #. STRINGS.DUPLICANTS.CHORES.BUILDDIG.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.BUILDDIG.NAME"
 msgid "Construction Dig"
-msgstr "Копання для будівництва"
+msgstr "Конання для будівництва"
 
 #. STRINGS.DUPLICANTS.CHORES.BUILDDIG.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.BUILDDIG.STATUS"
@@ -37466,7 +37463,7 @@ msgstr "ОВЕРЛЕЇ"
 #. STRINGS.UI.PICKEDUP
 msgctxt "STRINGS.UI.PICKEDUP"
 msgid "Picked Up: {0} {1}"
-msgstr "Піднято: {0} {1}"
+msgstr "Піднали: {0} {1}"
 
 #. STRINGS.UI.PLACEINRECEPTACLE
 msgctxt "STRINGS.UI.PLACEINRECEPTACLE"
@@ -37929,7 +37926,7 @@ msgstr "Величний Декор"
 msgctxt ""
 "STRINGS.UI.ROLES_SCREEN.EXPECTATIONS.FOOD_QUALITY.EXCEPTIONAL.DESCRIPTION"
 msgid "Duplicants employed in this Tier expect only the best cuisine"
-msgstr "Дубліканти задіяні на цьому Рівні, чекають тільки кращих страв"
+msgstr "Дубліканти задіяні на цьому Рівні, чикають тільки кращих страв"
 
 #. STRINGS.UI.ROLES_SCREEN.EXPECTATIONS.FOOD_QUALITY.EXCEPTIONAL.NAME
 msgctxt "STRINGS.UI.ROLES_SCREEN.EXPECTATIONS.FOOD_QUALITY.EXCEPTIONAL.NAME"
