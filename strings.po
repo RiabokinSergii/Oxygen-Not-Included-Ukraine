@@ -2863,17 +2863,19 @@ msgid ""
 "<link=\"HEAT\">Heat</link> in its immediate vicinity."
 msgstr ""
 "Охолоджує <link=\"ELEMENTSGAS\">Гази</link>, які проходять по трубах, але "
-"виділяє <link=\"HEAT\">Тепло</link> у безпосередній близькості від нього."
+"виділяє <link=\"HEAT\">Тепло</link> у безпосередній близькості від себе."
 
 #. STRINGS.BUILDINGS.PREFABS.AIRCONDITIONER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.AIRCONDITIONER.NAME"
 msgid "<link=\"AIRCONDITIONER\">Thermo Regulator</link>"
 msgstr "<link=\"AIRCONDITIONER\">Газовий Регулятор</link>"
 
+# Ех! чи Ооо!
 #. STRINGS.BUILDINGS.PREFABS.AIRFILTER.DESC
+#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.AIRFILTER.DESC"
 msgid "Oh! Citrus scented!"
-msgstr ""
+msgstr "Ех! Цитрусовий аромат!"
 
 #. STRINGS.BUILDINGS.PREFABS.AIRFILTER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.AIRFILTER.EFFECT"
@@ -2912,11 +2914,15 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.ALGAEDISTILLERY.NAME"
 msgid "<link=\"ALGAEDISTILLERY\">Algae Distiller</link>"
 msgstr "<link=\"ALGAEDISTILLERY\">Опріснювач Водоростів</link>"
 
+# перевірити переклад, чи доречний
 #. STRINGS.BUILDINGS.PREFABS.ALGAEHABITAT.DESC
+#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.ALGAEHABITAT.DESC"
 msgid ""
 "Algae colony, Duplicant colony... we're more alike than we are different."
 msgstr ""
+"Колонія водоростей, колонія Дублікантів... в нас більше спільного, ніж "
+"відмінного."
 
 #. STRINGS.BUILDINGS.PREFABS.ALGAEHABITAT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.ALGAEHABITAT.EFFECT"
@@ -3338,12 +3344,12 @@ msgstr "<link=\"CO2SCRUBBER\">Вуглецевий Сепаратор</link>"
 #. STRINGS.BUILDINGS.PREFABS.COMETDETECTOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.COMETDETECTOR.DESC"
 msgid "Scans the sky to predict incoming meteor showers."
-msgstr ""
+msgstr "Сканує небо, для передбачення метеоритних злив."
 
 #. STRINGS.BUILDINGS.PREFABS.COMETDETECTOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.COMETDETECTOR.EFFECT"
 msgid "Produces a logic signal before a meteor shower begins."
-msgstr ""
+msgstr "Генерує логічний сигнал перед початком метеоритної зливи."
 
 #. STRINGS.BUILDINGS.PREFABS.COMETDETECTOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.COMETDETECTOR.NAME"
@@ -3360,7 +3366,6 @@ msgstr ""
 "удобрювати домашні рослини."
 
 #. STRINGS.BUILDINGS.PREFABS.COMPOST.EFFECT
-#, fuzzy
 #| msgctxt "STRINGS.BUILDINGS.PREFABS.COMPOST.EFFECT"
 #| msgid ""
 #| "<link=\"TOXICSAND\">Polluted Dirt</link> down into <link=\"FERTILIZER"
@@ -3370,8 +3375,8 @@ msgid ""
 "Reduces <link=\"TOXICSAND\">Polluted Dirt</link> and other compostables down "
 "into <link=\"DIRT\">Dirt</link>."
 msgstr ""
-"<link=\"TOXICSAND\">Забруднену Землю</link> в <link=\"FERTILIZER\">Добрива</"
-"link>."
+"Знижує <link=\"TOXICSAND\">Забрудненість Землі</link> та інші компостування "
+"в <link=\"DIRT\">Землю</link>."
 
 #. STRINGS.BUILDINGS.PREFABS.COMPOST.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.COMPOST.NAME"
@@ -3629,7 +3634,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.DOOR.LEFT
 msgctxt "STRINGS.BUILDINGS.PREFABS.DOOR.LEFT"
 msgid "on left"
-msgstr "На ліво"
+msgstr "на ліво"
 
 #. STRINGS.BUILDINGS.PREFABS.DOOR.LOGIC_PORT_DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.DOOR.LOGIC_PORT_DESC"
@@ -3654,22 +3659,24 @@ msgstr "Атмосферний Костюм, потрібен {0}"
 #. STRINGS.BUILDINGS.PREFABS.DOOR.RIGHT
 msgctxt "STRINGS.BUILDINGS.PREFABS.DOOR.RIGHT"
 msgid "on right"
-msgstr "На право"
+msgstr "на право"
 
 #. STRINGS.BUILDINGS.PREFABS.EGGCRACKER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.EGGCRACKER.DESC"
 msgid "It's little-endian."
-msgstr ""
+msgstr "Розбиває яйця з гострого кінця."
 
 #. STRINGS.BUILDINGS.PREFABS.EGGCRACKER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.EGGCRACKER.EFFECT"
 msgid "Cracks open a critter egg for use as a cooking ingredient."
 msgstr ""
+"Розколювачі відкривають яйця тварин для використання їх, як інгредієнти в "
+"кулінарії."
 
 #. STRINGS.BUILDINGS.PREFABS.EGGCRACKER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.EGGCRACKER.NAME"
 msgid "<link=\"EGGCRACKER\">Egg Cracker</link>"
-msgstr "<link=\"EGGCRACKER\">Яйце Дробарка</link>"
+msgstr "<link=\"EGGCRACKER\">Розколювач Яєць</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EGGCRACKER.RECIPE_DESCRIPTION
 #, fuzzy
@@ -3718,10 +3725,14 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.EGGINCUBATOR.NAME"
 msgid "<link=\"EGGINCUBATOR\">Incubator</link>"
 msgstr "<link=\"EGGINCUBATOR\">Інкубатор</link>"
 
+# Думаю, реданування не потрібне)
 #. STRINGS.BUILDINGS.PREFABS.ELECTROLYZER.DESC
+#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.ELECTROLYZER.DESC"
 msgid "Water goes in one end, life sustaining oxygen comes out the other."
 msgstr ""
+"Вода заходить в один кінець, а кисень, який підтримує життя виходить з "
+"іншого."
 
 #. STRINGS.BUILDINGS.PREFABS.ELECTROLYZER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.ELECTROLYZER.EFFECT"
@@ -3836,7 +3847,7 @@ msgstr ""
 #, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.FARMTILE.NAME"
 msgid "<link=\"FARMTILE\">Farm Tile</link>"
-msgstr "<link=\"FARMTILE\">Кахель Ферми</link>"
+msgstr "<link=\"FARMTILE\">Ферма</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.FERTILIZERMAKER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.FERTILIZERMAKER.DESC"
@@ -5926,6 +5937,8 @@ msgid ""
 "Watching duplicants run on it is adorable... the electrical power is just an "
 "added bonus."
 msgstr ""
+"Дивитись, як Дубліканти біжать - це чудово... Електрична енергія - це лише "
+"додатковий бонус"
 
 #. STRINGS.BUILDINGS.PREFABS.MANUALGENERATOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.MANUALGENERATOR.EFFECT"
@@ -6313,7 +6326,7 @@ msgstr "<link=\"ORESCRUBBER\">Скрубер Руди</link>"
 #. STRINGS.BUILDINGS.PREFABS.OUTHOUSE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.OUTHOUSE.DESC"
 msgid "They colony that eats together, excretes together."
-msgstr ""
+msgstr "Вони - це колонія, яка їсть поряд, спорожняється поряд."
 
 #. STRINGS.BUILDINGS.PREFABS.OUTHOUSE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.OUTHOUSE.EFFECT"
@@ -6324,7 +6337,7 @@ msgid ""
 "\n"
 "Must be periodically emptied of <link=\"TOXICSAND\">Polluted Dirt</link>."
 msgstr ""
-"Надає Дублікантам місце для випорожнення.\n"
+"Надає Дублікантам місце для спородження.\n"
 "\n"
 "Не потребує <link=\"GASPIPING\">Відкачування</link>.\n"
 "\n"
@@ -6810,7 +6823,7 @@ msgstr "\"Абстрактна\" Скульптура"
 #. STRINGS.BUILDINGS.PREFABS.SHEARINGSTATION.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SHEARINGSTATION.DESC"
 msgid "Shearing stations are used to shear Dreckos."
-msgstr "Станція Стрижки використовується для стрижки Дрекко."
+msgstr "Перукарська Станція використовується для стрижки Дрекко."
 
 #. STRINGS.BUILDINGS.PREFABS.SHEARINGSTATION.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SHEARINGSTATION.EFFECT"
@@ -6820,7 +6833,7 @@ msgstr "Ножиці дрекко."
 #. STRINGS.BUILDINGS.PREFABS.SHEARINGSTATION.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SHEARINGSTATION.NAME"
 msgid "<link=\"SHEARINGSTATION\">Shearing Station</link>"
-msgstr "<link=\"FARMSTATION\">Станція Стрижки</link>"
+msgstr "<link=\"FARMSTATION\">Перукарська Станція</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.SHOWER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SHOWER.DESC"
@@ -23895,12 +23908,9 @@ msgid ""
 msgstr ""
 
 #. STRINGS.ITEMS.FOOD.RAWEGG.NAME
-#, fuzzy
-#| msgctxt "STRINGS.CREATURES.SPECIES.PACU.EGG_NAME"
-#| msgid "<link=\"PACUEGG\">Pacu Egg</link>"
 msgctxt "STRINGS.ITEMS.FOOD.RAWEGG.NAME"
 msgid "<link=\"RAWEGG\">Raw Egg</link>"
-msgstr "<link=\"PACUEGG\">Яйце Паку</link>"
+msgstr "<link=\"PACUEGG\">Сире Яйце</link>"
 
 #. STRINGS.ITEMS.FOOD.RAWEGG.RECIPEDESC
 msgctxt "STRINGS.ITEMS.FOOD.RAWEGG.RECIPEDESC"
@@ -24737,19 +24747,6 @@ msgid ""
 msgstr ""
 
 #. STRINGS.MISC.NOTIFICATIONS.DISEASE_COOKING.MESSAGEBODY
-#, fuzzy
-#| msgctxt "STRINGS.MISC.NOTIFICATIONS.DISEASE_COOKING.MESSAGEBODY"
-#| msgid ""
-#| "The <link=\"FOOD\">Food</link> your Duplicants cook will only ever be as "
-#| "clean as the ingredients used to make it. Storing food in sterile or "
-#| "<link=\"REFRIGERATOR\">Refrigerated</link> environments will keep food "
-#| "free of <link=\"DISEASE\">Germs</link>, while carefully placed hygiene "
-#| "stations like <link=\"WASHBASIN\">Wash Basin</link> or <link=\"SHOWER"
-#| "\">Shower</link> will prevent your cooks from infecting the food by "
-#| "handling it.\n"
-#| "\n"
-#| "Dangerously contaminated food can be sent to compost by clicking the "
-#| "<link=\"MISC\">Compost</link> button on the selected item."
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DISEASE_COOKING.MESSAGEBODY"
 msgid ""
 "The <link=\"FOOD\">Food</link> my Duplicants cook will only ever be as clean "
@@ -24767,8 +24764,8 @@ msgstr ""
 "Зберігання їжі в стерильному середовищі чи <link=\"REFRIGERATOR"
 "\">Холодильнику</link>, буде тримати їжу вільною від <link=\"DISEASE"
 "\">Бактерій</link>, а коректно розміщені станції гігієни, такі як <link="
-"\"WASHBASIN\">Умивальник</link> чи <link=\"SHOWER\">Душ</link> перешкоджають "
-"вашим кухарям інфікувати їжу, обробляючи їх.\n"
+"\"WASHBASIN\">Умивальник</link> чи <link=\"SHOWER\">Душ</link> "
+"перешкоджатимуть вашим кухарям інфікувати їжу, обробляючи їх.\n"
 "\n"
 "Небезпечно забруднена їжа, може бути надіслана до компостування, натиснувши "
 "на кнопку <link=\"MISC\">Компостувати</link> в обраному предметі."
@@ -29894,12 +29891,12 @@ msgstr "Стіл"
 #. STRINGS.SETITEMS.CHAIR.DESC
 msgctxt "STRINGS.SETITEMS.CHAIR.DESC"
 msgid "A chair"
-msgstr ""
+msgstr "Крісло"
 
 #. STRINGS.SETITEMS.CHAIR.NAME
 msgctxt "STRINGS.SETITEMS.CHAIR.NAME"
 msgid "Chair"
-msgstr ""
+msgstr "Крісло"
 
 #. STRINGS.SETITEMS.DESK.DESC
 msgctxt "STRINGS.SETITEMS.DESK.DESC"
@@ -29918,110 +29915,111 @@ msgstr "Робочий стіл"
 #. STRINGS.SETITEMS.ELEVATOR.DESC
 msgctxt "STRINGS.SETITEMS.ELEVATOR.DESC"
 msgid "An elevator"
-msgstr ""
+msgstr "Звичайний Ліфт"
 
 #. STRINGS.SETITEMS.ELEVATOR.NAME
 #| msgctxt "STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.NAME"
 #| msgid "Lavatory"
 msgctxt "STRINGS.SETITEMS.ELEVATOR.NAME"
 msgid "Elevator"
-msgstr ""
+msgstr "Ліфт"
 
 #. STRINGS.SETITEMS.FACILITY_CENTERPEICE.DESC
 msgctxt "STRINGS.SETITEMS.FACILITY_CENTERPEICE.DESC"
 msgid "A big statue"
-msgstr ""
+msgstr "Велика статуя"
 
 #. STRINGS.SETITEMS.FACILITY_CENTERPEICE.NAME
 #| msgctxt "STRINGS.UI.DETAILTABS.SIMPLEINFO.NAME"
 #| msgid "Status"
 msgctxt "STRINGS.SETITEMS.FACILITY_CENTERPEICE.NAME"
 msgid "Statue"
-msgstr ""
+msgstr "Статуя"
 
 #. STRINGS.SETITEMS.FACILITY_CHANDELIER.DESC
 msgctxt "STRINGS.SETITEMS.FACILITY_CHANDELIER.DESC"
 msgid "A light that is too big"
-msgstr ""
+msgstr "Занадто яскраве світло"
 
 #. STRINGS.SETITEMS.FACILITY_CHANDELIER.NAME
 msgctxt "STRINGS.SETITEMS.FACILITY_CHANDELIER.NAME"
 msgid "Chandelier"
-msgstr ""
+msgstr "Канделябр"
 
 #. STRINGS.SETITEMS.FACILITY_COUCH.DESC
 msgctxt "STRINGS.SETITEMS.FACILITY_COUCH.DESC"
 msgid "A couch"
-msgstr ""
+msgstr "Диван"
 
 #. STRINGS.SETITEMS.FACILITY_COUCH.NAME
 msgctxt "STRINGS.SETITEMS.FACILITY_COUCH.NAME"
 msgid "Couch"
-msgstr ""
+msgstr "Диван"
 
 #. STRINGS.SETITEMS.FACILITY_DESK.DESC
 msgctxt "STRINGS.SETITEMS.FACILITY_DESK.DESC"
 msgid "A desk"
-msgstr ""
+msgstr "Робочий стіл"
 
 #. STRINGS.SETITEMS.FACILITY_DESK.NAME
 #| msgctxt "STRINGS.UI.SCHEDULEBLOCKTYPES.RECREATION.NAME"
 #| msgid "Recreation"
 msgctxt "STRINGS.SETITEMS.FACILITY_DESK.NAME"
 msgid "Director's Desk"
-msgstr ""
+msgstr "Стіл Директора"
 
 #. STRINGS.SETITEMS.FACILITY_DISPLAY.DESC
 msgctxt "STRINGS.SETITEMS.FACILITY_DISPLAY.DESC"
 msgid "An electronic display"
-msgstr ""
+msgstr "Звичайний електронний екран"
 
 #. STRINGS.SETITEMS.FACILITY_DISPLAY.NAME
 #| msgctxt "STRINGS.BUILDINGS.PREFABS.COOKINGSTATION.NAME"
 #| msgid "Electric Grill"
 msgctxt "STRINGS.SETITEMS.FACILITY_DISPLAY.NAME"
 msgid "Electronic Display"
-msgstr ""
+msgstr "Електронний Екран"
 
 #. STRINGS.SETITEMS.FACILITY_GLOBE_DROORS.DESC
 #| msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGBAITDELIVERY.NAME"
 #| msgid "Awaiting Bait"
 msgctxt "STRINGS.SETITEMS.FACILITY_GLOBE_DROORS.DESC"
 msgid "A filing cabinet"
-msgstr ""
+msgstr "Офісна Шафа"
 
 #. STRINGS.SETITEMS.FACILITY_GLOBE_DROORS.NAME
 #| msgctxt "STRINGS.MISC.TAGS.MESSSTATION"
 #| msgid "Dining Table"
 msgctxt "STRINGS.SETITEMS.FACILITY_GLOBE_DROORS.NAME"
 msgid "Filing Cabinet"
-msgstr ""
+msgstr "Офісна Шафа"
 
 #. STRINGS.SETITEMS.FACILITY_LAMP.DESC
 msgctxt "STRINGS.SETITEMS.FACILITY_LAMP.DESC"
 msgid "A lamp"
-msgstr ""
+msgstr "Ліхтар"
 
 #. STRINGS.SETITEMS.FACILITY_LAMP.NAME
 #| msgctxt "STRINGS.BUILDINGS.PREFABS.FLOORLAMP.NAME"
 #| msgid "Lamp"
 msgctxt "STRINGS.SETITEMS.FACILITY_LAMP.NAME"
 msgid "Lamp"
-msgstr ""
+msgstr "Ліхтар"
 
 #. STRINGS.SETITEMS.FACILITY_TALLPLANT.DESC
+#, fuzzy
 #| msgctxt "STRINGS.CODEX.WHEEZEWORT.SUBTITLE"
 #| msgid "Plant"
 msgctxt "STRINGS.SETITEMS.FACILITY_TALLPLANT.DESC"
 msgid "A plant"
-msgstr ""
+msgstr "Рослина в горщику"
 
 #. STRINGS.SETITEMS.FACILITY_TALLPLANT.NAME
 #| msgctxt "STRINGS.CODEX.WHEEZEWORT.SUBTITLE"
 #| msgid "Plant"
 msgctxt "STRINGS.SETITEMS.FACILITY_TALLPLANT.NAME"
 msgid "Plant"
-msgstr ""
+msgstr "Рослина"
 
 #. STRINGS.SETITEMS.GENESHUFFLER.DESC
 msgctxt "STRINGS.SETITEMS.GENESHUFFLER.DESC"
@@ -30142,25 +30140,22 @@ msgstr "Годинник"
 #. STRINGS.SETITEMS.WALL_DEGREE.DESC
 msgctxt "STRINGS.SETITEMS.WALL_DEGREE.DESC"
 msgid "Someone is proud of this"
-msgstr ""
+msgstr "Хтось пишається цим"
 
 #. STRINGS.SETITEMS.WALL_DEGREE.NAME
 msgctxt "STRINGS.SETITEMS.WALL_DEGREE.NAME"
 msgid "Fancy Degree"
-msgstr ""
+msgstr "Уявний Ступінь"
 
 #. STRINGS.SETITEMS.WALL_PAINTING.DESC
 msgctxt "STRINGS.SETITEMS.WALL_PAINTING.DESC"
 msgid "A painting of an expensive thing which belongs to an expensive person"
-msgstr ""
+msgstr "Малюнок коштовної речі, яка є власністю багатої особи"
 
 #. STRINGS.SETITEMS.WALL_PAINTING.NAME
-#, fuzzy
-#| msgctxt "STRINGS.UI.DEBUG_TOOLS.PAINT_ELEMENTS_SCREEN.PAINT"
-#| msgid "Paint"
 msgctxt "STRINGS.SETITEMS.WALL_PAINTING.NAME"
 msgid "Painting"
-msgstr "Малювати"
+msgstr "Живопис"
 
 #. STRINGS.UI.ACTIONS
 msgctxt "STRINGS.UI.ACTIONS"
@@ -30213,12 +30208,9 @@ msgid "<link=\"BUILDCATEGORYAUTOMATION\">Automation</link>"
 msgstr "<link=\"BUILDCATEGORYAUTOMATION\">Авто</link>"
 
 #. STRINGS.UI.BUILDCATEGORIES.AUTOMATION.TOOLTIP
-#, fuzzy
-#| msgctxt "STRINGS.UI.BUILDCATEGORIES.AUTOMATION.TOOLTIP"
-#| msgid "Automate your base with logic circuits and sensors."
 msgctxt "STRINGS.UI.BUILDCATEGORIES.AUTOMATION.TOOLTIP"
 msgid "Automate my base with logic circuits and sensors."
-msgstr "Автоматизуйте вашу базу з логічними схемами та датчиками."
+msgstr "Автоматизація моєї бази з логічними схемами та сенсорами."
 
 #. STRINGS.UI.BUILDCATEGORIES.BASE.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.BASE.NAME"
@@ -30226,14 +30218,9 @@ msgid "<link=\"BUILDCATEGORYBASE\">Base</link>"
 msgstr "<link=\"BUILDCATEGORYBASE\">Основа</link>"
 
 #. STRINGS.UI.BUILDCATEGORIES.BASE.TOOLTIP
-#, fuzzy
-#| msgctxt "STRINGS.UI.BUILDCATEGORIES.BASE.TOOLTIP"
-#| msgid "Maintain your colony's infrastructure with these homebase basics."
 msgctxt "STRINGS.UI.BUILDCATEGORIES.BASE.TOOLTIP"
 msgid "Maintain the colony's infrastructure with these homebase basics."
-msgstr ""
-"Підтримуйте інфраструктуру своєї колонії з цими основними базовими "
-"принципами."
+msgstr "Підтримуйте інфраструктуру колонії з цими основними принципами."
 
 #. STRINGS.UI.BUILDCATEGORIES.CONVEYANCE.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.CONVEYANCE.NAME"
@@ -30241,12 +30228,9 @@ msgid "<link=\"BUILDCATEGORYCONVEYANCE\">Shipping</link>"
 msgstr "<link=\"BUILDCATEGORYCONVEYANCE\">Доставка</link>"
 
 #. STRINGS.UI.BUILDCATEGORIES.CONVEYANCE.TOOLTIP
-#, fuzzy
-#| msgctxt "STRINGS.UI.BUILDCATEGORIES.CONVEYANCE.TOOLTIP"
-#| msgid "Effortlessly transport ore and solid materials around your base."
 msgctxt "STRINGS.UI.BUILDCATEGORIES.CONVEYANCE.TOOLTIP"
 msgid "Effortlessly transport ore and solid materials around my base."
-msgstr "З легкістю транспортуйте руду та тверді матеріали навколо вашої бази."
+msgstr "Навколо моєї бази легко перевозити руду та тверді матеріали."
 
 #. STRINGS.UI.BUILDCATEGORIES.EQUIPMENT.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.EQUIPMENT.NAME"
@@ -30256,7 +30240,7 @@ msgstr "<link=\"BUILDCATEGORYEQUIPMENT\">Станції</link>"
 #. STRINGS.UI.BUILDCATEGORIES.EQUIPMENT.TOOLTIP
 msgctxt "STRINGS.UI.BUILDCATEGORIES.EQUIPMENT.TOOLTIP"
 msgid "Unlock new technologies through the power of science!"
-msgstr "Розблокуйте пові технології, завдяки силі науки!"
+msgstr "Розблокуйте нові технології, завдяки силі науки!"
 
 #. STRINGS.UI.BUILDCATEGORIES.FOOD.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.FOOD.NAME"
@@ -30264,12 +30248,9 @@ msgid "<link=\"BUILDCATEGORYFOOD\">Food</link>"
 msgstr "<link=\"BUILDCATEGORYFOOD\">Їжа</link>"
 
 #. STRINGS.UI.BUILDCATEGORIES.FOOD.TOOLTIP
-#, fuzzy
-#| msgctxt "STRINGS.UI.BUILDCATEGORIES.FOOD.TOOLTIP"
-#| msgid "Keep your Duplicants' spirits high and their bellies full."
 msgctxt "STRINGS.UI.BUILDCATEGORIES.FOOD.TOOLTIP"
 msgid "Keep my Duplicants' spirits high and their bellies full."
-msgstr "Тримайте вашим Дублікантам настрій високим, а животи повними."
+msgstr "Тримайте своїх Дублікантів високим духом, а животи повними."
 
 #. STRINGS.UI.BUILDCATEGORIES.FURNITURE.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.FURNITURE.NAME"
@@ -30277,12 +30258,10 @@ msgid "<link=\"BUILDCATEGORYFURNITURE\">Furniture</link>"
 msgstr "<link=\"BUILDCATEGORYFURNITURE\">Меблі</link>"
 
 #. STRINGS.UI.BUILDCATEGORIES.FURNITURE.TOOLTIP
-#, fuzzy
-#| msgctxt "STRINGS.UI.BUILDCATEGORIES.FURNITURE.TOOLTIP"
-#| msgid "Amenities to keep your Duplicants happy, comfy and efficient."
 msgctxt "STRINGS.UI.BUILDCATEGORIES.FURNITURE.TOOLTIP"
 msgid "Amenities to keep my Duplicants happy, comfy and efficient."
-msgstr "Принади вашим Дублікантам, щоб бути ефективними, щасливими в комфорті."
+msgstr ""
+"Зручності, щоб мої Дубліканти були щасливими, в комфорті та дієздатними."
 
 #. STRINGS.UI.BUILDCATEGORIES.HVAC.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.HVAC.NAME"
@@ -30290,12 +30269,9 @@ msgid "<link=\"BUILDCATEGORYHVAC\">Ventilation</link>"
 msgstr "<link=\"BUILDCATEGORYHVAC\">Гази</link>"
 
 #. STRINGS.UI.BUILDCATEGORIES.HVAC.TOOLTIP
-#, fuzzy
-#| msgctxt "STRINGS.UI.BUILDCATEGORIES.HVAC.TOOLTIP"
-#| msgid "Control the flow of gas in your base."
 msgctxt "STRINGS.UI.BUILDCATEGORIES.HVAC.TOOLTIP"
 msgid "Control the flow of gas in the base."
-msgstr "Контролюйте потік газів у вашій базі."
+msgstr "Контролюйте потік газів у базі."
 
 #. STRINGS.UI.BUILDCATEGORIES.MEDICAL.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.MEDICAL.NAME"
@@ -30315,7 +30291,7 @@ msgstr "<link=\"BUILDCATEGORYMISC\">Декор</link>"
 #. STRINGS.UI.BUILDCATEGORIES.MISC.TOOLTIP
 msgctxt "STRINGS.UI.BUILDCATEGORIES.MISC.TOOLTIP"
 msgid "Spruce up my colony with some lovely interior decorating."
-msgstr ""
+msgstr "Прикрасіть мою колонію якимось приємними декораціями."
 
 #. STRINGS.UI.BUILDCATEGORIES.OXYGEN.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.OXYGEN.NAME"
