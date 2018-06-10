@@ -12,7 +12,7 @@ msgstr ""
 "Application: Oxygen Not IncludedPOT Version: 2.0Language: ua\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Poedit 2.0.1\n"
+"X-Generator: Poedit 2.0.8\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
 #. STRINGS.BUILDING.DETAILS.USE_COUNT
@@ -582,6 +582,11 @@ msgid ""
 "    • Interference from nearby heavy machinery\n"
 "    • Rock or tiles obstructing a wide view of the sky"
 msgstr ""
+"Тарілка цього детектора сканує з ефективністю {Quality}.\n"
+"\n"
+"Низька ефективність може бути пов'язана із:\n"
+"    • впливом важких механізмів поблизу\n"
+"    • камінням, або блоками, які перешкоджають вільному огляду неба"
 
 #. STRINGS.BUILDING.STATUSITEMS.DETECTORSCANNING.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.DETECTORSCANNING.NAME"
@@ -1337,9 +1342,9 @@ msgid ""
 "Tiles can be found in the <color=#833A5FFF>Base Tab</color> "
 "<color=#F44A47>[1]</color> of the Build Menu"
 msgstr ""
-"Побудуйте Кахель під цією будівлею\n"
+"Побудуйте Блок під цією будівлею\n"
 "------------------\n"
-"Кахель можна знайти в <color=#833A5FFF>Вкладка Основа</color> "
+"Блок можна знайти в <color=#833A5FFF>Вкладці Основа</color> "
 "<color=#F44A47>[1]</color> в Меню Будівництва"
 
 #. STRINGS.BUILDING.STATUSITEMS.MOPUNREACHABLE.NAME
@@ -1810,7 +1815,7 @@ msgid ""
 "within two tiles"
 msgstr ""
 "Дубліканти можуть вийти з труби лише тоді, коли десь для них є приземлення в "
-"межах двох плиток"
+"межах двох блоків"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOWIRECONNECTED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOWIRECONNECTED.NAME"
@@ -2338,7 +2343,7 @@ msgstr "Недосяжні убиральні"
 #. STRINGS.BUILDING.STATUSITEMS.TOILETS_OUTSIDE_RANGE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TOILETS_OUTSIDE_RANGE.TOOLTIP"
 msgid "Recuperating Duplicants must have toilets available within {0} cells"
-msgstr "Хворі Дубліканти повинні мати убиральні наявні в межах {0} кахеля"
+msgstr "Хворі Дубліканти повинні мати убиральні наявні в межах {0} клітинок"
 
 #. STRINGS.BUILDING.STATUSITEMS.TOO_COLD.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TOO_COLD.NAME"
@@ -3165,15 +3170,14 @@ msgid ""
 "\n"
 "Can withstand extreme pressures and impacts."
 msgstr ""
-"Використовується, як підлоговий та стіновий кахель для будівництва "
-"приміщень.\n"
+"Використовується, як блок підлоги або стіни для будівництва кімнат.\n"
 "\n"
 "Може витримати надзвичайні тиски та удари."
 
 #. STRINGS.BUILDINGS.PREFABS.BUNKERTILE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.BUNKERTILE.NAME"
 msgid "<link=\"BUNKERTILE\">Bunker Tile</link>"
-msgstr "<link=\"BURNER\">Кахель Бункеру</link>"
+msgstr "<link=\"BURNER\">Блок Бункера</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.BURNER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.BURNER.DESC"
@@ -3293,7 +3297,7 @@ msgid ""
 "A textile loom can be used to spin Reed Fiber into wearable Duplicant "
 "clothing."
 msgstr ""
-"Ткацький верстак може використати Волокон Очерету в прядінні придатного "
+"Ткацький верстак може використати Волокна Очерету в прядінні придатного "
 "одягу для Дублікантів."
 
 #. STRINGS.BUILDINGS.PREFABS.CLOTHINGFABRICATOR.EFFECT
@@ -3532,7 +3536,7 @@ msgid ""
 msgstr ""
 "Спрямований на переміщення великої кількості рідини крізь канал\n"
 "\n"
-"Може бути використаний кахелем підлоги та обернутим до будівництва."
+"Може бути використаний як блок підлоги і бути повернутим до будівництва."
 
 #. STRINGS.BUILDINGS.PREFABS.DIRECTIONALWORLDPUMPLIQUID.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.DIRECTIONALWORLDPUMPLIQUID.NAME"
@@ -3815,8 +3819,8 @@ msgid ""
 "Duplicants can deliver fertilizer and liquids to farm tiles, accelerating "
 "plant growth."
 msgstr ""
-"Дубліканти можуть доставляти добрива та рідини до блоку ферми, що прискорить "
-"ріст рослини."
+"Дубліканти можуть доставляти добрива та рідини до ферми, що прискорить ріст "
+"рослини."
 
 #. STRINGS.BUILDINGS.PREFABS.FARMTILE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.FARMTILE.EFFECT"
@@ -3829,14 +3833,14 @@ msgstr ""
 "Вирощування одної <link=\"PLANTS\">Рослини</link> з <link=\"PLANTS"
 "\">Насіння</link>.\n"
 "\n"
-"Може бути використаний як підлога та обернути до будівництва."
+"Може бути використаний як блок підлоги та може бути повернутим до "
+"будівництва."
 
 # або Блок Ферми, або просто Ферма
 #. STRINGS.BUILDINGS.PREFABS.FARMTILE.NAME
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.FARMTILE.NAME"
 msgid "<link=\"FARMTILE\">Farm Tile</link>"
-msgstr "<link=\"FARMTILE\">Кахель Ферми</link>"
+msgstr "<link=\"FARMTILE\">Ферма</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.FERTILIZERMAKER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.FERTILIZERMAKER.DESC"
@@ -3907,7 +3911,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.FISHDELIVERYPOINT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.FISHDELIVERYPOINT.NAME"
 msgid "<link=\"FISHDELIVERYPOINT\">Fish Release</link>"
-msgstr "<link=\"TILEPOI\">Риб'ячий Релокатор</link>"
+msgstr "<link=\"FISHDELIVERYPOINT\">Риб'ячий Релокатор</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.FISHFEEDER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.FISHFEEDER.DESC"
@@ -4071,7 +4075,7 @@ msgstr ""
 "Передає <link=\"ELEMENTSGAS\">Газ</link> між <link=\"GASPIPING\">Виходами</"
 "link> та <link=\"GASPIPING\">Входами</link>.\n"
 "\n"
-"Може бути проведена наскрізь кахелю."
+"Може бути проведена всередині блока."
 
 #. STRINGS.BUILDINGS.PREFABS.GASCONDUIT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCONDUIT.NAME"
@@ -4097,7 +4101,7 @@ msgstr ""
 "Проводить одну <link=\"GASPIPING\">Газову Трубу</link> поверх інших, не "
 "приєднуючись до них.\n"
 "\n"
-"Може бути проведена наскрізь кахелю."
+"Може бути проведена всередині блока."
 
 #. STRINGS.BUILDINGS.PREFABS.GASCONDUITBRIDGE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCONDUITBRIDGE.NAME"
@@ -4214,7 +4218,7 @@ msgstr ""
 "Передає <link=\"ELEMENTSGAS\">Газ</link> та спонукає до значних змін в <link="
 "\"HEAT\">Температурі</link>.\n"
 "\n"
-"Може бути проведена наскрізь кахелю."
+"Може бути проведена всередині блока."
 
 #. STRINGS.BUILDINGS.PREFABS.GASCONDUITRADIANT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCONDUITRADIANT.NAME"
@@ -4342,7 +4346,7 @@ msgid ""
 "Building with airflow permeable tiles promotes better gas circulation within "
 "a colony."
 msgstr ""
-"Будівництво з проникного кахелю, що пропускає повітря, сприяє кращому обігу "
+"Будівництво з пористого блока, що пропускає повітря, сприяє кращому обігу "
 "газу всередині колонії."
 
 #. STRINGS.BUILDINGS.PREFABS.GASPERMEABLEMEMBRANE.EFFECT
@@ -4353,16 +4357,15 @@ msgid ""
 "Blocks <link=\"ELEMENTSLIQUID\">Liquid</link> flow without obstructing <link="
 "\"ELEMENTSGAS\">Gas</link>."
 msgstr ""
-"Використовується, як підлоговий та стіновий кахель для будівництва "
-"приміщень.\n"
+"Використовується, як блок підлоги і стін для будівництва кімнат.\n"
 "\n"
-"Блок пропускає через себе <link=\"ELEMENTSGAS\">Газ</link> але не <link="
-"\"ELEMENTSLIQUID\">Рідину</link>."
+"Блок пропускає через себе <link=\"ELEMENTSGAS\">Газ</link> але не пропускає "
+"<link=\"ELEMENTSLIQUID\">Рідину</link>."
 
 #. STRINGS.BUILDINGS.PREFABS.GASPERMEABLEMEMBRANE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASPERMEABLEMEMBRANE.NAME"
 msgid "<link=\"GASPERMEABLEMEMBRANE\">Airflow Tile</link>"
-msgstr "<link=\"GASPERMEABLEMEMBRANE\">Повітро проникний Кахель</link>"
+msgstr "<link=\"GASPERMEABLEMEMBRANE\">Пористий Блок</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.GASPUMP.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASPUMP.DESC"
@@ -4543,8 +4546,8 @@ msgid ""
 "Window tiles allow the passage of light and decor, while blocking liquids "
 "and gasses. Plate construction makes windows susceptible to impact damage."
 msgstr ""
-"Віконний Кахель дозволяє проходити світлу та декору, тоді як перешкоджає "
-"рідинам та газам. Конструкція створює вікна, вразливі до ударів."
+"Віконний Блок пропускає світло та ефекти декору, але стримує рідини та гази. "
+"Плиткоподібна конструкція робить вікна вразливими до ударів."
 
 #. STRINGS.BUILDINGS.PREFABS.GLASSTILE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GLASSTILE.EFFECT"
@@ -4553,15 +4556,14 @@ msgid ""
 "\n"
 "Allows light and decor to pass through"
 msgstr ""
-"Використовується, як підлоговий та стіновий кахель для будівництва "
-"приміщень.\n"
+"Використовується, як блок підлоги або стін для будівництва кімнат.\n"
 "\n"
-"Дозволяє проходити світлу та декору наскрізь."
+"Пропускає надходження світла та ефектів декору"
 
 #. STRINGS.BUILDINGS.PREFABS.GLASSTILE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GLASSTILE.NAME"
 msgid "<link=\"GLASSTILE\">Window Tile</link>"
-msgstr "<link=\"TILE\">Віконний Кахель</link>"
+msgstr "<link=\"TILE\">Віконний Блок</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.GRAVE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GRAVE.DESC"
@@ -4653,7 +4655,7 @@ msgstr ""
 "Проводить більшу <link=\"POWER\">Потужність</link>, ніж звичайний дріт без "
 "перевантаження.\n"
 "\n"
-"Не може бути проведений наскрізь кахелю."
+"Не може бути проведений всередині блока."
 
 #. STRINGS.BUILDINGS.PREFABS.HIGHWATTAGEWIRE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.HIGHWATTAGEWIRE.NAME"
@@ -4705,7 +4707,7 @@ msgstr ""
 "Вирощування одної <link=\"PLANTS\">Рослини</link> з <link=\"PLANTS"
 "\">Насіння</link>.\n"
 "\n"
-"Може бути використаний як підлога та обернути до будівництва.\n"
+"Може бути використаний як блок підлоги та бути повернутим до будівництва.\n"
 "\n"
 "Необхідно зрошування через рідинні труби."
 
@@ -4767,7 +4769,7 @@ msgstr ""
 "Передає <link=\"ELEMENTSGAS\">Газ</link> з мінімальними змінами в <link="
 "\"HEAT\">Температурі</link>.\n"
 "\n"
-"Може бути проведена наскрізь кахелю."
+"Може бути проведена всередині блока."
 
 #. STRINGS.BUILDINGS.PREFABS.INSULATEDGASCONDUIT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATEDGASCONDUIT.NAME"
@@ -4794,7 +4796,7 @@ msgstr ""
 "Передає <link=\"ELEMENTSLIQUID\">Рідину</link> з мінімальними змінами в "
 "<link=\"HEAT\">Температурі</link>.\n"
 "\n"
-"Може бути проведена наскрізь кахелю."
+"Може бути проведена всередині блока."
 
 #. STRINGS.BUILDINGS.PREFABS.INSULATEDLIQUIDCONDUIT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATEDLIQUIDCONDUIT.NAME"
@@ -4817,7 +4819,7 @@ msgstr ""
 "Приєднує будівлі до <link=\"POWER\">Електричного</link>джерела в надмірному "
 "<link=\"HEAT\">Теплі</link>.\n"
 "\n"
-"Може бути проведена наскрізь кахелю."
+"Може бути проведена всередині блока."
 
 #. STRINGS.BUILDINGS.PREFABS.INSULATEDWIRE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATEDWIRE.NAME"
@@ -4830,7 +4832,7 @@ msgid ""
 "The lowered thermal conductivity of insulated tiles slows heat from passing "
 "through them."
 msgstr ""
-"Нижча теплопровідність ізоляційного тайлу уповільнює тепло, що проходить "
+"Нижча теплопровідність ізоляційних блоків уповільнює тепло, що проходить "
 "через них."
 
 #. STRINGS.BUILDINGS.PREFABS.INSULATIONTILE.EFFECT
@@ -4841,8 +4843,7 @@ msgid ""
 "Reduces <link=\"HEAT\">Heat</link> transfer between walls, retaining ambient "
 "heat in an area."
 msgstr ""
-"Використовується, як підлоговий та стіновий кахель для будівництва "
-"приміщень.\n"
+"Використовується, як блок підлоги та стін для будівництва кімнат.\n"
 "\n"
 "Знижує <link=\"HEAT\">Теплову</link> передачу між стінами, утримує зовнішнє "
 "тепло в зоні."
@@ -4850,7 +4851,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.INSULATIONTILE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATIONTILE.NAME"
 msgid "<link=\"INSULATIONTILE\">Insulated Tile</link>"
-msgstr "<link=\"INSULATIONTILE\">Ізоляційний Кахель</link>"
+msgstr "<link=\"INSULATIONTILE\">Ізоляційний Блок</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.KILN.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.KILN.DESC"
@@ -4865,10 +4866,9 @@ msgstr ""
 "Перетворює <link=\"CLAY\">Глину</link> на <link=\"CERAMIC\">Кераміку</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.KILN.NAME
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.KILN.NAME"
 msgid "<link=\"KILN\">Kiln</link>"
-msgstr "<link=\"TILE\">Обпалювач</link>"
+msgstr "<link=\"KILN\">Обпалювач</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.LADDER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LADDER.DESC"
@@ -4943,7 +4943,7 @@ msgstr ""
 "Передає <link=\"ELEMENTSLIQUID\">Рідину</link> між <link=\"LIQUIDPIPING"
 "\">Виходами</link> та <link=\"LIQUIDPIPING\">Входами</link>.\n"
 "\n"
-"Може бути проведена наскрізь кахелю."
+"Може бути проведена всередині блока."
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUIT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUIT.NAME"
@@ -4969,7 +4969,7 @@ msgstr ""
 "Проводить одну <link=\"LIQUIDPIPING\">Рідинну Трубу</link> поверх інших, не "
 "приєднуючись до них.\n"
 "\n"
-"Може бути проведена наскрізь кахелю."
+"Може бути проведена всередині блока."
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUITBRIDGE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUITBRIDGE.NAME"
@@ -5086,7 +5086,7 @@ msgstr ""
 "Передає <link=\"ELEMENTSLIQUID\">Рідину</link> та спонукає до значних змін в "
 "<link=\"HEAT\">Температурі</link>.\n"
 "\n"
-"Може бути проведена наскрізь кахелю."
+"Може бути проведена всередині блока."
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUITRADIANT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUITRADIANT.NAME"
@@ -5835,7 +5835,7 @@ msgstr ""
 "Приєднує автоматизовані будівлі до <link=\"LOGIC\">Мережі Автоматизації</"
 "link>\n"
 "\n"
-"Може бути проведений наскрізь кахелю."
+"Може бути проведений всередині блока."
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICWIRE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICWIRE.NAME"
@@ -5860,7 +5860,7 @@ msgid ""
 msgstr ""
 "Проводить один Дріт Автоматики поверх інших, не приєднуючись до них.\n"
 "\n"
-"Може бути проведена наскрізь кахелю."
+"Може бути проведена всередині блока."
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICWIREBRIDGE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICWIREBRIDGE.NAME"
@@ -6082,7 +6082,7 @@ msgid ""
 "Mesh tiles can be used to make Duplicant pathways in areas where liquid "
 "needs to flow."
 msgstr ""
-"Сідчатий кахель може бути використаний на шляху Дублікантів, в зоні "
+"Сітчастий блок може бути використаний на шляху Дублікантів, в зоні "
 "потрібного протікання рідини."
 
 #. STRINGS.BUILDINGS.PREFABS.MESHTILE.EFFECT
@@ -6093,8 +6093,7 @@ msgid ""
 "Does not obstruct <link=\"ELEMENTSLIQUID\">Liquid</link> or <link="
 "\"ELEMENTSGAS\">Gas</link> flow."
 msgstr ""
-"Використовується, як підлоговий та стіновий кахель для будівництва "
-"приміщень.\n"
+"Використовується, як блок підлоги та стін для будівництва кімнат.\n"
 "\n"
 "Не перешкоджає проходженню <link=\"ELEMENTSLIQUID\">Рідини</link> чи <link="
 "\"ELEMENTSGAS\">Газу</link>."
@@ -6102,7 +6101,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.MESHTILE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.MESHTILE.NAME"
 msgid "<link=\"MESHTILE\">Mesh Tile</link>"
-msgstr "<link=\"MESHTILE\">Отворовий Кахель</link>"
+msgstr "<link=\"MESHTILE\">Сітчастий Блок</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.METALREFINERY.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.METALREFINERY.DESC"
@@ -6143,7 +6142,7 @@ msgid ""
 "Heat travels much more quickly through metal tiles than other types of "
 "flooring."
 msgstr ""
-"Тепло переміщується набагато швидше в цьому металічному тайлі ніж інших "
+"Тепло переміщується набагато швидше в цьому металевому блоці ніж в інших "
 "типах підлоги."
 
 #. STRINGS.BUILDINGS.PREFABS.METALTILE.EFFECT
@@ -6153,15 +6152,14 @@ msgid ""
 "\n"
 "Significantly increases Duplicant runspeed."
 msgstr ""
-"Використовується, як підлоговий та стіновий кахель для будівництва "
-"приміщень.\n"
+"Використовується, як блок підлоги та стін для будівництва кімнат.\n"
 "\n"
 "Істотно збільшує швидкість пересування Дублікантів."
 
 #. STRINGS.BUILDINGS.PREFABS.METALTILE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.METALTILE.NAME"
 msgid "<link=\"METALTILE\">Metal Tile</link>"
-msgstr "<link=\"METALTILE\">Металевий Кахель</link>"
+msgstr "<link=\"METALTILE\">Металевий Блок</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.METHANEGENERATOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.METHANEGENERATOR.DESC"
@@ -6389,7 +6387,7 @@ msgid ""
 "Plastic tiles are mildly antiseptic and can help limit the spread of germs "
 "in a colony."
 msgstr ""
-"Пластиковий тайл м'який антисептик та може допомогти обмежити поширення "
+"Пластиковий блок м'який антисептик та може допомогти обмежити поширення "
 "бактерій в колонії."
 
 #. STRINGS.BUILDINGS.PREFABS.PLASTICTILE.EFFECT
@@ -6399,15 +6397,14 @@ msgid ""
 "\n"
 "Significantly increases Duplicant runspeed."
 msgstr ""
-"Використовується, як підлоговий та стіновий кахель для будівництва "
-"приміщень.\n"
+"Використовується, як блок підлоги та стін для будівництва кімнат.\n"
 "\n"
 "Істотно збільшує швидкість пересування Дублікантів."
 
 #. STRINGS.BUILDINGS.PREFABS.PLASTICTILE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PLASTICTILE.NAME"
 msgid "<link=\"PLASTICTILE\">Plastic Tile</link>"
-msgstr "<link=\"PLASTICTILE\">Пластиковий Кахель</link>"
+msgstr "<link=\"PLASTICTILE\">Пластиковий блок</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.POIBUNKEREXTERIORDOOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.POIBUNKEREXTERIORDOOR.DESC"
@@ -6884,7 +6881,7 @@ msgstr ""
 "<link=\"SOLIDCONDUITINBOX\">Конвеєрним Навантажувачем</link> та <link="
 "\"SOLIDCONDUITOUTBOX\">Конвеєрним Розвантажувачем</link>.\n"
 "\n"
-"Може бути проведена наскрізь кахелю."
+"Може бути проведена всередині блока."
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDCONDUIT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDCONDUIT.NAME"
@@ -6911,7 +6908,7 @@ msgstr ""
 "Працює на одній секції <link=\"SOLIDCONDUIT\">Конвеєрних Рейок</link>поверх "
 "інших, не приєднуючись до них.\n"
 "\n"
-"Може бути проведений наскрізь кахелю."
+"Може бути проведений всередині блока."
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITBRIDGE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITBRIDGE.NAME"
@@ -7179,7 +7176,7 @@ msgstr ""
 "\n"
 "Повинен бути побудований поряд з Доками Екзо Костюмами.\n"
 "\n"
-"Може бути обернути до спорудження."
+"Може бути повернутим до будівництва."
 
 #. STRINGS.BUILDINGS.PREFABS.SUITMARKER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SUITMARKER.NAME"
@@ -7279,7 +7276,7 @@ msgstr "<link=\"THERMALBLOCK\">Тепло Провідна Пластина</lin
 msgctxt "STRINGS.BUILDINGS.PREFABS.TILE.DESC"
 msgid "Tiles can be used to build rooms, floors, or bridges to new areas."
 msgstr ""
-"Кахель може бути використаний для будівництва кімнат, підлоги чи нових зон."
+"Блоки можуть бути використані для будівництва кімнат, підлоги чи нових зон."
 
 #. STRINGS.BUILDINGS.PREFABS.TILE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.TILE.EFFECT"
@@ -7288,15 +7285,14 @@ msgid ""
 "\n"
 "Increases Duplicant runspeed."
 msgstr ""
-"Використовується, як підлоговий та стіновий кахель для будівництва "
-"приміщень.\n"
+"Використовується, як блок підлоги та стін для будівництва кімнат.\n"
 "\n"
 "Збільшує швидкість пересування Дублікантів."
 
 #. STRINGS.BUILDINGS.PREFABS.TILE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.TILE.NAME"
 msgid "<link=\"TILE\">Tile</link>"
-msgstr "<link=\"TILE\">Кахель</link>"
+msgstr "<link=\"TILE\">Блок</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.TILEPOI.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.TILEPOI.DESC"
@@ -7306,13 +7302,12 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.TILEPOI.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.TILEPOI.EFFECT"
 msgid "Used as floor and wall tile to build rooms."
-msgstr ""
-"Використовується, як підлоговий та стіновий кахель для будівництва приміщень."
+msgstr "Використовується, як блок підлоги та стін для будівництва кімнат."
 
 #. STRINGS.BUILDINGS.PREFABS.TILEPOI.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.TILEPOI.NAME"
 msgid "<link=\"TILEPOI\">Tile</link>"
-msgstr "<link=\"TILEPOI\">Кахель</link>"
+msgstr "<link=\"TILEPOI\">Блок</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.TRAVELTUBE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.TRAVELTUBE.DESC"
@@ -7385,10 +7380,10 @@ msgid ""
 "\n"
 "Functions as a regular tile."
 msgstr ""
-"Дозволяє <link=\"TRAVELTUBE\">Транзитним Трубкам</link> проходити через "
-"стіновий та підлоговий кахель.\n"
+"Дозволяє <link=\"TRAVELTUBE\">Транзитним Трубкам</link> проходити через блок "
+"стін та підлоги.\n"
 "\n"
-"Працює, як звичайний кахель."
+"Працює, як звичайний блок."
 
 #. STRINGS.BUILDINGS.PREFABS.TRAVELTUBEWALLBRIDGE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.TRAVELTUBEWALLBRIDGE.NAME"
@@ -7489,7 +7484,7 @@ msgid ""
 msgstr ""
 "Приєднує будівлі до <link=\"POWER\">Електричного</link> джерела\n"
 "\n"
-"Може бути проведений наскрізь кахелю."
+"Може бути проведений всередині блока."
 
 #. STRINGS.BUILDINGS.PREFABS.WIRE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.WIRE.NAME"
@@ -7514,7 +7509,7 @@ msgid ""
 msgstr ""
 "Працює на одній секції дротів поверх інших, не приєднуючись до них.\n"
 "\n"
-"Може бути проведений наскрізь кахелю."
+"Може бути проведений всередині блока."
 
 #. STRINGS.BUILDINGS.PREFABS.WIREBRIDGE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.WIREBRIDGE.NAME"
@@ -7538,7 +7533,7 @@ msgid ""
 msgstr ""
 "Дозволяє проводити Потужний Дріт наскрізь стіни та підлогу.\n"
 "\n"
-"Працює, як звичайний кахель."
+"Працює, як звичайний блок."
 
 #. STRINGS.BUILDINGS.PREFABS.WIREBRIDGEHIGHWATTAGE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.WIREBRIDGEHIGHWATTAGE.NAME"
@@ -7566,7 +7561,7 @@ msgid ""
 msgstr ""
 "Приєднує будівлі до <link=\"POWER\">Електричного</link> джерела\n"
 "\n"
-"Може бути проведений наскрізь кахелю."
+"Може бути проведений всередині блока."
 
 #. STRINGS.BUILDINGS.PREFABS.WIREREFINED.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.WIREREFINED.NAME"
@@ -7597,7 +7592,7 @@ msgstr ""
 "\n"
 "Працює на одній секції дротів поверх інших, не приєднуючись до них.\n"
 "\n"
-"Не може бути проведений наскрізь кахелю."
+"Не може бути проведений всередині блока."
 
 #. STRINGS.BUILDINGS.PREFABS.WIREREFINEDBRIDGE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.WIREREFINEDBRIDGE.NAME"
@@ -7627,7 +7622,7 @@ msgstr ""
 "\n"
 "Дозволяє проводити Потужний Дріт наскрізь стіни та підлогу.\n"
 "\n"
-"Працює, як звичайний кахель."
+"Працює, як звичайний блок."
 
 #. STRINGS.BUILDINGS.PREFABS.WIREREFINEDBRIDGEHIGHWATTAGE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.WIREREFINEDBRIDGEHIGHWATTAGE.NAME"
@@ -7657,7 +7652,7 @@ msgstr ""
 "Проводить більшу <link=\"POWER\">Потужність</link>, ніж звичайний Дріт без "
 "перевантаження.\n"
 "\n"
-"Не може бути проведений наскрізь кахелю."
+"Не може бути проведений всередині блока."
 
 #. STRINGS.BUILDINGS.PREFABS.WIREREFINEDHIGHWATTAGE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.WIREREFINEDHIGHWATTAGE.NAME"
@@ -8818,7 +8813,7 @@ msgid ""
 "\n"
 "Sounds uncomfortable!"
 msgstr ""
-"Ця тварина застрягла в середині дверей, кахелю чи вузькому просторі\n"
+"Ця тварина застрягла всередині дверей, блока чи вузькому просторі\n"
 "\n"
 "Тривожні звуки!"
 
@@ -16818,6 +16813,9 @@ msgid ""
 "Duplicants don't find bare rock face very inviting.\n"
 "Use wall tiles and doors to build more comfortable Mess Halls for them."
 msgstr ""
+"Дубліканти не вважають голе каміння привабливим.\n"
+"Використовуйте блоки стін та двері для побудови більш комфортних умов для "
+"них."
 
 #. STRINGS.DUPLICANTS.OPINIONS.ROOMWALLSMISSING
 msgctxt "STRINGS.DUPLICANTS.OPINIONS.ROOMWALLSMISSING"
@@ -16830,6 +16828,9 @@ msgid ""
 "Duplicants don't find bare rock face very inviting.\n"
 "Use wall tiles and doors to build more comfortable Rooms for them."
 msgstr ""
+"Дубліканти не вважають голе каміння привабливим.\n"
+"Використовуйте блоки стін та двері для побудови більш комфортних Кімнат для "
+"них."
 
 #. STRINGS.DUPLICANTS.OPINIONS.ROOMWALLSSTANDARD
 msgctxt "STRINGS.DUPLICANTS.OPINIONS.ROOMWALLSSTANDARD"
@@ -16847,6 +16848,9 @@ msgid ""
 "Duplicants like a little privacy when they do their biz.\n"
 "Use wall tiles and doors to build more comfortable Washrooms for them."
 msgstr ""
+"Дублікантам подобається трохи приватності, коли вони роблять свої справи.\n"
+"Використовуйте блоки стін та дверей для побудови більш комфортної Ванної "
+"кімнати для них."
 
 #. STRINGS.DUPLICANTS.OPINIONS.TOILETWALLSSTANDARD
 msgctxt "STRINGS.DUPLICANTS.OPINIONS.TOILETWALLSSTANDARD"
@@ -19952,8 +19956,8 @@ msgid ""
 "This Duplicant feels suffocated in spaces less than four tiles high or three "
 "tiles wide"
 msgstr ""
-"Цей Дублікант починає задихатися в просторі меншим, ніж чотири кахеля "
-"висотою чи три кахеля шириною"
+"Цей Дублікант починає задихатися в просторі меншому, ніж чотири блоки "
+"висотою чи три блоки шириною"
 
 #. STRINGS.DUPLICANTS.TRAITS.NEEDS.CLAUSTROPHOBIC.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NEEDS.CLAUSTROPHOBIC.NAME"
@@ -19966,8 +19970,8 @@ msgid ""
 "Climbing ladders more than four tiles tall makes this Duplicant's stomach do "
 "flips"
 msgstr ""
-"Піднімаючись сходами з понад чотири кахельні, шлунок цього Дубліканта робить "
-"перекидання"
+"Піднімаючись сходами з понад чотири блоки, шлунок цього Дубліканта "
+"вивертається"
 
 #. STRINGS.DUPLICANTS.TRAITS.NEEDS.CLIMACOPHOBIC.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NEEDS.CLIMACOPHOBIC.NAME"
@@ -20020,8 +20024,8 @@ msgid ""
 "This Duplicant is a sensitive sole and would rather walk on tile floorings "
 "than bedrock"
 msgstr ""
-"Цей Дублікант відчуває ступнями та скоріше буде ходити но кахельній підлозі "
-"ніж бедроці"
+"Цей Дублікант відчуває ступнями та скоріше буде ходити по блочній підлозі "
+"ніж по необробленій"
 
 #. STRINGS.DUPLICANTS.TRAITS.NEEDS.SENSITIVEFEET.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NEEDS.SENSITIVEFEET.NAME"
@@ -25092,15 +25096,6 @@ msgstr ""
 "Їхні очікування збільшилися відповідно."
 
 #. STRINGS.MISC.NOTIFICATIONS.LOCOMOTIONMESSAGE.MESSAGEBODY
-#, fuzzy
-#| msgctxt "STRINGS.MISC.NOTIFICATIONS.LOCOMOTIONMESSAGE.MESSAGEBODY"
-#| msgid ""
-#| "Duplicants must be able to reach their errands in order to work. When "
-#| "placing errands, keep in mind that Duplicants can only climb obstacles "
-#| "two tiles high, and are themselves two tiles tall.\n"
-#| "\n"
-#| "If you are unsure if a errand you've placed is accessible, select a "
-#| "Duplicant and click SHOW NAVIGATION to view all areas within their reach."
 msgctxt "STRINGS.MISC.NOTIFICATIONS.LOCOMOTIONMESSAGE.MESSAGEBODY"
 msgid ""
 "Duplicants must be able to reach the errands I set in order to do their "
@@ -25114,7 +25109,7 @@ msgid ""
 msgstr ""
 "Дубліканти повинні мати вільний шлях до їхніх доручень, для того, щоб "
 "працювати. Коли розміщуєте доручення, майте на увазі, що Дубліканти можуть "
-"підніматися на перешкоди висотою в два кахеля та і самі вони в два кахеля.\n"
+"підніматися на перешкоди висотою в два блоки та і самі вони в два блоки.\n"
 "\n"
 "Якщо ви не впевнені, чи заступне доручення, оберіть Дубліканта та натисніть "
 "ПОКАЗАТИ ШЛЯХИ, щоб переглянути всі області, досяжні для них."
@@ -26313,7 +26308,7 @@ msgstr ""
 #. STRINGS.MISC.STATUSITEMS.REGIONISBLOCKED.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.REGIONISBLOCKED.TOOLTIP"
 msgid "Undug material is blocking off an essential tile"
-msgstr ""
+msgstr "Матеріал, що знімається, блокує необхідний блок"
 
 #. STRINGS.MISC.STATUSITEMS.SPACE.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.SPACE.NAME"
@@ -29488,12 +29483,12 @@ msgstr "Масажний Стіл"
 #. STRINGS.ROOMS.CRITERIA.MAXIMUM_SIZE.DESCRIPTION
 msgctxt "STRINGS.ROOMS.CRITERIA.MAXIMUM_SIZE.DESCRIPTION"
 msgid "Must have an area no larger than {0} tiles"
-msgstr "Має бути не більше, ніж {0} кахелі"
+msgstr "Має бути не більше, ніж {0} блоків"
 
 #. STRINGS.ROOMS.CRITERIA.MAXIMUM_SIZE.NAME
 msgctxt "STRINGS.ROOMS.CRITERIA.MAXIMUM_SIZE.NAME"
 msgid "Maximum size: {0} tiles"
-msgstr "Максимальний розмір: {0} кахелів"
+msgstr "Максимальний розмір: {0} блоків"
 
 #. STRINGS.ROOMS.CRITERIA.MESS_STATION_MULTIPLE.DESCRIPTION
 msgctxt "STRINGS.ROOMS.CRITERIA.MESS_STATION_MULTIPLE.DESCRIPTION"
@@ -29518,17 +29513,17 @@ msgstr "Стіл Їдальні"
 #. STRINGS.ROOMS.CRITERIA.MINIMUM_SIZE.DESCRIPTION
 msgctxt "STRINGS.ROOMS.CRITERIA.MINIMUM_SIZE.DESCRIPTION"
 msgid "Must have an area of at least {0} tiles"
-msgstr "Має бути не менше, ніж {0} кахелі"
+msgstr "Має бути не менше, ніж {0} блоків"
 
 #. STRINGS.ROOMS.CRITERIA.MINIMUM_SIZE.NAME
 msgctxt "STRINGS.ROOMS.CRITERIA.MINIMUM_SIZE.NAME"
 msgid "Minimum size: {0} tiles"
-msgstr "Мінімальний розмір {0} кахелів"
+msgstr "Мінімальний розмір {0} блоків"
 
 #. STRINGS.ROOMS.CRITERIA.NEUTRAL_TYPE
 msgctxt "STRINGS.ROOMS.CRITERIA.NEUTRAL_TYPE"
 msgid "Enclosed by wall tiles and doors"
-msgstr "Замкнутий стіновим кахелем та дверми"
+msgstr "Замкнутий блоком стіни та дверима"
 
 #. STRINGS.ROOMS.CRITERIA.NO_INDUSTRIAL_MACHINERY.DESCRIPTION
 msgctxt "STRINGS.ROOMS.CRITERIA.NO_INDUSTRIAL_MACHINERY.DESCRIPTION"
@@ -29653,7 +29648,7 @@ msgstr "Подробиці Кімнат"
 #. STRINGS.ROOMS.DETAILS.SIZE.NAME
 msgctxt "STRINGS.ROOMS.DETAILS.SIZE.NAME"
 msgid "Room size: {0} Tiles"
-msgstr "Розмір кімнати: {0} Кахелів"
+msgstr "Розмір кімнати: {0} Блоків"
 
 #. STRINGS.ROOMS.TYPES.BARRACKS.EFFECT
 msgctxt "STRINGS.ROOMS.TYPES.BARRACKS.EFFECT"
@@ -30437,7 +30432,7 @@ msgstr "Охолоджувач: {1} {0}"
 #. STRINGS.UI.BUILDINGEFFECTS.DECORPROVIDED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.DECORPROVIDED"
 msgid "<link=\"DECOR\">Decor</link>: {1} (Radius: {2} tiles)"
-msgstr "<link=\"DECOR\">Декор</link>: {1} (Радіус: {2} кахеля)"
+msgstr "<link=\"DECOR\">Декор</link>: {1} (Радіус: {2} блоків)"
 
 #. STRINGS.UI.BUILDINGEFFECTS.DIET_CONSUMED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.DIET_CONSUMED"
@@ -30632,7 +30627,7 @@ msgstr ""
 #. STRINGS.UI.BUILDINGEFFECTS.NOISE_CREATED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.NOISE_CREATED"
 msgid "<link=\"SOUND\">Noise</link>: {0} dB (Radius: {1} tiles)"
-msgstr ""
+msgstr "<link=\"SOUND\">Шум</link>: {0} dB (Радіус: {1} блоків)"
 
 #. STRINGS.UI.BUILDINGEFFECTS.OPERATIONEFFECTS
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.OPERATIONEFFECTS"
@@ -30877,12 +30872,12 @@ msgstr ""
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.DECORDECREASED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.DECORDECREASED"
 msgid "Decreases Decor values by {0} in a {1} tile radius"
-msgstr "Знижує рівень Декору на {0} в радіусі {1} кахелю"
+msgstr "Знижує рівень Декору на {0} в радіусі {1} блоків"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.DECORPROVIDED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.DECORPROVIDED"
 msgid "Improves Decor values by {0} in a {1} tile radius"
-msgstr "Збільшує рівень Декору на {0} в радіусі {1} кахелю"
+msgstr "Збільшує рівень Декору на {0} в радіусі {1} блоків"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.DIET_CONSUMED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.DIET_CONSUMED"
@@ -30927,7 +30922,7 @@ msgstr ""
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.DUPLICANTMOVEMENTBOOST
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.DUPLICANTMOVEMENTBOOST"
 msgid "Duplicants walk {0} faster on this tile"
-msgstr "Дубліканти ходять на {0} швидше на цьому кахелю"
+msgstr "Дубліканти ходять на {0} швидше на цьому блоці"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ELEMENTCONSUMED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ELEMENTCONSUMED"
@@ -31131,12 +31126,12 @@ msgstr ""
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.NOISE_POLLUTION_DECREASE
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.NOISE_POLLUTION_DECREASE"
 msgid "Dampens noise at {0} dB in a {1} tile radius"
-msgstr ""
+msgstr "Зниждує шум на {0} dB в радіусі {1} блоків"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.NOISE_POLLUTION_INCREASE
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.NOISE_POLLUTION_INCREASE"
 msgid "Produces noise at {0} dB in a {1} tile radius"
-msgstr ""
+msgstr "Генерує шум в {0} dB в радіусі {1} блоків"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.OPERATIONEFFECTS
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.OPERATIONEFFECTS"
@@ -32102,10 +32097,9 @@ msgid "More information"
 msgstr "Більше Інформації"
 
 #. STRINGS.UI.DETAILTABS.DETAILS.NAME
-#, fuzzy
 msgctxt "STRINGS.UI.DETAILTABS.DETAILS.NAME"
 msgid "Properties"
-msgstr "Про предмет"
+msgstr "Інфо"
 
 #. STRINGS.UI.DETAILTABS.DETAILS.NET_STRESS
 msgctxt "STRINGS.UI.DETAILTABS.DETAILS.NET_STRESS"
@@ -32956,26 +32950,27 @@ msgid ""
 "\n"
 "- Klei"
 msgstr ""
-"Ця гра в ранній стадії розробки, що означає ви імовірно зіткнетесь з "
-"дивними, цікавими та час від часу ледь зовсім розстроюваними недоробками.\n"
-"Протягом цього часу Oxygen Not Included буде отримувати регулярні оновлення "
-"вирішуючи проблеми, додавати функціонал та включати додатковий вміст, якщо у "
-"тебе виникнуть питання або просто можете поділитися пропозицією,  будь ласка "
-"повідомте нам про це на нашому форумі: <u>http://forums.kleientertainment."
-"com</u>\n"
+"Ця гра перебуває на ранній стадії розробки. Це означає, що Ви, швидше за "
+"все, зіткнетеся із дивними, кумедними, а іноді навіть дратуючими помилками.\n"
+"\n"
+"Протягом цього часу Oxygen Not Included буде отримувати регулярні оновлення, "
+"в яких будуть виправлення помилок, новий функціонал та представлений "
+"додатковий вміст, тому якщо у Вас виникнуть проблеми, або Ви маєте "
+"пропозиції, будь ласка, повідомте нам про це на нашому форумі: <u>http://"
+"forums.kleientertainment.com</u>\n"
 "\n"
 "Особлива подяка тим, хто долучився до нас протягом часу в Альфі. Ми цінуємо "
-"ваші відгуки та дякуємо за участь в процесі розробки. Ми не змогли це "
-"зробити без тебе.\n"
+"Ваші відгуки та дякуємо за участь в процесі розробки. Ми не змогли б цього "
+"без Вас.\n"
 "\n"
-"Насолоджуйся своїм часом в глибокому космосі!\n"
+"Веселого перебування в глибокому космосі!\n"
 "\n"
 "- Klei"
 
 #. STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.LOADING.CONTINUEBUTTON
 msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.LOADING.CONTINUEBUTTON"
 msgid "Okay, thanks for the heads up!"
-msgstr "Добре, дякую за настороження!"
+msgstr "Добре, дякую за попередження!"
 
 #. STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.LOADING.TITLE
 msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.LOADING.TITLE"
@@ -35080,7 +35075,7 @@ msgstr ""
 #. STRINGS.UI.GAMEOBJECTEFFECTS.EMITS_LIGHT
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.EMITS_LIGHT"
 msgid "<link=\"LIGHT\">Light Range</link>: {0} tiles"
-msgstr ""
+msgstr "<link=\"LIGHT\">Радіус освітлення</link>: {0} блоків"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.EQUIPMENT_MODS
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.EQUIPMENT_MODS"
@@ -35138,12 +35133,9 @@ msgid "Initial Growth: {0}"
 msgstr ""
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.INSULATED.NAME
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATIONTILE.NAME"
-#| msgid "Insulated Tile"
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.INSULATED.NAME"
 msgid "Insulated"
-msgstr "Ізоляційний Кахель"
+msgstr "Ізоляційний Блок"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.INSULATED.TOOLTIP
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.INSULATED.TOOLTIP"
@@ -35355,7 +35347,7 @@ msgid ""
 "grow domestically"
 msgstr ""
 "Ця рослина повинна бути розміщена в рослинному ящику,\n"
-"блоку ферми чи гідропонній фермі для свійського рості"
+"фермі чи гідропонній фермі для свійського росту"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.REQUIRES_SUBMERSION
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.REQUIRES_SUBMERSION"
@@ -39031,7 +39023,7 @@ msgstr "Конвеєрні Рейки"
 #. STRINGS.UI.TOOLS.FILTERLAYERS.TILES
 msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.TILES"
 msgid "Tiles"
-msgstr "Кахелі"
+msgstr "Блоки"
 
 #. STRINGS.UI.TOOLS.FILTERLAYERS.WIRES
 msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.WIRES"
@@ -39397,7 +39389,7 @@ msgstr "Автоматичний порт заблокований"
 #. STRINGS.UI.TOOLTIPS.HELP_BUILDLOCATION_NOT_IN_TILES
 msgctxt "STRINGS.UI.TOOLTIPS.HELP_BUILDLOCATION_NOT_IN_TILES"
 msgid "Cannot be built inside tile"
-msgstr "Не можна будувати в середині кахелю"
+msgstr "Не можна будувати в середині блока"
 
 #. STRINGS.UI.TOOLTIPS.HELP_BUILDLOCATION_OCCUPIED
 msgctxt "STRINGS.UI.TOOLTIPS.HELP_BUILDLOCATION_OCCUPIED"
@@ -42016,10 +42008,9 @@ msgid "Filter Settings"
 msgstr "Налаштування Фільтра"
 
 #. STRINGS.UI.USERMENUACTIONS.TAGFILTER.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.UI.USERMENUACTIONS.TAGFILTER.TOOLTIP"
 msgid "Assign materials to storage"
-msgstr "Призначити матеріали в сховищі"
+msgstr "Призначити матеріали для сховища"
 
 #. STRINGS.UI.USERMENUACTIONS.UNEQUIP.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.UNEQUIP.NAME"
@@ -42143,7 +42134,7 @@ msgstr "Очікуваний Декор"
 #. STRINGS.UI.VITALSSCREEN.DECOR_EXPECTATIONS_TOOLTIP
 msgctxt "STRINGS.UI.VITALSSCREEN.DECOR_EXPECTATIONS_TOOLTIP"
 msgid "This Duplicant desires decor that is {0} or higher"
-msgstr "Цей Дублікант мріє про {0} декор або вище"
+msgstr "Цей Дублікант мріє про декор, не гірший за {0}"
 
 #. STRINGS.UI.VITALSSCREEN.EATEN_TODAY
 msgctxt "STRINGS.UI.VITALSSCREEN.EATEN_TODAY"
@@ -42174,7 +42165,7 @@ msgstr "Очікувана Їжа"
 #. STRINGS.UI.VITALSSCREEN.FOOD_EXPECTATIONS_TOOLTIP
 msgctxt "STRINGS.UI.VITALSSCREEN.FOOD_EXPECTATIONS_TOOLTIP"
 msgid "This Duplicant desires food that is {0} quality or better"
-msgstr "Цей Дублікант мріє про їжу, яка {0} якості або краща"
+msgstr "Цей Дублікант мріє про їжу, не гіршої якості, ніж {0}"
 
 #. STRINGS.UI.VITALSSCREEN.HEALTH
 msgctxt "STRINGS.UI.VITALSSCREEN.HEALTH"
@@ -42219,7 +42210,7 @@ msgstr "Ситість"
 #. STRINGS.UI.VITALSSCREEN_EATENTODAY
 msgctxt "STRINGS.UI.VITALSSCREEN_EATENTODAY"
 msgid "Eaten Today"
-msgstr "Їли Сьогодні"
+msgstr "З'їли Сьогодні"
 
 #. STRINGS.UI.VITALSSCREEN_EATENTODAY_TOOLTIP
 msgctxt "STRINGS.UI.VITALSSCREEN_EATENTODAY_TOOLTIP"
@@ -42285,12 +42276,12 @@ msgstr ""
 #. STRINGS.UI.WELCOMEMESSAGETITLE
 msgctxt "STRINGS.UI.WELCOMEMESSAGETITLE"
 msgid "- ALERT -"
-msgstr "- ТРЕВОГА -"
+msgstr "- ТРИВОГА -"
 
 #. STRINGS.UI.WORLDGEN.ANALYZINGWORLD
 msgctxt "STRINGS.UI.WORLDGEN.ANALYZINGWORLD"
 msgid "Shuffling DNA Blueprints..."
-msgstr "Хитрий ДНК проект..."
+msgstr "Перемішування ДНК-схем..."
 
 #. STRINGS.UI.WORLDGEN.ANALYZINGWORLDCOMPLETE
 msgctxt "STRINGS.UI.WORLDGEN.ANALYZINGWORLDCOMPLETE"
@@ -42310,57 +42301,57 @@ msgstr "Лише додавання води..."
 #. STRINGS.UI.WORLDGEN.BORDERS2
 msgctxt "STRINGS.UI.WORLDGEN.BORDERS2"
 msgid "Staring at the void..."
-msgstr "Пильний погляд в пустоту..."
+msgstr "Пильний погляд в порожнечу..."
 
 #. STRINGS.UI.WORLDGEN.BORDERS3
 msgctxt "STRINGS.UI.WORLDGEN.BORDERS3"
 msgid "Staring at the void..."
-msgstr "Пильний погляд в пустоту..."
+msgstr "Пильний погляд в порожнечу..."
 
 #. STRINGS.UI.WORLDGEN.BORDERS4
 msgctxt "STRINGS.UI.WORLDGEN.BORDERS4"
 msgid "Staring at the void..."
-msgstr "Пильний погляд в пустоту..."
+msgstr "Пильний погляд в порожнечу..."
 
 #. STRINGS.UI.WORLDGEN.BORDERS5
 msgctxt "STRINGS.UI.WORLDGEN.BORDERS5"
 msgid "Avoiding awkward eye contact with the void..."
-msgstr "Уникаючи небезпечного погляду зіткнення з пустотою..."
+msgstr "Уникнення незграбного зіткнення з порожнечею..."
 
 #. STRINGS.UI.WORLDGEN.BORDERS6
 msgctxt "STRINGS.UI.WORLDGEN.BORDERS6"
 msgid "Avoiding awkward eye contact with the void..."
-msgstr "Уникаючи небезпечного погляду зіткнення з пустотою..."
+msgstr "Уникнення незграбного зіткнення з порожнечею..."
 
 #. STRINGS.UI.WORLDGEN.BORDERS7
 msgctxt "STRINGS.UI.WORLDGEN.BORDERS7"
 msgid "Avoiding awkward eye contact with the void..."
-msgstr "Уникаючи небезпечного погляду зіткнення з пустотою..."
+msgstr "Уникнення незграбного зіткнення з порожнечею..."
 
 #. STRINGS.UI.WORLDGEN.BORDERS8
 msgctxt "STRINGS.UI.WORLDGEN.BORDERS8"
 msgid "Avoiding awkward eye contact with the void..."
-msgstr "Уникаючи небезпечного погляду зіткнення з пустотою..."
+msgstr "Уникнення незграбного зіткнення з порожнечею..."
 
 #. STRINGS.UI.WORLDGEN.BORDERS9
 msgctxt "STRINGS.UI.WORLDGEN.BORDERS9"
 msgid "Avoiding awkward eye contact with the void..."
-msgstr "Уникаючи небезпечного погляду зіткнення з пустотою..."
+msgstr "Уникнення незграбного зіткнення з порожнечею..."
 
 #. STRINGS.UI.WORLDGEN.BUILDNOISESOURCE
 msgctxt "STRINGS.UI.WORLDGEN.BUILDNOISESOURCE"
 msgid "Sorting quadrillions of atoms..."
-msgstr "Сортування септильйону атомів..."
+msgstr "Сортування квадрильйонів атомів..."
 
 #. STRINGS.UI.WORLDGEN.BUILDNOISESOURCE1
 msgctxt "STRINGS.UI.WORLDGEN.BUILDNOISESOURCE1"
 msgid "Sorting quadrillions of atoms..."
-msgstr "Сортування септильйону атомів..."
+msgstr "Сортування квадрильйонів атомів..."
 
 #. STRINGS.UI.WORLDGEN.BUILDNOISESOURCE2
 msgctxt "STRINGS.UI.WORLDGEN.BUILDNOISESOURCE2"
 msgid "Sorting quadrillions of atoms..."
-msgstr "Сортування септильйону атомів..."
+msgstr "Сортування квадрильйонів атомів..."
 
 #. STRINGS.UI.WORLDGEN.BUILDNOISESOURCE3
 msgctxt "STRINGS.UI.WORLDGEN.BUILDNOISESOURCE3"
@@ -42380,22 +42371,22 @@ msgstr "Прасування матерії створення..."
 #. STRINGS.UI.WORLDGEN.BUILDNOISESOURCE6
 msgctxt "STRINGS.UI.WORLDGEN.BUILDNOISESOURCE6"
 msgid "Taking hot meteor shower..."
-msgstr "Захоплення гарячою метеоритною зливою..."
+msgstr "Прийом гарячого метеоритного душу..."
 
 #. STRINGS.UI.WORLDGEN.BUILDNOISESOURCE7
 msgctxt "STRINGS.UI.WORLDGEN.BUILDNOISESOURCE7"
 msgid "Tightening asteroid belts..."
-msgstr "Стискання астероїдного поясу..."
+msgstr "Закріплення астероїдного поясу..."
 
 #. STRINGS.UI.WORLDGEN.BUILDNOISESOURCE8
 msgctxt "STRINGS.UI.WORLDGEN.BUILDNOISESOURCE8"
 msgid "Tightening asteroid belts..."
-msgstr "Стискання астероїдного поясу..."
+msgstr "Закріплення астероїдного поясу..."
 
 #. STRINGS.UI.WORLDGEN.BUILDNOISESOURCE9
 msgctxt "STRINGS.UI.WORLDGEN.BUILDNOISESOURCE9"
 msgid "Tightening asteroid belts..."
-msgstr "Стискання астероїдного поясу..."
+msgstr "Закріплення астероїдного поясу..."
 
 #. STRINGS.UI.WORLDGEN.CHOOSEWORLDSIZE
 msgctxt "STRINGS.UI.WORLDGEN.CHOOSEWORLDSIZE"
@@ -42405,7 +42396,7 @@ msgstr "Виберіть розмір вашої нової галактики."
 #. STRINGS.UI.WORLDGEN.CLEARINGLEVEL
 msgctxt "STRINGS.UI.WORLDGEN.CLEARINGLEVEL"
 msgid "Staring into the void..."
-msgstr "Пильний погляд на пустоту..."
+msgstr "Пильний погляд в порожнечу..."
 
 #. STRINGS.UI.WORLDGEN.COMPLETE
 msgctxt "STRINGS.UI.WORLDGEN.COMPLETE"
@@ -42415,27 +42406,27 @@ msgstr "Успіх! Космічні пригоди чекають."
 #. STRINGS.UI.WORLDGEN.COMPLETELAYOUT
 msgctxt "STRINGS.UI.WORLDGEN.COMPLETELAYOUT"
 msgid "Cooling glass..."
-msgstr "Охолоджуємо скло..."
+msgstr "Охолодження скла..."
 
 #. STRINGS.UI.WORLDGEN.COMPLETELAYOUT1
 msgctxt "STRINGS.UI.WORLDGEN.COMPLETELAYOUT1"
 msgid "Cooling glass..."
-msgstr "Охолоджуємо скло..."
+msgstr "Охолодження скла..."
 
 #. STRINGS.UI.WORLDGEN.COMPLETELAYOUT10
 msgctxt "STRINGS.UI.WORLDGEN.COMPLETELAYOUT10"
 msgid "Adding buckets of dirt..."
-msgstr "Додавання відер з землею..."
+msgstr "Додавання відер з грязюкою..."
 
 #. STRINGS.UI.WORLDGEN.COMPLETELAYOUT2
 msgctxt "STRINGS.UI.WORLDGEN.COMPLETELAYOUT2"
 msgid "Cooling glass..."
-msgstr "Охолоджуємо скло..."
+msgstr "Охолодження скла..."
 
 #. STRINGS.UI.WORLDGEN.COMPLETELAYOUT3
 msgctxt "STRINGS.UI.WORLDGEN.COMPLETELAYOUT3"
 msgid "Cooling glass..."
-msgstr "Охолоджуємо скло..."
+msgstr "Охолодження скла..."
 
 #. STRINGS.UI.WORLDGEN.COMPLETELAYOUT4
 msgctxt "STRINGS.UI.WORLDGEN.COMPLETELAYOUT4"
@@ -42455,22 +42446,22 @@ msgstr "Копання отворів..."
 #. STRINGS.UI.WORLDGEN.COMPLETELAYOUT7
 msgctxt "STRINGS.UI.WORLDGEN.COMPLETELAYOUT7"
 msgid "Adding buckets of dirt..."
-msgstr "Додавання відер з землею..."
+msgstr "Додавання відер з грязюкою..."
 
 #. STRINGS.UI.WORLDGEN.COMPLETELAYOUT8
 msgctxt "STRINGS.UI.WORLDGEN.COMPLETELAYOUT8"
 msgid "Adding buckets of dirt..."
-msgstr "Додавання відер з землею..."
+msgstr "Додавання відер з грязюкою..."
 
 #. STRINGS.UI.WORLDGEN.COMPLETELAYOUT9
 msgctxt "STRINGS.UI.WORLDGEN.COMPLETELAYOUT9"
 msgid "Adding buckets of dirt..."
-msgstr "Додавання відер з землею..."
+msgstr "Додавання відер з грязюкою..."
 
 #. STRINGS.UI.WORLDGEN.CONVERTTERRAINCELLSTOEDGES
 msgctxt "STRINGS.UI.WORLDGEN.CONVERTTERRAINCELLSTOEDGES"
 msgid "Hardening diamonds..."
-msgstr "Твердіння діамантів..."
+msgstr "Загартовування алмазів..."
 
 #. STRINGS.UI.WORLDGEN.DRAWWORLDBORDER
 msgctxt "STRINGS.UI.WORLDGEN.DRAWWORLDBORDER"
@@ -42480,12 +42471,12 @@ msgstr "Створення особистих кордонів..."
 #. STRINGS.UI.WORLDGEN.FAILED
 msgctxt "STRINGS.UI.WORLDGEN.FAILED"
 msgid "Goodness, has this ever gone terribly wrong!"
-msgstr "Доброта - це вічне прощання, страшної шкоди!"
+msgstr "Доброта - це страшна помилка минулого!"
 
 #. STRINGS.UI.WORLDGEN.GENERATENOISE
 msgctxt "STRINGS.UI.WORLDGEN.GENERATENOISE"
 msgid "Baking igneous rock..."
-msgstr "Запікання магматичного каменя..."
+msgstr "Запікання магматичного каменю..."
 
 #. STRINGS.UI.WORLDGEN.GENERATENOISE1
 msgctxt "STRINGS.UI.WORLDGEN.GENERATENOISE1"
@@ -42505,17 +42496,17 @@ msgstr "Багатошаровий осад..."
 #. STRINGS.UI.WORLDGEN.GENERATENOISE4
 msgctxt "STRINGS.UI.WORLDGEN.GENERATENOISE4"
 msgid "Superheating gases..."
-msgstr "Перегріті гази..."
+msgstr "Перегрівання газів..."
 
 #. STRINGS.UI.WORLDGEN.GENERATENOISE5
 msgctxt "STRINGS.UI.WORLDGEN.GENERATENOISE5"
 msgid "Superheating gases..."
-msgstr "Перегріті гази..."
+msgstr "Перегрівання газів..."
 
 #. STRINGS.UI.WORLDGEN.GENERATENOISE6
 msgctxt "STRINGS.UI.WORLDGEN.GENERATENOISE6"
 msgid "Superheating gases..."
-msgstr "Перегріті гази..."
+msgstr "Перегрівання газів..."
 
 #. STRINGS.UI.WORLDGEN.GENERATENOISE7
 msgctxt "STRINGS.UI.WORLDGEN.GENERATENOISE7"
@@ -42535,52 +42526,52 @@ msgstr "Відкачування вакууму..."
 #. STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM
 msgctxt "STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM"
 msgid "Catalyzing Big Bang..."
-msgstr "Каталізація великого вибуху..."
+msgstr "Каталізація Великого Вибуху..."
 
 #. STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM1
 msgctxt "STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM1"
 msgid "Catalyzing Big Bang..."
-msgstr "Каталізація великого вибуху..."
+msgstr "Каталізація Великого Вибуху..."
 
 #. STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM2
 msgctxt "STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM2"
 msgid "Catalyzing Big Bang..."
-msgstr "Каталізація великого вибуху..."
+msgstr "Каталізація Великого Вибуху..."
 
 #. STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM3
 msgctxt "STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM3"
 msgid "Catalyzing Big Bang..."
-msgstr "Каталізація великого вибуху..."
+msgstr "Каталізація Великого Вибуху..."
 
 #. STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM4
 msgctxt "STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM4"
 msgid "Catalyzing Big Bang..."
-msgstr "Каталізація великого вибуху..."
+msgstr "Каталізація Великого Вибуху..."
 
 #. STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM5
 msgctxt "STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM5"
 msgid "Catalyzing Big Bang..."
-msgstr "Каталізація великого вибуху..."
+msgstr "Каталізація Великого Вибуху..."
 
 #. STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM6
 msgctxt "STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM6"
 msgid "Approaching event horizon..."
-msgstr "Настання заходу горизонту..."
+msgstr "Наближення горизонту подій..."
 
 #. STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM7
 msgctxt "STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM7"
 msgid "Approaching event horizon..."
-msgstr "Настання заходу горизонту..."
+msgstr "Наближення горизонту подій..."
 
 #. STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM8
 msgctxt "STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM8"
 msgid "Approaching event horizon..."
-msgstr "Настання заходу горизонту..."
+msgstr "Наближення горизонту подій..."
 
 #. STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM9
 msgctxt "STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM9"
 msgid "Approaching event horizon..."
-msgstr "Настання заходу горизонту..."
+msgstr "Наближення горизонту подій..."
 
 #. STRINGS.UI.WORLDGEN.GENERATINGWORLD
 msgctxt "STRINGS.UI.WORLDGEN.GENERATINGWORLD"
@@ -42605,7 +42596,7 @@ msgstr "Інтерполяція токсичного газу..."
 #. STRINGS.UI.WORLDGEN.PLACINGCREATURES
 msgctxt "STRINGS.UI.WORLDGEN.PLACINGCREATURES"
 msgid "Building the suspense..."
-msgstr "Створення занепокоєння..."
+msgstr "Створення тривоги..."
 
 #. STRINGS.UI.WORLDGEN.PROCESSING
 msgctxt "STRINGS.UI.WORLDGEN.PROCESSING"
@@ -42670,27 +42661,27 @@ msgstr "Перезавантаження..."
 #. STRINGS.UI.WORLDGEN.RETRYCOUNT
 msgctxt "STRINGS.UI.WORLDGEN.RETRYCOUNT"
 msgid "Oh dear, let's try that again."
-msgstr "О дорогий, спробуй це знову."
+msgstr "О любий, спробуй це знову."
 
 #. STRINGS.UI.WORLDGEN.SETTLESIM
 msgctxt "STRINGS.UI.WORLDGEN.SETTLESIM"
 msgid "Infusing oxygen..."
-msgstr "Вливання кисню..."
+msgstr "Наповнення киснем..."
 
 #. STRINGS.UI.WORLDGEN.SETTLESIM1
 msgctxt "STRINGS.UI.WORLDGEN.SETTLESIM1"
 msgid "Infusing oxygen..."
-msgstr "Вливання кисню..."
+msgstr "Наповнення киснем..."
 
 #. STRINGS.UI.WORLDGEN.SETTLESIM2
 msgctxt "STRINGS.UI.WORLDGEN.SETTLESIM2"
 msgid "Too much oxygen. Removing..."
-msgstr "Дуже багато кисню. Вилучення..."
+msgstr "Забагато кисню. Вилучення..."
 
 #. STRINGS.UI.WORLDGEN.SETTLESIM3
 msgctxt "STRINGS.UI.WORLDGEN.SETTLESIM3"
 msgid "Too much oxygen. Removing..."
-msgstr "Дуже багато кисню. Вилучення..."
+msgstr "Забагато кисню. Вилучення..."
 
 #. STRINGS.UI.WORLDGEN.SETTLESIM4
 msgctxt "STRINGS.UI.WORLDGEN.SETTLESIM4"
