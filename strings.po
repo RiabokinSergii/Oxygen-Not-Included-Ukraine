@@ -12,13 +12,13 @@ msgstr ""
 "Application: Oxygen Not IncludedPOT Version: 2.0Language: ua\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Poedit 2.0.8\n"
+"X-Generator: Poedit 2.0.1\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
 #. STRINGS.BUILDING.DETAILS.USE_COUNT
 msgctxt "STRINGS.BUILDING.DETAILS.USE_COUNT"
 msgid "Uses: {0}"
-msgstr "Використовує: {0}"
+msgstr "Використань: {0}"
 
 #. STRINGS.BUILDING.DETAILS.USE_COUNT_TOOLTIP
 msgctxt "STRINGS.BUILDING.DETAILS.USE_COUNT_TOOLTIP"
@@ -566,12 +566,9 @@ msgstr ""
 "Відкритий: Ці двері залишаться відчинені"
 
 #. STRINGS.BUILDING.STATUSITEMS.DETECTORQUALITY.NAME
-#, fuzzy
-#| msgctxt "STRINGS.UI.CODEX.FOOD.QUALITY"
-#| msgid "Quality: {0}"
 msgctxt "STRINGS.BUILDING.STATUSITEMS.DETECTORQUALITY.NAME"
 msgid "Dish Quality: {Quality}"
-msgstr "Якість: {0}"
+msgstr "Якість Тарілки: {0}"
 
 #. STRINGS.BUILDING.STATUSITEMS.DETECTORQUALITY.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.DETECTORQUALITY.TOOLTIP"
@@ -597,7 +594,7 @@ msgstr "Сканування"
 msgctxt "STRINGS.BUILDING.STATUSITEMS.DETECTORSCANNING.TOOLTIP"
 msgid ""
 "This detector is currently peering in to the sky to find objects of interest."
-msgstr ""
+msgstr "Цей детектор зазирає зараз в небо, в пошуках цікавих об'єктів."
 
 #. STRINGS.BUILDING.STATUSITEMS.DIGREQUIRESROLEPERK.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.DIGREQUIRESROLEPERK.NAME"
@@ -1056,12 +1053,12 @@ msgstr "Ця будівля повинна бути занурена в ріди
 #. STRINGS.BUILDING.STATUSITEMS.INCOMINGMETEORS.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.INCOMINGMETEORS.NAME"
 msgid "Incoming Meteors"
-msgstr ""
+msgstr "Наближаються Метеорити"
 
 #. STRINGS.BUILDING.STATUSITEMS.INCOMINGMETEORS.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.INCOMINGMETEORS.TOOLTIP"
 msgid "There are high speed objects approaching!"
-msgstr ""
+msgstr "Наближаються об'єкти з високою швидкістю!"
 
 #. STRINGS.BUILDING.STATUSITEMS.INCUBATORPROGRESS.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.INCUBATORPROGRESS.NAME"
@@ -1245,12 +1242,9 @@ msgid "Manually Controlled"
 msgstr "Вручну Керований"
 
 #. STRINGS.BUILDING.STATUSITEMS.MANUALLYCONTROLLED.TOOLTIP
-#, fuzzy
-#| msgctxt "STRINGS.BUILDING.STATUSITEMS.MANUALLYCONTROLLED.TOOLTIP"
-#| msgid "This Duplicant is under your control"
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MANUALLYCONTROLLED.TOOLTIP"
 msgid "This Duplicant is under my control"
-msgstr "Цей Дублікант знаходиться під вашим контролем"
+msgstr "Цей Дублікант знаходиться під моїм контролем"
 
 #. STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLE.LINE_ITEM_MASS
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLE.LINE_ITEM_MASS"
@@ -1506,7 +1500,7 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.NETWORKQUALITY.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NETWORKQUALITY.NAME"
 msgid "Detector Network Quality: {TotalQuality}"
-msgstr ""
+msgstr "Якість сітки детекторів: {TotalQuality}"
 
 #. STRINGS.BUILDING.STATUSITEMS.NETWORKQUALITY.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NETWORKQUALITY.TOOLTIP"
@@ -1517,6 +1511,11 @@ msgid ""
 "Add more detectors and ensure they are each scanning effectively for best "
 "results."
 msgstr ""
+"Сітка ваших детекторів сканує з ефективністю {TotalQuality} та може виявити "
+"метеоритну зливу з {WorstTime} до {BestTime}, раніше ніж вони ударять.\n"
+"\n"
+"Додавання більше детекторів гарантує, що кожен з них сканує ефективніше з "
+"кращим результатом."
 
 #. STRINGS.BUILDING.STATUSITEMS.NEUTRONIUMUNMINABLE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEUTRONIUMUNMINABLE.NAME"
@@ -1581,7 +1580,7 @@ msgid ""
 "These buildings cannot produce the correct <b>Research Type</b> for the "
 "selected <link=\"TECH\">Research Focus</link>:"
 msgstr ""
-"Ці будівлі не можуть виробляти коректні <b>Тип Дослідження</b> для обраної "
+"Ці будівлі не можуть виробляти коректний <b>Тип Дослідження</b> для обраної "
 "<link=\"TECH\">Дослідницької Спрямованості</link>:"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOAPPLICABLERESEARCHSELECTED.TOOLTIP
@@ -2104,12 +2103,12 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.SPACENOTVISIBLE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SPACENOTVISIBLE.NAME"
 msgid "Space Not Visible"
-msgstr ""
+msgstr "Не видно космос"
 
 #. STRINGS.BUILDING.STATUSITEMS.SPACENOTVISIBLE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SPACENOTVISIBLE.TOOLTIP"
 msgid "This detector must be able to see the sky in order to detect anything."
-msgstr ""
+msgstr "Цей детектор повинен мати змогу бачити небо, щоб виявити що-небудь."
 
 #. STRINGS.BUILDING.STATUSITEMS.STORAGELOCKER.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.STORAGELOCKER.NAME"
@@ -2860,7 +2859,6 @@ msgid "A thermo regulator doesn't remove heat, but relocates it to a new area."
 msgstr ""
 "Газовий регулятор не прибирає тепло, але переміщює його до нової області."
 
-# перевірити перектад, те той що потрібен, після оновлення гри
 #. STRINGS.BUILDINGS.PREFABS.AIRCONDITIONER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.AIRCONDITIONER.EFFECT"
 msgid ""
@@ -2875,9 +2873,7 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.AIRCONDITIONER.NAME"
 msgid "<link=\"AIRCONDITIONER\">Thermo Regulator</link>"
 msgstr "<link=\"AIRCONDITIONER\">Газовий Регулятор</link>"
 
-# Ех! чи Ооо!
 #. STRINGS.BUILDINGS.PREFABS.AIRFILTER.DESC
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.AIRFILTER.DESC"
 msgid "Oh! Citrus scented!"
 msgstr "Ех! Цитрусовий аромат!"
@@ -2919,9 +2915,7 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.ALGAEDISTILLERY.NAME"
 msgid "<link=\"ALGAEDISTILLERY\">Algae Distiller</link>"
 msgstr "<link=\"ALGAEDISTILLERY\">Опріснювач Водоростів</link>"
 
-# перевірити переклад, чи доречний
 #. STRINGS.BUILDINGS.PREFABS.ALGAEHABITAT.DESC
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.ALGAEHABITAT.DESC"
 msgid ""
 "Algae colony, Duplicant colony... we're more alike than we are different."
@@ -3370,10 +3364,6 @@ msgstr ""
 "удобрювати домашні рослини."
 
 #. STRINGS.BUILDINGS.PREFABS.COMPOST.EFFECT
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.COMPOST.EFFECT"
-#| msgid ""
-#| "<link=\"TOXICSAND\">Polluted Dirt</link> down into <link=\"FERTILIZER"
-#| "\">Fertilizer</link>."
 msgctxt "STRINGS.BUILDINGS.PREFABS.COMPOST.EFFECT"
 msgid ""
 "Reduces <link=\"TOXICSAND\">Polluted Dirt</link> and other compostables down "
@@ -3683,24 +3673,18 @@ msgid "<link=\"EGGCRACKER\">Egg Cracker</link>"
 msgstr "<link=\"EGGCRACKER\">Розколювач Яєць</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EGGCRACKER.RECIPE_DESCRIPTION
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKCRUSHER.RECIPE_DESCRIPTION"
-#| msgid "Crushes {0} into {1}."
 msgctxt "STRINGS.BUILDINGS.PREFABS.EGGCRACKER.RECIPE_DESCRIPTION"
 msgid "Turns {0} into {1}."
-msgstr "Подрібнює {0} в {1}."
+msgstr "Перетворює {0} в {1}."
 
 #. STRINGS.BUILDINGS.PREFABS.EGGCRACKER.RESULT_DESCRIPTION
-#, fuzzy
 #| msgctxt "STRINGS.DUPLICANTS.DISEASES.STATUS_ITEM_TOOLTIP.INFECTION_SOURCE"
 #| msgid ""
 #| "\n"
 #| "Contracted {0}"
 msgctxt "STRINGS.BUILDINGS.PREFABS.EGGCRACKER.RESULT_DESCRIPTION"
 msgid "Cracked {0}"
-msgstr ""
-"\n"
-"Контактував {0}"
+msgstr "Розколює {0}"
 
 #. STRINGS.BUILDINGS.PREFABS.EGGINCUBATOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.EGGINCUBATOR.DESC"
@@ -3729,9 +3713,7 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.EGGINCUBATOR.NAME"
 msgid "<link=\"EGGINCUBATOR\">Incubator</link>"
 msgstr "<link=\"EGGINCUBATOR\">Інкубатор</link>"
 
-# Думаю, реданування не потрібне)
 #. STRINGS.BUILDINGS.PREFABS.ELECTROLYZER.DESC
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.ELECTROLYZER.DESC"
 msgid "Water goes in one end, life sustaining oxygen comes out the other."
 msgstr ""
@@ -3756,17 +3738,13 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.ELECTROLYZER.NAME"
 msgid "<link=\"ELECTROLYZER\">Electrolyzer</link>"
 msgstr "<link=\"ELECTROLYZER\">Електролізер</link>"
 
-# правильно чи ні переклад?
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.DESC
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.DESC"
 msgid "You'd be surprised how much research went into making this wall."
 msgstr ""
 "Ви здивуєтеся, як багато потрібно вивчити, щоб дійти до створення стін."
 
-# правильно чи ні переклад?
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.EFFECT
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.EFFECT"
 msgid "A key element to building rooms on the surface of the asteroid."
 msgstr "Ключовий елемент при будівництві кімнат на поверхні астероїда."
@@ -3782,14 +3760,11 @@ msgid "Window"
 msgstr "Вікно"
 
 #. STRINGS.BUILDINGS.PREFABS.FACILITYBACKWALLWINDOW.EFFECT
-#| msgid ""
 msgctxt "STRINGS.BUILDINGS.PREFABS.FACILITYBACKWALLWINDOW.EFFECT"
 msgid ""
 msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.FACILITYBACKWALLWINDOW.NAME
-#| msgctxt "STRINGS.ELEMENTS.SNOW.NAME"
-#| msgid "<link=\"SNOW\">Snow</link>"
 msgctxt "STRINGS.BUILDINGS.PREFABS.FACILITYBACKWALLWINDOW.NAME"
 msgid "<link=\"\">Window</link>"
 msgstr "<link=\"\">Вікно</link>"
@@ -4022,7 +3997,7 @@ msgstr "<link=\"FLOORSWITCH\">Вагова Плитка</link>"
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASE.DESC"
 msgid "Flower pots allow decorative plants to be moved to new locations."
 msgstr ""
-"Квіткові горщики дозволяють перемістити декоративні рослини в нові місця"
+"Квіткові горщики дозволяють перемістити декоративні рослини в нові місця."
 
 #. STRINGS.BUILDINGS.PREFABS.FLOWERVASE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASE.EFFECT"
@@ -4073,7 +4048,7 @@ msgid ""
 "Gas pipes are used to connect the inputs and outputs of ventilated buildings."
 msgstr ""
 "Газові труби використовуються для підключення входів та виходів "
-"провітрюваних будівель. "
+"провітрюваних будівель."
 
 #. STRINGS.BUILDINGS.PREFABS.GASCONDUIT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCONDUIT.EFFECT"
@@ -6733,12 +6708,9 @@ msgstr ""
 "сирої <link=\"RAWMETAL\">Металевої Руди</link>."
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKCRUSHER.LIME_RECIPE_DESCRIPTION
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKCRUSHER.RECIPE_DESCRIPTION"
-#| msgid "Crushes {0} into {1}."
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKCRUSHER.LIME_RECIPE_DESCRIPTION"
 msgid "Crushes {1} into {0}"
-msgstr "Подрібнює {0} в {1}."
+msgstr "Подрібнює {1} в {0}"
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKCRUSHER.METAL_RECIPE_DESCRIPTION
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKCRUSHER.METAL_RECIPE_DESCRIPTION"
@@ -7030,18 +7002,14 @@ msgstr "<link=\"SPACEHEATER\">Електро Камін</link>"
 #. STRINGS.BUILDINGS.PREFABS.SPACEWALL.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SPACEWALL.DESC"
 msgid "Keeps the space out and the atmosphere in"
-msgstr ""
+msgstr "Зберігає простір поза і атмосферу в"
 
 #. STRINGS.BUILDINGS.PREFABS.SPACEWALL.EFFECT
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.SPACEWALL.EFFECT"
 msgid "..."
 msgstr "..."
 
 #. STRINGS.BUILDINGS.PREFABS.SPACEWALL.NAME
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.SPACEHEATER.NAME"
-#| msgid "<link=\"SPACEHEATER\">Space Heater</link>"
 msgctxt "STRINGS.BUILDINGS.PREFABS.SPACEWALL.NAME"
 msgid "<link=\"SPACEWALL\">Space Wall</link>"
 msgstr "<link=\"SPACEWALL\">Космічна Стіна</link>"
@@ -7554,9 +7522,6 @@ msgid "<link=\"WIREBRIDGEHIGHWATTAGE\">Heavi-Watt Joint Plate</link>"
 msgstr "<link=\"WIREBRIDGEHIGHWATTAGE\">Потужна З'єдн. Пластина</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.WIREREFINED.DESC
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.WIREREFINED.DESC"
-#| msgid "Duplicants prefer the appearance of conductive wire to regular wire."
 msgctxt "STRINGS.BUILDINGS.PREFABS.WIREREFINED.DESC"
 msgid ""
 "My Duplicants prefer the look of conductive wire to the regular raggedy "
@@ -7695,20 +7660,19 @@ msgstr "Автоматично ремонтувати цю будівлю, ко�
 #. STRINGS.CODEX.ANALYSIS.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.ANALYSIS.BODY.CONTAINER1"
 msgid "Description of analysis/study mechanic"
-msgstr ""
+msgstr "Опис аналізу/вивчення механі"
 
 #. STRINGS.CODEX.ANALYSIS.SUBTITLE
 msgctxt "STRINGS.CODEX.ANALYSIS.SUBTITLE"
 msgid "Study of world features"
-msgstr ""
+msgstr "Вивчення особливості світу"
 
 #. STRINGS.CODEX.ANALYSIS.TITLE
-#, fuzzy
 #| msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.CAN_STUDY_WORLD_OBJECTS.DESCRIPTION"
 #| msgid "Trait: Geographical Feature <link=\"ANALYSIS\">Analysis</link>"
 msgctxt "STRINGS.CODEX.ANALYSIS.TITLE"
 msgid "<link=\"ANALYSIS\">Geographical Feature Analysis</link>"
-msgstr "Особливості: Географічні показники <link=\"ANALYSIS\">Аналізу</link>"
+msgstr "<link=\"ANALYSIS\">Географічні особливості аналізу</link>"
 
 #. STRINGS.CODEX.ATMOSPHERE.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.ATMOSPHERE.BODY.CONTAINER1"
@@ -28693,16 +28657,11 @@ msgid "<link=\"ADVANCEDPOWERREGULATION\">Advanced Power Regulation</link>"
 msgstr "<link=\"ADVANCEDPOWERREGULATION\">Поліпшені Електричні Правила</link>"
 
 #. STRINGS.RESEARCH.TECHS.ADVANCEDRESEARCH.DESC
-#, fuzzy
-#| msgctxt "STRINGS.RESEARCH.TECHS.ADVANCEDRESEARCH.DESC"
-#| msgid ""
-#| "The tools your colony needs to conduct more advanced and in depth "
-#| "research."
 msgctxt "STRINGS.RESEARCH.TECHS.ADVANCEDRESEARCH.DESC"
 msgid ""
 "The tools my colony needs to conduct more advanced and in-depth research."
 msgstr ""
-"Пристрої, необхідні вашій колонії для проведення більш просунутих та "
+"Пристрої, необхідні моїй колонії для проведення більш просунутих та "
 "поглиблених досліджень."
 
 #. STRINGS.RESEARCH.TECHS.ADVANCEDRESEARCH.NAME
@@ -28721,12 +28680,9 @@ msgid "<link=\"AGRICULTURE\">Agriculture</link>"
 msgstr "<link=\"AGRICULTURE\">Землеробство</link>"
 
 #. STRINGS.RESEARCH.TECHS.ANIMALCONTROL.DESC
-#, fuzzy
-#| msgctxt "STRINGS.RESEARCH.TECHS.ANIMALCONTROL.DESC"
-#| msgid "Useful techniques to manage critter populations in your base."
 msgctxt "STRINGS.RESEARCH.TECHS.ANIMALCONTROL.DESC"
 msgid "Useful techniques to manage critter populations in the colony."
-msgstr "Допоміжні технології, для управління популяцією тварин у вашій базі."
+msgstr "Допоміжні технології, для управління популяцією тварин в колонії."
 
 #. STRINGS.RESEARCH.TECHS.ANIMALCONTROL.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.ANIMALCONTROL.NAME"
@@ -28782,17 +28738,12 @@ msgid "<link=\"COMBUSTION\">Internal Combustion</link>"
 msgstr "<link=\"COMBUSTION\">Внутрішнє Спалювання</link>"
 
 #. STRINGS.RESEARCH.TECHS.DIRECTEDAIRSTREAMS.DESC
-#, fuzzy
-#| msgctxt "STRINGS.RESEARCH.TECHS.DIRECTEDAIRSTREAMS.DESC"
-#| msgid ""
-#| "Instruments to help you reduce <link=\"DISEASE\">Germ</link> spread in "
-#| "your base."
 msgctxt "STRINGS.RESEARCH.TECHS.DIRECTEDAIRSTREAMS.DESC"
 msgid ""
 "Instruments to help reduce <link=\"DISEASE\">Germ</link> spread in my base."
 msgstr ""
 "Інструменти, які допоможуть знизити поширення <link=\"DISEASE\">Бактерій</"
-"link> у вашій базі."
+"link> у моїй базі."
 
 #. STRINGS.RESEARCH.TECHS.DIRECTEDAIRSTREAMS.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.DIRECTEDAIRSTREAMS.NAME"
@@ -28810,12 +28761,9 @@ msgid "<link=\"DISTILLATION\">Distillation</link>"
 msgstr "<link=\"DISTILLATION\">Ратифікація</link>"
 
 #. STRINGS.RESEARCH.TECHS.DUPETRAFFICCONTROL.DESC
-#, fuzzy
-#| msgctxt "STRINGS.RESEARCH.TECHS.DUPETRAFFICCONTROL.DESC"
-#| msgid "Prevent your Duplicants from getting into dangerous situations."
 msgctxt "STRINGS.RESEARCH.TECHS.DUPETRAFFICCONTROL.DESC"
 msgid "Prevent my Duplicants from getting into dangerous situations."
-msgstr "Перешкоджає прохід вашим Дублікантам, в небезпечних ситуаціях."
+msgstr "Перешкоджає прохід моїм Дублікантам, в небезпечних ситуаціях."
 
 #. STRINGS.RESEARCH.TECHS.DUPETRAFFICCONTROL.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.DUPETRAFFICCONTROL.NAME"
@@ -28875,29 +28823,23 @@ msgstr "<link=\"GENERICSENSORS\">Загальні Чутливий Елемен�
 #. STRINGS.RESEARCH.TECHS.HIGHTEMPFORGING.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.HIGHTEMPFORGING.DESC"
 msgid "Heat allows the creation of entirely new materials."
-msgstr ""
+msgstr "Тепло дозволяє створювати цілком нові матеріали."
 
 #. STRINGS.RESEARCH.TECHS.HIGHTEMPFORGING.NAME
-#, fuzzy
 #| msgctxt "STRINGS.RESEARCH.TECHS.TEMPERATUREMODULATION.NAME"
 #| msgid "<link=\"TEMPERATUREMODULATION\">Temperature Modulation</link>"
 msgctxt "STRINGS.RESEARCH.TECHS.HIGHTEMPFORGING.NAME"
 msgid "<link=\"HIGHTEMPFORGING\">High-Temperature Forging</link>"
-msgstr "<link=\"TEMPERATUREMODULATION\">Температурна Модуляція</link>"
+msgstr "<link=\"HIGHTEMPFORGING\">Високотемпературне Кування</link>"
 
 #. STRINGS.RESEARCH.TECHS.HVAC.DESC
-#, fuzzy
-#| msgctxt "STRINGS.RESEARCH.TECHS.HVAC.DESC"
-#| msgid ""
-#| "Regulate <link=\"HEAT\">Temperature</link> in your colony for <link="
-#| "\"PLANTS\">Plant</link> cultivation and Duplicant comfort."
 msgctxt "STRINGS.RESEARCH.TECHS.HVAC.DESC"
 msgid ""
 "Regulate <link=\"HEAT\">Temperature</link> in the colony for <link=\"PLANTS"
 "\">Plant</link> cultivation and Duplicant comfort."
 msgstr ""
-"Регулюйте <link=\"HEAT\">Температуру</link> у вашій колонії для вирощування "
-"<link=\"PLANTS\">Рослин</link> та комфорту Дублікантів."
+"Регулюйте <link=\"HEAT\">Температуру</link> в колонії для вирощування <link="
+"\"PLANTS\">Рослин</link> та комфорту Дублікантів."
 
 #. STRINGS.RESEARCH.TECHS.HVAC.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.HVAC.NAME"
@@ -28947,12 +28889,9 @@ msgid "<link=\"IMPROVEDLIQUIDPIPING\">Improved Plumbing</link>"
 msgstr "<link=\"IMPROVEDLIQUIDPIPING\">Покращена Сантехніка</link>"
 
 #. STRINGS.RESEARCH.TECHS.IMPROVEDOXYGEN.DESC
-#, fuzzy
-#| msgctxt "STRINGS.RESEARCH.TECHS.IMPROVEDOXYGEN.DESC"
-#| msgid "Make the air in your colony clean and breathable."
 msgctxt "STRINGS.RESEARCH.TECHS.IMPROVEDOXYGEN.DESC"
 msgid "Make the air in the colony clean and breathable."
-msgstr "Робіть повітря вашої колонії чистим та придатним для дихання."
+msgstr "Робіть повітря колонії чистим та придатним для дихання."
 
 #. STRINGS.RESEARCH.TECHS.IMPROVEDOXYGEN.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.IMPROVEDOXYGEN.NAME"
@@ -28965,11 +28904,13 @@ msgid ""
 "Improve <link=\"HEAT\">Heat</link> distribution in my base and guard "
 "buildings from extreme temperatures."
 msgstr ""
+"Поліпшує розподіл <link=\"HEAT\">Тепла</link> в моїй базі та захищає будівлі "
+"від надзвичайних температур."
 
 #. STRINGS.RESEARCH.TECHS.INSULATION.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.INSULATION.NAME"
 msgid "<link=\"INSULATION\">Insulation</link>"
-msgstr ""
+msgstr "<link=\"INSULATION\">Ізоляція</link>"
 
 #. STRINGS.RESEARCH.TECHS.INTERIORDECOR.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.INTERIORDECOR.DESC"
@@ -29014,12 +28955,9 @@ msgid "<link=\"LIQUIDTEMPERATURE\">Liquid Tuning</link>"
 msgstr "<link=\"LIQUIDTEMPERATURE\">Регулювання Рідин</link>"
 
 #. STRINGS.RESEARCH.TECHS.LOGICCIRCUITS.DESC
-#, fuzzy
-#| msgctxt "STRINGS.RESEARCH.TECHS.LOGICCIRCUITS.DESC"
-#| msgid "Logic gates and wiring to allow you to program your base."
 msgctxt "STRINGS.RESEARCH.TECHS.LOGICCIRCUITS.DESC"
 msgid "Logic gates and wiring to allow me to program my base."
-msgstr "Логічні хвіртки та дроти, що допомагають програмувати вашу базу."
+msgstr "Логічні хвіртки та дроти, допомагають мені програмувати мою базу."
 
 #. STRINGS.RESEARCH.TECHS.LOGICCIRCUITS.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.LOGICCIRCUITS.NAME"
@@ -29027,12 +28965,9 @@ msgid "<link=\"LOGICCIRCUITS\">Advanced Automation</link>"
 msgstr "<link=\"LOGICCIRCUITS\">Покращена Автоматизація</link>"
 
 #. STRINGS.RESEARCH.TECHS.LOGICCONTROL.DESC
-#, fuzzy
-#| msgctxt "STRINGS.RESEARCH.TECHS.LOGICCONTROL.DESC"
-#| msgid "Use switches to control your buildings."
 msgctxt "STRINGS.RESEARCH.TECHS.LOGICCONTROL.DESC"
 msgid "Switches for controlling colony buildings."
-msgstr "Використовуйте перемикачі, для управління вашими будинками"
+msgstr "Перемикачі контролюють будинками колонії."
 
 #. STRINGS.RESEARCH.TECHS.LOGICCONTROL.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.LOGICCONTROL.NAME"
@@ -29052,18 +28987,13 @@ msgid "<link=\"LUXURY\">Home Luxuries</link>"
 msgstr "<link=\"LUXURY\">Домашня Насолода</link>"
 
 #. STRINGS.RESEARCH.TECHS.MEDBAY.DESC
-#, fuzzy
-#| msgctxt "STRINGS.RESEARCH.TECHS.MEDBAY.DESC"
-#| msgid ""
-#| "Prevent injury and <link=\"DISEASE\">Disease</link> from running rampant "
-#| "in your colony."
 msgctxt "STRINGS.RESEARCH.TECHS.MEDBAY.DESC"
 msgid ""
 "Prevent injury and <link=\"DISEASE\">Disease</link> from running rampant in "
 "the colony."
 msgstr ""
 "Запобігання тілесних ушкоджень та <link=\"DISEASE\">Захворювань</link> від "
-"загрозливого бігу в самій колонії."
+"загрозливого бігу в колонії."
 
 #. STRINGS.RESEARCH.TECHS.MEDBAY.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.MEDBAY.NAME"
@@ -29087,12 +29017,12 @@ msgstr "<link=\"MEDICALRESEARCH\">Медичні Дослідження</link>"
 #. STRINGS.RESEARCH.TECHS.METALREFINEMENT.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.METALREFINEMENT.DESC"
 msgid "High-temperature pure metal extraction."
-msgstr ""
+msgstr "Високотемпературний видобуток чистого металу."
 
 #. STRINGS.RESEARCH.TECHS.METALREFINEMENT.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.METALREFINEMENT.NAME"
 msgid "<link=\"METALREFINEMENT\">Metallurgy</link>"
-msgstr ""
+msgstr "<link=\"METALREFINEMENT\">Металургія</link>"
 
 #. STRINGS.RESEARCH.TECHS.PLASTICS.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.PLASTICS.DESC"
@@ -29161,18 +29091,18 @@ msgctxt "STRINGS.RESEARCH.TECHS.REFINEDOBJECTS.NAME"
 msgid "<link=\"REFINEDOBJECTS\">Refined Objects</link>"
 msgstr "<link=\"REFINEDOBJECTS\">Вдосконалені Об'єкти</link>"
 
+# Перевірити переклад
 #. STRINGS.RESEARCH.TECHS.REFRACTIVEDECOR.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.REFRACTIVEDECOR.DESC"
 msgid "The ultimate solution to ugly things? Make them transparent."
-msgstr ""
+msgstr "Остаточне рішення для потворних речей? Зробіть їх прозорими."
 
 #. STRINGS.RESEARCH.TECHS.REFRACTIVEDECOR.NAME
-#, fuzzy
 #| msgctxt "STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.NAME"
 #| msgid "<link=\"REFRIGERATOR\">Refrigerator</link>"
 msgctxt "STRINGS.RESEARCH.TECHS.REFRACTIVEDECOR.NAME"
 msgid "<link=\"REFRACTIVEDECOR\">Refractive Decor</link>"
-msgstr "<link=\"REFRIGERATOR\">Холодильник</link>"
+msgstr "<link=\"REFRACTIVEDECOR\">Рефракція Декору</link>"
 
 #. STRINGS.RESEARCH.TECHS.RENEWABLEENERGY.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.RENEWABLEENERGY.DESC"
@@ -29197,20 +29127,16 @@ msgstr "<link=\"SANITATIONSCIENCES\">Cанітарія</link>"
 #. STRINGS.RESEARCH.TECHS.SKYDETECTORS.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.SKYDETECTORS.DESC"
 msgid "Space: It's not quite as empty as you might think."
-msgstr ""
+msgstr "Космос - це не зовсім порожнеча, як ви думаєте."
 
 #. STRINGS.RESEARCH.TECHS.SKYDETECTORS.NAME
-#, fuzzy
 #| msgctxt "STRINGS.CODEX.DECOR.TITLE"
 #| msgid "<link=\"DECOR\">Decor</link>"
 msgctxt "STRINGS.RESEARCH.TECHS.SKYDETECTORS.NAME"
 msgid "<link=\"SKYDETECTORS\">Celestial Detection</link>"
-msgstr "<link=\"DECOR\">Декор</link>"
+msgstr "<link=\"SKYDETECTORS\">Небесні Відкриття</link>"
 
 #. STRINGS.RESEARCH.TECHS.SMARTSTORAGE.DESC
-#, fuzzy
-#| msgctxt "STRINGS.RESEARCH.TECHS.SMARTSTORAGE.DESC"
-#| msgid "Automate the storage of your solids."
 msgctxt "STRINGS.RESEARCH.TECHS.SMARTSTORAGE.DESC"
 msgid "Automate the storage of solids."
 msgstr "Автоматизуйте зберігання ваших твердих речовин."
@@ -29256,18 +29182,13 @@ msgid "<link=\"SUITS\">Environmental Protection</link>"
 msgstr "<link=\"SUITS\">Захисне Середовище</link>"
 
 #. STRINGS.RESEARCH.TECHS.TEMPERATUREMODULATION.DESC
-#, fuzzy
-#| msgctxt "STRINGS.RESEARCH.TECHS.TEMPERATUREMODULATION.DESC"
-#| msgid ""
-#| "Unlock <link=\"HEAT\">Temperature</link> changing technologies to keep "
-#| "your colony at the perfect Kelvin."
 msgctxt "STRINGS.RESEARCH.TECHS.TEMPERATUREMODULATION.DESC"
 msgid ""
 "Perfect <link=\"HEAT\">Temperature</link> changing technologies to keep my "
 "colony at the perfect Kelvin."
 msgstr ""
-"Розблокуйте технології зміни <link=\"HEAT\">Температури</link>, для тримання "
-"вашої колонії в ідеальних Кельвінах."
+"Розблокування технології зміни <link=\"HEAT\">Температури</link>, утримає "
+"мою колонії в ідеальних Кельвінах."
 
 #. STRINGS.RESEARCH.TECHS.TEMPERATUREMODULATION.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.TEMPERATUREMODULATION.NAME"
@@ -29275,9 +29196,6 @@ msgid "<link=\"TEMPERATUREMODULATION\">Temperature Modulation</link>"
 msgstr "<link=\"TEMPERATUREMODULATION\">Температурна Модуляція</link>"
 
 #. STRINGS.RESEARCH.TECHS.TRAVELTUBES.DESC
-#, fuzzy
-#| msgctxt "STRINGS.RESEARCH.TECHS.TRAVELTUBES.DESC"
-#| msgid "Get around your base quickly, safely, and in style!"
 msgctxt "STRINGS.RESEARCH.TECHS.TRAVELTUBES.DESC"
 msgid "Get Duplicants around the base quickly, safely, and in style!"
 msgstr "Переміщуйтесь навколо вашої бази швидше та з стилем!"
@@ -29913,8 +29831,6 @@ msgid "An elevator"
 msgstr "Звичайний Ліфт"
 
 #. STRINGS.SETITEMS.ELEVATOR.NAME
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.NAME"
-#| msgid "Lavatory"
 msgctxt "STRINGS.SETITEMS.ELEVATOR.NAME"
 msgid "Elevator"
 msgstr "Ліфт"
@@ -29925,8 +29841,6 @@ msgid "A big statue"
 msgstr "Велика статуя"
 
 #. STRINGS.SETITEMS.FACILITY_CENTERPEICE.NAME
-#| msgctxt "STRINGS.UI.DETAILTABS.SIMPLEINFO.NAME"
-#| msgid "Status"
 msgctxt "STRINGS.SETITEMS.FACILITY_CENTERPEICE.NAME"
 msgid "Statue"
 msgstr "Статуя"
@@ -29957,8 +29871,6 @@ msgid "A desk"
 msgstr "Робочий стіл"
 
 #. STRINGS.SETITEMS.FACILITY_DESK.NAME
-#| msgctxt "STRINGS.UI.SCHEDULEBLOCKTYPES.RECREATION.NAME"
-#| msgid "Recreation"
 msgctxt "STRINGS.SETITEMS.FACILITY_DESK.NAME"
 msgid "Director's Desk"
 msgstr "Стіл Директора"
@@ -29969,22 +29881,16 @@ msgid "An electronic display"
 msgstr "Звичайний електронний екран"
 
 #. STRINGS.SETITEMS.FACILITY_DISPLAY.NAME
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.COOKINGSTATION.NAME"
-#| msgid "Electric Grill"
 msgctxt "STRINGS.SETITEMS.FACILITY_DISPLAY.NAME"
 msgid "Electronic Display"
 msgstr "Електронний Екран"
 
 #. STRINGS.SETITEMS.FACILITY_GLOBE_DROORS.DESC
-#| msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGBAITDELIVERY.NAME"
-#| msgid "Awaiting Bait"
 msgctxt "STRINGS.SETITEMS.FACILITY_GLOBE_DROORS.DESC"
 msgid "A filing cabinet"
 msgstr "Офісна Шафа"
 
 #. STRINGS.SETITEMS.FACILITY_GLOBE_DROORS.NAME
-#| msgctxt "STRINGS.MISC.TAGS.MESSSTATION"
-#| msgid "Dining Table"
 msgctxt "STRINGS.SETITEMS.FACILITY_GLOBE_DROORS.NAME"
 msgid "Filing Cabinet"
 msgstr "Офісна Шафа"
@@ -29995,23 +29901,16 @@ msgid "A lamp"
 msgstr "Ліхтар"
 
 #. STRINGS.SETITEMS.FACILITY_LAMP.NAME
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.FLOORLAMP.NAME"
-#| msgid "Lamp"
 msgctxt "STRINGS.SETITEMS.FACILITY_LAMP.NAME"
 msgid "Lamp"
 msgstr "Ліхтар"
 
 #. STRINGS.SETITEMS.FACILITY_TALLPLANT.DESC
-#, fuzzy
-#| msgctxt "STRINGS.CODEX.WHEEZEWORT.SUBTITLE"
-#| msgid "Plant"
 msgctxt "STRINGS.SETITEMS.FACILITY_TALLPLANT.DESC"
 msgid "A plant"
 msgstr "Рослина в горщику"
 
 #. STRINGS.SETITEMS.FACILITY_TALLPLANT.NAME
-#| msgctxt "STRINGS.CODEX.WHEEZEWORT.SUBTITLE"
-#| msgid "Plant"
 msgctxt "STRINGS.SETITEMS.FACILITY_TALLPLANT.NAME"
 msgid "Plant"
 msgstr "Рослина"
@@ -30068,6 +29967,7 @@ msgctxt "STRINGS.SETITEMS.LOCKER.NAME"
 msgid "Locker"
 msgstr "Шафка"
 
+# Перевірити переклад
 #. STRINGS.SETITEMS.RECEPTION_DESK.DESC
 #, fuzzy
 #| msgctxt "STRINGS.SETITEMS.DESK.DESC"
@@ -30083,12 +29983,9 @@ msgstr ""
 "ледь функціонуючим комп'ютером."
 
 #. STRINGS.SETITEMS.RECEPTION_DESK.NAME
-#, fuzzy
-#| msgctxt "STRINGS.UI.SCHEDULEBLOCKTYPES.RECREATION.NAME"
-#| msgid "Recreation"
 msgctxt "STRINGS.SETITEMS.RECEPTION_DESK.NAME"
 msgid "Reception Desk"
-msgstr "Відпочинок"
+msgstr "Стіл Приймальні"
 
 #. STRINGS.SETITEMS.SKELETON.DESC
 msgctxt "STRINGS.SETITEMS.SKELETON.DESC"
@@ -33030,8 +32927,6 @@ msgid "DEVELOPMENT BUILD: {0}"
 msgstr "БІЛД В РОЗРОБЦІ: {0}"
 
 #. STRINGS.UI.DROPDOWN.NONE
-#| msgctxt "STRINGS.BUILDING.STATUSITEMS.UNASSIGNED.NAME"
-#| msgid "Unassigned"
 msgctxt "STRINGS.UI.DROPDOWN.NONE"
 msgid "Unassigned"
 msgstr ""
@@ -35659,15 +35554,6 @@ msgid "Reset Priorities"
 msgstr "Скинути Пріорит."
 
 #. STRINGS.UI.JOBSSCREEN.RESET_SETTINGS_TOOLTIP
-#, fuzzy
-#| msgctxt "STRINGS.UI.JOBSSCREEN.RESET_SETTINGS_TOOLTIP"
-#| msgid ""
-#| "Resets all priorities to the default values for this mode.\n"
-#| "\n"
-#| "Normal Mode: All priorities will be reset to neutral.\n"
-#| "\n"
-#| "Advanced Mode: Priorities will be adjusted high-to-low for normal base "
-#| "operation."
 msgctxt "STRINGS.UI.JOBSSCREEN.RESET_SETTINGS_TOOLTIP"
 msgid ""
 "Resets all priorities to the default values for this mode.\n"
@@ -35678,9 +35564,9 @@ msgid ""
 msgstr ""
 "Скинути всі пріоритетні значення за замовчуванням для цього режиму.\n"
 "\n"
-"Звичайний Режим: Всі пріоритети будуть скинуті на нейтральні.\n"
+"Звичайний: Всі пріоритети будуть скинуті на нейтральні.\n"
 "\n"
-"Розширений Режим: Пріоритети будуть налаштовані від високого до низького для "
+"Розширений: Пріоритети будуть налаштовані від високого до низького для "
 "звичайної діяльності бази."
 
 #. STRINGS.UI.JOBSSCREEN.SORT_TOOLTIP
@@ -35694,12 +35580,9 @@ msgid "MANAGE ERRAND PRIORITIES"
 msgstr "УПРАВЛІННЯ ПРІОРИТЕТАМИ ЗАВДАНЬ"
 
 #. STRINGS.UI.JOBSSCREEN.TOGGLE_ADVANCED_MODE
-#, fuzzy
-#| msgctxt "STRINGS.UI.JOBSSCREEN.TOGGLE_ADVANCED_MODE"
-#| msgid "Advanced Mode"
 msgctxt "STRINGS.UI.JOBSSCREEN.TOGGLE_ADVANCED_MODE"
 msgid "Advanced"
-msgstr "Розширений Режим"
+msgstr "Розширений"
 
 #. STRINGS.UI.JOBSSCREEN.TOGGLE_ADVANCED_MODE_TOOLTIP
 #, fuzzy
@@ -36520,17 +36403,16 @@ msgid "Unlit Area"
 msgstr "Не Освітлена Територія"
 
 #. STRINGS.UI.OVERLAYS.LIGHTING.DESC
-#, fuzzy
 #| msgctxt "STRINGS.UI.NAME_WITH_UNITS"
 #| msgid "{0} x {1}"
 msgctxt "STRINGS.UI.OVERLAYS.LIGHTING.DESC"
 msgid "{0} Lux"
-msgstr "{0} x {1}"
+msgstr "{0} Люкс"
 
 #. STRINGS.UI.OVERLAYS.LIGHTING.HOVERTITLE
 msgctxt "STRINGS.UI.OVERLAYS.LIGHTING.HOVERTITLE"
 msgid "LIGHT"
-msgstr ""
+msgstr "СВІТЛО"
 
 #. STRINGS.UI.OVERLAYS.LIGHTING.LITAREA
 msgctxt "STRINGS.UI.OVERLAYS.LIGHTING.LITAREA"
@@ -36543,54 +36425,41 @@ msgid "LIGHT OVERLAY"
 msgstr "ОВЕРЛЕЙ СВІТЛА"
 
 #. STRINGS.UI.OVERLAYS.LIGHTING.RANGES.HIGH_LIGHT
-#, fuzzy
-#| msgctxt "STRINGS.BUILDING.STATUSITEMS.DIRECTION_CONTROL.DIRECTIONS.RIGHT"
-#| msgid "Right"
 msgctxt "STRINGS.UI.OVERLAYS.LIGHTING.RANGES.HIGH_LIGHT"
 msgid "Bright"
-msgstr "Право"
+msgstr "Яскраво"
 
 #. STRINGS.UI.OVERLAYS.LIGHTING.RANGES.LOW_LIGHT
-#, fuzzy
-#| msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.DIG.NAME"
-#| msgid "Dig"
 msgctxt "STRINGS.UI.OVERLAYS.LIGHTING.RANGES.LOW_LIGHT"
 msgid "Dim"
-msgstr "Копання"
+msgstr "Неяскраво"
 
 #. STRINGS.UI.OVERLAYS.LIGHTING.RANGES.MAX_LIGHT
-#, fuzzy
-#| msgctxt "STRINGS.INPUT_BINDINGS.BUILDING.NAME"
-#| msgid "Building"
 msgctxt "STRINGS.UI.OVERLAYS.LIGHTING.RANGES.MAX_LIGHT"
 msgid "Blinding"
-msgstr "Будівнитво"
+msgstr "Сліпуче"
 
 #. STRINGS.UI.OVERLAYS.LIGHTING.RANGES.MEDIUM_LIGHT
-#, fuzzy
-#| msgctxt "STRINGS.CREATURES.DOMESTICATION.CRITERIA.WELL_FED.NAME"
-#| msgid "Well Fed"
 msgctxt "STRINGS.UI.OVERLAYS.LIGHTING.RANGES.MEDIUM_LIGHT"
 msgid "Well Lit"
-msgstr "Добре поїв"
+msgstr "Добре Світло"
 
+# Перевірити переклад
 #. STRINGS.UI.OVERLAYS.LIGHTING.RANGES.NO_LIGHT
+#, fuzzy
 msgctxt "STRINGS.UI.OVERLAYS.LIGHTING.RANGES.NO_LIGHT"
 msgid "Pitch Black"
-msgstr ""
+msgstr "Чорно як смола"
 
 #. STRINGS.UI.OVERLAYS.LIGHTING.RANGES.VERY_HIGH_LIGHT
 msgctxt "STRINGS.UI.OVERLAYS.LIGHTING.RANGES.VERY_HIGH_LIGHT"
 msgid "Brilliant"
-msgstr ""
+msgstr "Надто Яскраво"
 
 #. STRINGS.UI.OVERLAYS.LIGHTING.RANGES.VERY_LOW_LIGHT
-#, fuzzy
-#| msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.DARKEST"
-#| msgid "Darkest"
 msgctxt "STRINGS.UI.OVERLAYS.LIGHTING.RANGES.VERY_LOW_LIGHT"
 msgid "Dark"
-msgstr "Темна"
+msgstr "Темрява"
 
 #. STRINGS.UI.OVERLAYS.LIGHTING.TOOLTIPS.DARK
 msgctxt "STRINGS.UI.OVERLAYS.LIGHTING.TOOLTIPS.DARK"
@@ -37069,7 +36938,6 @@ msgstr ""
 "створювати високий рівень шуму."
 
 #. STRINGS.UI.OVERLAYS.NOISE_POLLUTION.TOTAL
-#, fuzzy
 msgctxt "STRINGS.UI.OVERLAYS.NOISE_POLLUTION.TOTAL"
 msgid "Total"
 msgstr "Всього"
@@ -37427,16 +37295,6 @@ msgid "+{0}"
 msgstr "+{0}"
 
 #. STRINGS.UI.PRIORITYSCREEN.BASIC
-#, fuzzy
-#| msgctxt "STRINGS.UI.PRIORITYSCREEN.BASIC"
-#| msgid ""
-#| "Set the order in which with which pending errands should be done\n"
-#| "\n"
-#| "Sub-Priority will always be overridden by Duplicant Priorities "
-#| "<color=#F44A47>[J]</color>\n"
-#| "------------------\n"
-#| "1: Least Urgent\n"
-#| "9: Most Urgent"
 msgctxt "STRINGS.UI.PRIORITYSCREEN.BASIC"
 msgid ""
 "Set the order in which with which pending errands should be done\n"
@@ -37457,11 +37315,6 @@ msgstr ""
 "9: Найбільша Терміновість"
 
 #. STRINGS.UI.PRIORITYSCREEN.DIAGRAM
-#, fuzzy
-#| msgctxt "STRINGS.UI.PRIORITYSCREEN.DIAGRAM"
-#| msgid ""
-#| "Duplicants will pick errands according to their Priorities first, and "
-#| "then based on Sub-Priority."
 msgctxt "STRINGS.UI.PRIORITYSCREEN.DIAGRAM"
 msgid ""
 "Duplicants will pick errands according to their Priorities first, and their "
@@ -37491,13 +37344,6 @@ msgid ""
 msgstr ""
 
 #. STRINGS.UI.PRIORITYSCREEN.OPEN_JOBS_SCREEN
-#, fuzzy
-#| msgctxt "STRINGS.UI.PRIORITYSCREEN.OPEN_JOBS_SCREEN"
-#| msgid ""
-#| "Click to open the Duplicant Priorities screen.\n"
-#| "\n"
-#| "Duplicants will pick errands according to their Priorities first, and "
-#| "then based on Sub-Priority."
 msgctxt "STRINGS.UI.PRIORITYSCREEN.OPEN_JOBS_SCREEN"
 msgid ""
 "Click to open the Duplicant Priorities screen\n"
@@ -37966,13 +37812,12 @@ msgid "Build a Jobs Board to unlock Job Assignments"
 msgstr "Побудуй Дошки Роботи, щоб відкрити розділ роботи"
 
 #. STRINGS.UI.ROLES_SCREEN.PERKS.ADVANCED_RESEARCH.DESCRIPTION
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.ADVANCEDRESEARCHCENTER.NAME"
-#| msgid "<link=\"ADVANCEDRESEARCHCENTER\">Super Computer</link>"
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.ADVANCED_RESEARCH.DESCRIPTION"
 msgid ""
 "Trait: <link=\"ADVANCEDRESEARCHCENTER\">Super Computer</link> Researching"
-msgstr "<link=\"ADVANCEDRESEARCHCENTER\">Супер Комп'ютер</link>"
+msgstr ""
+"Особливості: Дослідження на <link=\"ADVANCEDRESEARCHCENTER\">Супер "
+"Комп'ютері</link>"
 
 #. STRINGS.UI.ROLES_SCREEN.PERKS.CAN_ART.DESCRIPTION
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.CAN_ART.DESCRIPTION"
@@ -37980,12 +37825,10 @@ msgid ""
 "Trait: Can work <link=\"CANVAS\">Blank Canvas</link> and <link=\"SCULPTURE"
 "\">Sculpting Block</link>"
 msgstr ""
+"Особливості: Робота над <link=\"CANVAS\">Чистими Полотнами</link> та <link="
+"\"SCULPTURE\">Брилою для Ліпки</link>"
 
 #. STRINGS.UI.ROLES_SCREEN.PERKS.CAN_DIG_NEARLY_IMPENETRABLE.DESCRIPTION
-#, fuzzy
-#| msgctxt ""
-#| "STRINGS.UI.ROLES_SCREEN.PERKS.CAN_DIG_NEARLY_IMPENETRABLE.DESCRIPTION"
-#| msgid "Trait: <link=\"HARDNESS\">Abyssalite</link> Mining"
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.CAN_DIG_NEARLY_IMPENETRABLE.DESCRIPTION"
 msgid "Trait: <link=\"KATAIRITE\">Abyssalite</link> Mining"
 msgstr "Особливості: Копання <link=\"HARDNESS\">Абіссаліту</link>"
@@ -38001,46 +37844,32 @@ msgid "Trait: Plumbing"
 msgstr "Особливості: Сантехніка"
 
 #. STRINGS.UI.ROLES_SCREEN.PERKS.CAN_ELECTRIC_GRILL.DESCRIPTION
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.COOKINGSTATION.NAME"
-#| msgid "<link=\"COOKINGSTATION\">Electric Grill</link>"
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.CAN_ELECTRIC_GRILL.DESCRIPTION"
 msgid "Trait: <link=\"COOKINGSTATION\">Electric Grill</link> Cooking"
-msgstr "<link=\"COOKINGSTATION\">Електричний Гриль</link>"
+msgstr ""
+"Особливості: Приготування на <link=\"COOKINGSTATION\">Електричному Грилі</"
+"link>"
 
 #. STRINGS.UI.ROLES_SCREEN.PERKS.CAN_FARM_TINKER.DESCRIPTION
-#, fuzzy
-#| msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.CAN_FARM_TINKER.DESCRIPTION"
-#| msgid ""
-#| "Trait: <link=\"PLANTS\">Crop Tending</link>\n"
-#| "    • Trait: <link=\"MISC\">Micronutrient fertilizer</link> Crafting"
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.CAN_FARM_TINKER.DESCRIPTION"
 msgid ""
 "Trait: <link=\"PLANTS\">Crop Tending</link> and Micronutrient Fertilizer "
 "Crafting"
 msgstr ""
-"Особливості: Збирання <link=\"PLANTS\">Врожаю</link>\n"
-"    • Особливості: Створення <link=\"MISC\">Мікроелементарного Добрива</link>"
+"Особливості: <link=\"PLANTS\">Збирання Врожаю</link> та Створення "
+"Мікроелементного Добрива"
 
 #. STRINGS.UI.ROLES_SCREEN.PERKS.CAN_POWER_TINKER.DESCRIPTION
-#, fuzzy
-#| msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.CAN_POWER_TINKER.DESCRIPTION"
-#| msgid ""
-#| "Trait: <link=\"POWER\">Generator Tuning</link> \n"
-#| "    • Trait: <link=\"MICROCHIP\">Microchip</link> Crafting"
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.CAN_POWER_TINKER.DESCRIPTION"
 msgid "Trait: <link=\"POWER\">Generator Tuning</link> and Microchip Crafting"
 msgstr ""
-"Особливості: <link=\"POWER\">Генераторний</link> Лад\n"
-"    • Особливості: <link=\"MICROCHIP\">Мікрочіпова</link> Майстерність"
+"Особливості: <link=\"POWER\">Генераторний Лад</link> та створення Мікро чіпів"
 
 #. STRINGS.UI.ROLES_SCREEN.PERKS.CAN_STUDY_WORLD_OBJECTS.DESCRIPTION
-#, fuzzy
-#| msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.CAN_STUDY_WORLD_OBJECTS.DESCRIPTION"
-#| msgid "Trait: Geographical Feature <link=\"ANALYSIS\">Analysis</link>"
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.CAN_STUDY_WORLD_OBJECTS.DESCRIPTION"
 msgid "Trait: <link=\"ANALYSIS\">Geographical Feature Analysis</link>"
-msgstr "Особливості: Географічні показники <link=\"ANALYSIS\">Аналізу</link>"
+msgstr ""
+"Особливості: <link=\"ANALYSIS\">Аналіз географічних особливостей</link>"
 
 #. STRINGS.UI.ROLES_SCREEN.PERKS.CAN_USE_RANCH_STATION.DESCRIPTION
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.CAN_USE_RANCH_STATION.DESCRIPTION"
@@ -38053,15 +37882,10 @@ msgid "Trait: Critter Wrangling"
 msgstr "Особливості: Випасання Тварин"
 
 #. STRINGS.UI.ROLES_SCREEN.PERKS.CONVEYOR_BUILD.DESCRIPTION
-#, fuzzy
-#| msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.CONVEYOR_BUILD.DESCRIPTION"
-#| msgid ""
-#| "Trait: <link=\"CONVEYOR RAIL\">Conveyor Rail System</link> Construction"
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.CONVEYOR_BUILD.DESCRIPTION"
 msgid "Trait: <link=\"SOLIDCONDUIT\">Conveyor Rail</link> Construction"
 msgstr ""
-"Особливості: Будівництво <link=\"CONVEYOR RAIL\">Конвеєрної Рейкової "
-"Системи</link>"
+"Особливості: Будівництво <link=\"CONVEYOR RAIL\">Конвеєрної Рейки</link>"
 
 #. STRINGS.UI.ROLES_SCREEN.PERKS.EXOSUIT_EXPERTISE.DESCRIPTION
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.EXOSUIT_EXPERTISE.DESCRIPTION"
@@ -38393,12 +38217,9 @@ msgid "Brush"
 msgstr "Пензель"
 
 #. STRINGS.UI.SANDBOXTOOLS.SETTINGS.BRUSH.TOOLTIP
-#, fuzzy
-#| msgctxt "STRINGS.UI.SANDBOXTOOLS.SETTINGS.HEATGUN.TOOLTIP"
-#| msgid "Inject thermal energy into the world simulation"
 msgctxt "STRINGS.UI.SANDBOXTOOLS.SETTINGS.BRUSH.TOOLTIP"
 msgid "Paint elements into the world simulation"
-msgstr "Вводьте теплову енергію в світовий симулятор"
+msgstr "Намалювати елементи в світовий симулятор"
 
 #. STRINGS.UI.SANDBOXTOOLS.SETTINGS.BRUSH_NOISE.NAME
 msgctxt "STRINGS.UI.SANDBOXTOOLS.SETTINGS.BRUSH_NOISE.NAME"
@@ -38421,17 +38242,14 @@ msgid "Adjust brush size"
 msgstr "Налаштування розміру пензля"
 
 #. STRINGS.UI.SANDBOXTOOLS.SETTINGS.CLEAR_FLOOR.NAME
-#, fuzzy
-#| msgctxt "STRINGS.UI.OVERLAYS.DECOR.CLUTTER"
-#| msgid "Debris"
 msgctxt "STRINGS.UI.SANDBOXTOOLS.SETTINGS.CLEAR_FLOOR.NAME"
 msgid "Clear Debris"
-msgstr "Сміття"
+msgstr "Прибрати Сміття"
 
 #. STRINGS.UI.SANDBOXTOOLS.SETTINGS.CLEAR_FLOOR.TOOLTIP
 msgctxt "STRINGS.UI.SANDBOXTOOLS.SETTINGS.CLEAR_FLOOR.TOOLTIP"
 msgid "Delete loose items cluttering the floor"
-msgstr ""
+msgstr "Видалити загублені предмети як сміття з підлоги"
 
 #. STRINGS.UI.SANDBOXTOOLS.SETTINGS.DESTROY.NAME
 msgctxt "STRINGS.UI.SANDBOXTOOLS.SETTINGS.DESTROY.NAME"
@@ -38439,12 +38257,9 @@ msgid "Destroy"
 msgstr "Знищення"
 
 #. STRINGS.UI.SANDBOXTOOLS.SETTINGS.DESTROY.TOOLTIP
-#, fuzzy
-#| msgctxt "STRINGS.UI.SANDBOXTOOLS.SETTINGS.DESTROY.TOOLTIP"
-#| msgid "Destroy everything on a cell"
 msgctxt "STRINGS.UI.SANDBOXTOOLS.SETTINGS.DESTROY.TOOLTIP"
 msgid "Delete everything in the selected cell(s)"
-msgstr "Знищити все в клітинці"
+msgstr "Знищити все у виділеній клітинці"
 
 #. STRINGS.UI.SANDBOXTOOLS.SETTINGS.DISEASE_COUNT.NAME
 msgctxt "STRINGS.UI.SANDBOXTOOLS.SETTINGS.DISEASE_COUNT.NAME"
@@ -38457,33 +38272,24 @@ msgid "Adjust germ count"
 msgstr "Налаштувати кількість бактерій"
 
 #. STRINGS.UI.SANDBOXTOOLS.SETTINGS.FLOOD.NAME
-#, fuzzy
-#| msgctxt "STRINGS.UI.DEBUG_TOOLS.PAINT_ELEMENTS_SCREEN.FILL"
-#| msgid "Fill"
 msgctxt "STRINGS.UI.SANDBOXTOOLS.SETTINGS.FLOOD.NAME"
 msgid "Fill"
-msgstr "Заповнити"
+msgstr "Залити"
 
 #. STRINGS.UI.SANDBOXTOOLS.SETTINGS.FLOOD.TOOLTIP
-#, fuzzy
-#| msgctxt "STRINGS.UI.SANDBOXTOOLS.SETTINGS.BRUSH.TOOLTIP"
-#| msgid "Paint the world simulation with the brush tool"
 msgctxt "STRINGS.UI.SANDBOXTOOLS.SETTINGS.FLOOD.TOOLTIP"
 msgid "Fill a section of the simulation with the chosen element"
-msgstr "Малюйте в світовому симуляторі, знаряддям пензля"
+msgstr "Залити виділене в світовому симуляторі, з обраними елементами"
 
 #. STRINGS.UI.SANDBOXTOOLS.SETTINGS.FOW.NAME
-#, fuzzy
-#| msgctxt "STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.REVERTBUTTON"
-#| msgid "Revert"
 msgctxt "STRINGS.UI.SANDBOXTOOLS.SETTINGS.FOW.NAME"
 msgid "Reveal"
-msgstr "Повернути"
+msgstr "Викриття"
 
 #. STRINGS.UI.SANDBOXTOOLS.SETTINGS.FOW.TOOLTIP
 msgctxt "STRINGS.UI.SANDBOXTOOLS.SETTINGS.FOW.TOOLTIP"
 msgid "Dispel the Fog of War shrouding the map"
-msgstr ""
+msgstr "Розсіяти Туман Війни, обгортаючи мапу"
 
 #. STRINGS.UI.SANDBOXTOOLS.SETTINGS.HEATGUN.NAME
 msgctxt "STRINGS.UI.SANDBOXTOOLS.SETTINGS.HEATGUN.NAME"
@@ -38491,9 +38297,6 @@ msgid "Heat Gun"
 msgstr "Тепло Гармата"
 
 #. STRINGS.UI.SANDBOXTOOLS.SETTINGS.HEATGUN.TOOLTIP
-#, fuzzy
-#| msgctxt "STRINGS.UI.SANDBOXTOOLS.SETTINGS.HEATGUN.TOOLTIP"
-#| msgid "Inject thermal energy into the world simulation"
 msgctxt "STRINGS.UI.SANDBOXTOOLS.SETTINGS.HEATGUN.TOOLTIP"
 msgid "Inject thermal energy into the simulation"
 msgstr "Вводьте теплову енергію в світовий симулятор"
@@ -38501,12 +38304,12 @@ msgstr "Вводьте теплову енергію в світовий сим�
 #. STRINGS.UI.SANDBOXTOOLS.SETTINGS.INSTANT_BUILD.NAME
 msgctxt "STRINGS.UI.SANDBOXTOOLS.SETTINGS.INSTANT_BUILD.NAME"
 msgid "Instant build mode"
-msgstr ""
+msgstr "Режим миттєвого будівництва"
 
 #. STRINGS.UI.SANDBOXTOOLS.SETTINGS.INSTANT_BUILD.TOOLTIP
 msgctxt "STRINGS.UI.SANDBOXTOOLS.SETTINGS.INSTANT_BUILD.TOOLTIP"
 msgid "Toggle between placing construction plans and fully built buildings"
-msgstr ""
+msgstr "Перемикає між розміщенням планів та повністю побудованих будівель"
 
 #. STRINGS.UI.SANDBOXTOOLS.SETTINGS.MASS.NAME
 msgctxt "STRINGS.UI.SANDBOXTOOLS.SETTINGS.MASS.NAME"
@@ -38524,12 +38327,9 @@ msgid "Sample"
 msgstr "Взірець"
 
 #. STRINGS.UI.SANDBOXTOOLS.SETTINGS.SAMPLE.TOOLTIP
-#, fuzzy
-#| msgctxt "STRINGS.UI.SANDBOXTOOLS.SETTINGS.SAMPLE.TOOLTIP"
-#| msgid "Sample a tile's state for use with the brush tools"
 msgctxt "STRINGS.UI.SANDBOXTOOLS.SETTINGS.SAMPLE.TOOLTIP"
 msgid "Copy the settings from a cell to use with brush tools"
-msgstr "Отримуйте взірець блоків для використання знаряддя пензля"
+msgstr "Скопіюйте налаштування клітинки для використання знаряддя пензля"
 
 #. STRINGS.UI.SANDBOXTOOLS.SETTINGS.SPAWN_ENTITY.NAME
 msgctxt "STRINGS.UI.SANDBOXTOOLS.SETTINGS.SPAWN_ENTITY.NAME"
@@ -38554,7 +38354,7 @@ msgstr "Кропіння"
 #. STRINGS.UI.SANDBOXTOOLS.SETTINGS.SPRINKLE.TOOLTIP
 msgctxt "STRINGS.UI.SANDBOXTOOLS.SETTINGS.SPRINKLE.TOOLTIP"
 msgid "Paint elements into the simulation using noise"
-msgstr ""
+msgstr "Малювання елементів в симуляції використовуючи шум"
 
 #. STRINGS.UI.SANDBOXTOOLS.SETTINGS.TEMPERATURE.NAME
 msgctxt "STRINGS.UI.SANDBOXTOOLS.SETTINGS.TEMPERATURE.NAME"
@@ -40963,8 +40763,6 @@ msgid ""
 msgstr "Дубліканти негайно доставлять найблищого, неоснащеного костюма в доки"
 
 #. STRINGS.UI.UISIDESCREENS.SUIT_SIDE_SCREEN.CONFIGURATION_REQUIRED
-#| msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDBORINGMACHINE.NAME"
-#| msgid "Multitool Required"
 msgctxt "STRINGS.UI.UISIDESCREENS.SUIT_SIDE_SCREEN.CONFIGURATION_REQUIRED"
 msgid "Configuration Required:"
 msgstr ""
