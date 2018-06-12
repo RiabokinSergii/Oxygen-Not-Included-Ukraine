@@ -12830,7 +12830,7 @@ msgstr "Визначає, скільки потрібно Дубліканту, 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.TOILETEFFICIENCY.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.TOILETEFFICIENCY.NAME"
 msgid "Bathroom Hustle"
-msgstr "Ванна тиснява"
+msgstr "Час перебування у ванній"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.TOXICITYDELTA.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.TOXICITYDELTA.DESC"
@@ -14565,12 +14565,12 @@ msgstr "Бактеро-фобія"
 #. STRINGS.DUPLICANTS.CONGENITALTRAITS.NONE.DESC
 msgctxt "STRINGS.DUPLICANTS.CONGENITALTRAITS.NONE.DESC"
 msgid "This Duplicant seems pretty average overall"
-msgstr "Цей Дублікант видається досить середнім в цілому"
+msgstr "Цей Дублікант видається досить посереднім в цілому"
 
 #. STRINGS.DUPLICANTS.CONGENITALTRAITS.NONE.NAME
 msgctxt "STRINGS.DUPLICANTS.CONGENITALTRAITS.NONE.NAME"
 msgid "None"
-msgstr "Ніякий"
+msgstr "Відсутні"
 
 #. STRINGS.DUPLICANTS.CONGENITALTRAITS.STINKY.DESC
 msgctxt "STRINGS.DUPLICANTS.CONGENITALTRAITS.STINKY.DESC"
@@ -19682,12 +19682,14 @@ msgctxt "STRINGS.DUPLICANTS.THOUGHTS.UNHAPPY.TOOLTIP"
 msgid "Unhappy"
 msgstr ""
 
+# "зривається" - це скорочена версія чогось посереднього між "виплескує свій зрив" і "виплескує своє розчарування"
 #. STRINGS.DUPLICANTS.TRAITS.AGGRESSIVE.DESC
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.AGGRESSIVE.DESC"
 msgid ""
 "This Duplicant handles stress by taking their frustrations out on "
 "defenseless machines"
-msgstr "Цей Дублікант відтворює свій стрес на беззахисних машинах"
+msgstr "Цей Дублікант під час стресу зривається на беззахисних машинах"
 
 #. STRINGS.DUPLICANTS.TRAITS.AGGRESSIVE.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.AGGRESSIVE.NAME"
@@ -19697,12 +19699,14 @@ msgstr "Деструктивний"
 #. STRINGS.DUPLICANTS.TRAITS.AGGRESSIVE.NOREPAIR
 msgctxt "STRINGS.DUPLICANTS.TRAITS.AGGRESSIVE.NOREPAIR"
 msgid "• Will not repair buildings above 60% stress"
-msgstr "• Не бажає ремонтувати будівлі з понад 60% струсу"
+msgstr "• Не буде ремонтувати будівлі, поки рівень стресу понад 60%"
 
+# в дубліканта віднімається 5 атлетики
 #. STRINGS.DUPLICANTS.TRAITS.ANEMIC.DESC
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.ANEMIC.DESC"
 msgid "This Duplicant has trouble keeping up with the others"
-msgstr "Цей Дублікант має тривогу не відставати від інших"
+msgstr "Цей Дублікант має проблеми зі встиганням за іншими"
 
 #. STRINGS.DUPLICANTS.TRAITS.ANEMIC.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.ANEMIC.NAME"
@@ -19712,7 +19716,7 @@ msgstr "Анемія"
 #. STRINGS.DUPLICANTS.TRAITS.ANXIOUS.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.ANXIOUS.DESC"
 msgid "This Duplicant collapses when put under too much pressure"
-msgstr "Цей Дублікант зазнає краху, коли застрягає в дуже великому тиску"
+msgstr "Цей Дублікант занепадає, коли зазнає завеликого тиску"
 
 #. STRINGS.DUPLICANTS.TRAITS.ANXIOUS.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.ANXIOUS.NAME"
@@ -19729,35 +19733,41 @@ msgstr ""
 "• {0}: {1}"
 
 #. STRINGS.DUPLICANTS.TRAITS.BEDSIDEMANNER.DESC
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.BEDSIDEMANNER.DESC"
 msgid "This Duplicant has good bedside manner and a healing touch"
-msgstr "Цей Дублікант має добрий приліжковий метод та цілющий дотик"
+msgstr "Цей Дублікант має добрі постільні манери та цілющий дотик"
 
 #. STRINGS.DUPLICANTS.TRAITS.BEDSIDEMANNER.NAME
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.BEDSIDEMANNER.NAME"
 msgid "Caregiver"
-msgstr "Піклувальник"
+msgstr "Доглядач"
 
 #. STRINGS.DUPLICANTS.TRAITS.BINGEEATER.DESC
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.BINGEEATER.DESC"
 msgid "This Duplicant will dangerously overeat when stressed"
-msgstr "Цей Дублікант буде небезпечно об'їдатися, коли стресуватиме"
+msgstr "Цей Дублікант буде небезпечно об'їдатися, коли піддаватиметься стресу"
 
 #. STRINGS.DUPLICANTS.TRAITS.BINGEEATER.NAME
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.BINGEEATER.NAME"
 msgid "Binge Eater"
-msgstr "Гульня Їдець"
+msgstr "Розгульний ненажера"
 
 #. STRINGS.DUPLICANTS.TRAITS.CALORIEBURNER.DESC
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.CALORIEBURNER.DESC"
 msgid "This Duplicant might actually be several black holes in a trench coat"
-msgstr "Цей Дублікант може мати насправді декілька чорних дір в траншеї"
+msgstr "Цей Дублікант може насправді бути декількома чорними дірами в пальто"
 
 #. STRINGS.DUPLICANTS.TRAITS.CALORIEBURNER.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.CALORIEBURNER.NAME"
 msgid "Bottomless Stomach"
-msgstr "Безмежний Шлунок"
+msgstr "Бездонний Шлунок"
 
+# Можливо, доречніше буде "доручення", замість "завдання"
 #. STRINGS.DUPLICANTS.TRAITS.CANNOT_DO_TASK
 msgctxt "STRINGS.DUPLICANTS.TRAITS.CANNOT_DO_TASK"
 msgid ""
@@ -19765,13 +19775,13 @@ msgid ""
 "• Cannot perform errand: {0}"
 msgstr ""
 "\n"
-"• Не може виконувати завдання: {0}"
+"• Не може виконувати доручення: {0}"
 
 #. STRINGS.DUPLICANTS.TRAITS.CANTBUILD.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.CANTBUILD.DESC"
 msgid ""
 "This Duplicant is incapable of building even the most basic of structures"
-msgstr "Цей Дублікант нездатний будувати навіть майже базові споруди"
+msgstr "Цей Дублікант не здатний будувати навіть найпростіші споруди"
 
 #. STRINGS.DUPLICANTS.TRAITS.CANTBUILD.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.CANTBUILD.NAME"
@@ -19788,10 +19798,12 @@ msgctxt "STRINGS.DUPLICANTS.TRAITS.CANTCOOK.NAME"
 msgid "Gastrophobia"
 msgstr "Гастрофобія"
 
+# makes it impossible - робить неможливим, унеможливлює
 #. STRINGS.DUPLICANTS.TRAITS.CANTDIG.DESC
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.CANTDIG.DESC"
 msgid "This Duplicant's fear of holes makes it impossible for them to dig"
-msgstr "Ці Дубліканти бояться створення отворів, що унеможливлює їх копання"
+msgstr "Ці Дубліканти бояться нір, що унеможливлює їх копання"
 
 #. STRINGS.DUPLICANTS.TRAITS.CANTDIG.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.CANTDIG.NAME"
@@ -19801,7 +19813,7 @@ msgstr "Тріпофобія"
 #. STRINGS.DUPLICANTS.TRAITS.CANTRESEARCH.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.CANTRESEARCH.DESC"
 msgid "This Duplicant isn't the brightest star in the solar system"
-msgstr "Цей Дублікант не яскрава зірка в сонячній системі"
+msgstr "Цей Дублікант - не найясніша зірка сонячної системи"
 
 #. STRINGS.DUPLICANTS.TRAITS.CANTRESEARCH.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.CANTRESEARCH.NAME"
@@ -19818,7 +19830,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.TRAITS.DEEPERDIVERSLUNGS.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.DEEPERDIVERSLUNGS.NAME"
 msgid "Deeper Diver's Lungs"
-msgstr "Глибинні Дайверські Легені"
+msgstr "Легені Глибинного Дайвера"
 
 #. STRINGS.DUPLICANTS.TRAITS.DIVERSLUNG.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.DIVERSLUNG.DESC"
@@ -19828,12 +19840,13 @@ msgstr "Цей Дублікант міг би бути талановитим о
 #. STRINGS.DUPLICANTS.TRAITS.DIVERSLUNG.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.DIVERSLUNG.NAME"
 msgid "Diver's Lungs"
-msgstr "Дайверські Легені"
+msgstr "Легені Дайвера"
 
 #. STRINGS.DUPLICANTS.TRAITS.EARLYBIRD.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.EARLYBIRD.DESC"
 msgid "This Duplicant always wakes up feeling fresh and efficient!"
-msgstr "Цей Дублікант завжди прокидається з відчуттям свіжості та ефективності"
+msgstr ""
+"Цей Дублікант завжди прокидається з відчуттям свіжості та ефективності!"
 
 #. STRINGS.DUPLICANTS.TRAITS.EARLYBIRD.EXTENDED_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.EARLYBIRD.EXTENDED_DESC"
@@ -19849,13 +19862,14 @@ msgctxt "STRINGS.DUPLICANTS.TRAITS.EARLYBIRD.NAME"
 msgid "Early Bird"
 msgstr "Рання Пташка"
 
+# sharp as a tack - сталий вираз (гострий, як лайка)
 #. STRINGS.DUPLICANTS.TRAITS.FASTLEARNER.DESC
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.FASTLEARNER.DESC"
 msgid ""
 "This Duplicant's sharp as a tack and learns new skills with amazing speed"
 msgstr ""
-"Цей Дублікант розумний як галс та вчиться новим навичкам з вражаючою "
-"швидкістю"
+"Цей Дублікант гострий, як лайка та освоює нові навички з вражаючою швидкістю"
 
 #. STRINGS.DUPLICANTS.TRAITS.FASTLEARNER.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.FASTLEARNER.NAME"
@@ -19863,9 +19877,10 @@ msgid "Quick Learner"
 msgstr "Швидкий Учень"
 
 #. STRINGS.DUPLICANTS.TRAITS.FLATULENCE.DESC
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.FLATULENCE.DESC"
 msgid "Some Duplicants are just full of it"
-msgstr "Деякі Дубліканти просто повні ним"
+msgstr "Деякі Дубліканти просто наповнені цим"
 
 #. STRINGS.DUPLICANTS.TRAITS.FLATULENCE.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.FLATULENCE.NAME"
@@ -19873,9 +19888,10 @@ msgid "Flatulent"
 msgstr "Пихатий"
 
 #. STRINGS.DUPLICANTS.TRAITS.FUSSY.DESC
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.FUSSY.DESC"
 msgid "Nothing's ever quite good enough for this Duplicant"
-msgstr "Цей Дублікант, вічно, ніколи чимось не задоволений"
+msgstr "Ніщо ніколи не буде достатньо хорошим для цього Дубліканта"
 
 #. STRINGS.DUPLICANTS.TRAITS.FUSSY.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.FUSSY.NAME"
@@ -19888,7 +19904,7 @@ msgid ""
 "This Duplicant likes to throw a wrench into the colony's plans... in a good "
 "way"
 msgstr ""
-"Цей Дублікант полюбляє кидати ключ, на плани колонії... в хорошому сенсі"
+"Цей Дублікант полюбляє кидати ключ на плани колонії... в хорошому сенсі"
 
 #. STRINGS.DUPLICANTS.TRAITS.GREASEMONKEY.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GREASEMONKEY.NAME"
@@ -19896,9 +19912,10 @@ msgid "Grease Monkey"
 msgstr "Змащена Мавпа"
 
 #. STRINGS.DUPLICANTS.TRAITS.HEMOPHOBIA.DESC
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.HEMOPHOBIA.DESC"
 msgid "This Duplicant is of delicate disposition and cannot tend to the sick"
-msgstr "Цей Дублікант слабкий схильністю та не може доглядати за хворими."
+msgstr "Цей Дублікант має делікатний характер та не може доглядати хворих"
 
 #. STRINGS.DUPLICANTS.TRAITS.HEMOPHOBIA.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.HEMOPHOBIA.NAME"
@@ -19920,14 +19937,17 @@ msgid "\"Move it a little to the left...\""
 msgstr "\"Перемістіть трішки лівіше...\""
 
 #. STRINGS.DUPLICANTS.TRAITS.INTERIORDECORATOR.NAME
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.INTERIORDECORATOR.NAME"
 msgid "Interior Decorator"
-msgstr "Інтер'єрний Декоратор"
+msgstr "Декоратор Інтер'єрів"
 
+# зайва кома
 #. STRINGS.DUPLICANTS.TRAITS.IRONGUT.DESC
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.IRONGUT.DESC"
 msgid "This Duplicant can eat just about anything without getting sick"
-msgstr "Цей Дублікант може їсти майже все, без зараження хворобою"
+msgstr "Цей Дублікант може їсти майже все і не хворіти"
 
 #. STRINGS.DUPLICANTS.TRAITS.IRONGUT.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.IRONGUT.NAME"
@@ -19935,9 +19955,10 @@ msgid "Iron Gut"
 msgstr "Залізне Пузо"
 
 #. STRINGS.DUPLICANTS.TRAITS.IRRITABLEBOWEL.DESC
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.IRRITABLEBOWEL.DESC"
 msgid "This Duplicant needs a little extra time to \"do their business\""
-msgstr "Цей Дублікант потребує трохи часу, щоб зробити \"діло\""
+msgstr "Цей Дублікант потребує трохи більше часу, щоб зробити \"діло\""
 
 #. STRINGS.DUPLICANTS.TRAITS.IRRITABLEBOWEL.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.IRRITABLEBOWEL.NAME"
@@ -19950,29 +19971,36 @@ msgid "They're great for tunneling, but finding good gloves is a nightmare"
 msgstr ""
 "Вони чудові для прокладення тунелів, але пошук гарних рукавичок - кошмар"
 
+# "кротячі руки" - це "mole's hands", як мені здається
 #. STRINGS.DUPLICANTS.TRAITS.MOLEHANDS.NAME
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.MOLEHANDS.NAME"
 msgid "Mole Hands"
-msgstr "Кротячі Руки"
+msgstr "Руки Крота"
 
+# fair share - сталий вираз. Дослівно - справедлива частка
 #. STRINGS.DUPLICANTS.TRAITS.MOUTHBREATHER.DESC
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.MOUTHBREATHER.DESC"
 msgid ""
 "This Duplicant sucks up way more than their fair share of <link=\"OXYGEN"
 "\">Oxygen</link>"
 msgstr ""
-"Цей Дублікант набагато більше поглинає <link=\"OXYGEN\">Кисню</link>, ніж "
-"середня частина"
+"Цей Дублікант поглинає значно більше <link=\"OXYGEN\">Кисню</link>, ніж мав "
+"би"
 
 #. STRINGS.DUPLICANTS.TRAITS.MOUTHBREATHER.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.MOUTHBREATHER.NAME"
 msgid "Mouth Breather"
 msgstr "Дихає Ротом"
 
+# fall asleep - засинати
 #. STRINGS.DUPLICANTS.TRAITS.NARCOLEPSY.DESC
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NARCOLEPSY.DESC"
 msgid "This Duplicant can and will fall asleep anytime, anyplace"
-msgstr "Цей Дублікант має силу волі та падає спати у будь-який час, будь-де"
+msgstr ""
+"Цей Дублікант може і буде засинати у будь-який час і в будь-якому місці"
 
 #. STRINGS.DUPLICANTS.TRAITS.NARCOLEPSY.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NARCOLEPSY.NAME"
@@ -19991,42 +20019,47 @@ msgstr ""
 #. STRINGS.DUPLICANTS.TRAITS.NEEDS.CLAUSTROPHOBIC.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NEEDS.CLAUSTROPHOBIC.NAME"
 msgid "Claustrophobic"
-msgstr "Клаустрофобний"
+msgstr "Клаустрофоб"
 
 #. STRINGS.DUPLICANTS.TRAITS.NEEDS.CLIMACOPHOBIC.DESC
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NEEDS.CLIMACOPHOBIC.DESC"
 msgid ""
 "Climbing ladders more than four tiles tall makes this Duplicant's stomach do "
 "flips"
 msgstr ""
-"Піднімаючись сходами з понад чотири блоки, шлунок цього Дубліканта "
+"При підйомі сходами висотою понад чотири блоки, шлунок цього Дубліканта "
 "вивертається"
 
+# Запаморочливий - той, який викликає запаморочення, а не переживає/відчуває його
 #. STRINGS.DUPLICANTS.TRAITS.NEEDS.CLIMACOPHOBIC.NAME
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NEEDS.CLIMACOPHOBIC.NAME"
 msgid "Vertigo Prone"
-msgstr "Запаморочливий"
+msgstr "Схильний до запаморочення"
 
 #. STRINGS.DUPLICANTS.TRAITS.NEEDS.FASHIONABLE.DESC
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NEEDS.FASHIONABLE.DESC"
 msgid "This Duplicant dies a bit inside when forced to wear unstylish clothing"
 msgstr ""
-"Цей Дублікант трішки помирає з середини, коли вимушений носити нестильний "
-"одяг"
+"Цей Дублікант трішки помирає всередині, коли вимушений носити нестильний одяг"
 
+# може, краще чоловічий рід (модник), щоб було скрізь однаково?
 #. STRINGS.DUPLICANTS.TRAITS.NEEDS.FASHIONABLE.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NEEDS.FASHIONABLE.NAME"
 msgid "Fashionista"
 msgstr "Модниця"
 
 #. STRINGS.DUPLICANTS.TRAITS.NEEDS.PREFERSCOOLER.DESC
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NEEDS.PREFERSCOOLER.DESC"
 msgid ""
 "This Duplicant has some extra insulation, so the room temperature affects "
 "them a little less"
 msgstr ""
-"Цей Дублікант має деяку додаткову ізоляцію, тому температура кімнат впливає "
-"на нього в меншій мірі"
+"Цей Дублікант має певну додаткову ізоляцію, тому температура в кімнаті "
+"впливає на нього трохи менше"
 
 #. STRINGS.DUPLICANTS.TRAITS.NEEDS.PREFERSCOOLER.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NEEDS.PREFERSCOOLER.NAME"
@@ -20048,13 +20081,14 @@ msgid "Skinny"
 msgstr "Худий"
 
 #. STRINGS.DUPLICANTS.TRAITS.NEEDS.SENSITIVEFEET.DESC
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NEEDS.SENSITIVEFEET.DESC"
 msgid ""
 "This Duplicant is a sensitive sole and would rather walk on tile floorings "
 "than bedrock"
 msgstr ""
-"Цей Дублікант відчуває ступнями та скоріше буде ходити по блочній підлозі "
-"ніж по необробленій"
+"Цей Дублікант має чутливі ступні та швидше б ходив по блочній підлозі ніж по "
+"необробленій"
 
 #. STRINGS.DUPLICANTS.TRAITS.NEEDS.SENSITIVEFEET.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NEEDS.SENSITIVEFEET.NAME"
@@ -20066,36 +20100,45 @@ msgctxt "STRINGS.DUPLICANTS.TRAITS.NEEDS.SOLITARYSLEEPER.DESC"
 msgid "This Duplicant prefers to sleep alone"
 msgstr "Цей Дублікант надає перевагу спати на самоті"
 
+# Можна замінити на "Самотній Сплюха"
 #. STRINGS.DUPLICANTS.TRAITS.NEEDS.SOLITARYSLEEPER.NAME
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NEEDS.SOLITARYSLEEPER.NAME"
 msgid "Solitary Sleeper"
-msgstr "Окремий Сон"
+msgstr "Самотній Сонько"
 
+# gets antsy в мене переклало як "отримувати дідька", того вирішив, що "біситься" буде близьким за значенням і прикольним)
 #. STRINGS.DUPLICANTS.TRAITS.NEEDS.WORKAHOLIC.DESC
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NEEDS.WORKAHOLIC.DESC"
 msgid "This Duplicant gets antsy when left idle"
-msgstr "Цей Дублікант зазнає неспокою, коли залишається байдикувати"
+msgstr "Цей Дублікант біситься, коли байдикує"
 
 #. STRINGS.DUPLICANTS.TRAITS.NEEDS.WORKAHOLIC.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NEEDS.WORKAHOLIC.NAME"
 msgid "Workaholic"
 msgstr "Трудоголік"
 
+# пропоную замінити на "коли він повинен спати", хоч в оригіналі множина, бо якось не стикується трохи...
 #. STRINGS.DUPLICANTS.TRAITS.NIGHTOWL.DESC
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NIGHTOWL.DESC"
 msgid "This Duplicant does their best work when they'd ought to be sleeping"
-msgstr "Цей Дублікант робить роботу добре, коли вони мають спати"
+msgstr "Цей Дублікант працює краще, коли вони повинні спати"
 
 #. STRINGS.DUPLICANTS.TRAITS.NIGHTOWL.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NIGHTOWL.NAME"
 msgid "Night Owl"
 msgstr "Нічна Сова"
 
+# лінгвіні - сорт макарошок
+# місність на розтяг - пряме означення еластичності
 #. STRINGS.DUPLICANTS.TRAITS.NOODLEARMS.DESC
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NOODLEARMS.DESC"
 msgid ""
 "This Duplicant's arms have all the tensile strength of overcooked linguine"
-msgstr "Цей Дублікант має руки всією міцністю на розтяг, як переварені лінгвін"
+msgstr "Руки цього Дубліканта мають всю еластичність переварених лінгвіні"
 
 #. STRINGS.DUPLICANTS.TRAITS.NOODLEARMS.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NOODLEARMS.NAME"
@@ -20103,13 +20146,14 @@ msgid "Noodle Arms"
 msgstr "Руки Локшина"
 
 #. STRINGS.DUPLICANTS.TRAITS.REFUSES_TO_DO_TASK
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.REFUSES_TO_DO_TASK"
 msgid ""
 "\n"
 "• Refuses to do errand: {0}"
 msgstr ""
 "\n"
-"• Відмовляється від завдання: {0}"
+"• Відмовляється виконувати доручення: {0}"
 
 #. STRINGS.DUPLICANTS.TRAITS.REGENERATION.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.REGENERATION.DESC"
@@ -20124,7 +20168,7 @@ msgstr "Регенеративний"
 #. STRINGS.DUPLICANTS.TRAITS.ROCKCRUSHER.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.ROCKCRUSHER.DESC"
 msgid "This Duplicant is incredibly strong."
-msgstr "Цей Дублікант неймовірно сильний"
+msgstr "Цей Дублікант неймовірно сильний."
 
 #. STRINGS.DUPLICANTS.TRAITS.ROCKCRUSHER.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.ROCKCRUSHER.NAME"
@@ -20132,9 +20176,10 @@ msgid "Rock Crusher"
 msgstr "Камнедробар"
 
 #. STRINGS.DUPLICANTS.TRAITS.SCAREDYCAT.DESC
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.SCAREDYCAT.DESC"
 msgid "This Duplicant abhors violence"
-msgstr "Цей Дублікант не ненавидить образи"
+msgstr "Цей Дублікант ненавидить насильство"
 
 #. STRINGS.DUPLICANTS.TRAITS.SCAREDYCAT.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.SCAREDYCAT.NAME"
@@ -20144,27 +20189,30 @@ msgstr "Пацифіст"
 #. STRINGS.DUPLICANTS.TRAITS.SLOWLEARNER.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.SLOWLEARNER.DESC"
 msgid "This Duplicant's a little slow on the uptake, but gosh do they try"
-msgstr "Ці Дубліканти дуже мало розуміють, але вони намагаються"
+msgstr "До цих дублікантів дуже повільно доходить, але ж вони намагаються"
 
 #. STRINGS.DUPLICANTS.TRAITS.SLOWLEARNER.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.SLOWLEARNER.NAME"
 msgid "Slow Learner"
 msgstr "Повільний Учень"
 
+# пузир - калька з російської
 #. STRINGS.DUPLICANTS.TRAITS.SMALLBLADDER.DESC
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.SMALLBLADDER.DESC"
 msgid "This Duplicant has a tiny, pea-sized bladder. Adorable!"
-msgstr "Цей Дублікант має крихітний, з горошину розміром, пузир. Чудово!"
+msgstr "Цей Дублікант має крихітний, розміром з горошину, міхур. Чудово!"
 
 #. STRINGS.DUPLICANTS.TRAITS.SMALLBLADDER.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.SMALLBLADDER.NAME"
 msgid "Small Bladder"
-msgstr "Малий Пузир"
+msgstr "Малий Сечовий Міхур"
 
 #. STRINGS.DUPLICANTS.TRAITS.SNORER.DESC
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.SNORER.DESC"
 msgid "In space, everyone can hear you snore"
-msgstr "В космосі, будь-хто чує його хропіння"
+msgstr "Будь-хто в космосі може чути твоє хропіння"
 
 #. STRINGS.DUPLICANTS.TRAITS.SNORER.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.SNORER.NAME"
@@ -20172,10 +20220,12 @@ msgid "Loud Sleeper"
 msgstr "Хропун"
 
 #. STRINGS.DUPLICANTS.TRAITS.STRESSVOMITER.DESC
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.STRESSVOMITER.DESC"
 msgid "This Duplicant is liable to puke everywhere when stressed"
-msgstr "Цей Дублікант схильний до блювання усюди, коли стресує"
+msgstr "Цей Дублікант схильний блювати усюди, коли піддається стресу"
 
+# Пропоную для приколу замінити на "Ригалик" :)
 #. STRINGS.DUPLICANTS.TRAITS.STRESSVOMITER.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.STRESSVOMITER.NAME"
 msgid "Vomiter"
@@ -20192,9 +20242,10 @@ msgid "Buff"
 msgstr "Бафф"
 
 #. STRINGS.DUPLICANTS.TRAITS.STRONGIMMUNESYSTEM.DESC
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.STRONGIMMUNESYSTEM.DESC"
 msgid "This Duplicant's immune system bounces back faster than most"
-msgstr "Цих Дублікантів імунні системи зцілюються швидше, ніж більшості"
+msgstr "Імунні системи цих Дублікатнів відновлюються швидше, ніж у більшості"
 
 #. STRINGS.DUPLICANTS.TRAITS.STRONGIMMUNESYSTEM.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.STRONGIMMUNESYSTEM.NAME"
@@ -20204,7 +20255,7 @@ msgstr "Бактеріальна Стійкість"
 #. STRINGS.DUPLICANTS.TRAITS.SUNNYDISPOSITION.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.SUNNYDISPOSITION.DESC"
 msgid "This Duplicant has an unwaveringly positive outlook on life."
-msgstr "Цей Дублікант має непохитно позитивний погляд на життя"
+msgstr "Цей Дублікант має непохитно позитивний погляд на життя."
 
 #. STRINGS.DUPLICANTS.TRAITS.SUNNYDISPOSITION.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.SUNNYDISPOSITION.NAME"
@@ -20214,7 +20265,7 @@ msgstr "Щасливий Настрій"
 #. STRINGS.DUPLICANTS.TRAITS.TWINKLETOES.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.TWINKLETOES.DESC"
 msgid "This Duplicant is light as a feather on their feet"
-msgstr "Цей Дублікант легкий наче пере на його ногах"
+msgstr "Цей Дублікант легкий, наче перо на ногах"
 
 #. STRINGS.DUPLICANTS.TRAITS.TWINKLETOES.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.TWINKLETOES.NAME"
@@ -20232,9 +20283,10 @@ msgid "Ugly Crier"
 msgstr "Бридкий Крикун"
 
 #. STRINGS.DUPLICANTS.TRAITS.UNCULTURED.DESC
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.UNCULTURED.DESC"
 msgid "This Duplicant has simply no appreciation for the arts"
-msgstr "Цей Дублікант просто не має розуміння в мистецтві"
+msgstr "Цей Дублікант просто не розуміється на мистецтві"
 
 #. STRINGS.DUPLICANTS.TRAITS.UNCULTURED.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.UNCULTURED.NAME"
@@ -20242,11 +20294,12 @@ msgid "Uncultured"
 msgstr "Некультурний"
 
 #. STRINGS.DUPLICANTS.TRAITS.WEAKIMMUNESYSTEM.DESC
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.WEAKIMMUNESYSTEM.DESC"
 msgid ""
 "All the vitamin C in space couldn't stop this Duplicant from getting sick"
 msgstr ""
-"Всі вітаміни С в космосі не можуть зупинити цього Дубліканта від зараження "
+"Весь вітамін С в космосі не може вберегти цього Дубліканта від зараження "
 "хворобою"
 
 #. STRINGS.DUPLICANTS.TRAITS.WEAKIMMUNESYSTEM.NAME
