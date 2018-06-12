@@ -12,7 +12,7 @@ msgstr ""
 "Application: Oxygen Not IncludedPOT Version: 2.0Language: ua\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Poedit 2.0.1\n"
+"X-Generator: Poedit 2.0.8\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
 #. STRINGS.BUILDING.DETAILS.USE_COUNT
@@ -28948,9 +28948,10 @@ msgid "<link=\"LOGICCIRCUITS\">Advanced Automation</link>"
 msgstr "<link=\"LOGICCIRCUITS\">Покращена Автоматизація</link>"
 
 #. STRINGS.RESEARCH.TECHS.LOGICCONTROL.DESC
+#, fuzzy
 msgctxt "STRINGS.RESEARCH.TECHS.LOGICCONTROL.DESC"
 msgid "Switches for controlling colony buildings."
-msgstr "Використовуйте перемикачі, для управління вашими будинками."
+msgstr "Перемикачі для керування будівлями колонії."
 
 #. STRINGS.RESEARCH.TECHS.LOGICCONTROL.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.LOGICCONTROL.NAME"
@@ -29135,10 +29136,9 @@ msgid "<link=\"SMELTING\">Smelting</link>"
 msgstr "<link=\"SMELTING\">Виплавлення</link>"
 
 #. STRINGS.RESEARCH.TECHS.SOLIDTRANSPORT.DESC
-#, fuzzy
 msgctxt "STRINGS.RESEARCH.TECHS.SOLIDTRANSPORT.DESC"
 msgid "Save so much wear and tear on tired Duplicant feet."
-msgstr "Збережіть більше падіння та сльоз на втомлених ногах Дублікантів."
+msgstr "Забезпечить менше зношування стомлених ніг Дублікантів."
 
 #. STRINGS.RESEARCH.TECHS.SOLIDTRANSPORT.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.SOLIDTRANSPORT.NAME"
@@ -29159,14 +29159,15 @@ msgctxt "STRINGS.RESEARCH.TECHS.SUITS.NAME"
 msgid "<link=\"SUITS\">Environmental Protection</link>"
 msgstr "<link=\"SUITS\">Захисне Середовище</link>"
 
+# Думаю, так буде більш точно
 #. STRINGS.RESEARCH.TECHS.TEMPERATUREMODULATION.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.TEMPERATUREMODULATION.DESC"
 msgid ""
 "Perfect <link=\"HEAT\">Temperature</link> changing technologies to keep my "
 "colony at the perfect Kelvin."
 msgstr ""
-"Розблокування технології зміни <link=\"HEAT\">Температури</link>, утримає "
-"мою колонію в ідеальних Кельвінах."
+"Досконалі Технології зміни <link=\"HEAT\">Температури</link> для утримання "
+"моєї колонії в ідеальних Кельвінах."
 
 #. STRINGS.RESEARCH.TECHS.TEMPERATUREMODULATION.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.TEMPERATUREMODULATION.NAME"
@@ -38260,7 +38261,7 @@ msgstr "Викриття"
 #. STRINGS.UI.SANDBOXTOOLS.SETTINGS.FOW.TOOLTIP
 msgctxt "STRINGS.UI.SANDBOXTOOLS.SETTINGS.FOW.TOOLTIP"
 msgid "Dispel the Fog of War shrouding the map"
-msgstr "Розсіяти Туман Війни, обгортаючий мапу"
+msgstr "Розсіяти Туман Війни, який вкриває мапу"
 
 #. STRINGS.UI.SANDBOXTOOLS.SETTINGS.HEATGUN.NAME
 msgctxt "STRINGS.UI.SANDBOXTOOLS.SETTINGS.HEATGUN.NAME"
