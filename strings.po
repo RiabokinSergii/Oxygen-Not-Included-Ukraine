@@ -12302,7 +12302,6 @@ msgstr "Декор"
 # "Не отримання" можна також замінити на "Відсутність"
 # тут однина
 #. STRINGS.DUPLICANTS.ATTRIBUTES.DECOREXPECTATION.DESC
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DECOREXPECTATION.DESC"
 msgid ""
 "Not meeting a Duplicant's <link=\"DECOR\">Decor</link> expectations will "
@@ -19736,7 +19735,7 @@ msgstr ""
 #, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.BEDSIDEMANNER.DESC"
 msgid "This Duplicant has good bedside manner and a healing touch"
-msgstr "Цей Дублікант має добрі постільні манери та цілющий дотик"
+msgstr "Цей Дублікант має тактовність лікаря та цілющий дотик"
 
 #. STRINGS.DUPLICANTS.TRAITS.BEDSIDEMANNER.NAME
 #, fuzzy
