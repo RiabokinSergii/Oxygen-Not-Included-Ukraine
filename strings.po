@@ -23437,12 +23437,9 @@ msgid "SandboxHeatGun"
 msgstr "Пісочниця Тепло Гармата"
 
 #. STRINGS.INPUT_BINDINGS.SANDBOX.SANDBOXREVEAL
-#, fuzzy
-#| msgctxt "STRINGS.INPUT_BINDINGS.SANDBOX.NAME"
-#| msgid "Sandbox"
 msgctxt "STRINGS.INPUT_BINDINGS.SANDBOX.SANDBOXREVEAL"
 msgid "SandboxReveal"
-msgstr "Пісочниця"
+msgstr "Пісочниця Викриття"
 
 #. STRINGS.INPUT_BINDINGS.SANDBOX.SANDBOXSAMPLE
 msgctxt "STRINGS.INPUT_BINDINGS.SANDBOX.SANDBOXSAMPLE"
@@ -38852,9 +38849,10 @@ msgid "Back"
 msgstr "Назад"
 
 #. STRINGS.UI.TOOLS.GENERIC.BUILDING_HOVER_NAME_FMT
+#, fuzzy
 msgctxt "STRINGS.UI.TOOLS.GENERIC.BUILDING_HOVER_NAME_FMT"
 msgid "{Name}    <style=\"hovercard_element\">({Element})</style>"
-msgstr ""
+msgstr "{Name}    <style=\"hovercard_element\">({Element})</style>"
 
 #. STRINGS.UI.TOOLS.GENERIC.UNKNOWN
 msgctxt "STRINGS.UI.TOOLS.GENERIC.UNKNOWN"
@@ -38974,23 +38972,17 @@ msgstr "Чиста Підлога"
 #. STRINGS.UI.TOOLS.SANDBOX.DESTROY.NAME
 msgctxt "STRINGS.UI.TOOLS.SANDBOX.DESTROY.NAME"
 msgid "Destroy"
-msgstr "Знищення"
+msgstr "Знищити"
 
 #. STRINGS.UI.TOOLS.SANDBOX.FLOOD.NAME
-#, fuzzy
-#| msgctxt "STRINGS.UI.DEBUG_TOOLS.PAINT_ELEMENTS_SCREEN.FILL"
-#| msgid "Fill"
 msgctxt "STRINGS.UI.TOOLS.SANDBOX.FLOOD.NAME"
 msgid "Fill"
 msgstr "Заповнити"
 
 #. STRINGS.UI.TOOLS.SANDBOX.FOW.NAME
-#, fuzzy
-#| msgctxt "STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.REVERTBUTTON"
-#| msgid "Revert"
 msgctxt "STRINGS.UI.TOOLS.SANDBOX.FOW.NAME"
 msgid "Reveal"
-msgstr "Повернути"
+msgstr "Викриття"
 
 #. STRINGS.UI.TOOLS.SANDBOX.HEATGUN.NAME
 msgctxt "STRINGS.UI.TOOLS.SANDBOX.HEATGUN.NAME"
@@ -39008,7 +39000,6 @@ msgid "Sample"
 msgstr "Взірець"
 
 #. STRINGS.UI.TOOLS.SANDBOX.SANDBOX_TOGGLE.NAME
-#, fuzzy
 msgctxt "STRINGS.UI.TOOLS.SANDBOX.SANDBOX_TOGGLE.NAME"
 msgid "SANDBOX"
 msgstr "ПІСОЧ-ЦЯ"
@@ -39029,18 +39020,13 @@ msgid "Sprinkle"
 msgstr "Кропіння"
 
 #. STRINGS.UI.TOOLTIPS.ALERTSTOOLTIP
-#, fuzzy
-#| msgctxt "STRINGS.UI.TOOLTIPS.ALERTSTOOLTIP"
-#| msgid ""
-#| "Alerts provide important information about what's happening to your "
-#| "colony right now"
 msgctxt "STRINGS.UI.TOOLTIPS.ALERTSTOOLTIP"
 msgid ""
 "Alerts provide important information about what's happening in the colony "
 "right now"
 msgstr ""
-"Сповіщення надають важливу інформацію про те, що відбувається у вашій "
-"колонії прямо зараз"
+"Сповіщення надають важливу інформацію про те, що відбувається у колонії "
+"прямо зараз"
 
 #. STRINGS.UI.TOOLTIPS.ATTACKBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.ATTACKBUTTON"
@@ -39209,19 +39195,14 @@ msgstr "Потрібно будувати на вільному місці"
 
 #. STRINGS.UI.TOOLTIPS.HELP_BUILDLOCATION_SOLIDPORTS_OBSTRUCTED
 #, fuzzy
-#| msgctxt "STRINGS.UI.TOOLTIPS.HELP_BUILDLOCATION_LIQUIDPORTS_OBSTRUCTED"
-#| msgid "Liquid ports are obstructed"
 msgctxt "STRINGS.UI.TOOLTIPS.HELP_BUILDLOCATION_SOLIDPORTS_OBSTRUCTED"
 msgid "Solid ports are obstructed"
-msgstr "Рідинний порт заблокований"
+msgstr "Твердий порт заблокований"
 
 #. STRINGS.UI.TOOLTIPS.HELP_BUILDLOCATION_SPACE
-#, fuzzy
-#| msgctxt "STRINGS.UI.TOOLTIPS.HELP_BUILDLOCATION_INSIDEGROUND"
-#| msgid "Must be built in the ground"
 msgctxt "STRINGS.UI.TOOLTIPS.HELP_BUILDLOCATION_SPACE"
 msgid "Must be built on the asteroid surface"
-msgstr "Потрібно будувати в землі"
+msgstr "Потрібно будувати на поверхні астероїда"
 
 #. STRINGS.UI.TOOLTIPS.HELP_BUILDLOCATION_WIRE_OBSTRUCTION
 msgctxt "STRINGS.UI.TOOLTIPS.HELP_BUILDLOCATION_WIRE_OBSTRUCTION"
@@ -39249,27 +39230,18 @@ msgid "Can't Turn Here"
 msgstr "Не можна повернутися тут"
 
 #. STRINGS.UI.TOOLTIPS.INFOPANEL
-#, fuzzy
-#| msgctxt "STRINGS.UI.TOOLTIPS.INFOPANEL"
-#| msgid ""
-#| "The Info Panel contains an overview of the basic information about your "
-#| "Duplicant"
 msgctxt "STRINGS.UI.TOOLTIPS.INFOPANEL"
 msgid ""
 "The Info Panel contains an overview of the basic information about my "
 "Duplicant"
 msgstr ""
-"Панель інформації містить загальне уявлення про базову інформацію про вашого "
+"Панель інформації містить загальне уявлення про базову інформацію мого "
 "Дубліканта"
 
 #. STRINGS.UI.TOOLTIPS.ITEMSPANEL
-#, fuzzy
-#| msgctxt "STRINGS.UI.TOOLTIPS.ITEMSPANEL"
-#| msgid ""
-#| "The Items Panel displays everything your Duplicant is in possession of"
 msgctxt "STRINGS.UI.TOOLTIPS.ITEMSPANEL"
 msgid "The Items Panel displays everything this Duplicant is in possession of"
-msgstr "Панель предметів відображає все, що є у вашого Дубліканта"
+msgstr "Панель предметів відображає все, що є у володіннях Дубліканта"
 
 #. STRINGS.UI.TOOLTIPS.JOBSSCREEN_ATTRIBUTES
 msgctxt "STRINGS.UI.TOOLTIPS.JOBSSCREEN_ATTRIBUTES"
@@ -39393,17 +39365,12 @@ msgid "Made out of {0}"
 msgstr "Зроблено з {0}"
 
 #. STRINGS.UI.TOOLTIPS.MESSAGESTOOLTIP
-#, fuzzy
-#| msgctxt "STRINGS.UI.TOOLTIPS.MESSAGESTOOLTIP"
-#| msgid ""
-#| "Messages are events that have happened and tips to help you manage your "
-#| "colony"
 msgctxt "STRINGS.UI.TOOLTIPS.MESSAGESTOOLTIP"
 msgid ""
 "Messages are events that have happened and tips to help me manage my colony"
 msgstr ""
-"Повідомлення - це події, що сталися та поради, які допоможуть вам керувати "
-"вашою колонією"
+"Повідомлення - це події, що сталися та поради, які допоможуть мені керувати "
+"моєю колонією"
 
 #. STRINGS.UI.TOOLTIPS.METERSCREEN_AVGSTRESS
 msgctxt "STRINGS.UI.TOOLTIPS.METERSCREEN_AVGSTRESS"
@@ -39575,24 +39542,12 @@ msgid "Slow speed {0}"
 msgstr "Повільна швидкість {0}"
 
 #. STRINGS.UI.TOOLTIPS.STATSPANEL
-#, fuzzy
-#| msgctxt "STRINGS.UI.TOOLTIPS.STATSPANEL"
-#| msgid ""
-#| "The Stats Panel gives an overview of your Duplicant's individual stats"
 msgctxt "STRINGS.UI.TOOLTIPS.STATSPANEL"
 msgid "The Stats Panel gives me an overview of my Duplicant's individual stats"
-msgstr "Панель Умінь дає можливість переглянути особисті якості Дублікантів"
+msgstr ""
+"Панель Умінь дає можливість переглянути особисті якості моїх Дублікантів"
 
 #. STRINGS.UI.TOOLTIPS.STRESSDESCRIPTION
-#, fuzzy
-#| msgctxt "STRINGS.UI.TOOLTIPS.STRESSDESCRIPTION"
-#| msgid ""
-#| "Accommodate your Duplicant's needs to manage their <link=\"STRESS"
-#| "\">Stress</link>.\n"
-#| "\n"
-#| "Low <link=\"STRESS\">Stress</link> can provide a productivity boost, "
-#| "while high <link=\"STRESS\">Stress</link> can impair production or even "
-#| "lead to a nervous breakdown."
 msgctxt "STRINGS.UI.TOOLTIPS.STRESSDESCRIPTION"
 msgid ""
 "Accommodate my Duplicant's needs to manage their <link=\"STRESS\">Stress</"
@@ -39602,25 +39557,20 @@ msgid ""
 "high <link=\"STRESS\">Stress</link> can impair production or even lead to a "
 "nervous breakdown."
 msgstr ""
-"Пристосуйте ваших Дублікантів, щоб мали потребу керувати їхнім <link=\"STRESS"
-"\">Стресом</link>.\n"
+"Пристосування моїх Дублікантів, щоб мали потребу керувати їхнім <link="
+"\"STRESS\">Стресом</link>.\n"
 "\n"
 "Низький <link=\"STRESS\">Стрес</link> забезпечує продуктивне підвищення, в "
 "той час як високий <link=\"STRESS\">Стрес</link> зменшує продуктивність чи "
 "навіть призводить до нервового зриву."
 
 #. STRINGS.UI.TOOLTIPS.STRESSPANEL
-#, fuzzy
-#| msgctxt "STRINGS.UI.TOOLTIPS.STRESSPANEL"
-#| msgid ""
-#| "The Stress Panel offers an in detail look at what is affecting your "
-#| "Duplicant psychologically"
 msgctxt "STRINGS.UI.TOOLTIPS.STRESSPANEL"
 msgid ""
 "The Stress Panel offers a detailed look at what is psychology affecting "
 "Duplicant psychologically"
 msgstr ""
-"Панель Стресу пропонує детально поглянути, що психологічно впливає на вашого "
+"Панель Стресу пропонує детально поглянути, що психологічно впливає на "
 "Дубліканта"
 
 #. STRINGS.UI.TOOLTIPS.SUITOVERLAYSTRING
@@ -39704,13 +39654,9 @@ msgid "This plant's internal temperature is {temperature}"
 msgstr "Внутрішня температурі цієї рослини {temperature}"
 
 #. STRINGS.UI.TOOLTIPS.VITALSPANEL
-#, fuzzy
-#| msgctxt "STRINGS.UI.TOOLTIPS.VITALSPANEL"
-#| msgid ""
-#| "The Vitals Panel monitors the status and well being of your Duplicant"
 msgctxt "STRINGS.UI.TOOLTIPS.VITALSPANEL"
 msgid "The Vitals Panel monitors the status and well being of my Duplicant"
-msgstr "Панель Показників контролює стан та добробут ваших Дублікантів"
+msgstr "Панель Показників контролює стан та добробут моїх Дублікантів"
 
 #. STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.DOOR_DEFAULT
 msgctxt "STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.DOOR_DEFAULT"
@@ -39951,20 +39897,16 @@ msgid ""
 msgstr ""
 
 #. STRINGS.UI.UISIDESCREENS.CAPTURE_POINT_SIDE_SCREEN.TITLE
-#, fuzzy
 #| msgctxt "STRINGS.INPUT_BINDINGS.MANAGEMENT.NAME"
 #| msgid "Management"
 msgctxt "STRINGS.UI.UISIDESCREENS.CAPTURE_POINT_SIDE_SCREEN.TITLE"
 msgid "Stable Management"
-msgstr "Управління"
+msgstr ""
 
 #. STRINGS.UI.UISIDESCREENS.CAPTURE_POINT_SIDE_SCREEN.UNITS_SUFFIX
-#, fuzzy
-#| msgctxt "STRINGS.MISC.TAGS.BAGABLECREATURE"
-#| msgid "Critters"
 msgctxt "STRINGS.UI.UISIDESCREENS.CAPTURE_POINT_SIDE_SCREEN.UNITS_SUFFIX"
 msgid " Critters"
-msgstr "Тварини"
+msgstr " Тварини"
 
 #. STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.ACCESS_FORMAT
 msgctxt "STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.ACCESS_FORMAT"
@@ -40800,7 +40742,7 @@ msgstr "Дубліканти негайно доставлять найблищ�
 #. STRINGS.UI.UISIDESCREENS.SUIT_SIDE_SCREEN.CONFIGURATION_REQUIRED
 msgctxt "STRINGS.UI.UISIDESCREENS.SUIT_SIDE_SCREEN.CONFIGURATION_REQUIRED"
 msgid "Configuration Required:"
-msgstr ""
+msgstr "Необхідна конфігурація:"
 
 #. STRINGS.UI.UISIDESCREENS.SUIT_SIDE_SCREEN.TITLE
 msgctxt "STRINGS.UI.UISIDESCREENS.SUIT_SIDE_SCREEN.TITLE"
@@ -41195,7 +41137,7 @@ msgstr " мг"
 #. STRINGS.UI.UNITSUFFIXES.MASS.POUND
 msgctxt "STRINGS.UI.UNITSUFFIXES.MASS.POUND"
 msgid " lb"
-msgstr "фт"
+msgstr " фт"
 
 #. STRINGS.UI.UNITSUFFIXES.MASS.TONNE
 msgctxt "STRINGS.UI.UNITSUFFIXES.MASS.TONNE"
@@ -41638,8 +41580,8 @@ msgid ""
 "If enabled, Duplicants will deliver bottled liquids to this building "
 "directly from Pitcher Pumps"
 msgstr ""
-"Якщо увімкнено, Дубліканти доставляють рідинні\n"
-"пляшки в цю будівлю відразу з Ручних Насосів"
+"Якщо увімкнено, Дубліканти доставляють рідини в\n"
+"пляшках до цієї будівлі безпосередньо з Ручних Насосів"
 
 #. STRINGS.UI.USERMENUACTIONS.MANUAL_PUMP_DELIVERY.DENIED.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.MANUAL_PUMP_DELIVERY.DENIED.NAME"
@@ -41652,8 +41594,8 @@ msgid ""
 "If disabled, Duplicants will no longer deliver bottled liquids directly from "
 "Pitcher Pumps"
 msgstr ""
-"Якщо відключено, Дубліканти довго не доставляють рідинні\n"
-"пляшки в цю будівлю відразу з Ручних Насосів"
+"Якщо відключено, Дубліканти не доставляють рідини в\n"
+"пляшках до цієї будівлі безпосередньо з Ручних Насосів"
 
 #. STRINGS.UI.USERMENUACTIONS.MOVETOLOCATION.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.MOVETOLOCATION.NAME"
