@@ -1530,12 +1530,12 @@ msgstr "Цей ресурс не можна видобути за допомог
 #. STRINGS.BUILDING.STATUSITEMS.NEWDUPLICANTSAVAILABLE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEWDUPLICANTSAVAILABLE.NAME"
 msgid "New Duplicants Available"
-msgstr "Доступні нові Дублікати"
+msgstr "Доступні нові Дубліканти"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEWDUPLICANTSAVAILABLE.NOTIFICATION_NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEWDUPLICANTSAVAILABLE.NOTIFICATION_NAME"
 msgid "New Duplicants are available"
-msgstr "Є доступні нові Дубліканти"
+msgstr "Доступні нові Дубліканти"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEWDUPLICANTSAVAILABLE.NOTIFICATION_TOOLTIP
 #, fuzzy
@@ -25309,18 +25309,13 @@ msgid "Colony requires a food source"
 msgstr "Колонії необхідне джерело їжі"
 
 #. STRINGS.MISC.NOTIFICATIONS.NEEDFOOD.TOOLTIP
-#, fuzzy
-#| msgctxt "STRINGS.MISC.NOTIFICATIONS.NEEDFOOD.TOOLTIP"
-#| msgid ""
-#| "Your colony will soon exhaust their supplies without a new <link=\"FOOD"
-#| "\">Food</link> source"
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NEEDFOOD.TOOLTIP"
 msgid ""
 "The colony will soon exhaust their supplies without a new <link=\"FOOD"
 "\">Food</link> source"
 msgstr ""
-"Ваша колонія незабаром вичерпає свої запаси <link=\"FOOD\">Їжі</link>, без "
-"нового джерела"
+"Колонія незабаром вичерпає свої запаси <link=\"FOOD\">Їжі</link>, без нового "
+"джерела"
 
 #. STRINGS.MISC.NOTIFICATIONS.NEEDOXYGENSOURCE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NEEDOXYGENSOURCE.NAME"
@@ -25328,21 +25323,14 @@ msgid "Insufficient oxygen generation"
 msgstr "Недостатня генерація кисню"
 
 #. STRINGS.MISC.NOTIFICATIONS.NEEDOXYGENSOURCE.TOOLTIP
-#, fuzzy
-#| msgctxt "STRINGS.MISC.NOTIFICATIONS.NEEDOXYGENSOURCE.TOOLTIP"
-#| msgid ""
-#| "• Your colony has produced {EmittingRate} of <link=\"OXYGEN\">Oxygen</"
-#| "link> this cycle\n"
-#| "• Your Duplicants have consumed {ConsumptionRate}"
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NEEDOXYGENSOURCE.TOOLTIP"
 msgid ""
 "• The colony has produced {EmittingRate} of <link=\"OXYGEN\">Oxygen</link> "
 "this cycle\n"
 "• My Duplicants have consumed {ConsumptionRate}"
 msgstr ""
-"• Ваша колонія виробила {EmittingRate} <link=\"OXYGEN\">Кисню</link> цього "
-"циклу\n"
-"• Ваші Дубліканти споживають {ConsumptionRate}"
+"• Колонія виробила {EmittingRate} <link=\"OXYGEN\">Кисню</link> цього циклу\n"
+"• Мої Дубліканти спожили {ConsumptionRate}"
 
 #. STRINGS.MISC.NOTIFICATIONS.NEEDSLEEP.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NEEDSLEEP.NAME"
@@ -25390,12 +25378,9 @@ msgid "Colony requires Med-Beds"
 msgstr "Колонії необхідні Мед-Ліжка"
 
 #. STRINGS.MISC.NOTIFICATIONS.NO_MEDICAL_COTS.TOOLTIP
-#, fuzzy
-#| msgctxt "STRINGS.MISC.NOTIFICATIONS.NO_MEDICAL_COTS.TOOLTIP"
-#| msgid "Your sick Duplicants have nowhere to rest or receive medical care"
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NO_MEDICAL_COTS.TOOLTIP"
 msgid "Sick Duplicants currently have nowhere to rest or receive medical care"
-msgstr "Вашим хворим Дублікантам ніде відпочити чи отримати медичний догляд"
+msgstr "Хворим Дублікантам ніде відпочити чи отримати медичний догляд"
 
 #. STRINGS.MISC.NOTIFICATIONS.NOALERTS.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NOALERTS.NAME"
@@ -25428,13 +25413,6 @@ msgid "Blocked pipes have stopped these systems from functioning:"
 msgstr "Заблоковані труби зупинили функціонування цих систем:"
 
 #. STRINGS.MISC.NOTIFICATIONS.PRIORITIESMESSAGE.MESSAGEBODY
-#, fuzzy
-#| msgctxt "STRINGS.MISC.NOTIFICATIONS.PRIORITIESMESSAGE.MESSAGEBODY"
-#| msgid ""
-#| "Duplicants will choose what work they do based on the priorities you set. "
-#| "To set priorities, open the Priorities menu to control master priorities, "
-#| "and then use the Sub-Priorities buttons under the tool menu. Many "
-#| "buildings also let you change their Sub-Priority level on selection."
 msgctxt "STRINGS.MISC.NOTIFICATIONS.PRIORITIESMESSAGE.MESSAGEBODY"
 msgid ""
 "Duplicants will choose what work they do based on the priorities that I give "
@@ -25444,10 +25422,11 @@ msgid ""
 "color> to fine tune them. Many buildings will also let me change their Sub-"
 "Priority level when I select them."
 msgstr ""
-"Дубліканти обирають, що робити їм, базуючись на пріоритетах, які ви задали. "
-"Щоб задати пріоритети, відкрийте меню Пріоритети, для контролю основними "
-"пріоритетами та потім використовуйте кнопку Суб-Пріоритети в меню знаряддя. "
-"Також, багато будівель дають вам змінити рівень Суб-Пріоритету, на вибір."
+"Дубліканти обирають, що робити їм базуючись на пріоритетах, що я задав їм. "
+"Щоб задати пріоритети, відкрийте меню <link=\"PRIORITIES\">Пріоритети</link> "
+"<color=#F44A47><b>[J]</b></color> для контролю основними пріоритетами та "
+"потім використовуйте кнопку Суб-Пріоритети в меню знаряддя. Також, багато "
+"будівель дають мені змінити рівень Суб-Пріоритету, на вибір."
 
 #. STRINGS.MISC.NOTIFICATIONS.PRIORITIESMESSAGE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.PRIORITIESMESSAGE.NAME"
@@ -25455,12 +25434,9 @@ msgid "TIP: Priorities"
 msgstr "НАТЯК: Пріоритети"
 
 #. STRINGS.MISC.NOTIFICATIONS.PRIORITIESMESSAGE.TOOLTIP
-#, fuzzy
-#| msgctxt "STRINGS.MISC.NOTIFICATIONS.PRIORITIESMESSAGE.TOOLTIP"
-#| msgid "Understanding your Duplicants' priorities"
 msgctxt "STRINGS.MISC.NOTIFICATIONS.PRIORITIESMESSAGE.TOOLTIP"
 msgid "Notes on my Duplicants' priorities"
-msgstr "Розуміння пріоритетів ваших Дублікантів"
+msgstr "Розуміння пріоритетів моїх Дублікантів"
 
 #. STRINGS.MISC.NOTIFICATIONS.REDALERT.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.REDALERT.NAME"
@@ -25473,13 +25449,6 @@ msgid "The colony is prioritizing work over their individual well-being"
 msgstr "Колонії пріоритетніша робота, ніж їхнє особисте здоров'я"
 
 #. STRINGS.MISC.NOTIFICATIONS.RESEARCHCOMPLETE.MESSAGEBODY
-#, fuzzy
-#| msgctxt "STRINGS.MISC.NOTIFICATIONS.RESEARCHCOMPLETE.MESSAGEBODY"
-#| msgid ""
-#| "Eureka! {0} Technology has been unlocked.\n"
-#| "\n"
-#| "New buildings have become available:\n"
-#| "  • {1}"
 msgctxt "STRINGS.MISC.NOTIFICATIONS.RESEARCHCOMPLETE.MESSAGEBODY"
 msgid ""
 "Eureka! {0} Technology has been unlocked.\n"
@@ -25489,7 +25458,7 @@ msgid ""
 msgstr ""
 "Еврика! Технологія {0}, була розблокована.\n"
 "\n"
-"Стали доступні нові будівлі:\n"
+"Мені стали доступні нові будівлі:\n"
 "  • {1}"
 
 #. STRINGS.MISC.NOTIFICATIONS.RESEARCHCOMPLETE.NAME
@@ -33237,33 +33206,21 @@ msgstr "Надано"
 #. STRINGS.UI.ENDOFDAYREPORT.CALORIES_CREATED.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.CALORIES_CREATED.NAME"
 msgid "Calorie Generation:"
-msgstr "Згенеровано Калорій:"
+msgstr "Вироблено калорій:"
 
 #. STRINGS.UI.ENDOFDAYREPORT.CALORIES_CREATED.NEGATIVE_TOOLTIP
-#, fuzzy
-#| msgctxt "STRINGS.UI.ENDOFDAYREPORT.CALORIES_CREATED.NEGATIVE_TOOLTIP"
-#| msgid ""
-#| "Your colony consumed {0} of <link=\"FOOD\">Food</link> over the course of "
-#| "the day"
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.CALORIES_CREATED.NEGATIVE_TOOLTIP"
 msgid ""
 "My colony consumed {0} of <link=\"FOOD\">Food</link> over the course of the "
 "day"
-msgstr ""
-"Ваша колонія спожила {0} <link=\"FOOD\">Їжі</link> на протязі всього дня"
+msgstr "Моя колонія спожила {0} <link=\"FOOD\">Їжі</link> протягом дня"
 
 #. STRINGS.UI.ENDOFDAYREPORT.CALORIES_CREATED.POSITIVE_TOOLTIP
-#, fuzzy
-#| msgctxt "STRINGS.UI.ENDOFDAYREPORT.CALORIES_CREATED.POSITIVE_TOOLTIP"
-#| msgid ""
-#| "Your colony produced {0} of <link=\"FOOD\">Food</link> over the course of "
-#| "the day"
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.CALORIES_CREATED.POSITIVE_TOOLTIP"
 msgid ""
 "My colony produced {0} of <link=\"FOOD\">Food</link> over the course of the "
 "day"
-msgstr ""
-"Ваша колонія виробила {0} <link=\"FOOD\">Їжі</link> на протязі всього дня"
+msgstr "Моя колонія виробила {0} <link=\"FOOD\">Їжі</link> протягом дня"
 
 #. STRINGS.UI.ENDOFDAYREPORT.CONTAMINATED_OXYGEN_FLATULENCE.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.CONTAMINATED_OXYGEN_FLATULENCE.NAME"
@@ -33271,26 +33228,16 @@ msgid "<link=\"POLLUTEDOXYGEN\">Flatulence</link> Generation:"
 msgstr ""
 
 #. STRINGS.UI.ENDOFDAYREPORT.CONTAMINATED_OXYGEN_FLATULENCE.NEGATIVE_TOOLTIP
-#, fuzzy
-#| msgctxt ""
-#| "STRINGS.UI.ENDOFDAYREPORT.CONTAMINATED_OXYGEN_FLATULENCE.NEGATIVE_TOOLTIP"
-#| msgid ""
-#| "Your colony consumed {0} of Polluted Oxygen over the course of the day"
 msgctxt ""
 "STRINGS.UI.ENDOFDAYREPORT.CONTAMINATED_OXYGEN_FLATULENCE.NEGATIVE_TOOLTIP"
 msgid "My colony consumed {0} of Polluted Oxygen over the course of the day"
-msgstr "Ваша колонія спожила {0} Забрудненого Кисню на протязі всього дня"
+msgstr "Моя колонія спожила {0} Забрудненого Кисню протягом дня"
 
 #. STRINGS.UI.ENDOFDAYREPORT.CONTAMINATED_OXYGEN_FLATULENCE.POSITIVE_TOOLTIP
-#, fuzzy
-#| msgctxt ""
-#| "STRINGS.UI.ENDOFDAYREPORT.CONTAMINATED_OXYGEN_FLATULENCE.POSITIVE_TOOLTIP"
-#| msgid ""
-#| "Your colony generated {0} of Polluted Oxygen over the course of the day"
 msgctxt ""
 "STRINGS.UI.ENDOFDAYREPORT.CONTAMINATED_OXYGEN_FLATULENCE.POSITIVE_TOOLTIP"
 msgid "My colony generated {0} of Polluted Oxygen over the course of the day"
-msgstr "Ваша колонія виробила {0} Забрудненого Кисню на протязі всього дня"
+msgstr "Моя колонія виробила {0} Забрудненого Кисню протягом дня"
 
 #. STRINGS.UI.ENDOFDAYREPORT.CONTAMINATED_OXYGEN_SUBLIMATION.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.CONTAMINATED_OXYGEN_SUBLIMATION.NAME"
@@ -33298,36 +33245,24 @@ msgid "<link=\"POLLUTED OXYGEN\">Sublimation</link>:"
 msgstr ""
 
 #. STRINGS.UI.ENDOFDAYREPORT.CONTAMINATED_OXYGEN_SUBLIMATION.NEGATIVE_TOOLTIP
-#, fuzzy
-#| msgctxt ""
-#| "STRINGS.UI.ENDOFDAYREPORT.CONTAMINATED_OXYGEN_SUBLIMATION.NEGATIVE_TOOLTIP"
-#| msgid ""
-#| "Your colony consumed {0} of <link=\"CONTAMINATEDOXYGEN\">Polluted Oxygen</"
-#| "link> over the course of the day"
 msgctxt ""
 "STRINGS.UI.ENDOFDAYREPORT.CONTAMINATED_OXYGEN_SUBLIMATION.NEGATIVE_TOOLTIP"
 msgid ""
 "My colony consumed {0} of <link=\"CONTAMINATEDOXYGEN\">Polluted Oxygen</"
 "link> over the course of the day"
 msgstr ""
-"Ваша колонія спожила {0} <link=\"CONTAMINATEDOXYGEN\">Забрудненого Кисню</"
-"link> на протязі всього дня"
+"Моя колонія спожила {0} <link=\"CONTAMINATEDOXYGEN\">Забрудненого Кисню</"
+"link> протягом дня"
 
 #. STRINGS.UI.ENDOFDAYREPORT.CONTAMINATED_OXYGEN_SUBLIMATION.POSITIVE_TOOLTIP
-#, fuzzy
-#| msgctxt ""
-#| "STRINGS.UI.ENDOFDAYREPORT.CONTAMINATED_OXYGEN_SUBLIMATION.POSITIVE_TOOLTIP"
-#| msgid ""
-#| "Your colony generated {0} of <link=\"CONTAMINATEDOXYGEN\">Polluted "
-#| "Oxygen</link> over the course of the day"
 msgctxt ""
 "STRINGS.UI.ENDOFDAYREPORT.CONTAMINATED_OXYGEN_SUBLIMATION.POSITIVE_TOOLTIP"
 msgid ""
 "My colony generated {0} of <link=\"CONTAMINATEDOXYGEN\">Polluted Oxygen</"
 "link> over the course of the day"
 msgstr ""
-"Ваша колонія виробила {0} <link=\"CONTAMINATEDOXYGEN\">Забрудненого Кисню</"
-"link> на протязі всього дня"
+"Моя колонія виробила {0} <link=\"CONTAMINATEDOXYGEN\">Забрудненого Кисню</"
+"link> протягом дня"
 
 #. STRINGS.UI.ENDOFDAYREPORT.CONTAMINATED_OXYGEN_TOILET.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.CONTAMINATED_OXYGEN_TOILET.NAME"
@@ -33335,54 +33270,44 @@ msgid "<link=\"POLLUTED OXYGEN\">Toilet Emissions: </link>"
 msgstr ""
 
 #. STRINGS.UI.ENDOFDAYREPORT.CONTAMINATED_OXYGEN_TOILET.NEGATIVE_TOOLTIP
-#, fuzzy
-#| msgctxt ""
-#| "STRINGS.UI.ENDOFDAYREPORT.CONTAMINATED_OXYGEN_TOILET.NEGATIVE_TOOLTIP"
-#| msgid ""
-#| "Your colony consumed {0} of <link=\"CONTAMINATEDOXYGEN\">Polluted Oxygen</"
-#| "link> over the course of the day"
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.CONTAMINATED_OXYGEN_TOILET.NEGATIVE_TOOLTIP"
 msgid ""
 "My colony consumed {0} of <link=\"CONTAMINATEDOXYGEN\">Polluted Oxygen</"
 "link> over the course of the day"
 msgstr ""
-"Ваша колонія спожила {0} <link=\"CONTAMINATEDOXYGEN\">Забрудненого Кисню</"
-"link> на протязі всього дня"
+"Моя колонія спожила {0} <link=\"CONTAMINATEDOXYGEN\">Забрудненого Кисню</"
+"link> протягом дня"
 
 #. STRINGS.UI.ENDOFDAYREPORT.CONTAMINATED_OXYGEN_TOILET.POSITIVE_TOOLTIP
-#, fuzzy
-#| msgctxt ""
-#| "STRINGS.UI.ENDOFDAYREPORT.CONTAMINATED_OXYGEN_TOILET.POSITIVE_TOOLTIP"
-#| msgid ""
-#| "Your colony generated {0} of <link=\"CONTAMINATEDOXYGEN\">Polluted "
-#| "Oxygen</link> over the course of the day"
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.CONTAMINATED_OXYGEN_TOILET.POSITIVE_TOOLTIP"
 msgid ""
 "My colony generated {0} of <link=\"CONTAMINATEDOXYGEN\">Polluted Oxygen</"
 "link> over the course of the day"
 msgstr ""
-"Ваша колонія виробила {0} <link=\"CONTAMINATEDOXYGEN\">Забрудненого Кисню</"
-"link> на протязі всього дня"
+"Моя колонія виробила {0} <link=\"CONTAMINATEDOXYGEN\">Забрудненого Кисню</"
+"link> протягом дня"
 
 #. STRINGS.UI.ENDOFDAYREPORT.DAY_TITLE
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.DAY_TITLE"
 msgid "Cycle {0}"
-msgstr "Цикл {0}"
+msgstr "{0} Цикл"
 
 #. STRINGS.UI.ENDOFDAYREPORT.DAY_TITLE_TODAY
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.DAY_TITLE_TODAY"
 msgid "Cycle {0} - Today"
-msgstr "Цикл {0} - Сьогодні"
+msgstr "{0} Цикл - Сьогодні"
 
 #. STRINGS.UI.ENDOFDAYREPORT.DAY_TITLE_YESTERDAY
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.DAY_TITLE_YESTERDAY"
 msgid "Cycle {0} - Yesterday"
-msgstr "Цикл {0} - Вчора"
+msgstr "{0} Цикл - Вчора"
 
+# Не впевнений, що так переклдається
 #. STRINGS.UI.ENDOFDAYREPORT.DISEASE_ADDED.NAME
+#, fuzzy
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.DISEASE_ADDED.NAME"
 msgid "<link=\"DISEASE\">Diseases</link> Contracted:"
-msgstr ""
+msgstr "<link=\"DISEASE\">Хворобних</link> контрактів:"
 
 #. STRINGS.UI.ENDOFDAYREPORT.DISEASE_ADDED.NEGATIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.DISEASE_ADDED.NEGATIVE_TOOLTIP"
@@ -33397,66 +33322,47 @@ msgstr "{0} Дублікант(и) контактували з <link=\"DISEASE\"
 #. STRINGS.UI.ENDOFDAYREPORT.DISEASE_STATUS.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.DISEASE_STATUS.NAME"
 msgid "Disease Status:"
-msgstr "Статус Хвороб:"
+msgstr "Статус хвороб:"
 
 #. STRINGS.UI.ENDOFDAYREPORT.DISEASE_STATUS.TOOLTIP
-#, fuzzy
-#| msgctxt "STRINGS.UI.ENDOFDAYREPORT.DISEASE_STATUS.TOOLTIP"
-#| msgid "Your Duplicants are covered in {0}"
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.DISEASE_STATUS.TOOLTIP"
 msgid "My Duplicants are covered in {0}"
-msgstr "Ваші Дубліканти вкриті на {0}"
+msgstr "Мої Дубліканти вкриті на {0}"
 
 #. STRINGS.UI.ENDOFDAYREPORT.ENERGY_USAGE.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.ENERGY_USAGE.NAME"
 msgid "<link=\"POWER\">Power</link> Usage:"
-msgstr "<link=\"POWER\">Енергія</link> Спожита:"
+msgstr "<link=\"POWER\">Енергії</link> спожито:"
 
 #. STRINGS.UI.ENDOFDAYREPORT.ENERGY_USAGE.NEGATIVE_TOOLTIP
-#, fuzzy
-#| msgctxt "STRINGS.UI.ENDOFDAYREPORT.ENERGY_USAGE.NEGATIVE_TOOLTIP"
-#| msgid ""
-#| "Your colony consumed {0} of <link=\"POWER\">Power</link> over the course "
-#| "of the day"
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.ENERGY_USAGE.NEGATIVE_TOOLTIP"
 msgid ""
 "My colony consumed {0} of <link=\"POWER\">Power</link> over the course of "
 "the day"
-msgstr ""
-"Ваша колонія спожила {0} <link=\"POWER\">Енергії</link> на протязі всього дня"
+msgstr "Моя колонія спожила {0} <link=\"POWER\">Енергії</link> протягом дня"
 
 #. STRINGS.UI.ENDOFDAYREPORT.ENERGY_USAGE.POSITIVE_TOOLTIP
-#, fuzzy
-#| msgctxt "STRINGS.UI.ENDOFDAYREPORT.ENERGY_USAGE.POSITIVE_TOOLTIP"
-#| msgid ""
-#| "Your colony created {0} of <link=\"POWER\">Power</link> over the course "
-#| "of the day"
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.ENERGY_USAGE.POSITIVE_TOOLTIP"
 msgid ""
 "My colony created {0} of <link=\"POWER\">Power</link> over the course of the "
 "day"
-msgstr ""
-"Ваша колонія виробила {0} <link=\"POWER\">Енергії</link> на протязі всього "
-"дня"
+msgstr "Моя колонія виробила {0} <link=\"POWER\">Енергії</link> протягом дня"
 
 #. STRINGS.UI.ENDOFDAYREPORT.ENERGY_WASTED.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.ENERGY_WASTED.NAME"
 msgid "<link=\"POWER\">Power</link> Wasted:"
-msgstr "Марної <link=\"POWER\">Енергія</link>:"
+msgstr "Марна <link=\"POWER\">енергія</link>:"
 
+# Можливо трішки по іншому перекласти
 #. STRINGS.UI.ENDOFDAYREPORT.ENERGY_WASTED.NEGATIVE_TOOLTIP
 #, fuzzy
-#| msgctxt "STRINGS.UI.ENDOFDAYREPORT.ENERGY_WASTED.NEGATIVE_TOOLTIP"
-#| msgid ""
-#| "Your colony lost {0} of <link=\"POWER\">Power</link> today due to "
-#| "overproduction and battery loss"
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.ENERGY_WASTED.NEGATIVE_TOOLTIP"
 msgid ""
 "My colony lost {0} of <link=\"POWER\">Power</link> today due to "
 "overproduction and battery runoff"
 msgstr ""
-"Ваша колонія втратила {0} <link=\"POWER\">Енергії</link> сьогодні від "
-"перевиробництва та втратами батареїв"
+"Моя колонія втратила {0} <link=\"POWER\">Енергії</link> сьогодні від "
+"перевиробництва та втрат батарей"
 
 #. STRINGS.UI.ENDOFDAYREPORT.ENERGY_WASTED.POSITIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.ENERGY_WASTED.POSITIVE_TOOLTIP"
@@ -33466,30 +33372,22 @@ msgstr ""
 #. STRINGS.UI.ENDOFDAYREPORT.IDLE_TIME.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.IDLE_TIME.NAME"
 msgid "Idle Time:"
-msgstr "Збайдикований час:"
+msgstr "Змарнований час:"
 
 #. STRINGS.UI.ENDOFDAYREPORT.IDLE_TIME.POSITIVE_TOOLTIP
-#, fuzzy
-#| msgctxt "STRINGS.UI.ENDOFDAYREPORT.IDLE_TIME.POSITIVE_TOOLTIP"
-#| msgid ""
-#| "Your Duplicants spent a total of {0} idling over the course of the day"
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.IDLE_TIME.POSITIVE_TOOLTIP"
 msgid "My Duplicants spent a total of {0} idling over the course of the day"
-msgstr ""
-"Ваші Дубліканти байдикували та витратили {0} загалом на протязі всього дня"
+msgstr "Мої Дубліканти всього байдикували {0} протягом дня"
 
 #. STRINGS.UI.ENDOFDAYREPORT.LEVEL_UP.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.LEVEL_UP.NAME"
 msgid "Skill Increases:"
-msgstr "Збільшений Досвід:"
+msgstr "Збільшення досвіду:"
 
 #. STRINGS.UI.ENDOFDAYREPORT.LEVEL_UP.TOOLTIP
-#, fuzzy
-#| msgctxt "STRINGS.UI.ENDOFDAYREPORT.LEVEL_UP.TOOLTIP"
-#| msgid "Your Duplicants gained a total of {0} skill levels today"
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.LEVEL_UP.TOOLTIP"
 msgid "My Duplicants gained a total of {0} skill levels today"
-msgstr "Ваші Дубліканти здобули в загальному {0} досвіду, навичок сьогодні"
+msgstr "Мої Дубліканти здобули всього {0} досвіду сьогодні"
 
 #. STRINGS.UI.ENDOFDAYREPORT.NET
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.NET"
@@ -33504,12 +33402,12 @@ msgstr "Наст."
 #. STRINGS.UI.ENDOFDAYREPORT.NOTES.BUTCHERED
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.NOTES.BUTCHERED"
 msgid "Butchered for {0}"
-msgstr ""
+msgstr "Вбито на {0}"
 
 #. STRINGS.UI.ENDOFDAYREPORT.NOTES.BUTCHERED_CONTEXT
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.NOTES.BUTCHERED_CONTEXT"
 msgid "Butchered"
-msgstr ""
+msgstr "Вбито"
 
 #. STRINGS.UI.ENDOFDAYREPORT.NOTES.CRAFTED
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.NOTES.CRAFTED"
@@ -33529,7 +33427,7 @@ msgstr ""
 #. STRINGS.UI.ENDOFDAYREPORT.NOTES.EATEN
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.NOTES.EATEN"
 msgid "{0} eaten"
-msgstr ""
+msgstr "З'їв {0}"
 
 #. STRINGS.UI.ENDOFDAYREPORT.NOTES.GERMS
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.NOTES.GERMS"
@@ -33539,12 +33437,12 @@ msgstr "На {0}"
 #. STRINGS.UI.ENDOFDAYREPORT.NOTES.HARVESTED
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.NOTES.HARVESTED"
 msgid "Harvested {0}"
-msgstr ""
+msgstr "Урожай {0}"
 
 #. STRINGS.UI.ENDOFDAYREPORT.NOTES.HARVESTED_CONTEXT
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.NOTES.HARVESTED_CONTEXT"
 msgid "Harvested"
-msgstr ""
+msgstr "Урожай"
 
 #. STRINGS.UI.ENDOFDAYREPORT.NOTES.NOTE_ENTRY_LINE_ITEM
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.NOTES.NOTE_ENTRY_LINE_ITEM"
@@ -33558,12 +33456,12 @@ msgstr ""
 #. STRINGS.UI.ENDOFDAYREPORT.NOTES.ROTTED
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.NOTES.ROTTED"
 msgid "Rotten {0}"
-msgstr ""
+msgstr "Згнила {0}"
 
 #. STRINGS.UI.ENDOFDAYREPORT.NOTES.ROTTED_CONTEXT
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.NOTES.ROTTED_CONTEXT"
 msgid "Rotted"
-msgstr ""
+msgstr "Згнито"
 
 #. STRINGS.UI.ENDOFDAYREPORT.NOTES.TIME_SPENT
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.NOTES.TIME_SPENT"
@@ -33573,46 +33471,31 @@ msgstr "{0}"
 #. STRINGS.UI.ENDOFDAYREPORT.NOTIFICATION_TITLE
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.NOTIFICATION_TITLE"
 msgid "Cycle {0} report ready"
-msgstr "Цикл {0} звіт готовий"
+msgstr "Звіт за {0} цикл готовий"
 
 #. STRINGS.UI.ENDOFDAYREPORT.NOTIFICATION_TOOLTIP
-#, fuzzy
-#| msgctxt "STRINGS.UI.ENDOFDAYREPORT.NOTIFICATION_TOOLTIP"
-#| msgid "View the end of day report for Cycle {0}"
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.NOTIFICATION_TOOLTIP"
 msgid "The daily report for Cycle {0} is ready to view"
-msgstr "Переглянути звіт на кінець дня за Цикл {0}"
+msgstr "Щоденний звіт за {0} цикл готовий до перегляду"
 
 #. STRINGS.UI.ENDOFDAYREPORT.OXYGEN_CREATED.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.OXYGEN_CREATED.NAME"
 msgid "<link=\"OXYGEN\">Oxygen</link> Generation:"
-msgstr "<link=\"OXYGEN\">Кисню</link> Згенеровано:"
+msgstr "<link=\"OXYGEN\">Кисню</link> вироблено:"
 
 #. STRINGS.UI.ENDOFDAYREPORT.OXYGEN_CREATED.NEGATIVE_TOOLTIP
-#, fuzzy
-#| msgctxt "STRINGS.UI.ENDOFDAYREPORT.OXYGEN_CREATED.NEGATIVE_TOOLTIP"
-#| msgid ""
-#| "Your colony consumed {0} of <link=\"OXYGEN\">Oxygen</link> over the "
-#| "course of the day"
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.OXYGEN_CREATED.NEGATIVE_TOOLTIP"
 msgid ""
 "My colony consumed {0} of <link=\"OXYGEN\">Oxygen</link> over the course of "
 "the day"
-msgstr ""
-"Ваша колонія спожила {0} <link=\"OXYGEN\">Кисню</link> на протязі всього дня"
+msgstr "Моя колонія спожила {0} <link=\"OXYGEN\">Кисню</link> протягом дня"
 
 #. STRINGS.UI.ENDOFDAYREPORT.OXYGEN_CREATED.POSITIVE_TOOLTIP
-#, fuzzy
-#| msgctxt "STRINGS.UI.ENDOFDAYREPORT.OXYGEN_CREATED.POSITIVE_TOOLTIP"
-#| msgid ""
-#| "Your colony generated {0} of <link=\"OXYGEN\">Oxygen</link> over the "
-#| "course of the day"
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.OXYGEN_CREATED.POSITIVE_TOOLTIP"
 msgid ""
 "My colony generated {0} of <link=\"OXYGEN\">Oxygen</link> over the course of "
 "the day"
-msgstr ""
-"Ваша колонія виробила {0} <link=\"OXYGEN\">Кисню</link> на протязі всього дня"
+msgstr "Моя колонія виробила {0} <link=\"OXYGEN\">Кисню</link> протягом дня"
 
 #. STRINGS.UI.ENDOFDAYREPORT.PREV
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.PREV"
@@ -33632,72 +33515,55 @@ msgstr "ЩОДЕННІ ЗВІТИ"
 #. STRINGS.UI.ENDOFDAYREPORT.STRESS_DELTA.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.STRESS_DELTA.NAME"
 msgid "<link=\"STRESS\">Stress</link> Change:"
-msgstr "Зміна <link=\"STRESS\">Стресу</link>:"
+msgstr "Зміна <link=\"STRESS\">нервування</link>:"
 
 #. STRINGS.UI.ENDOFDAYREPORT.STRESS_DELTA.NEGATIVE_TOOLTIP
-#, fuzzy
-#| msgctxt "STRINGS.UI.ENDOFDAYREPORT.STRESS_DELTA.NEGATIVE_TOOLTIP"
-#| msgid ""
-#| "Your colony's total <link=\"STRESS\">Stress</link> has decreased by {0}"
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.STRESS_DELTA.NEGATIVE_TOOLTIP"
 msgid "My colony's total <link=\"STRESS\">Stress</link> has decreased by {0}"
 msgstr ""
-"Сукупний <link=\"STRESS\">Стрес</link> ваших колоністів зменшився на {0}"
+"Загальне <link=\"STRESS\">Нервування</link> моїх колоністів зменшилося на {0}"
 
 #. STRINGS.UI.ENDOFDAYREPORT.STRESS_DELTA.POSITIVE_TOOLTIP
-#, fuzzy
-#| msgctxt "STRINGS.UI.ENDOFDAYREPORT.STRESS_DELTA.POSITIVE_TOOLTIP"
-#| msgid ""
-#| "Your colony's total <link=\"STRESS\">Stress</link> has increased by {0}"
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.STRESS_DELTA.POSITIVE_TOOLTIP"
 msgid "My colony's total <link=\"STRESS\">Stress</link> has increased by {0}"
 msgstr ""
-"Сукупний <link=\"STRESS\">Стрес</link> ваших колоністів збільшився на {0}"
+"Загальне <link=\"STRESS\">Нервування</link> моїх колоністів збільшилося на "
+"{0}"
 
+# Можливо тут не так перекладено
 #. STRINGS.UI.ENDOFDAYREPORT.TIME_SPENT.NAME
+#, fuzzy
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.TIME_SPENT.NAME"
 msgid "Time Breakdown:"
-msgstr "Час Роботи:"
+msgstr "Робочий час:"
 
 #. STRINGS.UI.ENDOFDAYREPORT.TIME_SPENT.POSITIVE_TOOLTIP
-#, fuzzy
-#| msgctxt "STRINGS.UI.ENDOFDAYREPORT.TIME_SPENT.POSITIVE_TOOLTIP"
-#| msgid ""
-#| "Your Duplicants spent a total of {0} doing errands over the course of the "
-#| "day"
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.TIME_SPENT.POSITIVE_TOOLTIP"
 msgid ""
 "My Duplicants spent a total of {0} doing errands over the course of the day"
-msgstr "Ваші Дубліканти витратили загалом {0} на завдання, протягом всього дня"
+msgstr "Мої Дубліканти витратили всього {0} на завдання, протягом дня"
 
 #. STRINGS.UI.ENDOFDAYREPORT.TOILET_INCIDENT.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.TOILET_INCIDENT.NAME"
 msgid "Restroom Accidents:"
-msgstr "Туалетна Катастрофа:"
+msgstr "Туалетна катастрофа:"
 
 #. STRINGS.UI.ENDOFDAYREPORT.TOILET_INCIDENT.TOOLTIP
-#, fuzzy
-#| msgctxt "STRINGS.UI.ENDOFDAYREPORT.TOILET_INCIDENT.TOOLTIP"
-#| msgid "{0} Duplicants didn't quite reach the toilet in time today"
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.TOILET_INCIDENT.TOOLTIP"
 msgid "{0} Duplicants couldn't quite reach the toilet in time today"
-msgstr "{0} Дубліканти не знайшли час відвідати вбиральну сьогодні"
+msgstr "{0} Дубліканти, які не знайшли час відвідати вбиральні сьогодні"
 
 #. STRINGS.UI.ENDOFDAYREPORT.TRAVEL_TIME.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.TRAVEL_TIME.NAME"
 msgid "Travel Time:"
-msgstr "Час Подорожі:"
+msgstr "Час подорожей:"
 
 #. STRINGS.UI.ENDOFDAYREPORT.TRAVEL_TIME.POSITIVE_TOOLTIP
-#, fuzzy
-#| msgctxt "STRINGS.UI.ENDOFDAYREPORT.TRAVEL_TIME.POSITIVE_TOOLTIP"
-#| msgid ""
-#| "Your Duplicants spent a total of {0} traveling over the course of the day"
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.TRAVEL_TIME.POSITIVE_TOOLTIP"
 msgid ""
 "My Duplicants spent a total of {0} traveling between errands throughout of "
 "the day"
-msgstr "Ваші Дубліканти витратили загалом {0} подорожуючи, протягом всього дня"
+msgstr "Мої Дубліканти витратили всього {0} на подорожі, протягом дня"
 
 #. STRINGS.UI.EQUIPMENTTAB_HELD
 msgctxt "STRINGS.UI.EQUIPMENTTAB_HELD"
@@ -33729,6 +33595,7 @@ msgctxt "STRINGS.UI.FORMATSECONDS"
 msgid "{0}s"
 msgstr "{0}с"
 
+# не зрозумів, як правильно перекласти, це знаходиться в налаштуваннях звуків гри
 #. STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.AUDIO_BUS_AMBIENCE
 msgctxt "STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.AUDIO_BUS_AMBIENCE"
 msgid "Ambience"
@@ -33805,7 +33672,7 @@ msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.IMMUNESYSTEM.LEVELS."
 "COMPROMISED.NAME"
 msgid "Miserable"
-msgstr "Жалюгідна"
+msgstr "Жалюгідні"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.IMMUNESYSTEM.LEVELS.COMPROMISED.TOOLTIP
 msgctxt ""
@@ -33819,7 +33686,7 @@ msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.IMMUNESYSTEM.LEVELS."
 "DEFAULT.NAME"
 msgid "Regular"
-msgstr "Звичайна"
+msgstr "Звичайні"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.IMMUNESYSTEM.LEVELS.DEFAULT.TOOLTIP
 msgctxt ""
@@ -33840,7 +33707,7 @@ msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.IMMUNESYSTEM.LEVELS."
 "INVINCIBLE.NAME"
 msgid "Impervious"
-msgstr "Надміцна"
+msgstr "Надміцні"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.IMMUNESYSTEM.LEVELS.INVINCIBLE.TOOLTIP
 msgctxt ""
@@ -33861,7 +33728,7 @@ msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.IMMUNESYSTEM.LEVELS."
 "STRONG.NAME"
 msgid "Strong"
-msgstr "Сильна"
+msgstr "Сильні"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.IMMUNESYSTEM.LEVELS.STRONG.TOOLTIP
 msgctxt ""
@@ -33882,7 +33749,7 @@ msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.IMMUNESYSTEM.LEVELS."
 "WEAK.NAME"
 msgid "Weak"
-msgstr "Слабка"
+msgstr "Слабкі"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.IMMUNESYSTEM.LEVELS.WEAK.TOOLTIP
 msgctxt ""
@@ -33898,14 +33765,10 @@ msgid "Immune Systems"
 msgstr "Імунні Cистеми"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.IMMUNESYSTEM.TOOLTIP
-#, fuzzy
-#| msgctxt ""
-#| "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.IMMUNESYSTEM.TOOLTIP"
-#| msgid "Affects how resistant your Duplicants are to disease"
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.IMMUNESYSTEM.TOOLTIP"
 msgid "Affects how resistant Duplicants are to disease"
-msgstr "Впливає на те, наскільки стійкі ваші Дубліканти до захворювання"
+msgstr "Впливає на те, наскільки стійкі Дубліканти до захворювання"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.SANDBOXMODE.LEVELS.DISABLED.NAME
 msgctxt ""
@@ -33936,22 +33799,12 @@ msgid "Click to disable Sandbox mode"
 msgstr "Натисніть, щоб вимкнути режим Пісочниці"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.SANDBOXMODE.NAME
-#, fuzzy
-#| msgctxt ""
-#| "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.SANDBOXMODE.NAME"
-#| msgid "Sandbox mode"
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.SANDBOXMODE.NAME"
 msgid "Sandbox Mode"
 msgstr "Режим Пісочниці"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.SANDBOXMODE.TOOLTIP
-#, fuzzy
-#| msgctxt ""
-#| "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.SANDBOXMODE.TOOLTIP"
-#| msgid ""
-#| "Allows the simulation to be manipulated with tools that ignore the "
-#| "regular constraints of the game"
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.SANDBOXMODE.TOOLTIP"
 msgid ""
@@ -34065,65 +33918,57 @@ msgid "Duplicant Mood"
 msgstr "Настрій Дубліканта"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.STRESS.TOOLTIP
-#, fuzzy
-#| msgctxt ""
-#| "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.STRESS.TOOLTIP"
-#| msgid "Affects how well your Duplicants deal with stress"
 msgctxt "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.STRESS.TOOLTIP"
 msgid "Affects how well Duplicants handle stress"
-msgstr "Впливає на те, наскільки добре ваші Дубліканти справляються зі стресом"
+msgstr "Впливає на те, наскільки добре Дубліканти справляються при напрузі"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.STRESS_BREAKS.LEVELS.DEFAULT.NAME
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.STRESS_BREAKS.LEVELS."
 "DEFAULT.NAME"
 msgid "Normal"
-msgstr ""
+msgstr "Звичайно"
 
+# Потрібно перевірити переклад, не дуже мені він подобається
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.STRESS_BREAKS.LEVELS.DEFAULT.TOOLTIP
+#, fuzzy
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.STRESS_BREAKS.LEVELS."
 "DEFAULT.TOOLTIP"
 msgid "Duplicants will act out when they reach 100% stress"
-msgstr "Дубліканти будуть діяти, коли досягнуть 100% стресу"
+msgstr "Дубліканти будуть діяти, коли їх напруга досягне 100%"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.STRESS_BREAKS.LEVELS.DISABLED.NAME
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.STRESS_BREAKS.LEVELS."
 "DISABLED.NAME"
 msgid "Disabled"
-msgstr ""
+msgstr "Вимкнено"
 
+# Потрібно перевірити переклад, не дуже мені він подобається
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.STRESS_BREAKS.LEVELS.DISABLED.TOOLTIP
+#, fuzzy
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.STRESS_BREAKS.LEVELS."
 "DISABLED.TOOLTIP"
 msgid "Duplicants will not act out at maximum stress"
-msgstr ""
+msgstr "Дубліканти не будуть діяти при максимальній напрузі"
 
+# Напевно потрібно замінити Stress на інше слово, а можливо тут таа і залишити.
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.STRESS_BREAKS.NAME
 #, fuzzy
-#| msgctxt ""
-#| "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.STRESS_BREAKS.NAME"
-#| msgid "Stress Responses"
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.STRESS_BREAKS.NAME"
 msgid "Stress Reactions"
-msgstr "Відповіді на Стрес"
+msgstr "Реакція на стрес"
 
+# Потрібно перевірити переклад, не дуже мені він подобається
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.STRESS_BREAKS.TOOLTIP
 #, fuzzy
-#| msgctxt ""
-#| "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.STRESS_BREAKS."
-#| "TOOLTIP"
-#| msgid ""
-#| "Whether or not your Duplicants act out when they reach maximum stress"
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.STRESS_BREAKS.TOOLTIP"
 msgid "Determines whether Duplicants act out when they reach maximum stress"
-msgstr ""
-"Незалежно від того чи виконують ваші Дубліканти, коли вони досягають "
-"максимального стресу"
+msgstr "Визначає, чи діятимуть Дубліканти, коли їхня напруга досягне максимума"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.WORLD_CHOICE.NAME
 msgctxt ""
@@ -34149,6 +33994,7 @@ msgctxt ""
 msgid "This chooses the random parameters of your new world"
 msgstr "Це підбирає випадкові параметри до вашого нового світу"
 
+# перевірити переклад чи так перекладений чи ні
 #. STRINGS.UI.FRONTEND.DEMO_OVER_SCREEN.BODY
 msgctxt "STRINGS.UI.FRONTEND.DEMO_OVER_SCREEN.BODY"
 msgid ""
@@ -34158,6 +34004,12 @@ msgid ""
 "\n"
 "Go to kleigames.com/o2 or ask one of us if you'd like more information."
 msgstr ""
+"Дякуємо, що грали в демо версію Oxygen Not Included!\n"
+"\n"
+"Ця гра перебуває в розробці.\n"
+"\n"
+"Перейдіть за посиланням kleigames.com/o2 чи запитайте\n"
+"в одного з нас, якщо хочете більше інформації."
 
 #. STRINGS.UI.FRONTEND.DEMO_OVER_SCREEN.BUTTON_EXIT_TO_MENU
 msgctxt "STRINGS.UI.FRONTEND.DEMO_OVER_SCREEN.BUTTON_EXIT_TO_MENU"
@@ -34222,7 +34074,7 @@ msgstr "Готово"
 #. STRINGS.UI.FRONTEND.INPUT_BINDINGS_SCREEN.DUPLICATE
 msgctxt "STRINGS.UI.FRONTEND.INPUT_BINDINGS_SCREEN.DUPLICATE"
 msgid "{0} was already bound to {1} and is now unbound."
-msgstr ""
+msgstr "{0} було пов'язано з {1} і зараз не пов'язано."
 
 #. STRINGS.UI.FRONTEND.INPUT_BINDINGS_SCREEN.MULTIPLE_UNBOUND_ACTIONS
 msgctxt "STRINGS.UI.FRONTEND.INPUT_BINDINGS_SCREEN.MULTIPLE_UNBOUND_ACTIONS"
@@ -34230,6 +34082,8 @@ msgid ""
 "You have multiple unbound actions, this may result in difficulty playing the "
 "game. Are you sure you want to continue?"
 msgstr ""
+"Ви маєте декілька не пов'язаних дій, це може викликати труднощі в грі. Ви "
+"впевнені, що хочете продовжити?"
 
 #. STRINGS.UI.FRONTEND.INPUT_BINDINGS_SCREEN.RESET
 msgctxt "STRINGS.UI.FRONTEND.INPUT_BINDINGS_SCREEN.RESET"
@@ -34244,7 +34098,7 @@ msgstr "НАЛАШТУВАННЯ КЛАВІШ"
 #. STRINGS.UI.FRONTEND.INPUT_BINDINGS_SCREEN.UNBOUND_ACTION
 msgctxt "STRINGS.UI.FRONTEND.INPUT_BINDINGS_SCREEN.UNBOUND_ACTION"
 msgid "{0} is unbound. Are you sure you want to continue?"
-msgstr ""
+msgstr "{0} не пов'язано. Ви впевнені, що хочете продовжити?"
 
 #. STRINGS.UI.FRONTEND.INPUT_BINDINGS_SCREEN.WAITING_FOR_INPUT
 msgctxt "STRINGS.UI.FRONTEND.INPUT_BINDINGS_SCREEN.WAITING_FOR_INPUT"
@@ -34257,18 +34111,13 @@ msgid "Loading..."
 msgstr "Завантаження..."
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.AUTOSAVEWARNING
-#, fuzzy
-#| msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.AUTOSAVEWARNING"
-#| msgid ""
-#| " <b><color=#ff0000>(Autosave: This file will get deleted as new autosaves "
-#| "are created)</color></b>"
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.AUTOSAVEWARNING"
 msgid ""
 " <b><color=#ff0000>Autosave: This file will get deleted as new autosaves are "
 "created</color></b>"
 msgstr ""
-" <b><color=#ff0000>(Автозбереження: Цей файл буде видалено, оскільки "
-"створюються нові автозбереження)</color></b>"
+" <b><color=#ff0000>Авто збереження: Цей файл буде видалено, оскільки "
+"створюються нові авто збереження</color></b>"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.CONFIRMDELETE
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.CONFIRMDELETE"
@@ -34610,7 +34459,6 @@ msgid "World Generation Key"
 msgstr "Ключ Генерації Світу"
 
 #. STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.BODY
-#, fuzzy
 #| msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.LOADING.TITLE"
 #| msgid "<b>Welcome to Oxygen Not Included!</b>"
 msgctxt "STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.BODY"
@@ -34618,7 +34466,10 @@ msgid ""
 "<b>Welcome to the Cosmic Upgrade!!</b>\n"
 "\n"
 "{0}"
-msgstr "<b>Вітаємо в Oxygen Not Included!</b>"
+msgstr ""
+"<b>Вітаємо в Космічному Оновленні!!</b>\n"
+"\n"
+"{0}"
 
 #. STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.OK_BUTTON
 msgctxt "STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.OK_BUTTON"
@@ -34637,11 +34488,19 @@ msgid ""
 "\n"
 "Please view the full patch notes for further details!"
 msgstr ""
+"<b>Особливості Оновлення:</b>\n"
+"\n"
+"• Поверхневий біом був доданий на верх астероїда\n"
+"• Можна приборкати металеві метеорити та енергію сонця\n"
+"• Нове скло та сталеві ресурси, дозволять будувати поліпшені будівлі\n"
+"• Додаткові виправлення та полірування Ранчо Тварин та яєць\n"
+"\n"
+"Будь ласка, перегляньте повний опис змін для більших подробиць!"
 
 #. STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.TITLE
 msgctxt "STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.TITLE"
 msgid "COSMIC UPGRADE"
-msgstr ""
+msgstr "КОСМІЧНЕ ОНОВЛЕННЯ"
 
 #. STRINGS.UI.FRONTEND.PAUSE_SCREEN.DESKTOPQUIT
 msgctxt "STRINGS.UI.FRONTEND.PAUSE_SCREEN.DESKTOPQUIT"
@@ -34711,6 +34570,10 @@ msgid ""
 "\n"
 "{0}"
 msgstr ""
+"Виникла помилка при спробі зберегти вашу гру. Будь ласка, переконайтесь, що "
+"достатньо місця на диску.\n"
+"\n"
+"{0}"
 
 #. STRINGS.UI.FRONTEND.SAVESCREEN.NEWSAVEBUTTON
 msgctxt "STRINGS.UI.FRONTEND.SAVESCREEN.NEWSAVEBUTTON"
@@ -34725,7 +34588,7 @@ msgstr "Ви впевнені, що хочете перезаписати {0}?"
 #. STRINGS.UI.FRONTEND.SAVESCREEN.REPORT_BUG
 msgctxt "STRINGS.UI.FRONTEND.SAVESCREEN.REPORT_BUG"
 msgid "Report Bug"
-msgstr ""
+msgstr "Звіт помилки"
 
 #. STRINGS.UI.FRONTEND.SAVESCREEN.SAVENAMETITLE
 msgctxt "STRINGS.UI.FRONTEND.SAVESCREEN.SAVENAMETITLE"
@@ -34748,6 +34611,13 @@ msgid ""
 "Please visit your audio device manufacturer's website to download the latest "
 "drivers."
 msgstr ""
+"Виникла проблема з ініціалізацією аудіо пристрою.\n"
+"Вибач за це!\n"
+"\n"
+"Це, як правило, викликано застарілими аудіо драйверами.\n"
+"\n"
+"Будь ласка, відвідайте веб-сайт вашого виробника аудіо пристрою, щоб "
+"завантажити найновіші драйвери."
 
 #. STRINGS.UI.FRONTEND.SUPPORTWARNINGS.DUPLICATE_KEY_BINDINGS
 msgctxt "STRINGS.UI.FRONTEND.SUPPORTWARNINGS.DUPLICATE_KEY_BINDINGS"
@@ -34760,7 +34630,10 @@ msgid ""
 "{0}"
 msgstr ""
 
+# Перевірити переклад
+# Третій рядок особливо
 #. STRINGS.UI.FRONTEND.SUPPORTWARNINGS.SAVE_DIRECTORY_INSUFFICIENT_SPACE
+#, fuzzy
 msgctxt "STRINGS.UI.FRONTEND.SUPPORTWARNINGS.SAVE_DIRECTORY_INSUFFICIENT_SPACE"
 msgid ""
 "There is insufficient disk space to write to your save directory.\n"
@@ -34768,6 +34641,10 @@ msgid ""
 "Please free at least 15 MB to give your saves some room to breathe.\n"
 "{0}"
 msgstr ""
+"Недостатньо місця на диску для запису у ваш каталог збереження.\n"
+"\n"
+"Будь ласка, звільніть щонайменше 15 Мб, щоб заощадити місце для дихання.\n"
+"{0}"
 
 #. STRINGS.UI.FRONTEND.SUPPORTWARNINGS.SAVE_DIRECTORY_READ_ONLY
 msgctxt "STRINGS.UI.FRONTEND.SUPPORTWARNINGS.SAVE_DIRECTORY_READ_ONLY"
@@ -34779,6 +34656,12 @@ msgid ""
 "launch the game.\n"
 "{0}"
 msgstr ""
+"Під час доступу до вашого каталогу збереження сталася помилка.\n"
+"Це може бути тому, що ваш каталог встановлений лише для читання.\n"
+"\n"
+"Будь ласка, переконайтеся, що ваш каталог збереження є читабельним,\n"
+"а також доступним для запису та перезавантажте гру.\n"
+"{0}"
 
 #. STRINGS.UI.FRONTEND.SUPPORTWARNINGS.WORLD_GEN_FILES
 msgctxt "STRINGS.UI.FRONTEND.SUPPORTWARNINGS.WORLD_GEN_FILES"
@@ -34790,26 +34673,33 @@ msgid ""
 "\n"
 "{0}"
 msgstr ""
+"Виникла проблема при доступі до певних ігрових файлів, що перешкоджають "
+"запуску нових ігор.\n"
+"\n"
+"Будь ласка, переконайтеся, що ви можете змінити ці файли та перезавантажте "
+"гру:\n"
+"\n"
+"{0}"
 
 #. STRINGS.UI.FRONTEND.TRANSLATIONS_SCREEN.ARE_YOU_SURE
 msgctxt "STRINGS.UI.FRONTEND.TRANSLATIONS_SCREEN.ARE_YOU_SURE"
 msgid "Are you sure you want to uninstall this language pack?"
-msgstr ""
+msgstr "Ви впевнені, що хочете видалити цей мовний пакет?"
 
 #. STRINGS.UI.FRONTEND.TRANSLATIONS_SCREEN.DOWNLOAD
 msgctxt "STRINGS.UI.FRONTEND.TRANSLATIONS_SCREEN.DOWNLOAD"
 msgid "Start Download"
-msgstr ""
+msgstr "Почати Завантаження"
 
 #. STRINGS.UI.FRONTEND.TRANSLATIONS_SCREEN.INSTALL
 msgctxt "STRINGS.UI.FRONTEND.TRANSLATIONS_SCREEN.INSTALL"
 msgid "Install"
-msgstr ""
+msgstr "Встановити"
 
 #. STRINGS.UI.FRONTEND.TRANSLATIONS_SCREEN.INSTALLED
 msgctxt "STRINGS.UI.FRONTEND.TRANSLATIONS_SCREEN.INSTALLED"
 msgid "Installed"
-msgstr ""
+msgstr "Встановлено"
 
 #. STRINGS.UI.FRONTEND.TRANSLATIONS_SCREEN.NO_PACKS
 msgctxt "STRINGS.UI.FRONTEND.TRANSLATIONS_SCREEN.NO_PACKS"
@@ -34867,7 +34757,7 @@ msgstr ""
 #. STRINGS.UI.FRONTEND.TRANSLATIONS_SCREEN.UGC_MOD_TITLE_FORMAT
 msgctxt "STRINGS.UI.FRONTEND.TRANSLATIONS_SCREEN.UGC_MOD_TITLE_FORMAT"
 msgid "{0} (workshop)"
-msgstr ""
+msgstr "{0} (workshop)"
 
 #. STRINGS.UI.FRONTEND.TRANSLATIONS_SCREEN.UNINSTALL
 msgctxt "STRINGS.UI.FRONTEND.TRANSLATIONS_SCREEN.UNINSTALL"
@@ -34952,32 +34842,32 @@ msgstr "ЗАВАНТАЖЕННЯ СВІТУ..."
 #. STRINGS.UI.FRONTEND.WORLDGENSCREEN.SELECTSIZEPROMPT
 msgctxt "STRINGS.UI.FRONTEND.WORLDGENSCREEN.SELECTSIZEPROMPT"
 msgid "A new world is about to be created. Please select its size."
-msgstr ""
+msgstr "Буде створено новий світ. Будь ласка, оберіть його розмір."
 
 #. STRINGS.UI.FRONTEND.WORLDGENSCREEN.SIZES.HUGE
 msgctxt "STRINGS.UI.FRONTEND.WORLDGENSCREEN.SIZES.HUGE"
 msgid "Colossal"
-msgstr ""
+msgstr "Колосальний"
 
 #. STRINGS.UI.FRONTEND.WORLDGENSCREEN.SIZES.LARGE
 msgctxt "STRINGS.UI.FRONTEND.WORLDGENSCREEN.SIZES.LARGE"
 msgid "Big"
-msgstr ""
+msgstr "Великий"
 
 #. STRINGS.UI.FRONTEND.WORLDGENSCREEN.SIZES.SMALL
 msgctxt "STRINGS.UI.FRONTEND.WORLDGENSCREEN.SIZES.SMALL"
 msgid "Small"
-msgstr ""
+msgstr "Маленький"
 
 #. STRINGS.UI.FRONTEND.WORLDGENSCREEN.SIZES.STANDARD
 msgctxt "STRINGS.UI.FRONTEND.WORLDGENSCREEN.SIZES.STANDARD"
 msgid "Standard"
-msgstr ""
+msgstr "Звичайний"
 
 #. STRINGS.UI.FRONTEND.WORLDGENSCREEN.SIZES.TINY
 msgctxt "STRINGS.UI.FRONTEND.WORLDGENSCREEN.SIZES.TINY"
 msgid "Tiny"
-msgstr ""
+msgstr "Крихітний"
 
 #. STRINGS.UI.FRONTEND.WORLDGENSCREEN.TITLE
 msgctxt "STRINGS.UI.FRONTEND.WORLDGENSCREEN.TITLE"
@@ -34987,62 +34877,68 @@ msgstr "НОВА ГРА"
 #. STRINGS.UI.GAMEOBJECTEFFECTS.CALORIES
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.CALORIES"
 msgid "+{0}"
-msgstr ""
+msgstr "+{0}"
 
+# Знайти де в грі знаходиться та порівняти зміст перекладеного
 #. STRINGS.UI.GAMEOBJECTEFFECTS.COLDBREATHER
+#, fuzzy
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.COLDBREATHER"
 msgid "<link=\"HEAT\">Cooling Effect</link>"
-msgstr ""
+msgstr "<link=\"HEAT\">Ефект Охолодження</link>"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.DAMAGE_POPS.CIRCUIT_OVERLOADED
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.DAMAGE_POPS.CIRCUIT_OVERLOADED"
 msgid "Overload Damage"
-msgstr ""
+msgstr "Пошкодження Перенавантаження"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.DAMAGE_POPS.COMET
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.DAMAGE_POPS.COMET"
 msgid "Meteor Damage"
-msgstr ""
+msgstr "Метеоритне Пошкодження"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.DAMAGE_POPS.CONDUIT_CONTENTS_BOILED
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.DAMAGE_POPS.CONDUIT_CONTENTS_BOILED"
 msgid "Heat Damage"
-msgstr ""
+msgstr "Теплове Пошкодження"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.DAMAGE_POPS.CONDUIT_CONTENTS_FROZE
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.DAMAGE_POPS.CONDUIT_CONTENTS_FROZE"
 msgid "Cold Damage"
-msgstr ""
+msgstr "Прохолодне Пошкодження"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.DAMAGE_POPS.LIQUID_PRESSURE
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.DAMAGE_POPS.LIQUID_PRESSURE"
 msgid "Pressure Damage"
-msgstr ""
+msgstr "Тискове Пошкодження"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.DAMAGE_POPS.MICROMETEORITE
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.DAMAGE_POPS.MICROMETEORITE"
 msgid "Micrometeorite Damage"
-msgstr ""
+msgstr "Мікрометеоритне Пошкодження"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.DAMAGE_POPS.MINION_DESTRUCTION
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.DAMAGE_POPS.MINION_DESTRUCTION"
 msgid "Tantrum Damage"
-msgstr ""
+msgstr "Пошкодження Роздратування"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.DAMAGE_POPS.OVERHEAT
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.DAMAGE_POPS.OVERHEAT"
 msgid "Overheat Damage"
-msgstr ""
+msgstr "Пошкодження Перегрівання"
 
+# Не дуже зрозуміло, як правильно перекласти.
+# В грі це коли об'єкт засипало чи щось подібне.
+# Але не впевнений.
 #. STRINGS.UI.GAMEOBJECTEFFECTS.DAMAGE_POPS.WRONG_ELEMENT
+#, fuzzy
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.DAMAGE_POPS.WRONG_ELEMENT"
 msgid "Wrong Element Damage"
-msgstr ""
+msgstr "Хибне Пошкодження Елементу"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.DARKNESS
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.DARKNESS"
 msgid "Darkness"
-msgstr ""
+msgstr "Темрява"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.EMITS_LIGHT
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.EMITS_LIGHT"
@@ -35052,7 +34948,7 @@ msgstr "<link=\"LIGHT\">Радіус освітлення</link>: {0} блокі
 #. STRINGS.UI.GAMEOBJECTEFFECTS.EQUIPMENT_MODS
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.EQUIPMENT_MODS"
 msgid "{Attribute} {Value}"
-msgstr ""
+msgstr "{Attribute} {Value}"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.FOOD_EFFECTS
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.FOOD_EFFECTS"
@@ -35077,7 +34973,7 @@ msgstr ""
 #. STRINGS.UI.GAMEOBJECTEFFECTS.GROWTHTIME_REGROWTH
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.GROWTHTIME_REGROWTH"
 msgid "Domestic growth: {0} / {1}"
-msgstr ""
+msgstr "Свійський ріст: {0} / {1}"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.GROWTHTIME_SIMPLE
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.GROWTHTIME_SIMPLE"
@@ -35092,12 +34988,14 @@ msgstr "{0}: {1}"
 #. STRINGS.UI.GAMEOBJECTEFFECTS.IDEAL_PRESSURE
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.IDEAL_PRESSURE"
 msgid "<link=\"ATMOSPHERE\">Air</link> Pressure: {0}"
-msgstr ""
+msgstr "Тиск <link=\"ATMOSPHERE\">Повітря</link>: {0}"
 
+# Знайти де в грі та перевірити
 #. STRINGS.UI.GAMEOBJECTEFFECTS.IDEAL_TEMPERATURE
+#, fuzzy
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.IDEAL_TEMPERATURE"
 msgid "<link=\"HEAT\">Temperature</link>: {0} to {1}"
-msgstr ""
+msgstr "<link=\"HEAT\">Температура</link>: від {0} до {1}"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.INITIALGROWTHTIME
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.INITIALGROWTHTIME"
@@ -35118,7 +35016,7 @@ msgstr ""
 #. STRINGS.UI.GAMEOBJECTEFFECTS.LIFECYCLETITLE
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.LIFECYCLETITLE"
 msgid "Growth:"
-msgstr ""
+msgstr "Ріст:"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.LIGHT
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.LIGHT"
@@ -35128,12 +35026,12 @@ msgstr ""
 #. STRINGS.UI.GAMEOBJECTEFFECTS.PLANT_DO_NOT_HARVEST
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.PLANT_DO_NOT_HARVEST"
 msgid "Autoharvest Disabled"
-msgstr ""
+msgstr "Вимкнено Автожнива"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.PLANT_MARK_FOR_HARVEST
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.PLANT_MARK_FOR_HARVEST"
 msgid "Autoharvest Enabled"
-msgstr ""
+msgstr "Увімкнено Автожнива"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.REGROWTHTIME
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.REGROWTHTIME"
@@ -35439,7 +35337,7 @@ msgstr ""
 #. STRINGS.UI.IMMIGRANTSCREEN.CONFIRMATIONTITLE
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.CONFIRMATIONTITLE"
 msgid "Reject All Duplicants?"
-msgstr ""
+msgstr "Забракувати всіх Дублікантів?"
 
 #. STRINGS.UI.IMMIGRANTSCREEN.EMBARK
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.EMBARK"
@@ -35452,12 +35350,9 @@ msgid "Select a DNA Blueprint"
 msgstr "Оберіть проект ДНК"
 
 #. STRINGS.UI.IMMIGRANTSCREEN.NAME_YOUR_COLONY
-#, fuzzy
-#| msgctxt "STRINGS.UI.IMMIGRANTSCREEN.NAME_YOUR_COLONY"
-#| msgid "NAME YOUR COLONY"
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.NAME_YOUR_COLONY"
 msgid "NAME THE COLONY"
-msgstr "ІМ'Я ВАШОЇ КОЛОНІЇ"
+msgstr "ІМ'Я КОЛОНІЇ"
 
 #. STRINGS.UI.IMMIGRANTSCREEN.PROCEEDBUTTON
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.PROCEEDBUTTON"
@@ -35467,7 +35362,7 @@ msgstr "Друк"
 #. STRINGS.UI.IMMIGRANTSCREEN.REJECTALL
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.REJECTALL"
 msgid "Reject All"
-msgstr "Відхилити Всіх"
+msgstr "Бракувати Всіх"
 
 #. STRINGS.UI.IMMIGRANTSCREEN.SELECTDUPLICANTS
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.SELECTDUPLICANTS"
@@ -35509,15 +35404,19 @@ msgctxt "STRINGS.UI.JOBSCREEN_EVERYONE"
 msgid "Everyone"
 msgstr "Будь-хто"
 
+# Знайти де це в грі, це не є рівнем пріоритетів це щось інше
 #. STRINGS.UI.JOBSCREEN_HIGH
+#, fuzzy
 msgctxt "STRINGS.UI.JOBSCREEN_HIGH"
 msgid "High"
-msgstr ""
+msgstr "Високий"
 
+# Знайти де це в грі, це не є рівнем пріоритетів це щось інше
 #. STRINGS.UI.JOBSCREEN_LOW
+#, fuzzy
 msgctxt "STRINGS.UI.JOBSCREEN_LOW"
 msgid "Low"
-msgstr ""
+msgstr "Низький"
 
 #. STRINGS.UI.JOBSCREEN_PRIORITY
 msgctxt "STRINGS.UI.JOBSCREEN_PRIORITY"
@@ -35685,29 +35584,10 @@ msgctxt "STRINGS.UI.JOBSSCREEN.TOGGLE_ADVANCED_MODE"
 msgid "Advanced"
 msgstr "Розширений"
 
+# Перевірити переклад, відбулися великі зміни після оновлення.
+# Перекладено, але потребує уточнення.
 #. STRINGS.UI.JOBSSCREEN.TOGGLE_ADVANCED_MODE_TOOLTIP
 #, fuzzy
-#| msgctxt "STRINGS.UI.JOBSSCREEN.TOGGLE_ADVANCED_MODE_TOOLTIP"
-#| msgid ""
-#| "<b>Normal Mode</b> (unchecked):\n"
-#| "\n"
-#| "Duplicants will first pick an errand based on their Priorities, and then "
-#| "by Sub-Priorities. If more than one available errand has the same "
-#| "priority, then they will pick based on a hidden priority which helps new "
-#| "bases run more smoothly.\n"
-#| "\n"
-#| "This mode is ideal for new players and for smaller bases.\n"
-#| "\n"
-#| "<b>Advanced Mode</b> (checked):\n"
-#| "\n"
-#| "Duplicants will still pick an errand based on their Priorities, and then "
-#| "by Sub-Priorities. The hidden priority gets disabled, so in case of a tie "
-#| "the Duplicant will pick the closest errand. This helps them to stay near "
-#| "the same area of the colony so long as all the work there is their "
-#| "highest priority.\n"
-#| "\n"
-#| "This mode is ideal for large bases and for players who have heavily "
-#| "customized Duplicant Priorities."
 msgctxt "STRINGS.UI.JOBSSCREEN.TOGGLE_ADVANCED_MODE_TOOLTIP"
 msgid ""
 "<b>Advanced Priority Settings</b>\n"
@@ -35724,24 +35604,18 @@ msgid ""
 "This mode is ideal for large bases and experienced players with heavily "
 "customized priority settings."
 msgstr ""
-"<b>Звичайний Режим</b> (неперевірено):\n"
+"<b>Розширені Налаштування Пріоритету</b>\n"
+"------------------\n"
+"Цей параметр вимикає приховану ієрархію пріоритетів, яка використовується "
+"для вибору доручень у випадку пріоритетності.\n"
 "\n"
-"Дубліканти обирають першими завдання базуючися на їх Пріоритетах та потім на "
-"Суб-Пріоритетах. Якщо кілька доступних доручень мають такий же пріоритет, "
-"вони будуть вибирати з урахуванням прихованого пріоритету, який допомагає "
-"новим базам працювати більш гладко.\n"
+"Коли вимкнено, Дубліканти спочатку обирають завдання на основі Пріоритетів, "
+"а потім на основі Суб-Пріоритетів, тобто будуть просто обирати найближчі "
+"завдання з високим пріоритетом. Це допомагає їм залишатись в певних частинах "
+"колонії поки поблизу є робота з найвищим пріоритетом.\n"
 "\n"
-"Цей режим ідеально підходить для нових гравців та для невеликих баз.\n"
-"\n"
-"<b>Розширений Режим</b> (перевірено):\n"
-"\n"
-"Дубліканти обирають першими завдання базуючися на їх Пріоритетах та потім на "
-"Суб-Пріоритетах. Прихований пріоритет вимикається, тому у разі зобов'язання, "
-"Дублікант обере найближче завдання. Це допомагає їм залишатися поблизу "
-"деяких територій в колонії, доки вся їхня робота є з найвищим пріоритетом.\n"
-"\n"
-"Цей режим ідеальний для великих баз та для гравців, які мають важкі "
-"індивідуальні пріоритети Дублікантів."
+"Цей режим ідеальний для великих баз та для досвідчених гравців, які тонко "
+"налаштовують пріоритети."
 
 #. STRINGS.UI.JOBSSCREEN.TOOLTIP_TOGGLE_ALL
 msgctxt "STRINGS.UI.JOBSSCREEN.TOOLTIP_TOGGLE_ALL"
@@ -36531,7 +36405,7 @@ msgstr "Яскраво"
 #. STRINGS.UI.OVERLAYS.LIGHTING.RANGES.LOW_LIGHT
 msgctxt "STRINGS.UI.OVERLAYS.LIGHTING.RANGES.LOW_LIGHT"
 msgid "Dim"
-msgstr "Неяскраво"
+msgstr "Помірно освітлено"
 
 #. STRINGS.UI.OVERLAYS.LIGHTING.RANGES.MAX_LIGHT
 msgctxt "STRINGS.UI.OVERLAYS.LIGHTING.RANGES.MAX_LIGHT"
@@ -36541,19 +36415,18 @@ msgstr "Сліпуче"
 #. STRINGS.UI.OVERLAYS.LIGHTING.RANGES.MEDIUM_LIGHT
 msgctxt "STRINGS.UI.OVERLAYS.LIGHTING.RANGES.MEDIUM_LIGHT"
 msgid "Well Lit"
-msgstr "Добре Світло"
+msgstr "Добре освітлено"
 
 # Перевірити переклад
 #. STRINGS.UI.OVERLAYS.LIGHTING.RANGES.NO_LIGHT
-#, fuzzy
 msgctxt "STRINGS.UI.OVERLAYS.LIGHTING.RANGES.NO_LIGHT"
 msgid "Pitch Black"
-msgstr "Чорно як смола"
+msgstr "Надто темно"
 
 #. STRINGS.UI.OVERLAYS.LIGHTING.RANGES.VERY_HIGH_LIGHT
 msgctxt "STRINGS.UI.OVERLAYS.LIGHTING.RANGES.VERY_HIGH_LIGHT"
 msgid "Brilliant"
-msgstr "Надто Яскраво"
+msgstr "Надто яскраво"
 
 #. STRINGS.UI.OVERLAYS.LIGHTING.RANGES.VERY_LOW_LIGHT
 msgctxt "STRINGS.UI.OVERLAYS.LIGHTING.RANGES.VERY_LOW_LIGHT"
@@ -36633,6 +36506,10 @@ msgctxt "STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.PRODUCER"
 msgid "Building Intake"
 msgstr "Вхід Будинку"
 
+# Не знайшов де це в грі потрібно перевірити де це воно є там.
+# Можливо так записав, а можливо і ні.
+# Може має бути так:
+# "Підключено до  <link="<LINK="LIQUIDCONDUIT">Рідинної Труби</LINK>">Liquid Pipe</link>" а не так "Підключено до  <link="<LINK="LIQUIDCONDUIT">LIQUID PIPE</LINK>">Рідинної Труби</link>"
 #. STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.TOOLTIPS.CONNECTED
 #, fuzzy
 msgctxt "STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.TOOLTIPS.CONNECTED"
@@ -36658,6 +36535,10 @@ msgstr ""
 "Потрібно, щоб в цій мережі був хоча би один <link=\"LIQUIDPIPING\">Вхід</"
 "link>"
 
+# Не знайшов де це в грі потрібно перевірити де це воно є там.
+# Можливо так записав, а можливо і ні.
+# Може має бути так:
+# "Не підключено до  <link="<LINK="LIQUIDCONDUIT">Рідинної Труби</LINK>">Liquid Pipe</link>" а не так "Не підключено до  <link="<LINK="LIQUIDCONDUIT">LIQUID PIPE</LINK>">Рідинної Труби</link>"
 #. STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.TOOLTIPS.DISCONNECTED
 #, fuzzy
 msgctxt "STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.TOOLTIPS.DISCONNECTED"
@@ -37453,7 +37334,7 @@ msgstr ""
 "Натисніть щоб відкрити вікно пріоритетів Дубліканта\n"
 "\n"
 "Дублікант обирає завдання обумовлені перш за все його Пріоритетами та потім "
-"базується на Суб-Пріоритетах."
+"базується на Суб-Пріоритетах"
 
 #. STRINGS.UI.PRODUCTINFO_APPLICABLERESOURCES
 msgctxt "STRINGS.UI.PRODUCTINFO_APPLICABLERESOURCES"
@@ -38079,7 +37960,7 @@ msgstr "Допоміжні навчання праці"
 #. STRINGS.UI.ROLES_SCREEN.PRIORITY.DESCRIPTION
 msgctxt "STRINGS.UI.ROLES_SCREEN.PRIORITY.DESCRIPTION"
 msgid "{0}s prioritize these work errands: "
-msgstr "{0} визначити пріоритетність цих завдань:"
+msgstr "{0} визначити пріоритетність цих завдань: "
 
 #. STRINGS.UI.ROLES_SCREEN.PRIORITY.NO_EFFECT
 msgctxt "STRINGS.UI.ROLES_SCREEN.PRIORITY.NO_EFFECT"
@@ -38916,7 +38797,6 @@ msgid "Back"
 msgstr "Назад"
 
 #. STRINGS.UI.TOOLS.GENERIC.BUILDING_HOVER_NAME_FMT
-#, fuzzy
 msgctxt "STRINGS.UI.TOOLS.GENERIC.BUILDING_HOVER_NAME_FMT"
 msgid "{Name}    <style=\"hovercard_element\">({Element})</style>"
 msgstr "{Name}    <style=\"hovercard_element\">({Element})</style>"
