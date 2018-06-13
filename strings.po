@@ -12098,16 +12098,13 @@ msgstr "Творчість"
 
 # Можливо, буде доречніше не "прикрашання", а "творіння"?
 # Все ж мова про малювання картин і видовбування статуй.
-# "До" можна прибрати
 #. STRINGS.DUPLICANTS.ATTRIBUTES.ART.SPEEDMODIFIER
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.ART.SPEEDMODIFIER"
 msgid "{0} Decorating Speed"
-msgstr "{0} До швидкості прикрашання"
+msgstr "{0} до швидкості прикрашання"
 
 # тут однина
 #. STRINGS.DUPLICANTS.ATTRIBUTES.ATHLETICS.DESC
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.ATHLETICS.DESC"
 msgid "Determines a Duplicant's default runspeed."
 msgstr "Визначає швидкість бігу Дубліканта за замовчуванням."
@@ -12117,12 +12114,10 @@ msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.ATHLETICS.NAME"
 msgid "Athletics"
 msgstr "Атлетика"
 
-# "До" можна прибрати
 #. STRINGS.DUPLICANTS.ATTRIBUTES.ATHLETICS.SPEEDMODIFIER
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.ATHLETICS.SPEEDMODIFIER"
 msgid "{0} Runspeed"
-msgstr "{0} До швидкості бігу"
+msgstr "{0} до швидкості бігу"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.BASE_VALUE
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.BASE_VALUE"
@@ -12138,45 +12133,43 @@ msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.BLADDERDELTA.DESC"
 msgid ""
 msgstr ""
 
-# Якось дивно сформульовано, але не знаю де це в грі, щоб зрозуміти контекст
+# Зустрічається в випадаючій підказці в формі:
+#  - <текст>: +0.2%/цикл
+# Треба придумати краще формулювання
 #. STRINGS.DUPLICANTS.ATTRIBUTES.BLADDERDELTA.NAME
 #, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.BLADDERDELTA.NAME"
 msgid "Bladder Change"
 msgstr "Зміна міхура"
 
-# "До" можна прибрати
 #. STRINGS.DUPLICANTS.ATTRIBUTES.BOTANIST.BONUS_SEEDS
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.BOTANIST.BONUS_SEEDS"
 msgid "{0} Seed Chance"
-msgstr "{0} До шансу збору насіння"
+msgstr "{0} до шансу збору насіння"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.BOTANIST.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.BOTANIST.DESC"
 msgid "Determines how quickly and efficiently a Duplicant raises plants."
 msgstr "Визначає, як швидко та ефективно Дублікант вирощує рослини."
 
-# "До" можна прибрати
 #. STRINGS.DUPLICANTS.ATTRIBUTES.BOTANIST.HARVEST_SPEED_MODIFIER
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.BOTANIST.HARVEST_SPEED_MODIFIER"
 msgid "{0} Harvesting Speed"
-msgstr "{0} До швидкості збирання врожаю"
+msgstr "{0} до швидкості збирання врожаю"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.BOTANIST.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.BOTANIST.NAME"
 msgid "Farming"
 msgstr "Фермерство"
 
-# "До" можна прибрати
 #. STRINGS.DUPLICANTS.ATTRIBUTES.BOTANIST.TINKER_MODIFIER
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.BOTANIST.TINKER_MODIFIER"
 msgid "{0} Tending Speed"
-msgstr "{0} До швидкості догляду"
+msgstr "{0} до швидкості догляду"
 
+# треба сформулювани інакше...
 #. STRINGS.DUPLICANTS.ATTRIBUTES.BREATHDELTA.DESC
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.BREATHDELTA.DESC"
 msgid ""
 "Determines how quickly a Duplicant gains or reduces <link=\"STRESS\">Breath</"
@@ -12204,21 +12197,18 @@ msgstr "Темп спалювання калорій"
 
 # peer - "рівня", "бути рівнею", а не "підліток"
 #. STRINGS.DUPLICANTS.ATTRIBUTES.CARING.DESC
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.CARING.DESC"
 msgid ""
 "Determines medical skill and how well a Duplicant works with peers and "
 "critters."
 msgstr ""
-"Визначає медичні уміння та як добре Дублікант працює з рівними собі та "
-"тваринами."
+"Визначає медичні уміння і те, наскільки добре Дублікант працює з рівними "
+"собі та тваринами."
 
-# Можна "До" прибрати
 #. STRINGS.DUPLICANTS.ATTRIBUTES.CARING.FABRICATE_SPEEDMODIFIER
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.CARING.FABRICATE_SPEEDMODIFIER"
 msgid "{0} Compound Treatment Speed"
-msgstr "{0} До швидкості лікування"
+msgstr "{0} до швидкості лікування"
 
 # Пропоную змінити на "Турбота"
 #. STRINGS.DUPLICANTS.ATTRIBUTES.CARING.NAME
@@ -12227,12 +12217,10 @@ msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.CARING.NAME"
 msgid "Kindness"
 msgstr "Доброта"
 
-# Можна "До" прибрати
 #. STRINGS.DUPLICANTS.ATTRIBUTES.CARING.SPEEDMODIFIER
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.CARING.SPEEDMODIFIER"
 msgid "{0} Medical Care Speed"
-msgstr "{0} До швидкості медичного догляду"
+msgstr "{0} до швидкості медичного догляду"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.CARRYAMOUNT.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.CARRYAMOUNT.DESC"
@@ -12244,9 +12232,7 @@ msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.CARRYAMOUNT.NAME"
 msgid "Carrying Capacity"
 msgstr "Вантажопідйомність"
 
-# тут однина. ('s в даному випадку - це як "Дублікантової" швидкості)
 #. STRINGS.DUPLICANTS.ATTRIBUTES.CONSTRUCTION.DESC
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.CONSTRUCTION.DESC"
 msgid "Determines a Duplicant's building speed."
 msgstr "Визначає швидкість будівництва для Дубліканта."
@@ -12256,16 +12242,12 @@ msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.CONSTRUCTION.NAME"
 msgid "Construction"
 msgstr "Будівництво"
 
-# якщо просто "швидкість будівництва", то "0% швидкість будівництва" виглядає, наче він зовсім не будує
-# теж "До" можна прибрати
 #. STRINGS.DUPLICANTS.ATTRIBUTES.CONSTRUCTION.SPEEDMODIFIER
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.CONSTRUCTION.SPEEDMODIFIER"
 msgid "{0} Construction Speed"
-msgstr "{0} До швидкості будівництва"
+msgstr "{0} до швидкості будівництва"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.COOKING.DESC
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.COOKING.DESC"
 msgid "Determines how quickly a Duplicant prepares <link=\"FOOD\">Food</link>."
 msgstr ""
@@ -12276,14 +12258,11 @@ msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.COOKING.NAME"
 msgid "Cooking"
 msgstr "Кулінарія"
 
-# знову "До"
 #. STRINGS.DUPLICANTS.ATTRIBUTES.COOKING.SPEEDMODIFIER
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.COOKING.SPEEDMODIFIER"
 msgid "{0} Cooking Speed"
-msgstr "{0} До швидкості куховарення"
+msgstr "{0} до швидкості куховарення"
 
-# тут однина
 #. STRINGS.DUPLICANTS.ATTRIBUTES.DECOR.DESC
 #, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DECOR.DESC"
@@ -12311,7 +12290,6 @@ msgstr ""
 "<link=\"STRESS\">Стрес</link> Дубліканта."
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.DECOREXPECTATION.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DECOREXPECTATION.NAME"
 msgid "Decor Expectation"
 msgstr "Бажаний Декор"
@@ -12329,14 +12307,12 @@ msgid "Decor Radius"
 msgstr "Радіус декору"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.DIGGING.ATTACK_MODIFIER
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DIGGING.ATTACK_MODIFIER"
 msgid "{0} Attack Damage"
-msgstr "{0} До пошкоджень від атаки"
+msgstr "{0} до пошкоджень від атаки"
 
 # тут однина
 #. STRINGS.DUPLICANTS.ATTRIBUTES.DIGGING.DESC
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DIGGING.DESC"
 msgid "Determines a Duplicant's mining speed."
 msgstr "Визначає швидкість копання для Дубліканта."
@@ -12347,10 +12323,9 @@ msgid "Digging"
 msgstr "Копання"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.DIGGING.SPEEDMODIFIER
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DIGGING.SPEEDMODIFIER"
 msgid "{0} Digging Speed"
-msgstr "{0} До швидкості копання"
+msgstr "{0} до швидкості копання"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.DISEASECURESPEED.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DISEASECURESPEED.DESC"
@@ -12420,7 +12395,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.ATTRIBUTES.FOODEXPECTATION.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.FOODEXPECTATION.NAME"
 msgid "Food Quality Expectation"
-msgstr "Очікувана якість їжі"
+msgstr "Бажана якість їжі"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.GENERATOROUTPUT.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.GENERATOROUTPUT.NAME"
@@ -12549,19 +12524,15 @@ msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.LEARNING.NAME"
 msgid "Learning"
 msgstr "Дослідження"
 
-# Додав "До"
 #. STRINGS.DUPLICANTS.ATTRIBUTES.LEARNING.RESEARCHSPEED
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.LEARNING.RESEARCHSPEED"
 msgid "{0} Research Speed"
-msgstr "{0} До швидкості дослідження"
+msgstr "{0} до швидкості дослідження"
 
-# додав "До"
 #. STRINGS.DUPLICANTS.ATTRIBUTES.LEARNING.SPEEDMODIFIER
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.LEARNING.SPEEDMODIFIER"
 msgid "{0} Skill Leveling"
-msgstr "{0} До рівня умінь"
+msgstr "{0} до рівня умінь"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.LIFESUPPORT.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.LIFESUPPORT.DESC"
@@ -12578,10 +12549,9 @@ msgid "Life Support"
 msgstr "Підтримка життя"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.MACHINERY.DESC
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.MACHINERY.DESC"
 msgid "Determines how adeptly a Duplicant uses machines."
-msgstr "Визначає, як вправно Дублікант використовує механізми."
+msgstr "Визначає, наскільки вправно Дублікант використовує механізми."
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.MACHINERY.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.MACHINERY.NAME"
@@ -12589,10 +12559,9 @@ msgid "Tinkering"
 msgstr "Ремісництво"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.MACHINERY.SPEEDMODIFIER
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.MACHINERY.SPEEDMODIFIER"
 msgid "{0} Tinkering Speed"
-msgstr "{0} До швидкості ремісництва"
+msgstr "{0} до швидкості ремісництва"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.MACHINERYSPEED.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.MACHINERYSPEED.DESC"
@@ -12744,22 +12713,19 @@ msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.STAMINADELTA.NAME"
 msgid "Stamina Change"
 msgstr "Зміна Витривалості"
 
-# додав "До"
 #. STRINGS.DUPLICANTS.ATTRIBUTES.STRENGTH.CARRYMODIFIER
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.STRENGTH.CARRYMODIFIER"
 msgid "{0} Carrying Capacity"
-msgstr "{0} До вантажопідйомності"
+msgstr "{0} до вантажопідйомності"
 
-# здається, що так буде краще за змістом
+# завдання пропоную змінити на доручення
 #. STRINGS.DUPLICANTS.ATTRIBUTES.STRENGTH.DESC
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.STRENGTH.DESC"
 msgid ""
 "Determines a Duplicant's carrying capacity, and how much elbow grease they "
 "can put into cleaning errands."
 msgstr ""
-"Визначає вантажопідйомність Дубліканта та те, наскільки важкі завдання він "
+"Визначає вантажопідйомність Дубліканта та те, наскільки складні завдання він "
 "може виконувати при дорученному прибиранні."
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.STRENGTH.NAME
@@ -12767,12 +12733,10 @@ msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.STRENGTH.NAME"
 msgid "Strength"
 msgstr "Сила"
 
-# додав "До"
 #. STRINGS.DUPLICANTS.ATTRIBUTES.STRENGTH.SPEEDMODIFIER
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.STRENGTH.SPEEDMODIFIER"
 msgid "{0} Tidying Speed"
-msgstr "{0} До швидкості прибирання"
+msgstr "{0} до швидкості прибирання"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.STRESSDELTA.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.STRESSDELTA.DESC"
@@ -16669,6 +16633,7 @@ msgctxt "STRINGS.DUPLICANTS.NAMETITLE"
 msgid "Name: "
 msgstr "Ім'я: "
 
+# Треба знайти в грі
 #. STRINGS.DUPLICANTS.NEEDS.DECOR.EXPECTATION_MOD_NAME
 msgctxt "STRINGS.DUPLICANTS.NEEDS.DECOR.EXPECTATION_MOD_NAME"
 msgid "Job Tier Request"
@@ -16684,8 +16649,8 @@ msgid ""
 msgstr ""
 "Більшість об'єктів мають значення <link=\"DECOR\">Декору</link>, яке змінює "
 "думки Дублікантів про їх оточення.\n"
-"Цей Дублікант бажає значення декору {0} чи вищий та піддається <link=\"STRESS"
-"\">Стресу</link> в зонах з низьким декором."
+"Цей Дублікант хоче декор якості {0} чи кращий та піддається <link=\"STRESS"
+"\">Стресу</link> в зонах з низьким рівнем декору."
 
 # "Бажаний" сюди більше підходить
 #. STRINGS.DUPLICANTS.NEEDS.DECOR.NAME
@@ -16699,6 +16664,8 @@ msgctxt "STRINGS.DUPLICANTS.NEEDS.DECOR.OBSERVED_DECOR"
 msgid "Current Surroundings"
 msgstr "Поточне Оточення"
 
+# треба знайти в грі. Поки не знаю де воно
+# може бути як "критик" так і "критичний", залежно від контексту
 #. STRINGS.DUPLICANTS.NEEDS.DECOR.PROFESSION_NAME
 msgctxt "STRINGS.DUPLICANTS.NEEDS.DECOR.PROFESSION_NAME"
 msgid "Critic"
@@ -16744,10 +16711,12 @@ msgctxt "STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.ADJECTIVES.PLUS_5"
 msgid "Superb"
 msgstr "Розкішно"
 
+# замінив з "чудесно", бо попередній рівень "розкішно" здається більш цінним і треба щось більш пафосне для найкращої якості в грі
 #. STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.ADJECTIVES.PLUS_6
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.ADJECTIVES.PLUS_6"
 msgid "Ambrosial"
-msgstr "Чудесно"
+msgstr "Божественно"
 
 #. STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.ADJECTIVES.ZERO
 msgctxt "STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.ADJECTIVES.ZERO"
@@ -16759,11 +16728,13 @@ msgctxt "STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.BAD_FOOD_MOD"
 msgid "Food Quality"
 msgstr "Якість Їжі"
 
+# треба подивитись де в грі. Може бути "Запит рівня роботи", або "Вимога до рівня роботи", або не роботи взагалі, а рівня навичок, залежно від контексті
 #. STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.EXPECTATION_MOD_NAME
 msgctxt "STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.EXPECTATION_MOD_NAME"
 msgid "Job Tier Request"
 msgstr ""
 
+# можна ще змінити на "яку буде терпеливо їсти" в кінці першого рядка.
 #. STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.EXPECTATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.EXPECTATION_TOOLTIP"
 msgid ""
@@ -16772,34 +16743,44 @@ msgid ""
 "This Duplicant desires Tier {0} or better food, and becomes <link=\"STRESS"
 "\">Stressed</link> when they eat meals of lower quality."
 msgstr ""
-"Кожний Дублікант має мінімальну якість <link=\"FOOD\">Їжі</link>, дозволеної "
-"їм їсти\n"
-"Цей Дублікант бажає Рівня {0} їжі чи кращої та стає <link=\"STRESS"
-"\">Стресуючим</link>, коли він їсть їжу низької якості."
+"Кожен Дублікант має мінімальну якість <link=\"FOOD\">Їжі</link>, яку буде "
+"терпіти\n"
+"Цей Дублікант хоче їжу якості {0} або кращу та буде піддаватись <link="
+"\"STRESS\">Стресу</link>, коли він їсть їжу нижчої якості."
 
+# перекладається так, але треба глянути, чи підходить в контексті
 #. STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.FOODQUALITY
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.FOODQUALITY"
 msgid ""
 "\n"
 "Food Quality Score of {0}"
 msgstr ""
+"\n"
+"Показник якості їжі: {0}"
 
+# "вдовольниться" можна замінити на "задовольниться"
 #. STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.FOODQUALITY_EXPECTATION
 msgctxt "STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.FOODQUALITY_EXPECTATION"
 msgid ""
 "\n"
 "This Duplicant is content to eat food with a Quality Score of {0} or higher"
 msgstr ""
+"\n"
+"Цей Дублікант вдовольниться їжею якості {0} або кращою"
 
 #. STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.GOOD_FOOD_MOD
 msgctxt "STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.GOOD_FOOD_MOD"
 msgid "Food Quality"
 msgstr "Якість Їжі"
 
+# Напис з вікна створення колонії в формі:
+# <поточний текст>: <якість їжі>
 #. STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.NAME
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.NAME"
 msgid "Food Quality"
-msgstr "Якість Їжі"
+msgstr "Бажана якість їжі"
 
 #. STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.NORMAL_FOOD_MOD
 msgctxt "STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.NORMAL_FOOD_MOD"
@@ -19747,7 +19728,7 @@ msgstr "Доглядач"
 #, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.BINGEEATER.DESC"
 msgid "This Duplicant will dangerously overeat when stressed"
-msgstr "Цей Дублікант буде небезпечно об'їдатися, коли піддаватиметься стресу"
+msgstr "Цей Дублікант буде напихатися їжею в стресових ситуаціях"
 
 #. STRINGS.DUPLICANTS.TRAITS.BINGEEATER.NAME
 #, fuzzy
@@ -20272,9 +20253,10 @@ msgid "Twinkletoes"
 msgstr "Поспішайко"
 
 #. STRINGS.DUPLICANTS.TRAITS.UGLYCRIER.DESC
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.UGLYCRIER.DESC"
 msgid "If this Duplicant gets too stressed it won't be pretty"
-msgstr "Якщо цей Дублікант стане надто напруженим, це не буде гарно"
+msgstr "Якщо цей Дублікант перенервується, це не буде мило"
 
 #. STRINGS.DUPLICANTS.TRAITS.UGLYCRIER.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.UGLYCRIER.NAME"
@@ -31343,11 +31325,9 @@ msgstr "ХАРАКТЕРНІ РИСИ"
 
 #. STRINGS.UI.CHARACTERCONTAINER_STRESSTRAIT
 #, fuzzy
-#| msgctxt "STRINGS.UI.CHARACTERCONTAINER_STRESSTRAIT"
-#| msgid "Stress Response: {0}"
 msgctxt "STRINGS.UI.CHARACTERCONTAINER_STRESSTRAIT"
 msgid "Stress Reaction: {0}"
-msgstr "Стресова Відповідь: {0}"
+msgstr "Реакція на стрес: {0}"
 
 #. STRINGS.UI.CHARACTERCONTAINER_TRAITS_TITLE
 msgctxt "STRINGS.UI.CHARACTERCONTAINER_TRAITS_TITLE"

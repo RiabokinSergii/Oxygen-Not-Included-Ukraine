@@ -1935,7 +1935,7 @@ msgstr ""
 
 #. STRINGS.BUILDING.STATUSITEMS.TINKERING.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TINKERING.TOOLTIP"
-msgid "The duplicant working this station is creating {0} for use elsewhere."
+msgid "This Duplicant is creating {0} to use somewhere else"
 msgstr ""
 
 #. STRINGS.BUILDING.STATUSITEMS.TOILET.NAME
@@ -4435,7 +4435,7 @@ msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.MANUALGENERATOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.MANUALGENERATOR.DESC"
-msgid "Watching duplicants run on it is adorable... the electrical power is just an added bonus."
+msgid "Watching Duplicants run on it is adorable... the electrical power is just an added bonus."
 msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.MANUALGENERATOR.EFFECT
@@ -18163,6 +18163,11 @@ msgctxt "STRINGS.INPUT_BINDINGS.DEBUG.DEBUGINVINCIBLE"
 msgid "DebugInvincible"
 msgstr ""
 
+#. STRINGS.INPUT_BINDINGS.DEBUG.DEBUGLOCKCURSOR
+msgctxt "STRINGS.INPUT_BINDINGS.DEBUG.DEBUGLOCKCURSOR"
+msgid "DebugLockCursor"
+msgstr ""
+
 #. STRINGS.INPUT_BINDINGS.DEBUG.DEBUGNEXTCALL
 msgctxt "STRINGS.INPUT_BINDINGS.DEBUG.DEBUGNEXTCALL"
 msgid "DebugNextCall"
@@ -20080,7 +20085,7 @@ msgstr ""
 
 #. STRINGS.MISC.NOTIFICATIONS.SCHEDULEMESSAGE.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.SCHEDULEMESSAGE.MESSAGEBODY"
-msgid "My Duplicants crave structure and will only eat, sleep, work, or bathe during the times I allot for such activities.\n\nTo make the best use of their time time, I can open the SCHEDULE TAB <color=#F44A47><b>[U]</b></color> to adjust the colony's agenda and plan how they should utilize their day."
+msgid "My Duplicants crave structure and will only eat, sleep, work, or bathe during the times I allot for such activities.\n\nTo make the best use of their time, I can open the SCHEDULE TAB <color=#F44A47><b>[U]</b></color> to adjust the colony's agenda and plan how they should utilize their day."
 msgstr ""
 
 #. STRINGS.MISC.NOTIFICATIONS.SCHEDULEMESSAGE.NAME
@@ -20978,6 +20983,11 @@ msgctxt "STRINGS.MISC.TAGS.FARMING"
 msgid "Farm Build-Delivery"
 msgstr ""
 
+#. STRINGS.MISC.TAGS.FARMINGMATERIAL
+msgctxt "STRINGS.MISC.TAGS.FARMINGMATERIAL"
+msgid "Fertilizers"
+msgstr ""
+
 #. STRINGS.MISC.TAGS.FARMSTATION
 msgctxt "STRINGS.MISC.TAGS.FARMSTATION"
 msgid "Farm Station"
@@ -21186,6 +21196,11 @@ msgstr ""
 #. STRINGS.MISC.TAGS.TOXIC
 msgctxt "STRINGS.MISC.TAGS.TOXIC"
 msgid "Toxic"
+msgstr ""
+
+#. STRINGS.MISC.TAGS.TRANSPARENT
+msgctxt "STRINGS.MISC.TAGS.TRANSPARENT"
+msgid "Transparent"
 msgstr ""
 
 #. STRINGS.MISC.TAGS.UNBREATHABLE
@@ -25678,6 +25693,11 @@ msgctxt "STRINGS.UI.DEBUG_TOOLS.ENTER_TEXT"
 msgid ""
 msgstr ""
 
+#. STRINGS.UI.DEBUG_TOOLS.INVALID_LOCATION
+msgctxt "STRINGS.UI.DEBUG_TOOLS.INVALID_LOCATION"
+msgid "Invalid Locaton"
+msgstr ""
+
 #. STRINGS.UI.DEBUG_TOOLS.PAINT_ELEMENTS_SCREEN.ADD_FOW_MASK
 msgctxt "STRINGS.UI.DEBUG_TOOLS.PAINT_ELEMENTS_SCREEN.ADD_FOW_MASK"
 msgid "Prevent FoW Reveal"
@@ -27915,7 +27935,7 @@ msgstr ""
 
 #. STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.BODY
 msgctxt "STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.BODY"
-msgid "<b>Welcome to the Ranching Upgrade Mark II!</b>\n\n{0}"
+msgid "<b>Welcome to the Cosmic Upgrade!!</b>\n\n{0}"
 msgstr ""
 
 #. STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.OK_BUTTON
@@ -27925,12 +27945,12 @@ msgstr ""
 
 #. STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.PATCHNOTES
 msgctxt "STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.PATCHNOTES"
-msgid "<b>Update Features:</b>\n\n• New \"Critter Morphs\" can be hatched through careful breeding\n• Two new creatures, Drecko and Pacu, can be found in new worlds\n• Sandbox Mode lets you become master of the asteroid\n• New automation controls, pipes and buildings\n\nPlease view the full patch notes for further details!"
+msgid "<b>Update Features:</b>\n\n• The Surface biome has been added to the top of the asteroid\n• Solar power and metallic meteors can be harnessed\n• New glass and steel resources allow constructing advanced buildings\n• Further fixes and polish to Critter Ranching and eggs\n\nPlease view the full patch notes for further details!"
 msgstr ""
 
 #. STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.TITLE
 msgctxt "STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.TITLE"
-msgid "RANCHING UPGRADE MARK II"
+msgid "COSMIC UPGRADE"
 msgstr ""
 
 #. STRINGS.UI.FRONTEND.PAUSE_SCREEN.DESKTOPQUIT
