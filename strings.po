@@ -2298,11 +2298,12 @@ msgid "Tinkering: {0}"
 msgstr "Ремісництво: {0}"
 
 #. STRINGS.BUILDING.STATUSITEMS.TINKERING.TOOLTIP
+#, fuzzy
+#| msgctxt "STRINGS.DUPLICANTS.CHORES.FABRICATE.TOOLTIP"
+#| msgid "This Duplicant is crafting something"
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TINKERING.TOOLTIP"
-msgid "The duplicant working this station is creating {0} for use elsewhere."
-msgstr ""
-"Дублікант працює на цій станції та створює {0} для використання в іншому "
-"місті"
+msgid "This Duplicant is creating {0} to use somewhere else"
+msgstr "Цей Дублікант щось створює"
 
 #. STRINGS.BUILDING.STATUSITEMS.TOILET.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TOILET.NAME"
@@ -5904,9 +5905,14 @@ msgid "<link=\"MACHINESHOP\">Mechanics Station</link>"
 msgstr "<link=\"MACHINESHOP\">Механічна Станція</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.MANUALGENERATOR.DESC
+#, fuzzy
+#| msgctxt "STRINGS.BUILDINGS.PREFABS.MANUALGENERATOR.DESC"
+#| msgid ""
+#| "Watching duplicants run on it is adorable... the electrical power is just "
+#| "an added bonus."
 msgctxt "STRINGS.BUILDINGS.PREFABS.MANUALGENERATOR.DESC"
 msgid ""
-"Watching duplicants run on it is adorable... the electrical power is just an "
+"Watching Duplicants run on it is adorable... the electrical power is just an "
 "added bonus."
 msgstr ""
 "Дивитись, як Дубліканти біжать - це чудово... Електрична енергія - це лише "
@@ -22990,6 +22996,11 @@ msgctxt "STRINGS.INPUT_BINDINGS.DEBUG.DEBUGINVINCIBLE"
 msgid "DebugInvincible"
 msgstr ""
 
+#. STRINGS.INPUT_BINDINGS.DEBUG.DEBUGLOCKCURSOR
+msgctxt "STRINGS.INPUT_BINDINGS.DEBUG.DEBUGLOCKCURSOR"
+msgid "DebugLockCursor"
+msgstr ""
+
 #. STRINGS.INPUT_BINDINGS.DEBUG.DEBUGNEXTCALL
 msgctxt "STRINGS.INPUT_BINDINGS.DEBUG.DEBUGNEXTCALL"
 msgid "DebugNextCall"
@@ -25536,7 +25547,7 @@ msgid ""
 "My Duplicants crave structure and will only eat, sleep, work, or bathe "
 "during the times I allot for such activities.\n"
 "\n"
-"To make the best use of their time time, I can open the SCHEDULE TAB "
+"To make the best use of their time, I can open the SCHEDULE TAB "
 "<color=#F44A47><b>[U]</b></color> to adjust the colony's agenda and plan how "
 "they should utilize their day."
 msgstr ""
@@ -26664,6 +26675,14 @@ msgctxt "STRINGS.MISC.TAGS.FARMING"
 msgid "Farm Build-Delivery"
 msgstr "Фермо Буд-Доставка"
 
+#. STRINGS.MISC.TAGS.FARMINGMATERIAL
+#, fuzzy
+#| msgctxt "STRINGS.ELEMENTS.FERTILIZER.NAME"
+#| msgid "Fertilizer"
+msgctxt "STRINGS.MISC.TAGS.FARMINGMATERIAL"
+msgid "Fertilizers"
+msgstr "Добрива"
+
 #. STRINGS.MISC.TAGS.FARMSTATION
 msgctxt "STRINGS.MISC.TAGS.FARMSTATION"
 msgid "Farm Station"
@@ -26875,6 +26894,11 @@ msgstr "Туалет"
 msgctxt "STRINGS.MISC.TAGS.TOXIC"
 msgid "Toxic"
 msgstr "Токсичний"
+
+#. STRINGS.MISC.TAGS.TRANSPARENT
+msgctxt "STRINGS.MISC.TAGS.TRANSPARENT"
+msgid "Transparent"
+msgstr ""
 
 #. STRINGS.MISC.TAGS.UNBREATHABLE
 msgctxt "STRINGS.MISC.TAGS.UNBREATHABLE"
@@ -31805,6 +31829,14 @@ msgctxt "STRINGS.UI.DEBUG_TOOLS.ENTER_TEXT"
 msgid ""
 msgstr ""
 
+#. STRINGS.UI.DEBUG_TOOLS.INVALID_LOCATION
+#, fuzzy
+#| msgctxt "STRINGS.BUILDING.STATUSITEMS.INVALIDBUILDINGLOCATION.NAME"
+#| msgid "Invalid Building Location"
+msgctxt "STRINGS.UI.DEBUG_TOOLS.INVALID_LOCATION"
+msgid "Invalid Locaton"
+msgstr "Хибне розташування будівлі"
+
 #. STRINGS.UI.DEBUG_TOOLS.PAINT_ELEMENTS_SCREEN.ADD_FOW_MASK
 msgctxt "STRINGS.UI.DEBUG_TOOLS.PAINT_ELEMENTS_SCREEN.ADD_FOW_MASK"
 msgid "Prevent FoW Reveal"
@@ -34578,12 +34610,15 @@ msgid "World Generation Key"
 msgstr "Ключ Генерації Світу"
 
 #. STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.BODY
+#, fuzzy
+#| msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.LOADING.TITLE"
+#| msgid "<b>Welcome to Oxygen Not Included!</b>"
 msgctxt "STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.BODY"
 msgid ""
-"<b>Welcome to the Ranching Upgrade Mark II!</b>\n"
+"<b>Welcome to the Cosmic Upgrade!!</b>\n"
 "\n"
 "{0}"
-msgstr ""
+msgstr "<b>Вітаємо в Oxygen Not Included!</b>"
 
 #. STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.OK_BUTTON
 msgctxt "STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.OK_BUTTON"
@@ -34595,17 +34630,17 @@ msgctxt "STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.PATCHNOTES"
 msgid ""
 "<b>Update Features:</b>\n"
 "\n"
-"• New \"Critter Morphs\" can be hatched through careful breeding\n"
-"• Two new creatures, Drecko and Pacu, can be found in new worlds\n"
-"• Sandbox Mode lets you become master of the asteroid\n"
-"• New automation controls, pipes and buildings\n"
+"• The Surface biome has been added to the top of the asteroid\n"
+"• Solar power and metallic meteors can be harnessed\n"
+"• New glass and steel resources allow constructing advanced buildings\n"
+"• Further fixes and polish to Critter Ranching and eggs\n"
 "\n"
 "Please view the full patch notes for further details!"
 msgstr ""
 
 #. STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.TITLE
 msgctxt "STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.TITLE"
-msgid "RANCHING UPGRADE MARK II"
+msgid "COSMIC UPGRADE"
 msgstr ""
 
 #. STRINGS.UI.FRONTEND.PAUSE_SCREEN.DESKTOPQUIT
@@ -39929,8 +39964,6 @@ msgid ""
 msgstr ""
 
 #. STRINGS.UI.UISIDESCREENS.CAPTURE_POINT_SIDE_SCREEN.TITLE
-#| msgctxt "STRINGS.INPUT_BINDINGS.MANAGEMENT.NAME"
-#| msgid "Management"
 msgctxt "STRINGS.UI.UISIDESCREENS.CAPTURE_POINT_SIDE_SCREEN.TITLE"
 msgid "Stable Management"
 msgstr ""
@@ -42558,6 +42591,13 @@ msgctxt "STRINGS.UI.WORLDGEN.WORLDLAYOUT9"
 msgid "Sprinkling sand..."
 msgstr "Посипання піску..."
 
+#~ msgctxt "STRINGS.BUILDING.STATUSITEMS.TINKERING.TOOLTIP"
+#~ msgid ""
+#~ "The duplicant working this station is creating {0} for use elsewhere."
+#~ msgstr ""
+#~ "Дублікант працює на цій станції та створює {0} для використання в іншому "
+#~ "місті"
+
 #~ msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATIONWALL.EFFECT"
 #~ msgid "Reduces <link=\"HEAT\">Heat</link> loss through colony walls."
 #~ msgstr "Зменшує втрати <link=\"HEAT\">Тепла</link> стінами колонії."
@@ -43764,10 +43804,6 @@ msgstr "Посипання піску..."
 #~ msgctxt "STRINGS.ELEMENTS.ELECTRUM.NAME"
 #~ msgid "Electrum"
 #~ msgstr "Електрум"
-
-#~ msgctxt "STRINGS.ELEMENTS.FERTILIZER.NAME"
-#~ msgid "Fertilizer"
-#~ msgstr "Добрива"
 
 #~ msgctxt "STRINGS.ELEMENTS.FOOLSGOLD.NAME"
 #~ msgid "Pyrite"
