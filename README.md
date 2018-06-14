@@ -7,7 +7,7 @@ In the process of translation, Oleg joined me.
 We translate as much as possible when we have time and strength. At present, 83 percent of the text has been translated.
 In translation there may be some inaccuracies / oversights, but we are actively working on it.
 
-The translation is licensed under the [url=https://www.gnu.org/licenses/gpl-3.0.en.html]GNU GPLv3 License[/url]
+The translation is licensed under the [GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html) License
 
 Привіт!
 
@@ -16,4 +16,4 @@ The translation is licensed under the [url=https://www.gnu.org/licenses/gpl-3.0.
 Перекладаємо в міру можливостей, коли маємо час і силу. На даний час перекладено 83 відсотки тексту.
 В перекладі можливі деякі неточності/недопрацювання, але ми активно над цим працюємо.
 
-Переклад поширюється за умовами [url=https://www.gnu.org/licenses/gpl-3.0.en.html]ліцензії GNU GPLv3[/url]
+Переклад поширюється за умовами ліцензії [GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html)
