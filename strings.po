@@ -1538,7 +1538,6 @@ msgid "New Duplicants are available"
 msgstr "Доступні нові Дубліканти"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEWDUPLICANTSAVAILABLE.NOTIFICATION_TOOLTIP
-#, fuzzy
 msgctxt ""
 "STRINGS.BUILDING.STATUSITEMS.NEWDUPLICANTSAVAILABLE.NOTIFICATION_TOOLTIP"
 msgid ""
@@ -1546,7 +1545,7 @@ msgid ""
 "Duplicant.\n"
 "I'll need to select a DNA blueprint:"
 msgstr ""
-"Друкарська Підставка <color=#F44A47>[H]</color> готова надрукувати нового "
+"Друкарська Підставка <color=#F44A47>[H]</color> готова до друку нового "
 "Дубліканта.\n"
 "Мені необхідно буде обрати схему ДНК:"
 
@@ -2293,10 +2292,9 @@ msgstr "Ремісництво: {0}"
 
 # Переглянути переклад
 #. STRINGS.BUILDING.STATUSITEMS.TINKERING.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TINKERING.TOOLTIP"
 msgid "This Duplicant is creating {0} to use somewhere else"
-msgstr "Цей Дублікант створює {0} для використання де-небудь ще"
+msgstr "Цей Дублікант створює {0} для подальшого використання"
 
 #. STRINGS.BUILDING.STATUSITEMS.TOILET.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TOILET.NAME"
@@ -3730,14 +3728,13 @@ msgstr "<link=\"ELECTROLYZER\">Електролізер</link>"
 
 # Оповилося Wall на Wallpaper, але розробники тут начепто не поправили.
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.DESC
-#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.DESC"
 msgid "You'd be surprised how much research went into making this wall."
 msgstr ""
-"Ви будете здивовані тим, скільки багато досліджувати знадобиться для "
+"Ви будете здивовані тим, наскільки багато досліджень знадобилось для "
 "виготовлення цих стін."
 
-# Перевірити переклад
+# треба глянути в грі
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.EFFECT
 #, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.EFFECT"
@@ -4875,7 +4872,7 @@ msgid ""
 "Plastic ladders are mildly antiseptic and can help limit the spread of germs "
 "in a colony."
 msgstr ""
-"Пластикові Драбини м'які, антисептичні та мажуть допомогти обмежити ріст "
+"Пластикові Драбини злегка антисептичні та можуть допомогти обмежити ріст "
 "бактерій в колонії."
 
 #. STRINGS.BUILDINGS.PREFABS.LADDERFAST.EFFECT
@@ -6400,7 +6397,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.POIBUNKEREXTERIORDOOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.POIBUNKEREXTERIORDOOR.EFFECT"
 msgid "A strong door with a sophisticated genetic lock."
-msgstr "Міцні двері, з складним генетичним замком."
+msgstr "Міцні двері, зі складним генетичним замком."
 
 #. STRINGS.BUILDINGS.PREFABS.POIBUNKEREXTERIORDOOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.POIBUNKEREXTERIORDOOR.NAME"
@@ -6415,7 +6412,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.POIDOORINTERNAL.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.POIDOORINTERNAL.EFFECT"
 msgid "A strong door with a sophisticated genetic lock."
-msgstr "Міцні двері, з складним генетичним замком."
+msgstr "Міцні двері, зі складним генетичним замком."
 
 #. STRINGS.BUILDINGS.PREFABS.POIDOORINTERNAL.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.POIDOORINTERNAL.NAME"
@@ -7087,8 +7084,8 @@ msgid ""
 "This improved version of the Storage Compactor becomes <link=\"LOGIC"
 "\">Active</link> when full"
 msgstr ""
-"Ця поліпшена версія Сховища, яке стає <link=\"LOGIC\">Активне</link>, коли "
-"повне"
+"Це поліпшена версія Сховища, яке стає <link=\"LOGIC\">Активним</link>, коли "
+"заповнене"
 
 #. STRINGS.BUILDINGS.PREFABS.STORAGELOCKERSMART.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.STORAGELOCKERSMART.EFFECT"
@@ -7200,7 +7197,7 @@ msgid ""
 msgstr ""
 "Увімкнення чи вимкнення <link=\"POWER\">Електрики</link>.\n"
 "\n"
-"Не впливає на мережу попереднього вимикача."
+"Не впливає на схему, що передує вимикачу."
 
 #. STRINGS.BUILDINGS.PREFABS.SWITCH.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SWITCH.NAME"
@@ -7363,13 +7360,14 @@ msgid "<link=\"TRAVELTUBEENTRANCE\">Transit Tube Access</link>"
 msgstr "<link=\"TRAVELTUBEENTRANCE\">Доступ Транзитної Трубки</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.TRAVELTUBEWALLBRIDGE.DESC
+#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.TRAVELTUBEWALLBRIDGE.DESC"
 msgid ""
 "Tube crossings can run transit tubes through walls without leaking gas or "
 "liquid."
 msgstr ""
-"Транзитні Трубки можуть переходити по трубковим переходам через стіни, без "
-"просочування газу чи рідини.у"
+"Транзитні Трубки можуть переходити по трубкових переходах через стіни без "
+"просочування газу чи рідини."
 
 #. STRINGS.BUILDINGS.PREFABS.TRAVELTUBEWALLBRIDGE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.TRAVELTUBEWALLBRIDGE.EFFECT"
@@ -25325,7 +25323,7 @@ msgid ""
 "The colony will soon exhaust their supplies without a new <link=\"FOOD"
 "\">Food</link> source"
 msgstr ""
-"Колонія незабаром вичерпає свої запаси <link=\"FOOD\">Їжі</link>, без нового "
+"Колонія незабаром вичерпає свої запаси <link=\"FOOD\">Їжі</link> без нового "
 "джерела"
 
 #. STRINGS.MISC.NOTIFICATIONS.NEEDOXYGENSOURCE.NAME
@@ -25433,11 +25431,12 @@ msgid ""
 "color> to fine tune them. Many buildings will also let me change their Sub-"
 "Priority level when I select them."
 msgstr ""
-"Дубліканти обирають, що робити їм базуючись на пріоритетах, що я задав їм. "
-"Щоб задати пріоритети, відкрийте меню <link=\"PRIORITIES\">Пріоритети</link> "
-"<color=#F44A47><b>[J]</b></color> для контролю основними пріоритетами та "
-"потім використовуйте кнопку Суб-Пріоритети в меню знаряддя. Також, багато "
-"будівель дають мені змінити рівень Суб-Пріоритету, на вибір."
+"Дубліканти обирають що їм робити, базуючись на пріоритетах, які Я задав їм. "
+"Я можу відкрити меню <link=\"PRIORITIES\">Пріоритети</link> "
+"<color=#F44A47><b>[J]</b></color> для вказання основних пріоритетів та меню "
+"<link=\"PRIORITIES\">Суб-Пріоритетів</link> <color=#F44A47><b>[P]</b></"
+"color> для більш тонкого налаштування. Також в багатьох будівлях є "
+"можливість зміни Суб-Пріоритету, коли Я вибираю їх."
 
 #. STRINGS.MISC.NOTIFICATIONS.PRIORITIESMESSAGE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.PRIORITIESMESSAGE.NAME"
@@ -25445,9 +25444,10 @@ msgid "TIP: Priorities"
 msgstr "НАТЯК: Пріоритети"
 
 #. STRINGS.MISC.NOTIFICATIONS.PRIORITIESMESSAGE.TOOLTIP
+#, fuzzy
 msgctxt "STRINGS.MISC.NOTIFICATIONS.PRIORITIESMESSAGE.TOOLTIP"
 msgid "Notes on my Duplicants' priorities"
-msgstr "Розуміння пріоритетів моїх Дублікантів"
+msgstr "Примітки щодо пріоритетів моїх Дублікантів"
 
 #. STRINGS.MISC.NOTIFICATIONS.REDALERT.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.REDALERT.NAME"
@@ -25467,7 +25467,7 @@ msgid ""
 "New buildings have become available to me:\n"
 "  • {1}"
 msgstr ""
-"Еврика! Технологія {0}, була розблокована.\n"
+"Еврика! Технологія {0} була розблокована.\n"
 "\n"
 "Мені стали доступні нові будівлі:\n"
 "  • {1}"
@@ -33332,7 +33332,7 @@ msgstr "{0} Цикл - Вчора"
 #, fuzzy
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.DISEASE_ADDED.NAME"
 msgid "<link=\"DISEASE\">Diseases</link> Contracted:"
-msgstr "<link=\"DISEASE\">Хворобних</link> контрактів:"
+msgstr "<link=\"DISEASE\">Хвороби</link> обумовлені:"
 
 #. STRINGS.UI.ENDOFDAYREPORT.DISEASE_ADDED.NEGATIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.DISEASE_ADDED.NEGATIVE_TOOLTIP"
@@ -33378,9 +33378,7 @@ msgctxt "STRINGS.UI.ENDOFDAYREPORT.ENERGY_WASTED.NAME"
 msgid "<link=\"POWER\">Power</link> Wasted:"
 msgstr "Марна <link=\"POWER\">енергія</link>:"
 
-# Можливо трішки по іншому перекласти
 #. STRINGS.UI.ENDOFDAYREPORT.ENERGY_WASTED.NEGATIVE_TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.ENERGY_WASTED.NEGATIVE_TOOLTIP"
 msgid ""
 "My colony lost {0} of <link=\"POWER\">Power</link> today due to "
@@ -33537,23 +33535,26 @@ msgctxt "STRINGS.UI.ENDOFDAYREPORT.REPORT_TITLE"
 msgid "DAILY REPORTS"
 msgstr "ЩОДЕННІ ЗВІТИ"
 
+# глянути, чи не вилазить десь
 #. STRINGS.UI.ENDOFDAYREPORT.STRESS_DELTA.NAME
+#, fuzzy
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.STRESS_DELTA.NAME"
 msgid "<link=\"STRESS\">Stress</link> Change:"
-msgstr "Зміна <link=\"STRESS\">нервування</link>:"
+msgstr "Зміна рівня <link=\"STRESS\">Стресу</link>:"
 
 #. STRINGS.UI.ENDOFDAYREPORT.STRESS_DELTA.NEGATIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.STRESS_DELTA.NEGATIVE_TOOLTIP"
 msgid "My colony's total <link=\"STRESS\">Stress</link> has decreased by {0}"
 msgstr ""
-"Загальне <link=\"STRESS\">Нервування</link> моїх колоністів зменшилося на {0}"
+"Загальний рівень <link=\"STRESS\">Стресу</link> моїх колоністів зменшився на "
+"{0}"
 
 #. STRINGS.UI.ENDOFDAYREPORT.STRESS_DELTA.POSITIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.STRESS_DELTA.POSITIVE_TOOLTIP"
 msgid "My colony's total <link=\"STRESS\">Stress</link> has increased by {0}"
 msgstr ""
-"Загальне <link=\"STRESS\">Нервування</link> моїх колоністів збільшилося на "
-"{0}"
+"Загальний рівень <link=\"STRESS\">Стресу</link> моїх колоністів збільшилося "
+"на {0}"
 
 # Можливо тут не так перекладено
 #. STRINGS.UI.ENDOFDAYREPORT.TIME_SPENT.NAME
@@ -33620,11 +33621,11 @@ msgctxt "STRINGS.UI.FORMATSECONDS"
 msgid "{0}s"
 msgstr "{0}с"
 
-# не зрозумів, як правильно перекласти, це знаходиться в налаштуваннях звуків гри
+# мається на увазі предмети/машини кругом гравця (ігрової камери)
 #. STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.AUDIO_BUS_AMBIENCE
 msgctxt "STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.AUDIO_BUS_AMBIENCE"
 msgid "Ambience"
-msgstr ""
+msgstr "Оточення"
 
 #. STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.AUDIO_BUS_MASTER
 msgctxt "STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.AUDIO_BUS_MASTER"
@@ -33945,7 +33946,7 @@ msgstr "Настрій Дубліканта"
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.STRESS.TOOLTIP
 msgctxt "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.STRESS.TOOLTIP"
 msgid "Affects how well Duplicants handle stress"
-msgstr "Впливає на те, наскільки добре Дубліканти справляються при напрузі"
+msgstr "Визначає наскільки добре Дубліканти контролюють рівень стресу"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.STRESS_BREAKS.LEVELS.DEFAULT.NAME
 msgctxt ""
@@ -33954,14 +33955,13 @@ msgctxt ""
 msgid "Normal"
 msgstr "Звичайно"
 
-# Потрібно перевірити переклад, не дуже мені він подобається
+# will act out можна перекладати як "виходити", але "зриватись" краще підходить
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.STRESS_BREAKS.LEVELS.DEFAULT.TOOLTIP
-#, fuzzy
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.STRESS_BREAKS.LEVELS."
 "DEFAULT.TOOLTIP"
 msgid "Duplicants will act out when they reach 100% stress"
-msgstr "Дубліканти будуть діяти, коли їх напруга досягне 100%"
+msgstr "Дубліканти будуть зриватись, коли досягнуть 100% стресу"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.STRESS_BREAKS.LEVELS.DISABLED.NAME
 msgctxt ""
@@ -33970,30 +33970,28 @@ msgctxt ""
 msgid "Disabled"
 msgstr "Вимкнено"
 
-# Потрібно перевірити переклад, не дуже мені він подобається
+# глянути, чи не вилазить
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.STRESS_BREAKS.LEVELS.DISABLED.TOOLTIP
-#, fuzzy
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.STRESS_BREAKS.LEVELS."
 "DISABLED.TOOLTIP"
 msgid "Duplicants will not act out at maximum stress"
-msgstr "Дубліканти не будуть діяти при максимальній напрузі"
+msgstr "Дубліканти не будуть зриватись при максимальному рівні стресу"
 
 # Напевно потрібно замінити Stress на інше слово, а можливо тут таа і залишити.
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.STRESS_BREAKS.NAME
-#, fuzzy
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.STRESS_BREAKS.NAME"
 msgid "Stress Reactions"
 msgstr "Реакція на стрес"
 
-# Потрібно перевірити переклад, не дуже мені він подобається
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.STRESS_BREAKS.TOOLTIP
-#, fuzzy
 msgctxt ""
 "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.STRESS_BREAKS.TOOLTIP"
 msgid "Determines whether Duplicants act out when they reach maximum stress"
-msgstr "Визначає, чи діятимуть Дубліканти, коли їхня напруга досягне максимума"
+msgstr ""
+"Визначає, чи зриватимуться Дубліканти, коли їхній рівень стресу досягне "
+"максимуму"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.WORLD_CHOICE.NAME
 msgctxt ""
@@ -34029,12 +34027,12 @@ msgid ""
 "\n"
 "Go to kleigames.com/o2 or ask one of us if you'd like more information."
 msgstr ""
-"Дякуємо, що грали в демо версію Oxygen Not Included!\n"
+"Дякуємо, що грали в демо-версію Oxygen Not Included!\n"
 "\n"
 "Ця гра перебуває в розробці.\n"
 "\n"
 "Перейдіть за посиланням kleigames.com/o2 чи запитайте\n"
-"в одного з нас, якщо хочете більше інформації."
+"в когось із нас, якщо хочете більше інформації."
 
 #. STRINGS.UI.FRONTEND.DEMO_OVER_SCREEN.BUTTON_EXIT_TO_MENU
 msgctxt "STRINGS.UI.FRONTEND.DEMO_OVER_SCREEN.BUTTON_EXIT_TO_MENU"
@@ -34096,10 +34094,12 @@ msgctxt "STRINGS.UI.FRONTEND.INPUT_BINDINGS_SCREEN.APPLY"
 msgid "Done"
 msgstr "Готово"
 
+# може краще "пов'язано" змінити на "під'єднано"?
 #. STRINGS.UI.FRONTEND.INPUT_BINDINGS_SCREEN.DUPLICATE
+#, fuzzy
 msgctxt "STRINGS.UI.FRONTEND.INPUT_BINDINGS_SCREEN.DUPLICATE"
 msgid "{0} was already bound to {1} and is now unbound."
-msgstr "{0} було пов'язано з {1} і зараз не пов'язано."
+msgstr "{0} вже було пов'язано з {1} і зараз не пов'язано."
 
 #. STRINGS.UI.FRONTEND.INPUT_BINDINGS_SCREEN.MULTIPLE_UNBOUND_ACTIONS
 msgctxt "STRINGS.UI.FRONTEND.INPUT_BINDINGS_SCREEN.MULTIPLE_UNBOUND_ACTIONS"
@@ -34290,7 +34290,6 @@ msgstr "ПЕРЕКЛАДИ"
 
 # Потрібно переглянути переклад
 #. STRINGS.UI.FRONTEND.METRICS_OPTIONS_SCREEN.DESCRIPTION
-#, fuzzy
 msgctxt "STRINGS.UI.FRONTEND.METRICS_OPTIONS_SCREEN.DESCRIPTION"
 msgid ""
 "We require the collection of user data to assist in improving game "
@@ -34332,9 +34331,7 @@ msgctxt "STRINGS.UI.FRONTEND.METRICS_OPTIONS_SCREEN.TOOLTIP"
 msgid "Toggle data collection."
 msgstr "Перемкнути збирання інформації"
 
-# Переглянути переклад, не все можливо вірно перекладено
 #. STRINGS.UI.FRONTEND.MINSPECSCREEN.BODY
-#, fuzzy
 msgctxt "STRINGS.UI.FRONTEND.MINSPECSCREEN.BODY"
 msgid ""
 "We've detected that this computer does not meet the minimum requirements to "
@@ -34345,9 +34342,9 @@ msgid ""
 msgstr ""
 "Ми виявили, що цей комп'ютер не відповідає мінімальним вимогам для запуску "
 "Oxygen Not Included. Хоча Ви можете продовжити з своїми поточними "
-"специфікаціями, у Вас гра може запускатися не так гладко.\n"
+"налаштуваннями, гра може запускатися не так гладко.\n"
 "\n"
-"Будь ласка, пам'ятайте, що в результаті може страждати ваш досвід."
+"Будь ласка, пам'ятайте, що в через це Ваше враження від гри може постраждати."
 
 #. STRINGS.UI.FRONTEND.MINSPECSCREEN.OKBUTTON
 msgctxt "STRINGS.UI.FRONTEND.MINSPECSCREEN.OKBUTTON"
@@ -34530,12 +34527,12 @@ msgid ""
 msgstr ""
 "<b>Особливості Оновлення:</b>\n"
 "\n"
-"• Поверхневий біом був доданий на верх астероїда\n"
-"• Можна приборкати металеві метеорити та енергію сонця\n"
-"• Нове скло та сталеві ресурси, дозволять будувати поліпшені будівлі\n"
+"• Біом Поверхні був доданий на верх астероїда\n"
+"• Сила Сонця та металеві метеорити можуть бути приборкані\n"
+"• Нове скло та сталеві ресурси дозволять конструювати поліпшені будівлі\n"
 "• Додаткові виправлення та полірування Ранчо Тварин та яєць\n"
 "\n"
-"Будь ласка, перегляньте повний опис змін для більших подробиць!"
+"Будь ласка, перегляньте повний опис змін для подальших подробиць!"
 
 #. STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.TITLE
 msgctxt "STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.TITLE"
@@ -34670,10 +34667,7 @@ msgid ""
 "{0}"
 msgstr ""
 
-# Перевірити переклад
-# Третій рядок особливо
 #. STRINGS.UI.FRONTEND.SUPPORTWARNINGS.SAVE_DIRECTORY_INSUFFICIENT_SPACE
-#, fuzzy
 msgctxt "STRINGS.UI.FRONTEND.SUPPORTWARNINGS.SAVE_DIRECTORY_INSUFFICIENT_SPACE"
 msgid ""
 "There is insufficient disk space to write to your save directory.\n"
@@ -34681,9 +34675,9 @@ msgid ""
 "Please free at least 15 MB to give your saves some room to breathe.\n"
 "{0}"
 msgstr ""
-"Недостатньо місця на диску для запису у ваш каталог збереження.\n"
+"Недостатньо місця на диску для запису у Ваш каталог збереження.\n"
 "\n"
-"Будь ласка, звільніть щонайменше 15 Мб, щоб заощадити місце для дихання.\n"
+"Будь ласка, звільніть щонайменше 15 Мб, щоб мати трохи місця для дихання.\n"
 "{0}"
 
 #. STRINGS.UI.FRONTEND.SUPPORTWARNINGS.SAVE_DIRECTORY_READ_ONLY
@@ -34956,6 +34950,7 @@ msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.DAMAGE_POPS.MICROMETEORITE"
 msgid "Micrometeorite Damage"
 msgstr "Мікрометеоритне Пошкодження"
 
+# переглянути всі Damage_Pods
 #. STRINGS.UI.GAMEOBJECTEFFECTS.DAMAGE_POPS.MINION_DESTRUCTION
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.DAMAGE_POPS.MINION_DESTRUCTION"
 msgid "Tantrum Damage"
