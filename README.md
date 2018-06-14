@@ -2,22 +2,18 @@
 
 Hello!
 
-My name is Sergii.
+My name is Sergii. I really liked this game, so I decided to make a translation into Ukrainian.
+In the process of translation, Oleg joined me.
+We translate as much as possible when we have time and strength. At present, 83 percent of the text has been translated.
+In translation there may be some inaccuracies / oversights, but we are actively working on it.
 
-I started translating a game that I really liked about the Ukrainian language.
-To translate as much as possible when I have time and strength.
-The game menu is now translated. The main interface and the main buttons, all overlays. 
-All description of buildings and information in them. The Knowledge Base has been translated, but there are some possible shortcomings that I am correcting. 
-The translation is in the Beta stage.
-At the moment, 82% of the content of the game has been translated.
+The translation is licensed under the [url=https://www.gnu.org/licenses/gpl-3.0.en.html]GNU GPLv3 License[/url]
 
 Привіт!
 
-Мене звати Сергій.
+Мене звати Сергій. Мені дуже сподобалась ця гра, тому вирішив зробити переклад українською мовою. 
+В процесі перекладу до мене приєднався Олег. 
+Перекладаємо в міру можливостей, коли маємо час і силу. На даний час перекладено 83 відсотки тексту.
+В перекладі можливі деякі неточності/недопрацювання, але ми активно над цим працюємо.
 
-Я почав перекладати гру, яка мені дуже сподобалася українською мовою.
-Перекладаю в міру можливостей, коли маю час і силу.
-На даний час перекладено меню гри. Головний інтерфейс та основні кнопки, всі оверлеї. 
-Весь опис будівель та інформації в них. Базу Знань перекладено, але можливі деякі недоліки, які виправляю. 
-Переклад перебуває на стадії Бета.
-Зараз перекладено 82% вмісту гри.
+Переклад поширюється за умовами [url=https://www.gnu.org/licenses/gpl-3.0.en.html]ліцензії GNU GPLv3[/url]
