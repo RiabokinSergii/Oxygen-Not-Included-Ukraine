@@ -1539,12 +1539,6 @@ msgstr "Доступні нові Дубліканти"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEWDUPLICANTSAVAILABLE.NOTIFICATION_TOOLTIP
 #, fuzzy
-#| msgctxt ""
-#| "STRINGS.BUILDING.STATUSITEMS.NEWDUPLICANTSAVAILABLE.NOTIFICATION_TOOLTIP"
-#| msgid ""
-#| "The Printing Pod <color=#F44A47>[H]</color> is ready to print a new "
-#| "Duplicant.\n"
-#| "Please select a DNA blueprint:"
 msgctxt ""
 "STRINGS.BUILDING.STATUSITEMS.NEWDUPLICANTSAVAILABLE.NOTIFICATION_TOOLTIP"
 msgid ""
@@ -1554,7 +1548,7 @@ msgid ""
 msgstr ""
 "Друкарська Підставка <color=#F44A47>[H]</color> готова надрукувати нового "
 "Дубліканта.\n"
-"Будь ласка, оберіть схему ДНК:"
+"Мені необхідно буде обрати схему ДНК:"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEWDUPLICANTSAVAILABLE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEWDUPLICANTSAVAILABLE.TOOLTIP"
@@ -2297,13 +2291,12 @@ msgctxt "STRINGS.BUILDING.STATUSITEMS.TINKERING.NAME"
 msgid "Tinkering: {0}"
 msgstr "Ремісництво: {0}"
 
+# Переглянути переклад
 #. STRINGS.BUILDING.STATUSITEMS.TINKERING.TOOLTIP
 #, fuzzy
-#| msgctxt "STRINGS.DUPLICANTS.CHORES.FABRICATE.TOOLTIP"
-#| msgid "This Duplicant is crafting something"
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TINKERING.TOOLTIP"
 msgid "This Duplicant is creating {0} to use somewhere else"
-msgstr "Цей Дублікант щось створює"
+msgstr "Цей Дублікант створює {0} для використання де-небудь ще"
 
 #. STRINGS.BUILDING.STATUSITEMS.TOILET.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TOILET.NAME"
@@ -3735,17 +3728,21 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.ELECTROLYZER.NAME"
 msgid "<link=\"ELECTROLYZER\">Electrolyzer</link>"
 msgstr "<link=\"ELECTROLYZER\">Електролізер</link>"
 
+# Оповилося Wall на Wallpaper, але розробники тут начепто не поправили.
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.DESC
+#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.DESC"
 msgid "You'd be surprised how much research went into making this wall."
 msgstr ""
 "Ви будете здивовані тим, скільки багато досліджувати знадобиться для "
 "виготовлення цих стін."
 
+# Перевірити переклад
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.EFFECT
+#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.EFFECT"
 msgid "Back wall included."
-msgstr "Задня стіна присутня"
+msgstr "Задня стіна присутня."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.NAME
 #| msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.NAME"
@@ -3824,6 +3821,7 @@ msgstr ""
 
 # або Блок Ферми, або просто Ферма
 #. STRINGS.BUILDINGS.PREFABS.FARMTILE.NAME
+#, fuzzy
 msgctxt "STRINGS.BUILDINGS.PREFABS.FARMTILE.NAME"
 msgid "<link=\"FARMTILE\">Farm Tile</link>"
 msgstr "<link=\"FARMTILE\">Ферма</link>"
@@ -4878,7 +4876,7 @@ msgid ""
 "in a colony."
 msgstr ""
 "Пластикові Драбини м'які, антисептичні та мажуть допомогти обмежити ріст "
-"бактерій в колонії"
+"бактерій в колонії."
 
 #. STRINGS.BUILDINGS.PREFABS.LADDERFAST.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LADDERFAST.EFFECT"
@@ -5907,18 +5905,13 @@ msgid "<link=\"MACHINESHOP\">Mechanics Station</link>"
 msgstr "<link=\"MACHINESHOP\">Механічна Станція</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.MANUALGENERATOR.DESC
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.MANUALGENERATOR.DESC"
-#| msgid ""
-#| "Watching duplicants run on it is adorable... the electrical power is just "
-#| "an added bonus."
 msgctxt "STRINGS.BUILDINGS.PREFABS.MANUALGENERATOR.DESC"
 msgid ""
 "Watching Duplicants run on it is adorable... the electrical power is just an "
 "added bonus."
 msgstr ""
 "Дивитись, як Дубліканти біжать - це чудово... Електрична енергія - це лише "
-"додатковий бонус"
+"додатковий бонус."
 
 #. STRINGS.BUILDINGS.PREFABS.MANUALGENERATOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.MANUALGENERATOR.EFFECT"
@@ -7094,8 +7087,8 @@ msgid ""
 "This improved version of the Storage Compactor becomes <link=\"LOGIC"
 "\">Active</link> when full"
 msgstr ""
-"Ця поліпшена версія Сховища, який стає <link=\"LOGIC\">Активний</link>, коли "
-"повний."
+"Ця поліпшена версія Сховища, яке стає <link=\"LOGIC\">Активне</link>, коли "
+"повне"
 
 #. STRINGS.BUILDINGS.PREFABS.STORAGELOCKERSMART.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.STORAGELOCKERSMART.EFFECT"
@@ -7207,7 +7200,7 @@ msgid ""
 msgstr ""
 "Увімкнення чи вимкнення <link=\"POWER\">Електрики</link>.\n"
 "\n"
-"Не впливає на мережу попереднього вимикача. "
+"Не впливає на мережу попереднього вимикача."
 
 #. STRINGS.BUILDINGS.PREFABS.SWITCH.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SWITCH.NAME"
@@ -7376,7 +7369,7 @@ msgid ""
 "liquid."
 msgstr ""
 "Транзитні Трубки можуть переходити по трубковим переходам через стіни, без "
-"просочування газу чи рідини"
+"просочування газу чи рідини.у"
 
 #. STRINGS.BUILDINGS.PREFABS.TRAVELTUBEWALLBRIDGE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.TRAVELTUBEWALLBRIDGE.EFFECT"
@@ -7907,14 +7900,9 @@ msgid "Description of dig speed and miner role dig restrictions"
 msgstr ""
 
 #. STRINGS.CODEX.ELEMENTHARDNESS.SUBTITLE
-#, fuzzy
-#| msgctxt ""
-#| "STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS."
-#| "HAS_ATTRIBUTE_DIGGING_BASIC.NAME"
-#| msgid "Basic Digging"
 msgctxt "STRINGS.CODEX.ELEMENTHARDNESS.SUBTITLE"
 msgid "Ease of digging"
-msgstr "Базове копання"
+msgstr "Легко копати"
 
 #. STRINGS.CODEX.ELEMENTHARDNESS.TITLE
 msgctxt "STRINGS.CODEX.ELEMENTHARDNESS.TITLE"
@@ -18505,9 +18493,10 @@ msgid "Feeling ill"
 msgstr ""
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.HASDISEASE.NOTIFICATION_NAME
+#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.HASDISEASE.NOTIFICATION_NAME"
 msgid "Illness"
-msgstr ""
+msgstr "Захворіли"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.HASDISEASE.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.HASDISEASE.NOTIFICATION_TOOLTIP"
@@ -19362,11 +19351,9 @@ msgstr ""
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.STRESS_SIGNAL_UGLY_CRIER.TOOLTIP
 #, fuzzy
-#| msgctxt "STRINGS.DUPLICANTS.CHORES.RELOCATE.TOOLTIP"
-#| msgid "This Duplicant is moving a building to a new location"
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STRESS_SIGNAL_UGLY_CRIER.TOOLTIP"
 msgid "This Duplicant is trying and failing to swallow their emotions"
-msgstr "Цей Дублікант переміщує будівлю на нове мосце"
+msgstr "Цей Дублікант переміщує будівлю на нове місце"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.STRESS_SIGNAL_VOMITER.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STRESS_SIGNAL_VOMITER.NAME"
@@ -34301,7 +34288,9 @@ msgctxt "STRINGS.UI.FRONTEND.MAINMENU.TRANSLATIONS"
 msgid "TRANSLATIONS"
 msgstr "ПЕРЕКЛАДИ"
 
+# Потрібно переглянути переклад
 #. STRINGS.UI.FRONTEND.METRICS_OPTIONS_SCREEN.DESCRIPTION
+#, fuzzy
 msgctxt "STRINGS.UI.FRONTEND.METRICS_OPTIONS_SCREEN.DESCRIPTION"
 msgid ""
 "We require the collection of user data to assist in improving game "
@@ -34311,6 +34300,14 @@ msgid ""
 "For more details on our privacy policy and how we use the data we collect, "
 "please visit our <color=blue><u><b>privacy policy</u></b></color>."
 msgstr ""
+"Нам необхідно збирати дані користувача, це допомагає у покращенні ігрових "
+"операцій. Гравці, які відмовляються від збирання даних, більше не "
+"надсилатимуть звіти про аварійне завершення і дані користувача до ігрової "
+"команди.\n"
+"\n"
+"Щоб отримати детальніші відомості про нашу політику конфіденційності та "
+"спосіб використання даних, які ми збираємо, відвідайте нашу "
+"<color=blue><u><b>політику конфіденційності</u></b></color>."
 
 #. STRINGS.UI.FRONTEND.METRICS_OPTIONS_SCREEN.DONE_BUTTON
 msgctxt "STRINGS.UI.FRONTEND.METRICS_OPTIONS_SCREEN.DONE_BUTTON"
@@ -34335,7 +34332,9 @@ msgctxt "STRINGS.UI.FRONTEND.METRICS_OPTIONS_SCREEN.TOOLTIP"
 msgid "Toggle data collection."
 msgstr "Перемкнути збирання інформації"
 
+# Переглянути переклад, не все можливо вірно перекладено
 #. STRINGS.UI.FRONTEND.MINSPECSCREEN.BODY
+#, fuzzy
 msgctxt "STRINGS.UI.FRONTEND.MINSPECSCREEN.BODY"
 msgid ""
 "We've detected that this computer does not meet the minimum requirements to "
@@ -34344,6 +34343,11 @@ msgid ""
 "\n"
 "Please be aware that your experience may suffer as a result."
 msgstr ""
+"Ми виявили, що цей комп'ютер не відповідає мінімальним вимогам для запуску "
+"Oxygen Not Included. Хоча Ви можете продовжити з своїми поточними "
+"специфікаціями, у Вас гра може запускатися не так гладко.\n"
+"\n"
+"Будь ласка, пам'ятайте, що в результаті може страждати ваш досвід."
 
 #. STRINGS.UI.FRONTEND.MINSPECSCREEN.OKBUTTON
 msgctxt "STRINGS.UI.FRONTEND.MINSPECSCREEN.OKBUTTON"
