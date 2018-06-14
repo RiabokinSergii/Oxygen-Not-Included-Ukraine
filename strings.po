@@ -3744,13 +3744,15 @@ msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.EFFECT"
-msgid "A key element to building rooms on the surface of the asteroid."
-msgstr "Ключовий елемент при будівництві кімнат на поверхні астероїда."
+msgid "Back wall included."
+msgstr "Задня стіна присутня"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.NAME
+#| msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.NAME"
+#| msgid "<link=\"EXTERIORWALL\">Wall</link>"
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.NAME"
-msgid "<link=\"EXTERIORWALL\">Wall</link>"
-msgstr "<link=\"WATER\">Стіна</link>"
+msgid "<link=\"EXTERIORWALL\">Wallpaper</link>"
+msgstr "<link=\"EXTERIORWALL\">Шпалери</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.FACILITYBACKWALLWINDOW.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.FACILITYBACKWALLWINDOW.DESC"
@@ -6405,7 +6407,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.POIBUNKEREXTERIORDOOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.POIBUNKEREXTERIORDOOR.EFFECT"
 msgid "A strong door with a sophisticated genetic lock."
-msgstr "Сильні двері, з складним генетичним замком."
+msgstr "Міцні двері, з складним генетичним замком."
 
 #. STRINGS.BUILDINGS.PREFABS.POIBUNKEREXTERIORDOOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.POIBUNKEREXTERIORDOOR.NAME"
@@ -6420,12 +6422,32 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.POIDOORINTERNAL.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.POIDOORINTERNAL.EFFECT"
 msgid "A strong door with a sophisticated genetic lock."
-msgstr "Сильні двері, з складним генетичним замком."
+msgstr "Міцні двері, з складним генетичним замком."
 
 #. STRINGS.BUILDINGS.PREFABS.POIDOORINTERNAL.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.POIDOORINTERNAL.NAME"
 msgid "<link=\"POIDOORINTERNAL\">Security Door</link>"
 msgstr "<link=\"POIDOORINTERNAL\">Двері Безпеки</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.POIFACILITYDOOR.DESC
+#| msgid ""
+msgctxt "STRINGS.BUILDINGS.PREFABS.POIFACILITYDOOR.DESC"
+msgid ""
+msgstr ""
+
+# Перевірити переклад
+#. STRINGS.BUILDINGS.PREFABS.POIFACILITYDOOR.EFFECT
+#, fuzzy
+msgctxt "STRINGS.BUILDINGS.PREFABS.POIFACILITYDOOR.EFFECT"
+msgid "A fancy door to a big facility."
+msgstr "Фантастичні двері до великого об'єкта."
+
+# Можливо потрібно перше слово по іншому перекласти
+#. STRINGS.BUILDINGS.PREFABS.POIFACILITYDOOR.NAME
+#, fuzzy
+msgctxt "STRINGS.BUILDINGS.PREFABS.POIFACILITYDOOR.NAME"
+msgid "<link=\"FACILITYDOOR\">Facility Door</link>"
+msgstr "<link=\"DOOR\">Легкі Двері</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.POLYMERIZER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.POLYMERIZER.DESC"
@@ -8048,6 +8070,11 @@ msgstr "Рецепти"
 msgctxt "STRINGS.CODEX.HEADERS.ROLE_PERKS"
 msgid "Role Perks"
 msgstr "Службові пільги"
+
+#. STRINGS.CODEX.HEADERS.SECTION_UNLOCKABLES
+msgctxt "STRINGS.CODEX.HEADERS.SECTION_UNLOCKABLES"
+msgid "Unlockable Data"
+msgstr ""
 
 #. STRINGS.CODEX.HEADERS.SUBENTRIES
 msgctxt "STRINGS.CODEX.HEADERS.SUBENTRIES"
@@ -10140,8 +10167,8 @@ msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.PACU.VARIANT_CLEANER.BABY.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.PACU.VARIANT_CLEANER.BABY.NAME"
-msgid "<link=\"GULPFISH\">Gulp Fish Fry</link>"
-msgstr "<link=\"GULPFISH\">Мальок Риби Галп</link>"
+msgid "<link=\"PACUCLEANER\">Gulp Fish Fry</link>"
+msgstr "<link=\"PACUCLEANER\">Мальок Риби Галп</link>"
 
 #. STRINGS.CREATURES.SPECIES.PACU.VARIANT_CLEANER.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.PACU.VARIANT_CLEANER.DESC"
@@ -10156,8 +10183,8 @@ msgstr "<link=\"CLEANERPACUEGG\">Яйце Риби Галп</link>"
 
 #. STRINGS.CREATURES.SPECIES.PACU.VARIANT_CLEANER.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.PACU.VARIANT_CLEANER.NAME"
-msgid "<link=\"GULPFISH\">Gulp Fish</link>"
-msgstr "<link=\"GULPFISH\">Риба Галп</link>"
+msgid "<link=\"PACUCLEANER\">Gulp Fish</link>"
+msgstr "<link=\"PACUCLEANER\">Риба Галп</link>"
 
 #. STRINGS.CREATURES.SPECIES.PACU.VARIANT_TROPICAL.BABY.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.PACU.VARIANT_TROPICAL.BABY.DESC"
@@ -11001,16 +11028,13 @@ msgid "This critter is hostile and readying to pounce!"
 msgstr "Ця тварина ворожа та готова раптово напасти!"
 
 #. STRINGS.CREATURES.STATUSITEMS.BAGGED.NAME
-#, fuzzy
-#| msgctxt "STRINGS.CREATURES.BAGGED_NAME_FMT"
-#| msgid "Bagged {0}"
 msgctxt "STRINGS.CREATURES.STATUSITEMS.BAGGED.NAME"
-msgid "Bagged"
-msgstr "Вмішку {0}"
+msgid "Trussed"
+msgstr ""
 
 #. STRINGS.CREATURES.STATUSITEMS.BAGGED.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.BAGGED.TOOLTIP"
-msgid "In a bag, ready for delivery"
+msgid "Tied up, ready for delivery"
 msgstr ""
 
 #. STRINGS.CREATURES.STATUSITEMS.BARREN.NAME
@@ -30048,6 +30072,20 @@ msgctxt "STRINGS.SETITEMS.RECEPTION_DESK.NAME"
 msgid "Reception Desk"
 msgstr "Стіл Приймальні"
 
+# Перевірити переклад та де це в грі
+#. STRINGS.SETITEMS.SATELLITE.DESC
+#, fuzzy
+msgctxt "STRINGS.SETITEMS.SATELLITE.DESC"
+msgid "Wreck of a satellite"
+msgstr "Руйнування супутника"
+
+# Перевірити переклад та де це в грі
+#. STRINGS.SETITEMS.SATELLITE.NAME
+#, fuzzy
+msgctxt "STRINGS.SETITEMS.SATELLITE.NAME"
+msgid "Crashed Satellite"
+msgstr "Супутник розбився"
+
 #. STRINGS.SETITEMS.SKELETON.DESC
 msgctxt "STRINGS.SETITEMS.SKELETON.DESC"
 msgid ""
@@ -34459,8 +34497,6 @@ msgid "World Generation Key"
 msgstr "Ключ Генерації Світу"
 
 #. STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.BODY
-#| msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.LOADING.TITLE"
-#| msgid "<b>Welcome to Oxygen Not Included!</b>"
 msgctxt "STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.BODY"
 msgid ""
 "<b>Welcome to the Cosmic Upgrade!!</b>\n"
@@ -40543,6 +40579,13 @@ msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.YIELDPERHARVEST"
 msgid "{0} {1} per harvest"
 msgstr "{0}: {1} за збір"
 
+#. STRINGS.UI.UISIDESCREENS.REFINERYSIDESCREEN.RECIPE_FROM_TO
+#| msgctxt "STRINGS.UI.NAME_WITH_UNITS"
+#| msgid "{0} x {1}"
+msgctxt "STRINGS.UI.UISIDESCREENS.REFINERYSIDESCREEN.RECIPE_FROM_TO"
+msgid "{0} to {1}"
+msgstr "{0} до {1}"
+
 #. STRINGS.UI.UISIDESCREENS.RESEARCHSIDESCREEN.CURRENTLYRESEARCHING
 msgctxt "STRINGS.UI.UISIDESCREENS.RESEARCHSIDESCREEN.CURRENTLYRESEARCHING"
 msgid "Currently Researching"
@@ -42470,6 +42513,21 @@ msgstr "Посипання піску..."
 msgctxt "STRINGS.UI.WORLDGEN.WORLDLAYOUT9"
 msgid "Sprinkling sand..."
 msgstr "Посипання піску..."
+
+#~ msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.EFFECT"
+#~ msgid "A key element to building rooms on the surface of the asteroid."
+#~ msgstr "Ключовий елемент при будівництві кімнат на поверхні астероїда."
+
+#~ msgctxt "STRINGS.CREATURES.SPECIES.PACU.VARIANT_CLEANER.NAME"
+#~ msgid "<link=\"GULPFISH\">Gulp Fish</link>"
+#~ msgstr "<link=\"GULPFISH\">Риба Галп</link>"
+
+#, fuzzy
+#~| msgctxt "STRINGS.CREATURES.BAGGED_NAME_FMT"
+#~| msgid "Bagged {0}"
+#~ msgctxt "STRINGS.CREATURES.STATUSITEMS.BAGGED.NAME"
+#~ msgid "Bagged"
+#~ msgstr "Вмішку {0}"
 
 #~ msgctxt "STRINGS.BUILDING.STATUSITEMS.TINKERING.TOOLTIP"
 #~ msgid ""
