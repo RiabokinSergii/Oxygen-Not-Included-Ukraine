@@ -12166,7 +12166,7 @@ msgstr "{0} до шансу збору насіння"
 #. STRINGS.DUPLICANTS.ATTRIBUTES.BOTANIST.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.BOTANIST.DESC"
 msgid "Determines how quickly and efficiently a Duplicant raises plants."
-msgstr "Визначає, як швидко та ефективно Дублікант вирощує рослини."
+msgstr "Визначає наскільки швидко та ефективно Дублікант вирощує рослини."
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.BOTANIST.HARVEST_SPEED_MODIFIER
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.BOTANIST.HARVEST_SPEED_MODIFIER"
@@ -14544,7 +14544,7 @@ msgstr "Бактеро-фобія"
 #. STRINGS.DUPLICANTS.CONGENITALTRAITS.NONE.DESC
 msgctxt "STRINGS.DUPLICANTS.CONGENITALTRAITS.NONE.DESC"
 msgid "This Duplicant seems pretty average overall"
-msgstr "Цей Дублікант видається досить посереднім в цілому"
+msgstr "Цей Дублікант загалом здається доволі посереднім"
 
 #. STRINGS.DUPLICANTS.CONGENITALTRAITS.NONE.NAME
 msgctxt "STRINGS.DUPLICANTS.CONGENITALTRAITS.NONE.NAME"
@@ -15675,10 +15675,11 @@ msgctxt "STRINGS.DUPLICANTS.MODIFIERS.DIARRHEA.DESCRIPTION"
 msgid "Most Duplicants experience stomach upset from this meal"
 msgstr ""
 
+# поки зустрічав в меню створення колонії. Може є ще десь. 
 #. STRINGS.DUPLICANTS.MODIFIERS.DIARRHEA.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.DIARRHEA.NAME"
 msgid "Diarrhea"
-msgstr ""
+msgstr "Діарея"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.DIARRHEA.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.DIARRHEA.TOOLTIP"
@@ -16882,12 +16883,15 @@ msgctxt "STRINGS.DUPLICANTS.OPINIONS.TOILETWALLSSTANDARD"
 msgid "Restroom is enclosed by walls and doors."
 msgstr ""
 
+# тут все мало бути в множині, але не знаю як це провернути щоб з ім'ям в'язалось купи... в англійській просто "'s" додається і вже множина, а в нас трохи складніше з цим, бо правиться закінчення...
 #. STRINGS.DUPLICANTS.PERSONALITIES.ABE.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ABE.DESC"
 msgid ""
 "{0}s are sweet, delicate flowers. They need to be treated gingerly, with "
 "great consideration for their feelings."
 msgstr ""
+"{0} є милою і ніжною квіточкою.З такими потрібно поводитись обережно, з "
+"повагою до їх почуттів."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.ABE.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ABE.NAME"
@@ -16897,7 +16901,7 @@ msgstr "Абе"
 #. STRINGS.DUPLICANTS.PERSONALITIES.ADA.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ADA.DESC"
 msgid "{0}s enjoy writing poetry in their downtime. Dark poetry."
-msgstr "{0} любить писати вірші під час байдикування. Темна поезія."
+msgstr "{0} любить у вільний час писати вірші. Похмурі вірші."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.ADA.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ADA.NAME"
@@ -16910,8 +16914,8 @@ msgid ""
 "{0}s tend to space out from time to time, but they always pay attention when "
 "it counts."
 msgstr ""
-"{0} доглядає за простором час від часу, але завжди приділяє увагу, коли "
-"винагороджують."
+"{0} любить час від часу побути на самоті, але завжди приділяє увагу, коли це "
+"потрібно."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.ARI.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ARI.NAME"
@@ -16922,7 +16926,7 @@ msgstr "Арі"
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ASHKAN.DESC"
 msgid ""
 "{0}s have what can only be described as a \"seriously infectious giggle\"."
-msgstr "{0} може бути описано лише як \"серйозно інфекційні хихикання\"."
+msgstr "{0} має те, що можна назвати \"дійсно заразним хихотінням\"."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.ASHKAN.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ASHKAN.NAME"
@@ -16935,8 +16939,8 @@ msgid ""
 "The \"cool loner\" vibes that radiate off a {0} never fail to make the "
 "colony swoon."
 msgstr ""
-"\"Прохолодні\" одиниці, що випромінюють від {0}, ніколи не зможуть змусити "
-"колонію засмітитись."
+"Вібрації \"крутого самітника\", які випромінює {0}, ніколи не дадуть колонії "
+"нудьгувати."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.BANHI.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.BANHI.NAME"
@@ -16949,8 +16953,8 @@ msgid ""
 "This {0} is constantly challenging others to fight her, regardless of "
 "whether or not she can actually take them."
 msgstr ""
-"Цей {0} постійно кидає виклик іншим, щоб боротися з ними, незалежно від "
-"того, чи не може вона дійсно взяти їх."
+"Цей {0} постійно кидає виклик іншим, не зважаючи на погоду та те, чи зможе "
+"їх насправді здолати."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.BUBBLES.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.BUBBLES.NAME"
@@ -16960,21 +16964,21 @@ msgstr "Баблес"
 #. STRINGS.DUPLICANTS.PERSONALITIES.BURT.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.BURT.DESC"
 msgid "Every single {0} has perpetually damp hands. It must be genetic."
-msgstr "Кожен {0} має постійно вологі руки. Він повинен бути генетичним."
+msgstr "Кожен {0} постійно має вологі руки. Це генетика."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.BURT.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.BURT.NAME"
 msgid "Burt"
 msgstr "Берт"
 
+# те, що не старіє треба передивитись
 #. STRINGS.DUPLICANTS.PERSONALITIES.CAMILLE.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.CAMILLE.DESC"
 msgid ""
 "This {0} loves anything that makes her feel nostalgic, including things that "
 "haven't aged well."
 msgstr ""
-"Ця {0} любить щось, що змушує її відчувати ностальгію, у тому числі те, що "
-"не старіє."
+"Ця {0} любить все, що викликає ностальгію, у тому числі те, що не старіє."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.CAMILLE.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.CAMILLE.NAME"
@@ -16987,8 +16991,8 @@ msgid ""
 "A {0} is admired by all for her seemingly tireless work ethic. Little do "
 "people know, she's dying on the inside."
 msgstr ""
-"{0} захоплюється всіма за неї, здавалося б, невтомна робоча етика. Маленькі "
-"люди знають, вона вмирає зсередини."
+"{0} повністю захоплена її, здавалося б, невтомною робочою етикою. Навряд чи "
+"люди знають, що вона вмирає зсередини."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.CATALINA.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.CATALINA.NAME"
@@ -17001,8 +17005,8 @@ msgid ""
 "This {0} dreams of owning their own personal computer so they can start a "
 "blog full of pictures of toast."
 msgstr ""
-"Цей {0} мріє володіти власним персональним комп'ютером, щоб він міг почати "
-"свій блог з картинками тостів."
+"Цей {0} мріє про власний персональний комп'ютер, щоб він міг створити блог "
+"виключно з картинками тостів."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.DEVON.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.DEVON.NAME"
@@ -17015,8 +17019,8 @@ msgid ""
 "Nothing makes an {0} happier than a big tin of glitter and a pack of unicorn "
 "stickers."
 msgstr ""
-"Ніщо не робить {0} щасливішим, ніж велика олов'яна блискучка і пачка "
-"однорічних наклейок."
+"Ніщо не робить {0} щасливішим, ніж велика банка блискіток і пачка наклейок з "
+"єдинорогами."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.ELLIE.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ELLIE.NAME"
@@ -17027,7 +17031,7 @@ msgstr "Еллі"
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.FRANKIE.DESC"
 msgid ""
 "There's nothing {0}s are more proud of than their thick, dignified eyebrows."
-msgstr "Нічим більше {0} не пишається, ніж його товстими, величними бровами."
+msgstr "Нічим {0} не пишається більше, ніж своїми товстими, величними бровами."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.FRANKIE.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.FRANKIE.NAME"
