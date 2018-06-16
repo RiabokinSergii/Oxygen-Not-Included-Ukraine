@@ -17130,8 +17130,8 @@ msgid ""
 "A {0} is a charming, delightful woman, unless you make the mistake of "
 "messing with one of her friends."
 msgstr ""
-"{0} - чарівна, чудова жінка, поки ти не зробиш помилку, пообідавши з одним з "
-"її друзів."
+"{0} - чарівна, чудова жінка, поки ти не зробиш помилку, посварившись з одним "
+"з її друзів."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.LINDSAY.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.LINDSAY.NAME"
