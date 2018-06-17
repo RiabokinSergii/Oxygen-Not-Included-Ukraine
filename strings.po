@@ -12228,7 +12228,6 @@ msgstr "{0} до швидкості лікування"
 
 # Пропоную змінити на "Турбота"
 #. STRINGS.DUPLICANTS.ATTRIBUTES.CARING.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.CARING.NAME"
 msgid "Kindness"
 msgstr "Доброта"
@@ -19697,7 +19696,6 @@ msgstr ""
 
 # "зривається" - це скорочена версія чогось посереднього між "виплескує свій зрив" і "виплескує своє розчарування"
 #. STRINGS.DUPLICANTS.TRAITS.AGGRESSIVE.DESC
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.AGGRESSIVE.DESC"
 msgid ""
 "This Duplicant handles stress by taking their frustrations out on "
@@ -19716,7 +19714,6 @@ msgstr "• Не буде ремонтувати будівлі, поки рів
 
 # в дубліканта віднімається 5 атлетики
 #. STRINGS.DUPLICANTS.TRAITS.ANEMIC.DESC
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.ANEMIC.DESC"
 msgid "This Duplicant has trouble keeping up with the others"
 msgstr "Цей Дублікант має проблеми зі встиганням за іншими"
@@ -19746,31 +19743,26 @@ msgstr ""
 "• {0}: {1}"
 
 #. STRINGS.DUPLICANTS.TRAITS.BEDSIDEMANNER.DESC
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.BEDSIDEMANNER.DESC"
 msgid "This Duplicant has good bedside manner and a healing touch"
 msgstr "Цей Дублікант має тактовність лікаря та цілющий дотик"
 
 #. STRINGS.DUPLICANTS.TRAITS.BEDSIDEMANNER.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.BEDSIDEMANNER.NAME"
 msgid "Caregiver"
 msgstr "Доглядач"
 
 #. STRINGS.DUPLICANTS.TRAITS.BINGEEATER.DESC
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.BINGEEATER.DESC"
 msgid "This Duplicant will dangerously overeat when stressed"
 msgstr "Цей Дублікант буде напихатися їжею в стресових ситуаціях"
 
 #. STRINGS.DUPLICANTS.TRAITS.BINGEEATER.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.BINGEEATER.NAME"
 msgid "Binge Eater"
 msgstr "Розгульний ненажера"
 
 #. STRINGS.DUPLICANTS.TRAITS.CALORIEBURNER.DESC
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.CALORIEBURNER.DESC"
 msgid "This Duplicant might actually be several black holes in a trench coat"
 msgstr "Цей Дублікант може насправді бути декількома чорними дірами в пальто"
@@ -19780,7 +19772,6 @@ msgctxt "STRINGS.DUPLICANTS.TRAITS.CALORIEBURNER.NAME"
 msgid "Bottomless Stomach"
 msgstr "Бездонний Шлунок"
 
-# Можливо, доречніше буде "доручення", замість "завдання"
 #. STRINGS.DUPLICANTS.TRAITS.CANNOT_DO_TASK
 msgctxt "STRINGS.DUPLICANTS.TRAITS.CANNOT_DO_TASK"
 msgid ""
@@ -19813,7 +19804,6 @@ msgstr "Гастрофобія"
 
 # makes it impossible - робить неможливим, унеможливлює
 #. STRINGS.DUPLICANTS.TRAITS.CANTDIG.DESC
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.CANTDIG.DESC"
 msgid "This Duplicant's fear of holes makes it impossible for them to dig"
 msgstr "Ці Дубліканти бояться нір, що унеможливлює їх копання"
@@ -19877,7 +19867,6 @@ msgstr "Рання Пташка"
 
 # sharp as a tack - сталий вираз (гострий, як лайка)
 #. STRINGS.DUPLICANTS.TRAITS.FASTLEARNER.DESC
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.FASTLEARNER.DESC"
 msgid ""
 "This Duplicant's sharp as a tack and learns new skills with amazing speed"
@@ -19890,7 +19879,6 @@ msgid "Quick Learner"
 msgstr "Швидкий Учень"
 
 #. STRINGS.DUPLICANTS.TRAITS.FLATULENCE.DESC
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.FLATULENCE.DESC"
 msgid "Some Duplicants are just full of it"
 msgstr "Деякі Дубліканти просто наповнені цим"
@@ -19901,7 +19889,6 @@ msgid "Flatulent"
 msgstr "Пихатий"
 
 #. STRINGS.DUPLICANTS.TRAITS.FUSSY.DESC
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.FUSSY.DESC"
 msgid "Nothing's ever quite good enough for this Duplicant"
 msgstr "Ніщо ніколи не буде достатньо хорошим для цього Дубліканта"
@@ -19925,7 +19912,6 @@ msgid "Grease Monkey"
 msgstr "Змащена Мавпа"
 
 #. STRINGS.DUPLICANTS.TRAITS.HEMOPHOBIA.DESC
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.HEMOPHOBIA.DESC"
 msgid "This Duplicant is of delicate disposition and cannot tend to the sick"
 msgstr "Цей Дублікант має делікатний характер та не може доглядати хворих"
@@ -19950,14 +19936,11 @@ msgid "\"Move it a little to the left...\""
 msgstr "\"Перемістіть трішки лівіше...\""
 
 #. STRINGS.DUPLICANTS.TRAITS.INTERIORDECORATOR.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.INTERIORDECORATOR.NAME"
 msgid "Interior Decorator"
 msgstr "Декоратор Інтер'єрів"
 
-# зайва кома
 #. STRINGS.DUPLICANTS.TRAITS.IRONGUT.DESC
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.IRONGUT.DESC"
 msgid "This Duplicant can eat just about anything without getting sick"
 msgstr "Цей Дублікант може їсти майже все і не хворіти"
@@ -19968,7 +19951,6 @@ msgid "Iron Gut"
 msgstr "Залізне Пузо"
 
 #. STRINGS.DUPLICANTS.TRAITS.IRRITABLEBOWEL.DESC
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.IRRITABLEBOWEL.DESC"
 msgid "This Duplicant needs a little extra time to \"do their business\""
 msgstr "Цей Дублікант потребує трохи більше часу, щоб зробити \"діло\""
@@ -19984,16 +19966,12 @@ msgid "They're great for tunneling, but finding good gloves is a nightmare"
 msgstr ""
 "Вони чудові для прокладення тунелів, але пошук гарних рукавичок - кошмар"
 
-# "кротячі руки" - це "mole's hands", як мені здається
 #. STRINGS.DUPLICANTS.TRAITS.MOLEHANDS.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.MOLEHANDS.NAME"
 msgid "Mole Hands"
 msgstr "Руки Крота"
 
-# fair share - сталий вираз. Дослівно - справедлива частка
 #. STRINGS.DUPLICANTS.TRAITS.MOUTHBREATHER.DESC
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.MOUTHBREATHER.DESC"
 msgid ""
 "This Duplicant sucks up way more than their fair share of <link=\"OXYGEN"
@@ -20009,7 +19987,6 @@ msgstr "Дихає Ротом"
 
 # fall asleep - засинати
 #. STRINGS.DUPLICANTS.TRAITS.NARCOLEPSY.DESC
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NARCOLEPSY.DESC"
 msgid "This Duplicant can and will fall asleep anytime, anyplace"
 msgstr ""
@@ -20035,7 +20012,6 @@ msgid "Claustrophobic"
 msgstr "Клаустрофоб"
 
 #. STRINGS.DUPLICANTS.TRAITS.NEEDS.CLIMACOPHOBIC.DESC
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NEEDS.CLIMACOPHOBIC.DESC"
 msgid ""
 "Climbing ladders more than four tiles tall makes this Duplicant's stomach do "
@@ -20044,15 +20020,12 @@ msgstr ""
 "При підйомі сходами висотою понад чотири блоки, шлунок цього Дубліканта "
 "вивертається"
 
-# Запаморочливий - той, який викликає запаморочення, а не переживає/відчуває його
 #. STRINGS.DUPLICANTS.TRAITS.NEEDS.CLIMACOPHOBIC.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NEEDS.CLIMACOPHOBIC.NAME"
 msgid "Vertigo Prone"
 msgstr "Схильний до запаморочення"
 
 #. STRINGS.DUPLICANTS.TRAITS.NEEDS.FASHIONABLE.DESC
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NEEDS.FASHIONABLE.DESC"
 msgid "This Duplicant dies a bit inside when forced to wear unstylish clothing"
 msgstr ""
@@ -20065,7 +20038,6 @@ msgid "Fashionista"
 msgstr "Модниця"
 
 #. STRINGS.DUPLICANTS.TRAITS.NEEDS.PREFERSCOOLER.DESC
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NEEDS.PREFERSCOOLER.DESC"
 msgid ""
 "This Duplicant has some extra insulation, so the room temperature affects "
@@ -20094,7 +20066,6 @@ msgid "Skinny"
 msgstr "Худий"
 
 #. STRINGS.DUPLICANTS.TRAITS.NEEDS.SENSITIVEFEET.DESC
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NEEDS.SENSITIVEFEET.DESC"
 msgid ""
 "This Duplicant is a sensitive sole and would rather walk on tile floorings "
@@ -20122,7 +20093,6 @@ msgstr "Самотній Сонько"
 
 # gets antsy в мене переклало як "отримувати дідька", того вирішив, що "біситься" буде близьким за значенням і прикольним)
 #. STRINGS.DUPLICANTS.TRAITS.NEEDS.WORKAHOLIC.DESC
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NEEDS.WORKAHOLIC.DESC"
 msgid "This Duplicant gets antsy when left idle"
 msgstr "Цей Дублікант біситься, коли байдикує"
@@ -20132,12 +20102,10 @@ msgctxt "STRINGS.DUPLICANTS.TRAITS.NEEDS.WORKAHOLIC.NAME"
 msgid "Workaholic"
 msgstr "Трудоголік"
 
-# пропоную замінити на "коли він повинен спати", хоч в оригіналі множина, бо якось не стикується трохи...
 #. STRINGS.DUPLICANTS.TRAITS.NIGHTOWL.DESC
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NIGHTOWL.DESC"
 msgid "This Duplicant does their best work when they'd ought to be sleeping"
-msgstr "Цей Дублікант працює краще, коли вони повинні спати"
+msgstr "Цей Дублікант працює краще, коли повинен спати"
 
 #. STRINGS.DUPLICANTS.TRAITS.NIGHTOWL.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NIGHTOWL.NAME"
@@ -20147,7 +20115,6 @@ msgstr "Нічна Сова"
 # лінгвіні - сорт макарошок
 # місність на розтяг - пряме означення еластичності
 #. STRINGS.DUPLICANTS.TRAITS.NOODLEARMS.DESC
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NOODLEARMS.DESC"
 msgid ""
 "This Duplicant's arms have all the tensile strength of overcooked linguine"
@@ -20159,7 +20126,6 @@ msgid "Noodle Arms"
 msgstr "Руки Локшина"
 
 #. STRINGS.DUPLICANTS.TRAITS.REFUSES_TO_DO_TASK
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.REFUSES_TO_DO_TASK"
 msgid ""
 "\n"
@@ -20189,7 +20155,6 @@ msgid "Rock Crusher"
 msgstr "Камнедробар"
 
 #. STRINGS.DUPLICANTS.TRAITS.SCAREDYCAT.DESC
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.SCAREDYCAT.DESC"
 msgid "This Duplicant abhors violence"
 msgstr "Цей Дублікант ненавидить насильство"
@@ -20211,7 +20176,6 @@ msgstr "Повільний Учень"
 
 # пузир - калька з російської
 #. STRINGS.DUPLICANTS.TRAITS.SMALLBLADDER.DESC
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.SMALLBLADDER.DESC"
 msgid "This Duplicant has a tiny, pea-sized bladder. Adorable!"
 msgstr "Цей Дублікант має крихітний, розміром з горошину, міхур. Чудово!"
@@ -20222,7 +20186,6 @@ msgid "Small Bladder"
 msgstr "Малий Сечовий Міхур"
 
 #. STRINGS.DUPLICANTS.TRAITS.SNORER.DESC
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.SNORER.DESC"
 msgid "In space, everyone can hear you snore"
 msgstr "Будь-хто в космосі може чути твоє хропіння"
@@ -20233,7 +20196,6 @@ msgid "Loud Sleeper"
 msgstr "Хропун"
 
 #. STRINGS.DUPLICANTS.TRAITS.STRESSVOMITER.DESC
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.STRESSVOMITER.DESC"
 msgid "This Duplicant is liable to puke everywhere when stressed"
 msgstr "Цей Дублікант схильний блювати усюди, коли піддається стресу"
@@ -20255,7 +20217,6 @@ msgid "Buff"
 msgstr "Бафф"
 
 #. STRINGS.DUPLICANTS.TRAITS.STRONGIMMUNESYSTEM.DESC
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.STRONGIMMUNESYSTEM.DESC"
 msgid "This Duplicant's immune system bounces back faster than most"
 msgstr "Імунні системи цих Дублікатнів відновлюються швидше, ніж у більшості"
@@ -20286,7 +20247,6 @@ msgid "Twinkletoes"
 msgstr "Поспішайко"
 
 #. STRINGS.DUPLICANTS.TRAITS.UGLYCRIER.DESC
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.UGLYCRIER.DESC"
 msgid "If this Duplicant gets too stressed it won't be pretty"
 msgstr "Якщо цей Дублікант перенервується, це не буде мило"
@@ -20297,7 +20257,6 @@ msgid "Ugly Crier"
 msgstr "Бридкий Крикун"
 
 #. STRINGS.DUPLICANTS.TRAITS.UNCULTURED.DESC
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.UNCULTURED.DESC"
 msgid "This Duplicant has simply no appreciation for the arts"
 msgstr "Цей Дублікант просто не розуміється на мистецтві"
@@ -20308,7 +20267,6 @@ msgid "Uncultured"
 msgstr "Некультурний"
 
 #. STRINGS.DUPLICANTS.TRAITS.WEAKIMMUNESYSTEM.DESC
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.WEAKIMMUNESYSTEM.DESC"
 msgid ""
 "All the vitamin C in space couldn't stop this Duplicant from getting sick"
@@ -20319,7 +20277,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.TRAITS.WEAKIMMUNESYSTEM.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.WEAKIMMUNESYSTEM.NAME"
 msgid "Biohazardous"
-msgstr "Заразний"
+msgstr "Хворобливий"
 
 #. STRINGS.ELEMENTS.AEROGEL.BUILD_DESC
 msgctxt "STRINGS.ELEMENTS.AEROGEL.BUILD_DESC"
@@ -24550,7 +24508,7 @@ msgstr ""
 #. STRINGS.MISC.NOTIFICATIONS.BASICCONTROLS.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.BASICCONTROLS.NAME"
 msgid "TIP: Basic Controls"
-msgstr "НАТЯК: Базове керування"
+msgstr "ПІДКАЗКА: Базове керування"
 
 #. STRINGS.MISC.NOTIFICATIONS.BASICCONTROLS.TOOLTIP
 #, fuzzy
@@ -24588,7 +24546,7 @@ msgstr ""
 #. STRINGS.MISC.NOTIFICATIONS.BEING_INFECTED.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.BEING_INFECTED.NAME"
 msgid "TIP: Duplicant Immune Systems"
-msgstr "НАТЯК: Імунні системи Дублікантів"
+msgstr "ПІДКАЗКА: Імунні системи Дублікантів"
 
 #. STRINGS.MISC.NOTIFICATIONS.BEING_INFECTED.TOOLTIP
 #, fuzzy
@@ -24852,7 +24810,7 @@ msgstr ""
 #. STRINGS.MISC.NOTIFICATIONS.DISEASE_COOKING.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DISEASE_COOKING.NAME"
 msgid "TIP: Food Safety"
-msgstr "НАТЯК: Безпека їжі"
+msgstr "ПІДКАЗКА: Безпека їжі"
 
 #. STRINGS.MISC.NOTIFICATIONS.DISEASE_COOKING.TOOLTIP
 #, fuzzy
@@ -24903,16 +24861,6 @@ msgid "These fabricators have no recipes queued:"
 msgstr "Це виробництво не має рецептів в черзі:"
 
 #. STRINGS.MISC.NOTIFICATIONS.FETCHINGWATERMESSAGE.MESSAGEBODY
-#, fuzzy
-#| msgctxt "STRINGS.MISC.NOTIFICATIONS.FETCHINGWATERMESSAGE.MESSAGEBODY"
-#| msgid ""
-#| "In order to carry <link=\"LIQUIDS\">liquid</link> from place to place, "
-#| "Duplicants must first bottle them for transport.\n"
-#| "\n"
-#| "Build Pitcher Pumps over pools of liquid from the <link=\"MISC\">Plumbing "
-#| "tab</link> of the <link=\"MISC\">Build menu</link> to pump those liquids "
-#| "into bottles. Duplicants will then automatically deliver the bottled "
-#| "liquids where they need to go."
 msgctxt "STRINGS.MISC.NOTIFICATIONS.FETCHINGWATERMESSAGE.MESSAGEBODY"
 msgid ""
 "In order to carry <link=\"LIQUIDS\">Liquids</link> from place to place, my "
@@ -24922,18 +24870,17 @@ msgid ""
 "pools of liquid, my Duplicants will be able to bottle them. Then they'll "
 "automatically deliver the bottles whereever they need to go."
 msgstr ""
-"Для того, щоб переносити <link=\"LIQUIDS\">рідини</link> з місця на місце, "
-"Дубліканти повинні спочатку розлити для транспортування.\n"
+"Для того, щоб переносити <link=\"LIQUIDS\">рідини</link> з місця на місце "
+"Дубліканти повинні мати змогу бутилювати їх для транспортування.\n"
 "\n"
-"Побудуйте Ручні Насоси над озерцями з рідиною в <link=\"MISC\">Вкладці Вода</"
-"link> <link=\"MISC\">Меню Будівництва</link>, щоб розливати рідини в пляшки. "
-"Дубліканти будуть автоматично постачати пляшки з рідинами, де вони будуть "
-"потрібні."
+"Якщо я побудую Ручний Насос із вкладки <link=\"MISC\">Вода</link> над "
+"басейном з рідиною мої Дубліканти матимуть змогу бутилювати її. Тоді "
+"Дубліканти автоматично доставлятимуть бутлі скрізь, де вони будуть потрібні."
 
 #. STRINGS.MISC.NOTIFICATIONS.FETCHINGWATERMESSAGE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.FETCHINGWATERMESSAGE.NAME"
 msgid "TIP: Fetching Water"
-msgstr "НАТЯК: Чарівна вода"
+msgstr "ПІДКАЗКА: Спокуслива вода"
 
 #. STRINGS.MISC.NOTIFICATIONS.FETCHINGWATERMESSAGE.TOOLTIP
 #, fuzzy
@@ -25189,7 +25136,7 @@ msgstr ""
 #. STRINGS.MISC.NOTIFICATIONS.LOCOMOTIONMESSAGE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.LOCOMOTIONMESSAGE.NAME"
 msgid "TIP: Duplicant Movement"
-msgstr "НАТЯК: Пересування Дублікантів"
+msgstr "ПІДКАЗКА: Пересування Дублікантів"
 
 #. STRINGS.MISC.NOTIFICATIONS.LOCOMOTIONMESSAGE.TOOLTIP
 #, fuzzy
@@ -25239,7 +25186,7 @@ msgstr ""
 #. STRINGS.MISC.NOTIFICATIONS.LOTS_OF_GERMS.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.LOTS_OF_GERMS.NAME"
 msgid "TIP: Germs and Disease"
-msgstr "НАТЯК: Бактерії та Хвороби"
+msgstr "ПІДКАЗКА: Бактерії та Хвороби"
 
 #. STRINGS.MISC.NOTIFICATIONS.LOTS_OF_GERMS.TOOLTIP
 #, fuzzy
@@ -25298,7 +25245,7 @@ msgstr ""
 #. STRINGS.MISC.NOTIFICATIONS.MOPPINGMESSAGE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.MOPPINGMESSAGE.NAME"
 msgid "TIP: Polluted Water"
-msgstr "НАТЯК: Забруднена Вода"
+msgstr "ПІДКАЗКА: Забруднена Вода"
 
 #. STRINGS.MISC.NOTIFICATIONS.MOPPINGMESSAGE.TOOLTIP
 #, fuzzy
@@ -25459,7 +25406,7 @@ msgstr ""
 #. STRINGS.MISC.NOTIFICATIONS.PRIORITIESMESSAGE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.PRIORITIESMESSAGE.NAME"
 msgid "TIP: Priorities"
-msgstr "НАТЯК: Пріоритети"
+msgstr "ПІДКАЗКА: Пріоритети"
 
 #. STRINGS.MISC.NOTIFICATIONS.PRIORITIESMESSAGE.TOOLTIP
 #, fuzzy
@@ -25600,7 +25547,7 @@ msgstr ""
 #. STRINGS.MISC.NOTIFICATIONS.STRESSMANAGEMENTMESSAGE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.STRESSMANAGEMENTMESSAGE.NAME"
 msgid "TIP: Stress Management"
-msgstr "НАТЯК: Управління Стресом"
+msgstr "ПІДКАЗКА: Управління Стресом"
 
 #. STRINGS.MISC.NOTIFICATIONS.STRESSMANAGEMENTMESSAGE.TOOLTIP
 #, fuzzy
@@ -25683,7 +25630,7 @@ msgstr ""
 #. STRINGS.MISC.NOTIFICATIONS.SUITS.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.SUITS.NAME"
 msgid "TIP: Exosuits"
-msgstr "НАТЯК: Екзо Костюми"
+msgstr "ПІДКАЗКА: Екзо Костюми"
 
 #. STRINGS.MISC.NOTIFICATIONS.SUITS.TOOLTIP
 #, fuzzy
@@ -25727,7 +25674,7 @@ msgstr ""
 #. STRINGS.MISC.NOTIFICATIONS.TASKPRIORITIESMESSAGE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.TASKPRIORITIESMESSAGE.NAME"
 msgid "TIP: Errand Priorities"
-msgstr "НАТЯК: Пріоритетність Завдань"
+msgstr "ПІДКАЗКА: Пріоритетність Завдань"
 
 #. STRINGS.MISC.NOTIFICATIONS.TASKPRIORITIESMESSAGE.TOOLTIP
 #, fuzzy
@@ -25769,7 +25716,7 @@ msgstr ""
 #. STRINGS.MISC.NOTIFICATIONS.THERMALCOMFORT.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.THERMALCOMFORT.NAME"
 msgid "TIP: Duplicant Temperature"
-msgstr "НАТЯК: Температура Дубліканта"
+msgstr "ПІДКАЗКА: Температура Дубліканта"
 
 #. STRINGS.MISC.NOTIFICATIONS.THERMALCOMFORT.TOOLTIP
 #, fuzzy
@@ -25814,7 +25761,7 @@ msgstr ""
 #. STRINGS.MISC.NOTIFICATIONS.TUTORIAL_OVERHEATING.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.TUTORIAL_OVERHEATING.NAME"
 msgid "TIP: Building Temperature"
-msgstr "ПАТЯК: Температура Будівель"
+msgstr "ПІДКАЗКА: Температура Будівель"
 
 #. STRINGS.MISC.NOTIFICATIONS.TUTORIAL_OVERHEATING.TOOLTIP
 #, fuzzy
@@ -25900,7 +25847,7 @@ msgstr ""
 #. STRINGS.MISC.NOTIFICATIONS.WELCOMEMESSAGE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.WELCOMEMESSAGE.NAME"
 msgid "TIP: Colony Management"
-msgstr "НАТЯК: Управління Колонією"
+msgstr "ПІДКАЗКА: Управління Колонією"
 
 #. STRINGS.MISC.NOTIFICATIONS.WELCOMEMESSAGE.TOOLTIP
 #, fuzzy
@@ -27206,7 +27153,7 @@ msgstr "Досконала"
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.PHELGM_COATED
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.PHELGM_COATED"
 msgid "Phlegm-Coated"
-msgstr "Сповнена спокою"
+msgstr "Сповнена Спокою"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.PLAGUED
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.PLAGUED"
@@ -27462,7 +27409,7 @@ msgstr "Канталупа"
 #. STRINGS.NAMEGEN.COLONY.NOUN.CESSPOOL
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.CESSPOOL"
 msgid "Cesspool"
-msgstr "Вигрібна яма"
+msgstr "Вигрібна Яма"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.CITADEL
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.CITADEL"
@@ -27515,14 +27462,14 @@ msgstr "Величина"
 #. STRINGS.NAMEGEN.COLONY.NOUN.DREAMLAND
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.DREAMLAND"
 msgid "Dreamland"
-msgstr "Країна мрій"
+msgstr "Країна Мрій"
 
 # або купа сміття
 # а "звалища" - це ніфіга не жіночий рід, а родовий відмінок слова "звалище"...
 #. STRINGS.NAMEGEN.COLONY.NOUN.DUMP
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.DUMP"
 msgid "Dump"
-msgstr "Купа мотлоху"
+msgstr "Купа Мотлоху"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.DWELLING
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.DWELLING"
@@ -27637,7 +27584,7 @@ msgstr "Планета"
 #. STRINGS.NAMEGEN.COLONY.NOUN.RATS_NEST
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.RATS_NEST"
 msgid "Rat's Nest"
-msgstr "Пацюча нора"
+msgstr "Пацюча Нора"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.SETTLEMENT
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.SETTLEMENT"
@@ -27647,7 +27594,7 @@ msgstr "Колонія"
 #. STRINGS.NAMEGEN.COLONY.NOUN.SEWER
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.SEWER"
 msgid "Sewer"
-msgstr "Стічна труба"
+msgstr "Стічна Труба"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.SHACK
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.SHACK"
@@ -27936,7 +27883,7 @@ msgstr "Вігфрід"
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.WILLOW
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.FEMALE.WILLOW"
 msgid "Willow"
-msgstr "Вільов"
+msgstr "Віллоу"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.ALEX
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.MALE.ALEX"
@@ -28206,12 +28153,12 @@ msgstr "Брук"
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.BRUMPO
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.BRUMPO"
 msgid "Brumpo"
-msgstr ""
+msgstr "Брумпо"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.BUDDY
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.BUDDY"
 msgid "Buddy"
-msgstr "Будді"
+msgstr "Бадді"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.CAMPBELL
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.CAMPBELL"
@@ -28354,12 +28301,9 @@ msgid "Scout"
 msgstr "Скот"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.SCRUNGO
-#, fuzzy
-#| msgctxt "STRINGS.BUILDING.STATUSITEMS.CREATURE_TRAP.SPRUNG.NAME"
-#| msgid "Sprung"
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.SCRUNGO"
 msgid "Scrungo"
-msgstr "Встановлений"
+msgstr "Скрунго"
 
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.SELDEMER
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.SELDEMER"
@@ -28396,6 +28340,7 @@ msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.TUCKER"
 msgid "Tucker"
 msgstr "Такер"
 
+# в сленгу щось посереднє між "задротом" і "інтернет-тролем"
 #. STRINGS.NAMEGEN.DUPLICANT.NAME.NB.WEMP
 msgctxt "STRINGS.NAMEGEN.DUPLICANT.NAME.NB.WEMP"
 msgid "Wemp"
@@ -30217,7 +30162,7 @@ msgstr "База {0}"
 #. STRINGS.UI.BUILDCATEGORIES.AUTOMATION.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.AUTOMATION.NAME"
 msgid "<link=\"BUILDCATEGORYAUTOMATION\">Automation</link>"
-msgstr "<link=\"BUILDCATEGORYAUTOMATION\">Авто</link>"
+msgstr "<link=\"BUILDCATEGORYAUTOMATION\">Авто.</link>"
 
 #. STRINGS.UI.BUILDCATEGORIES.AUTOMATION.TOOLTIP
 msgctxt "STRINGS.UI.BUILDCATEGORIES.AUTOMATION.TOOLTIP"
@@ -30357,6 +30302,7 @@ msgctxt "STRINGS.UI.BUILDCATEGORIES.REFINING.TOOLTIP"
 msgid "Use the resources I want, filter the ones I don't."
 msgstr "Використовуйте потрібні ресурси, відфільтровуйте ті, що не потрібні."
 
+# можливо, краще буде "комуналка"
 #. STRINGS.UI.BUILDCATEGORIES.UTILITIES.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.UTILITIES.NAME"
 msgid "<link=\"BUILDCATEGORYUTILITIES\">Utilities</link>"
